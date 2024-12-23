@@ -1,0 +1,214 @@
+,token_1,token_2,connections,connections_strength,date
+0,bitcoin,price,"{'juvypc', 'jumcrm', 'jum18l', 'jutnv9'}",4,2020-11-15
+1,bitcoin,value,"{'juvypc', 'jugq95', 'jumcrm', 'jutnv9'}",4,2020-11-15
+2,crypto,bitcoin,"{'jur1cf', 'juvypc', 'juo9xk'}",3,2020-11-15
+3,btc,bitcoin,"{'juvypc', 'juve6l', 'juo9xk'}",3,2020-11-15
+4,paypal,bitcoin,"{'juo46o', 'juumni', 'juo9xk'}",3,2020-11-15
+6,crypto,https,"{'julhfi', 'juvypc', 'julp3k'}",3,2020-11-15
+7,com,crypto,"{'julhfi', 'juvypc', 'julp3k'}",3,2020-11-15
+8,crypto,price,"{'jukwib', 'juvypc', 'julp3k'}",3,2020-11-15
+9,crypto,btc,"{'juvypc', 'juo9xk', 'julp3k'}",3,2020-11-15
+10,com,https,"{'jupy5c', 'julp3k', 'juq93b', 'julhfi', 'juvypc', 'jumnxd'}",6,2020-11-15
+11,https,www,"{'jupy5c', 'julhfi', 'julp3k', 'juq93b'}",4,2020-11-15
+12,https,https www,"{'jupy5c', 'julhfi', 'julp3k', 'juq93b'}",4,2020-11-15
+14,trading,https,"{'jupm3l', 'julp3k', 'juq93b'}",3,2020-11-15
+15,amp,bitcoin,"{'juvypc', 'juo9xk'}",2,2020-11-15
+16,crypto,amp,"{'juvypc', 'juo9xk'}",2,2020-11-15
+17,https,amp,"{'juvypc', 'jumnxd'}",2,2020-11-15
+18,com,amp,"{'juvypc', 'jumnxd'}",2,2020-11-15
+19,amp,btc,"{'juvypc', 'juo9xk'}",2,2020-11-15
+21,com,www,"{'jupy5c', 'julhfi', 'julp3k', 'juq93b'}",4,2020-11-15
+22,com,https www,"{'jupy5c', 'julhfi', 'julp3k', 'juq93b'}",4,2020-11-15
+24,view,com,"{'julhfi', 'juvypc', 'juq93b'}",3,2020-11-15
+25,https,cryptocurrency,"{'juvypc', 'juq93b'}",2,2020-11-15
+26,com,cryptocurrency,"{'juvypc', 'juq93b'}",2,2020-11-15
+27,analysis,cryptocurrency,"{'juvypc', 'juq93b'}",2,2020-11-15
+28,tech,cryptocurrency,"{'jujdx7', 'juvypc'}",2,2020-11-15
+29,view,cryptocurrency,"{'juvypc', 'juq93b'}",2,2020-11-15
+30,https,time,"{'jupm3l', 'jumnxd'}",2,2020-11-15
+31,time,price,"{'jukwib', 'jutnv9'}",2,2020-11-15
+32,time,value,"{'jud68w', 'jutnv9'}",2,2020-11-15
+33,community,time,"{'jupm3l', 'jumnxd'}",2,2020-11-15
+34,profit,time,"{'jukwib', 'jud68w'}",2,2020-11-15
+35,https,sub,"{'jugext', 'julhfi'}",2,2020-11-15
+36,sub,reddit,"{'jupbze', 'julhfi'}",2,2020-11-15
+37,people,sub,"{'jugext', 'jupjvp'}",2,2020-11-15
+38,eth,sub,"{'jugext', 'jupjvp'}",2,2020-11-15
+39,wallet,sub,"{'jupbze', 'jugext'}",2,2020-11-15
+42,money,price,"{'jukwib', 'jumcrm', 'julp3k'}",3,2020-11-15
+43,price,value,"{'juvypc', 'jumcrm', 'jutnv9'}",3,2020-11-15
+44,https,price,"{'juvypc', 'julp3k'}",2,2020-11-15
+47,https,btc,"{'juvypc', 'julp3k'}",2,2020-11-15
+49,com,btc,"{'juvypc', 'julp3k'}",2,2020-11-15
+52,www,https www,"{'jupy5c', 'julhfi', 'julp3k', 'juq93b'}",4,2020-11-15
+53,crypto,www,"{'julhfi', 'julp3k'}",2,2020-11-15
+54,www,reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+58,crypto,https www,"{'julhfi', 'julp3k'}",2,2020-11-15
+59,https www,reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+60,https,reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+61,com,reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+62,reddit,sub,"{'jupbze', 'julhfi'}",2,2020-11-15
+64,reddit,https www,"{'julhfi', 'juq93b'}",2,2020-11-15
+65,people,tokens,"{'jugext', 'juvypc', 'jupjvp'}",3,2020-11-15
+66,crypto,people,"{'jukwib', 'juvypc'}",2,2020-11-15
+67,https,people,"{'jugext', 'juvypc'}",2,2020-11-15
+69,people,price,"{'jukwib', 'juvypc'}",2,2020-11-15
+70,https,comments,"{'jugext', 'juq93b'}",2,2020-11-15
+71,post,comments,"{'jugext', 'juq93b'}",2,2020-11-15
+72,com,comments,{'juq93b'},1,2020-11-15
+73,comments,cryptocurrency,{'juq93b'},1,2020-11-15
+74,comments,sub,{'jugext'},1,2020-11-15
+75,don,think,"{'jumcrm', 'juem1m'}",2,2020-11-15
+76,worth,think,"{'jumcrm', 'juem1m'}",2,2020-11-15
+77,thought,think,"{'jud68w', 'jumcrm'}",2,2020-11-15
+78,buying,think,"{'jud68w', 'jumcrm'}",2,2020-11-15
+79,think,value,"{'jud68w', 'jumcrm'}",2,2020-11-15
+80,market,risk,"{'juvypc', 'jusf7d'}",2,2020-11-15
+81,market,bitcoin,{'juvypc'},1,2020-11-15
+82,market,crypto,{'juvypc'},1,2020-11-15
+83,market,https,{'juvypc'},1,2020-11-15
+84,market,amp,{'juvypc'},1,2020-11-15
+85,reddit com,https,"{'julhfi', 'juq93b'}",2,2020-11-15
+86,com,reddit com,"{'julhfi', 'juq93b'}",2,2020-11-15
+87,reddit com,www,"{'julhfi', 'juq93b'}",2,2020-11-15
+88,reddit com,https www,"{'julhfi', 'juq93b'}",2,2020-11-15
+89,reddit com,reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+90,https,www reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+91,com,www reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+92,www reddit,www,"{'julhfi', 'juq93b'}",2,2020-11-15
+93,www reddit,https www,"{'julhfi', 'juq93b'}",2,2020-11-15
+94,www reddit,reddit,"{'julhfi', 'juq93b'}",2,2020-11-15
+96,people,eth,"{'jugext', 'jupjvp'}",2,2020-11-15
+97,tokens,eth,"{'jugext', 'jupjvp'}",2,2020-11-15
+98,https,eth,{'jugext'},1,2020-11-15
+99,btc,eth,{'juem1m'},1,2020-11-15
+100,worth,don,"{'julhfi', 'jumcrm', 'juem1m'}",3,2020-11-15
+102,work,don,"{'jumcrm', 'juem1m'}",2,2020-11-15
+103,fiat,don,"{'jumcrm', 'juem1m'}",2,2020-11-15
+104,don,bitcoin,{'jumcrm'},1,2020-11-15
+105,https,welcome,"{'jupm3l', 'juq93b'}",2,2020-11-15
+106,trading,welcome,"{'jupm3l', 'juq93b'}",2,2020-11-15
+107,com,welcome,{'juq93b'},1,2020-11-15
+108,cryptocurrency,welcome,{'juq93b'},1,2020-11-15
+109,time,welcome,{'jupm3l'},1,2020-11-15
+110,years,bitcoin,"{'juvypc', 'jumcrm'}",2,2020-11-15
+111,years,price,"{'juvypc', 'jumcrm'}",2,2020-11-15
+112,years,network,"{'juvypc', 'jumcrm'}",2,2020-11-15
+113,years,thought,"{'juvypc', 'jumcrm'}",2,2020-11-15
+114,years,value,"{'juvypc', 'jumcrm'}",2,2020-11-15
+115,ethereum,bitcoin,{'juvypc'},1,2020-11-15
+116,crypto,ethereum,{'juvypc'},1,2020-11-15
+117,https,ethereum,{'juvypc'},1,2020-11-15
+118,ethereum,amp,{'juvypc'},1,2020-11-15
+119,com,ethereum,{'juvypc'},1,2020-11-15
+121,crypto,money,"{'jukwib', 'julp3k'}",2,2020-11-15
+122,money,way,"{'jumcrm', 'julp3k'}",2,2020-11-15
+123,money,currency,"{'jumcrm', 'julp3k'}",2,2020-11-15
+124,money,cash,"{'jukwib', 'julp3k'}",2,2020-11-15
+126,crypto,paypal,{'juo9xk'},1,2020-11-15
+127,paypal,amp,{'juo9xk'},1,2020-11-15
+128,paypal,cryptocurrency,{'jut2cf'},1,2020-11-15
+129,paypal,btc,{'juo9xk'},1,2020-11-15
+131,wallet,scammers,"{'jupbze', 'jugext'}",2,2020-11-15
+132,https,wallet,{'jugext'},1,2020-11-15
+133,wallet,reddit,{'jupbze'},1,2020-11-15
+134,wallet,people,{'jugext'},1,2020-11-15
+135,news,bitcoin,"{'jugq95', 'junz6u'}",2,2020-11-15
+136,https,news,"{'jumnxd', 'juq93b'}",2,2020-11-15
+137,com,news,"{'jumnxd', 'juq93b'}",2,2020-11-15
+138,news nan,news,"{'jugq95', 'junz6u'}",2,2020-11-15
+139,news,senator,"{'jugq95', 'junz6u'}",2,2020-11-15
+140,blockchain,app,"{'juh2y3', 'jut1n3'}",2,2020-11-15
+141,blockchain,airport,"{'juh2y3', 'jut1n3'}",2,2020-11-15
+142,blockchain,cleanliness,"{'juh2y3', 'jut1n3'}",2,2020-11-15
+143,blockchain,new york,"{'juh2y3', 'jut1n3'}",2,2020-11-15
+144,blockchain,york,"{'juh2y3', 'jut1n3'}",2,2020-11-15
+146,trading,crypto,"{'julp3k', 'jujveu'}",2,2020-11-15
+147,com,trading,"{'julp3k', 'juq93b'}",2,2020-11-15
+148,trading,www,"{'julp3k', 'juq93b'}",2,2020-11-15
+149,trading,https www,"{'julp3k', 'juq93b'}",2,2020-11-15
+150,https,use,"{'jupm3l', 'jupy5c'}",2,2020-11-15
+151,use,things,"{'jupm3l', 'jupy5c'}",2,2020-11-15
+152,use,youtube,"{'jupbze', 'jupy5c'}",2,2020-11-15
+153,haven,use,"{'jupbze', 'jupy5c'}",2,2020-11-15
+154,use,feedback,"{'jupm3l', 'jupy5c'}",2,2020-11-15
+155,coins,https,"{'jupy5c', 'juvypc'}",2,2020-11-15
+156,com,coins,"{'jupy5c', 'juvypc'}",2,2020-11-15
+157,coins,btc,"{'juvypc', 'juem1m'}",2,2020-11-15
+158,coins,future,"{'jupy5c', 'juvypc'}",2,2020-11-15
+159,coins,tokens,"{'jupy5c', 'juvypc'}",2,2020-11-15
+160,worth,bitcoin,"{'jut7f7', 'jumcrm', 'juve6l'}",3,2020-11-15
+162,btc,worth,"{'juve6l', 'juem1m'}",2,2020-11-15
+164,worth,work,"{'jumcrm', 'juem1m'}",2,2020-11-15
+165,network,bitcoin,"{'juvypc', 'jumcrm'}",2,2020-11-15
+166,network,price,"{'juvypc', 'jumcrm'}",2,2020-11-15
+168,thought,network,"{'juvypc', 'jumcrm'}",2,2020-11-15
+169,network,value,"{'juvypc', 'jumcrm'}",2,2020-11-15
+170,people,ve,"{'jupjvp', 'jumuhp'}",2,2020-11-15
+171,ve,value,"{'jumcrm', 'jupjvp'}",2,2020-11-15
+172,ve,way,"{'jumcrm', 'jupjvp'}",2,2020-11-15
+173,ve,bitcoin,{'jumcrm'},1,2020-11-15
+174,ve,sub,{'jupjvp'},1,2020-11-15
+175,platform,sub,"{'jupbze', 'julhfi'}",2,2020-11-15
+176,platform,reddit,"{'jupbze', 'julhfi'}",2,2020-11-15
+177,platform,lot,"{'jupbze', 'julhfi'}",2,2020-11-15
+178,platform,help,"{'jupbze', 'juptiv'}",2,2020-11-15
+179,crypto,platform,{'julhfi'},1,2020-11-15
+180,crypto,need,"{'juvypc', 'julp3k'}",2,2020-11-15
+181,https,need,"{'juvypc', 'julp3k'}",2,2020-11-15
+182,com,need,"{'juvypc', 'julp3k'}",2,2020-11-15
+183,need,price,"{'juvypc', 'julp3k'}",2,2020-11-15
+184,btc,need,"{'juvypc', 'julp3k'}",2,2020-11-15
+185,thought,value,"{'jud68w', 'juvypc', 'jumcrm'}",3,2020-11-15
+186,thought,bitcoin,"{'juvypc', 'jumcrm'}",2,2020-11-15
+187,thought,price,"{'juvypc', 'jumcrm'}",2,2020-11-15
+190,days,https,{'jupm3l'},1,2020-11-15
+191,days,time,{'jupm3l'},1,2020-11-15
+192,days,welcome,{'jupm3l'},1,2020-11-15
+193,trading,days,{'jupm3l'},1,2020-11-15
+194,days,use,{'jupm3l'},1,2020-11-15
+195,https,future,"{'jupy5c', 'juvypc'}",2,2020-11-15
+196,com,future,"{'jupy5c', 'juvypc'}",2,2020-11-15
+198,future,value,"{'juvypc', 'juke2i'}",2,2020-11-15
+199,tokens,future,"{'jupy5c', 'juvypc'}",2,2020-11-15
+200,buying,bitcoin,"{'jupr3o', 'jumcrm'}",2,2020-11-15
+202,thought,buying,"{'jud68w', 'jumcrm'}",2,2020-11-15
+203,buying,value,"{'jud68w', 'jumcrm'}",2,2020-11-15
+204,buying,time,{'jud68w'},1,2020-11-15
+205,smart,bitcoin,{'juvypc'},1,2020-11-15
+206,crypto,smart,{'juvypc'},1,2020-11-15
+207,https,smart,{'juvypc'},1,2020-11-15
+208,amp,smart,{'juvypc'},1,2020-11-15
+209,com,smart,{'juvypc'},1,2020-11-15
+214,people,value,"{'juvypc', 'jupjvp'}",2,2020-11-15
+215,post,https,"{'jugext', 'juq93b'}",2,2020-11-15
+216,post,people,"{'jugext', 'jumuhp'}",2,2020-11-15
+218,knows,post,"{'jugext', 'jumuhp'}",2,2020-11-15
+219,post,results,"{'jue8hk', 'jue6xt'}",2,2020-11-15
+220,digital,bitcoin,"{'jumcrm', 'juw71t'}",2,2020-11-15
+221,digital,gold,"{'jumcrm', 'juw71t'}",2,2020-11-15
+222,digital,price,{'jumcrm'},1,2020-11-15
+223,digital,think,{'jumcrm'},1,2020-11-15
+224,digital,don,{'jumcrm'},1,2020-11-15
+225,exchange,crypto,{'julp3k'},1,2020-11-15
+226,exchange,https,{'julp3k'},1,2020-11-15
+227,com,exchange,{'julp3k'},1,2020-11-15
+228,exchange,cryptocurrency,{'juf3e4'},1,2020-11-15
+229,exchange,price,{'julp3k'},1,2020-11-15
+230,price,way,"{'jumcrm', 'julp3k'}",2,2020-11-15
+233,way,value,"{'jumcrm', 'jupjvp'}",2,2020-11-15
+234,sure,way,"{'jupjvp', 'julp3k'}",2,2020-11-15
+235,bank,bitcoin,{'jumcrm'},1,2020-11-15
+236,bank,cryptocurrency,{'juf3e4'},1,2020-11-15
+237,bank,price,{'jumcrm'},1,2020-11-15
+238,bank,think,{'jumcrm'},1,2020-11-15
+239,bank,don,{'jumcrm'},1,2020-11-15
+240,bitcoin,gold,"{'jumcrm', 'juw71t', 'juq8ub'}",3,2020-11-15
+242,gold silver,gold,"{'jumcrm', 'juq8ub'}",2,2020-11-15
+243,silver,gold,"{'jumcrm', 'juq8ub'}",2,2020-11-15
+244,price,gold,{'jumcrm'},1,2020-11-15
+245,defi,bitcoin,{'juumni'},1,2020-11-15
+246,https,defi,{'jupy5c'},1,2020-11-15
+247,com,defi,{'jupy5c'},1,2020-11-15
+248,defi,www,{'jupy5c'},1,2020-11-15
+249,defi,https www,{'jupy5c'},1,2020-11-15

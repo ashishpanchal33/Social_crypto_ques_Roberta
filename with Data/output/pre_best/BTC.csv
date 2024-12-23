@@ -1,0 +1,5 @@
+,eval_metric,learning_rate,max_depth,min_child_weight,n_estimators,objective,predictor,random_state,reg_alpha,reg_lambda,tree_method,mse,mae,rmse,sym
+0,rmse,0.05,6,2,1000,reg:squarederror,gpu_predictor,123,0.17,0.01,gpu_hist,0.005309752005975404,0.05117221866356197,0.07286804516367516,BTC
+1,rmse,0.05,6,2,1000,reg:squarederror,gpu_predictor,123,0.17,0.01,gpu_hist,0.39418275524529917,0.6275529106458028,0.6278397528392887,BTC
+2,rmse,0.05,6,2,1000,reg:squarederror,gpu_predictor,123,0.17,0.01,gpu_hist,0.39418275524529917,0.6275529106458028,0.6278397528392887,BTC
+3,rmse,0.05,6,2,1000,reg:squarederror,gpu_predictor,123,0.17,0.01,gpu_hist,0.005309752005975404,0.05117221866356197,0.07286804516367516,BTC

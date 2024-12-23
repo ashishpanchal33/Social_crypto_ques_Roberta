@@ -1,0 +1,215 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'krxh4b', 'krymyd', 'krd50k', 'krtglz', 'ks0hof', 'krm26p', 'ks0ifj'}",7,2021-01-06
+1,bitcoin,price,"{'krjss1', 'kriwbm', 'krxsjy', 'krpacz', 'krm6g5', 'krmy3y', 'krq2hh'}",7,2021-01-06
+2,bitcoin,time,"{'krxh4b', 'krxbui', 'krxsjy', 'krm26p', 'ks0m06', 'krm6g5'}",6,2021-01-06
+3,world,bitcoin,"{'krymyd', 'krjcfa', 'krm26p', 'krp13u', 'ks0m06', 'krokpt'}",6,2021-01-06
+4,market,bitcoin,"{'krxh4b', 'krsjyl', 'krtglz', 'ks0eej', 'krq2hh'}",5,2021-01-06
+5,https,time,"{'krm26p', 'krmhsx', 'krtad7', 'ks096g'}",4,2021-01-06
+6,https,amp,"{'krsfsm', 'ks096g', 'krv8f5'}",3,2021-01-06
+7,crypto,https,"{'krm26p', 'ks096g', 'krv8f5'}",3,2021-01-06
+8,com,https,"{'krsfsm', 'krruuu', 'krmhsx'}",3,2021-01-06
+9,https,day,"{'krtad7', 'ks096g', 'krv8f5'}",3,2021-01-06
+11,crypto,amp,"{'ks096g', 'krv8f5'}",2,2021-01-06
+12,amp,btc,"{'krogs9', 'krv8f5'}",2,2021-01-06
+13,market,amp,"{'ks096g', 'krv8f5'}",2,2021-01-06
+14,amp,worth,"{'krogs9', 'krv8f5'}",2,2021-01-06
+16,market,crypto,"{'krxh4b', 'krtglz', 'krv6v8', 'krzh0u', 'ks096g', 'krv8f5'}",6,2021-01-06
+17,crypto,today,"{'krwztm', 'kru377', 'krv6v8', 'krm26p', 'ks096g', 'krxxxu'}",6,2021-01-06
+18,crypto,cap,"{'krxh4b', 'krv6v8', 'krzh0u', 'ks096g', 'krv8f5'}",5,2021-01-06
+19,crypto,market cap,"{'krxh4b', 'krv6v8', 'krzh0u', 'ks096g', 'krv8f5'}",5,2021-01-06
+20,cryptocurrency,bitcoin,"{'ks0eej', 'krjcfa'}",2,2021-01-06
+21,cryptocurrency,time,"{'krtad7', 'krwytq'}",2,2021-01-06
+22,cryptocurrency,day,"{'krtad7', 'krwytq'}",2,2021-01-06
+23,tell,cryptocurrency,"{'krtad7', 'krwytq'}",2,2021-01-06
+24,right,cryptocurrency,"{'krtad7', 'krwytq'}",2,2021-01-06
+26,com,xrp,"{'krvkcd', 'krlxpy'}",2,2021-01-06
+27,com,blockchain,"{'krvkcd', 'krlxpy'}",2,2021-01-06
+28,com,amp,{'krsfsm'},1,2021-01-06
+29,com,www,{'krsfsm'},1,2021-01-06
+30,https,www,"{'krsfsm', 'krtad7'}",2,2021-01-06
+31,www,https www,"{'krsfsm', 'krtad7'}",2,2021-01-06
+32,amp,www,{'krsfsm'},1,2021-01-06
+33,cryptocurrency,www,{'krtad7'},1,2021-01-06
+35,https,https www,"{'krsfsm', 'krtad7'}",2,2021-01-06
+37,amp,https www,{'krsfsm'},1,2021-01-06
+38,cryptocurrency,https www,{'krtad7'},1,2021-01-06
+39,com,https www,{'krsfsm'},1,2021-01-06
+40,btc,eth,"{'krt1au', 'krtvqn', 'krxgvs', 'krwytq', 'krv4rq', 'krq56q'}",6,2021-01-06
+41,btc,time,"{'krqdc0', 'krwytq', 'krllv7', 'krm26p', 'krll31'}",5,2021-01-06
+42,btc,bitcoin,"{'krm26p', 'krogs9', 'krssqn', 'kruvld'}",4,2021-01-06
+43,crypto,btc,"{'krv4rq', 'krxgvs', 'krm26p', 'krv8f5'}",4,2021-01-06
+44,btc eth,btc,"{'krv4rq', 'krt1au', 'krtvqn', 'krxgvs'}",4,2021-01-06
+45,years,reddit,"{'kri01s', 'krm6g5'}",2,2021-01-06
+46,price,reddit,"{'kri01s', 'krm6g5'}",2,2021-01-06
+47,bitcoin,reddit,{'krm6g5'},1,2021-01-06
+48,time,reddit,{'krm6g5'},1,2021-01-06
+49,reddit,read,{'krm6g5'},1,2021-01-06
+50,time,time high,"{'krxh4b', 'krirts', 'krxbui', 'krqdc0', 'krxsjy', 'krm26p', 'ks0m06', 'krmg6j'}",8,2021-01-06
+51,time,bitcoin,"{'krxh4b', 'krxbui', 'krxsjy', 'krm26p', 'ks0m06', 'krm6g5'}",6,2021-01-06
+53,new time,time,"{'krxh4b', 'krxbui', 'krxsjy', 'krm26p', 'ks0m06'}",5,2021-01-06
+55,bitcoin,read,"{'krm6g5', 'kruvld'}",2,2021-01-06
+56,don,read,"{'krm6g5', 'kruvld'}",2,2021-01-06
+57,ll,read,"{'krlq9r', 'kruvld'}",2,2021-01-06
+58,crypto,read,{'krlq9r'},1,2021-01-06
+59,btc,read,{'kruvld'},1,2021-01-06
+60,use,bitcoin,"{'krmy3y', 'kruvld'}",2,2021-01-06
+61,crypto,use,"{'kru377', 'ks096g'}",2,2021-01-06
+62,use,don,"{'kru377', 'kruvld'}",2,2021-01-06
+63,use,today,"{'kru377', 'ks096g'}",2,2021-01-06
+64,use,super,"{'kru377', 'kruvld'}",2,2021-01-06
+65,search,ethereum,"{'krtglz', 'krmg6j'}",2,2021-01-06
+66,google,search,"{'krtglz', 'krmg6j'}",2,2021-01-06
+67,search,bitcoin,{'krtglz'},1,2021-01-06
+68,search,crypto,{'krtglz'},1,2021-01-06
+69,search,time,{'krmg6j'},1,2021-01-06
+71,btc eth,eth,"{'krv4rq', 'krt1au', 'krtvqn', 'krxgvs'}",4,2021-01-06
+72,ethereum,eth,"{'krorfr', 'kropke', 'krlj6b'}",3,2021-01-06
+73,crypto,eth,"{'krv4rq', 'krxgvs'}",2,2021-01-06
+74,eth,day,"{'krxgvs', 'krwytq'}",2,2021-01-06
+75,market,cap,"{'krxh4b', 'krsjyl', 'ks0eej', 'krv6v8', 'krzh0u', 'ks096g', 'krv8f5'}",7,2021-01-06
+76,market,market cap,"{'krxh4b', 'krsjyl', 'ks0eej', 'krv6v8', 'krzh0u', 'ks096g', 'krv8f5'}",7,2021-01-06
+79,market,ethereum,"{'krq2hh', 'ks0eej', 'krv8f5', 'krtglz'}",4,2021-01-06
+80,market,years,"{'krv6v8', 'krlzb2', 'krv8f5'}",3,2021-01-06
+81,years,price,"{'kri01s', 'krm6g5', 'krv8f5'}",3,2021-01-06
+82,crypto,years,"{'krv6v8', 'krv8f5'}",2,2021-01-06
+84,years,don,"{'krv6v8', 'krm6g5'}",2,2021-01-06
+85,crypto,money,"{'krv6v8', 'krxgvs', 'kre4lj', 'krsz0h'}",4,2021-01-06
+86,money,ll,"{'krxgvs', 'kre4lj', 'krjnio'}",3,2021-01-06
+87,ripple,money,"{'krjnio', 'krlfbr', 'krl68x'}",3,2021-01-06
+88,money,bitcoin,"{'krrlpl', 'krq2hh'}",2,2021-01-06
+89,market,money,"{'krv6v8', 'krq2hh'}",2,2021-01-06
+90,crypto,don,"{'krv6v8', 'kre62c', 'kru377', 'krvora'}",4,2021-01-06
+91,don,bitcoin,"{'kruvld', 'krq2hh', 'krm6g5'}",3,2021-01-06
+92,fiat,don,"{'kre62c', 'krtvqn', 'krwygj'}",3,2021-01-06
+93,people,don,"{'kre62c', 'kru377', 'krvora'}",3,2021-01-06
+94,need,don,"{'kru377', 'krtvqn', 'krm6g5'}",3,2021-01-06
+95,profit,cryptocurrency,{'krwytq'},1,2021-01-06
+96,profit,btc,{'krwytq'},1,2021-01-06
+97,profit,time,{'krwytq'},1,2021-01-06
+98,profit,eth,{'krwytq'},1,2021-01-06
+99,profit,day,{'krwytq'},1,2021-01-06
+100,auto,https,{'ks096g'},1,2021-01-06
+101,auto,amp,{'ks096g'},1,2021-01-06
+102,auto,crypto,{'ks096g'},1,2021-01-06
+103,auto,reddit,{'kri01s'},1,2021-01-06
+104,auto,time,{'ks096g'},1,2021-01-06
+105,btc,worth,"{'krogs9', 'krcsnv', 'krv8f5'}",3,2021-01-06
+107,trading,worth,"{'krogs9', 'krv8f5'}",2,2021-01-06
+108,worth,fast,"{'krogs9', 'krv8f5'}",2,2021-01-06
+109,worth,bitcoin,{'krogs9'},1,2021-01-06
+110,eth,pump,{'krlj6b'},1,2021-01-06
+111,ethereum,pump,{'krlj6b'},1,2021-01-06
+112,things,pump,{'krvgny'},1,2021-01-06
+113,pump,usd,{'krlj6b'},1,2021-01-06
+114,fast,pump,{'krvgny'},1,2021-01-06
+115,crypto,day,"{'krv8f5', 'krxgvs', 'ks096g', 'krh49g'}",4,2021-01-06
+116,want,day,"{'krwytq', 'krxgvs', 'krtad7', 'krv8f5'}",4,2021-01-06
+118,btc,day,"{'krwytq', 'krxgvs', 'krv8f5'}",3,2021-01-06
+119,day,time,"{'krtad7', 'ks096g', 'krwytq'}",3,2021-01-06
+120,effect,crypto,"{'krxci6', 'krxxxu', 'krv8f5'}",3,2021-01-06
+121,effect,https,{'krv8f5'},1,2021-01-06
+122,effect,amp,{'krv8f5'},1,2021-01-06
+123,effect,btc,{'krv8f5'},1,2021-01-06
+124,effect,market,{'krv8f5'},1,2021-01-06
+126,market,today,"{'krv6v8', 'ks0eej', 'ks096g'}",3,2021-01-06
+127,cap,today,"{'krv6v8', 'ks0eej', 'ks096g'}",3,2021-01-06
+128,today,market cap,"{'krv6v8', 'ks0eej', 'ks096g'}",3,2021-01-06
+129,today,bitcoin,"{'ks0eej', 'krm26p'}",2,2021-01-06
+130,share,crypto,"{'krv4rq', 'ks0ifj', 'ks0hof', 'krtglz'}",4,2021-01-06
+131,share,bitcoin,"{'ks0ifj', 'ks0hof', 'krtglz'}",3,2021-01-06
+132,trading,share,"{'krv4rq', 'ks0ifj', 'ks0hof'}",3,2021-01-06
+133,share,resources,"{'krtglz', 'ks0ifj', 'ks0hof'}",3,2021-01-06
+134,trends,share,"{'ks0hof', 'ks0ifj', 'krtglz'}",3,2021-01-06
+136,lot,price,"{'krjnio', 'krm6g5', 'krq2hh', 'krv8f5'}",4,2021-01-06
+137,time,price,"{'krllv7', 'krxsjy', 'krm6g5'}",3,2021-01-06
+139,ethereum,price,"{'krorfr', 'krq2hh', 'krv8f5'}",3,2021-01-06
+140,wallet,way,"{'krw0bv', 'krwygj'}",2,2021-01-06
+141,wallet,btc,{'krikar'},1,2021-01-06
+142,wallet,don,{'krwygj'},1,2021-01-06
+143,fiat,wallet,{'krwygj'},1,2021-01-06
+144,wallet,coinbase,{'krwygj'},1,2021-01-06
+145,hodl,btc,"{'krogs9', 'krtvqn'}",2,2021-01-06
+146,hodl,bitcoin,{'krogs9'},1,2021-01-06
+147,hodl,amp,{'krogs9'},1,2021-01-06
+148,hodl,eth,{'krtvqn'},1,2021-01-06
+149,hodl,don,{'krtvqn'},1,2021-01-06
+150,right,tell,"{'krjnio', 'krtad7', 'krwytq'}",3,2021-01-06
+151,cryptocurrency,tell,"{'krtad7', 'krwytq'}",2,2021-01-06
+152,tell,time,"{'krtad7', 'krwytq'}",2,2021-01-06
+153,tell,day,"{'krtad7', 'krwytq'}",2,2021-01-06
+154,tell,ll,"{'krjnio', 'krwytq'}",2,2021-01-06
+156,cap,market cap,"{'krxh4b', 'krsjyl', 'ks0eej', 'krv6v8', 'krzh0u', 'ks096g', 'krv8f5'}",7,2021-01-06
+158,cap,bitcoin,"{'krxh4b', 'ks0eej', 'krsjyl'}",3,2021-01-06
+160,crypto,ll,"{'krlq9r', 'kre4lj', 'krxgvs'}",3,2021-01-06
+161,btc,ll,"{'krwytq', 'krxgvs', 'kruvld'}",3,2021-01-06
+163,want,ll,"{'krxgvs', 'kre4lj', 'krwytq'}",3,2021-01-06
+164,ll,bitcoin,"{'krl2ln', 'kruvld'}",2,2021-01-06
+165,hold,sell,"{'krtvqn', 'krjnio'}",2,2021-01-06
+166,stop,sell,"{'krlzb2', 'krtvqn'}",2,2021-01-06
+167,sell,course,"{'krlzb2', 'krtvqn'}",2,2021-01-06
+168,sell,btc,{'krtvqn'},1,2021-01-06
+169,sell,eth,{'krtvqn'},1,2021-01-06
+173,bitcoin,market cap,"{'krxh4b', 'ks0eej', 'krsjyl'}",3,2021-01-06
+176,ripple,xrp,"{'krlxpy', 'krjnio'}",2,2021-01-06
+177,ripple,lawsuit,"{'krlfbr', 'krl68x'}",2,2021-01-06
+178,ripple,lawsuit nan,"{'krlfbr', 'krl68x'}",2,2021-01-06
+179,ripple,moneygram,"{'krlfbr', 'krl68x'}",2,2021-01-06
+180,crypto,invest,"{'krv6v8', 'krxgvs'}",2,2021-01-06
+181,invest,money,"{'krv6v8', 'krxgvs'}",2,2021-01-06
+182,invest,months,"{'krecf7', 'krxgvs'}",2,2021-01-06
+183,invest,bitcoin,{'krecf7'},1,2021-01-06
+184,invest,btc,{'krxgvs'},1,2021-01-06
+186,fiat,crypto,"{'kre62c', 'krsz0h'}",2,2021-01-06
+187,fiat,cash,"{'krsz0h', 'krwygj'}",2,2021-01-06
+188,fiat,thing,"{'kre62c', 'krtvqn'}",2,2021-01-06
+189,fiat,bit,"{'krsz0h', 'krwygj'}",2,2021-01-06
+190,right,year,"{'krjnio', 'krwytq', 'krv8f5'}",3,2021-01-06
+191,btc,year,"{'krwytq', 'krv8f5'}",2,2021-01-06
+192,day,year,"{'krwytq', 'krv8f5'}",2,2021-01-06
+193,price,year,"{'krjnio', 'krv8f5'}",2,2021-01-06
+194,tell,year,"{'krjnio', 'krwytq'}",2,2021-01-06
+197,xrp,blockchain,"{'krvkcd', 'krlxpy'}",2,2021-01-06
+198,xrp,sec,"{'krvkcd', 'krjnio'}",2,2021-01-06
+199,xrp,money,{'krjnio'},1,2021-01-06
+200,crypto,people,"{'krymyd', 'kru377', 'krvora', 'krv8f5', 'kre62c'}",5,2021-01-06
+201,people,btc,"{'krll31', 'krtjn5', 'krv8f5'}",3,2021-01-06
+203,want,people,"{'kre62c', 'krymyd', 'krv8f5'}",3,2021-01-06
+204,days,people,"{'krll31', 'kru377', 'krv8f5'}",3,2021-01-06
+205,crypto,think,"{'krv6v8', 'krv4rq'}",2,2021-01-06
+206,btc,think,"{'krv4rq', 'kruvld'}",2,2021-01-06
+207,don,think,"{'krv6v8', 'kruvld'}",2,2021-01-06
+208,need,think,"{'krwypg', 'krv4rq'}",2,2021-01-06
+209,think,help,"{'krwypg', 'krv4rq'}",2,2021-01-06
+210,ethereum,bitcoin,"{'ks0eej', 'krmndr', 'krq2hh', 'krtglz'}",4,2021-01-06
+214,bitcoin ethereum,ethereum,"{'ks0eej', 'krq2hh', 'krtglz'}",3,2021-01-06
+215,want,right,"{'krwytq', 'krtad7', 'krv8f5', 'krm6g5', 'kre62c'}",5,2021-01-06
+216,right,time,"{'krwytq', 'krtad7', 'krm6g5'}",3,2021-01-06
+217,right,day,"{'krwytq', 'krtad7', 'krv8f5'}",3,2021-01-06
+218,right,price,"{'krjnio', 'krm6g5', 'krv8f5'}",3,2021-01-06
+220,crypto,thanks,"{'kre62c', 'krmkgb'}",2,2021-01-06
+221,btc,thanks,{'krllv7'},1,2021-01-06
+222,time,thanks,{'krllv7'},1,2021-01-06
+223,don,thanks,{'kre62c'},1,2021-01-06
+224,price,thanks,{'krllv7'},1,2021-01-06
+225,investment,bitcoin,{'krp13u'},1,2021-01-06
+226,ripple,investment,{'krntu5'},1,2021-01-06
+227,world,investment,{'krp13u'},1,2021-01-06
+228,investment,value,{'krp13u'},1,2021-01-06
+229,stock,investment,{'krntu5'},1,2021-01-06
+230,trading,crypto,"{'krh49g', 'ks0hof', 'ks0ifj', 'krv8f5', 'krv4rq'}",5,2021-01-06
+231,trading,bitcoin,"{'krogs9', 'krsmjh', 'ks0hof', 'ks0ifj'}",4,2021-01-06
+232,trading,btc,"{'krv4rq', 'krogs9', 'krv8f5'}",3,2021-01-06
+234,trading,currency,"{'ks0hof', 'ks0ifj', 'krh49g'}",3,2021-01-06
+235,ve,btc,"{'krll31', 'krv8f5'}",2,2021-01-06
+236,market,ve,"{'krlzb2', 'krv8f5'}",2,2021-01-06
+237,years,ve,"{'krlzb2', 'krv8f5'}",2,2021-01-06
+238,people,ve,"{'krll31', 'krv8f5'}",2,2021-01-06
+239,ve,way,"{'krlzb2', 'krv8f5'}",2,2021-01-06
+240,want,crypto,"{'krymyd', 'krxgvs', 'kre4lj', 'krv8f5', 'kre62c'}",5,2021-01-06
+243,want,set,"{'kre62c', 'krymyd', 'krwytq', 'krm6g5'}",4,2021-01-06
+244,want,btc,"{'krxgvs', 'krv8f5', 'krwytq'}",3,2021-01-06
+245,crypto,crypto market,"{'krxh4b', 'krzh0u', 'ks096g'}",3,2021-01-06
+246,market,crypto market,"{'krxh4b', 'krzh0u', 'ks096g'}",3,2021-01-06
+247,cap,crypto market,"{'krxh4b', 'krzh0u', 'ks096g'}",3,2021-01-06
+248,crypto market,market cap,"{'krxh4b', 'krzh0u', 'ks096g'}",3,2021-01-06
+249,crypto market,time,"{'krxh4b', 'ks096g'}",2,2021-01-06

@@ -1,0 +1,221 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,time,"{'ovmp90', 'ovxtwh', 'ovjuhz', 'ow02ri', 'ovmock', 'ovkchj', 'ow062u', 'ovitsb', 'ovn6v9', 'ovzaat'}",10,2021-08-01
+1,crypto,don,"{'ow1bpk', 'ovzgdu', 'ovzr7e', 'ow02ri', 'ow062u', 'ovz88d', 'ovitsb', 'ovmytt', 'ovllrb', 'ovzaat'}",10,2021-08-01
+2,crypto,people,"{'ovzgdu', 'ovjs4j', 'ow02ri', 'ow062u', 'ovitsb', 'ovjc9a', 'ow1hcg', 'ovn6v9', 'ovzaat'}",9,2021-08-01
+3,market,crypto,"{'ow1ul5', 'ovmp90', 'ovs3b8', 'ovmock', 'ovkchj', 'ovzbd5', 'ow062u', 'ovn6v9', 'ovkefb'}",9,2021-08-01
+4,crypto,ve,"{'ovkchj', 'ovzbd5', 'ovz88d', 'ovitsb', 'ovutc6', 'ow20qs', 'ovxnef', 'ovzaat'}",8,2021-08-01
+6,market,time,"{'ovmp90', 'ovmock', 'ovkchj', 'ovovp9', 'ow062u', 'ovk2vo', 'ovxvur', 'ovn6v9', 'ovm07i', 'ovxod4'}",10,2021-08-01
+7,people,time,"{'ow02ri', 'ovze6i', 'ovovp9', 'ow062u', 'ovitsb', 'ovn6v9', 'ovzaat'}",7,2021-08-01
+8,lot,time,"{'ow02ri', 'ovna4o', 'ow062u', 'ovzwmy', 'ovzmn3', 'ovm07i', 'ovxod4'}",7,2021-08-01
+9,exchange,time,"{'ovxtwh', 'ow02ri', 'ovmock', 'ow062u', 'ovitsb', 'ovn6v9'}",6,2021-08-01
+11,people,eth,"{'ovz7c3', 'ow02ri', 'ovze6i', 'ovxwef', 'ovys79', 'ovzgd8', 'ovn6v9', 'ow0i4d'}",8,2021-08-01
+13,people,don,"{'ovzgdu', 'ow02ri', 'ow062u', 'ovxwef', 'ovitsb', 'ovzaat'}",6,2021-08-01
+14,people,btc,"{'ovz7c3', 'ow02ri', 'ovovp9', 'ovys79', 'ovzgd8', 'ow0i4d'}",6,2021-08-01
+15,crypto,bitcoin,"{'ovn6v9', 'ow02ri', 'ovxtwh', 'ovs8zm'}",4,2021-08-01
+16,bitcoin,time,"{'ovn6v9', 'ovxtwh', 'ovj6oi', 'ow02ri'}",4,2021-08-01
+17,transactions,bitcoin,"{'ovn6v9', 'ovila0', 'ow02ri', 'ovt3f9'}",4,2021-08-01
+18,https,bitcoin,"{'ovxjeq', 'ovila0', 'ow2dm1', 'ovt3f9'}",4,2021-08-01
+19,mining,bitcoin,"{'ovxjeq', 'ovtj47', 'ovj6oi', 'ow2dm1'}",4,2021-08-01
+20,money,think,"{'ovzgdu', 'ow062u', 'ovz88d', 'ovzgd8', 'ovlp9f'}",5,2021-08-01
+21,crypto,money,"{'ovn6v9', 'ovzgdu', 'ow062u', 'ovz88d'}",4,2021-08-01
+22,money,people,"{'ovn6v9', 'ovzgdu', 'ow062u', 'ovzgd8'}",4,2021-08-01
+23,money,don,"{'ovzgdu', 'ow062u', 'ovz88d', 'ovxv0v'}",4,2021-08-01
+24,wallet,money,"{'ovxjeq', 'ovlp9f', 'ow062u', 'ovt3f9'}",4,2021-08-01
+25,crypto,future,"{'ovjuhz', 'ow02ri', 'ovzbd5', 'ovqb0c', 'ovkefb'}",5,2021-08-01
+26,future,time,"{'ovnxny', 'ovjuhz', 'ow02ri'}",3,2021-08-01
+27,future,don,"{'ovi31v', 'ovyjra', 'ow02ri'}",3,2021-08-01
+28,market,future,"{'ovzbd5', 'ovkefb', 'ovncn6'}",3,2021-08-01
+29,coin,future,"{'ovqb0c', 'ovyjra', 'ow02ri'}",3,2021-08-01
+30,crypto,think,"{'ow1ul5', 'ow1bpk', 'ovzgdu', 'ovjuhz', 'ow062u', 'ovz88d', 'ovitsb'}",7,2021-08-01
+31,don,think,"{'ow1bpk', 'ovzgdu', 'ow062u', 'ovz88d', 'ovitsb', 'ovjipp'}",6,2021-08-01
+32,look,think,"{'ow1bpk', 'ovna4o', 'ow062u', 'ovitsb', 'ovys79', 'ovoh0v'}",6,2021-08-01
+33,people,think,"{'ovzgdu', 'ow062u', 'ovitsb', 'ovys79', 'ovzgd8'}",5,2021-08-01
+35,want,wallet,"{'ovyes3', 'ow1taw', 'ovila0', 'ovitsb', 'ovxjeq', 'ovlp9f'}",6,2021-08-01
+36,want,crypto,"{'ow1ul5', 'ow1bpk', 'ow1taw', 'ovqb0c', 'ovitsb'}",5,2021-08-01
+37,want,eth,"{'ow1bpk', 'ovhw3s', 'ow1taw', 'ovyw36', 'ovi31v'}",5,2021-08-01
+38,want,https,"{'ow1bpk', 'ovqb0c', 'ovila0', 'ovitsb', 'ovxjeq'}",5,2021-08-01
+39,want,time,"{'ovzuag', 'ovhw3s', 'ovk2vo', 'ovitsb'}",4,2021-08-01
+43,coins,don,"{'ovk31t', 'ow02ri', 'ow062u', 'ovmytt', 'ovjipp', 'ovi31v'}",6,2021-08-01
+44,don,eth,"{'ow1bpk', 'ow02ri', 'ovxwef', 'ovz88d', 'ovi31v'}",5,2021-08-01
+45,wallet,way,"{'ovouvm', 'ovlp9f', 'ovt3f9', 'ow062u', 'ovila0', 'ovitsb', 'ow0i4d'}",7,2021-08-01
+46,crypto,wallet,"{'ovmp90', 'ovouvm', 'ow1taw', 'ow062u', 'ovitsb', 'ow20qs'}",6,2021-08-01
+48,https,wallet,"{'ovouvm', 'ovt3f9', 'ow062u', 'ovila0', 'ovitsb', 'ovxjeq'}",6,2021-08-01
+49,com,wallet,"{'ovouvm', 'ovt3f9', 'ow062u', 'ovitsb', 'ovxjeq', 'ow0i4d'}",6,2021-08-01
+50,exchange,crypto,"{'ovxtwh', 'ow02ri', 'ovmock', 'ow062u', 'ovitsb', 'ovn6v9'}",6,2021-08-01
+52,exchange,people,"{'ovn6v9', 'ow062u', 'ovitsb', 'ow02ri'}",4,2021-08-01
+53,exchange,bitcoin,"{'ovn6v9', 'ovxtwh', 'ow02ri'}",3,2021-08-01
+54,exchange,don,"{'ow062u', 'ovitsb', 'ow02ri'}",3,2021-08-01
+56,crypto,lot,"{'ow1bpk', 'ow02ri', 'ovzbd5', 'ow062u', 'ovmytt'}",5,2021-08-01
+57,market,lot,"{'ovlizd', 'ovzbd5', 'ow062u', 'ovm07i', 'ovxod4'}",5,2021-08-01
+58,lot,way,"{'ovz7c3', 'ovlizd', 'ow062u', 'ovzwmy', 'ovlp9f'}",5,2021-08-01
+59,people,lot,"{'ow02ri', 'ovz7c3', 'ow062u', 'ovlizd'}",4,2021-08-01
+60,btc,eth,"{'ovz7c3', 'ovhw3s', 'ow02ri', 'ow0i4d', 'ovy1n7', 'ovz4ws', 'ovys79', 'ovni29', 'ow20qs', 'ovzgd8', 'ovyw36'}",11,2021-08-01
+62,ethereum,eth,"{'ovmp90', 'ovz7c3', 'ow02ri', 'ow1taw', 'ovys79', 'ovr5wr', 'ovzgd8', 'ovn6v9'}",8,2021-08-01
+63,crypto,eth,"{'ovmp90', 'ow1bpk', 'ow02ri', 'ow1taw', 'ovz88d', 'ow20qs', 'ovn6v9'}",7,2021-08-01
+64,coins,eth,"{'ovmp90', 'ovz7c3', 'ovhw3s', 'ow02ri', 'ovys79', 'ow0i4d', 'ovi31v'}",7,2021-08-01
+65,market,projects,"{'ovn6v9', 'ovncn6'}",2,2021-08-01
+66,support,projects,"{'ovn6v9', 'ovncn6'}",2,2021-08-01
+67,protocol,projects,"{'ovn6v9', 'ovncn6'}",2,2021-08-01
+68,crypto,projects,{'ovn6v9'},1,2021-08-01
+69,time,projects,{'ovn6v9'},1,2021-08-01
+72,market,https,"{'ovovp9', 'ow062u', 'ovplbn', 'ovpx0i', 'ovxvur', 'ovpway', 'ovxod4'}",7,2021-08-01
+73,market,ethereum,"{'ovn6v9', 'ovmp90', 'ovkchj', 'ovzgd8', 'ovqpb2', 'ovxod4'}",6,2021-08-01
+74,market,people,"{'ovlizd', 'ovovp9', 'ow062u', 'ovzgd8', 'ovn6v9'}",5,2021-08-01
+75,crypto,check,"{'ow062u', 'ovitsb', 'ovs8zm'}",3,2021-08-01
+76,check,don,"{'ow062u', 'ovxv0v', 'ovitsb'}",3,2021-08-01
+77,https,check,"{'ow062u', 'ovxv0v', 'ovitsb'}",3,2021-08-01
+78,com,check,"{'ow062u', 'ovxv0v', 'ovitsb'}",3,2021-08-01
+79,use,check,"{'ovl0k9', 'ow062u', 'ovitsb'}",3,2021-08-01
+80,crypto,point,"{'ow1bpk', 'ovouvm', 'ovkefb', 'ovitsb'}",4,2021-08-01
+81,point,way,"{'ovy1n7', 'ovouvm', 'ovlp9f', 'ovitsb'}",4,2021-08-01
+82,think,point,"{'ovlp9f', 'ow1bpk', 'ovitsb'}",3,2021-08-01
+83,want,point,"{'ovlp9f', 'ow1bpk', 'ovitsb'}",3,2021-08-01
+84,don,point,"{'ow1bpk', 'ovyjra', 'ovitsb'}",3,2021-08-01
+85,funds,crypto,"{'ovn6v9', 'ovitsb'}",2,2021-08-01
+86,funds,time,"{'ovn6v9', 'ovitsb'}",2,2021-08-01
+87,funds,people,"{'ovn6v9', 'ovitsb'}",2,2021-08-01
+88,funds,bitcoin,"{'ovn6v9', 'ovila0'}",2,2021-08-01
+89,want,funds,"{'ovila0', 'ovitsb'}",2,2021-08-01
+90,wallet,send,"{'ovxjeq', 'ovlp9f', 'ow062u', 'ovitsb'}",4,2021-08-01
+91,send,people,"{'ow062u', 'ovxwef', 'ovitsb'}",3,2021-08-01
+92,send,money,"{'ovxjeq', 'ovlp9f', 'ow062u'}",3,2021-08-01
+93,send,think,"{'ovlp9f', 'ow062u', 'ovitsb'}",3,2021-08-01
+94,want,send,"{'ovxjeq', 'ovlp9f', 'ovitsb'}",3,2021-08-01
+96,wallet,transactions,"{'ow0i4d', 'ovmp90', 'ovila0', 'ovt3f9'}",4,2021-08-01
+97,transactions,eth,"{'ovn6v9', 'ovmp90', 'ow0i4d', 'ow02ri'}",4,2021-08-01
+98,coins,transactions,"{'ow0i4d', 'ovmp90', 'ovila0', 'ow02ri'}",4,2021-08-01
+99,transactions,fees,"{'ovn6v9', 'ovmp90', 'ovila0', 'ow02ri'}",4,2021-08-01
+100,security,crypto,"{'ow1ul5', 'ovmp90', 'ovouvm', 'ow062u', 'ovitsb', 'ovn6v9', 'ovllrb'}",7,2021-08-01
+101,security,time,"{'ovn6v9', 'ovmp90', 'ow062u', 'ovitsb'}",4,2021-08-01
+102,security,wallet,"{'ovmp90', 'ovouvm', 'ovitsb', 'ow062u'}",4,2021-08-01
+103,market,security,"{'ow1ul5', 'ovmp90', 'ow062u', 'ovn6v9'}",4,2021-08-01
+104,security,ledger,"{'ovn6v9', 'ovllrb', 'ovouvm', 'ovitsb'}",4,2021-08-01
+107,coins,btc,"{'ovz7c3', 'ovhw3s', 'ow02ri', 'ovys79', 'ow0i4d'}",5,2021-08-01
+108,coin,btc,"{'ovz7c3', 'ovhw3s', 'ow02ri', 'ovy1n7', 'ovxv0v'}",5,2021-08-01
+109,btc eth,btc,"{'ovz7c3', 'ovy1n7', 'ovyw36', 'ovni29', 'ow0i4d'}",5,2021-08-01
+110,com,https,"{'ovouvm', 'ovrolb', 'ovt3f9', 'ovnf3q', 'ow062u', 'ovqb0c', 'ow2dm1', 'ovitsb', 'ovys79', 'ovxjeq', 'ovxv0v'}",11,2021-08-01
+111,auto,https,"{'ow1bpk', 'ovrolb', 'ovovp9', 'ovqb0c', 'ow062u', 'ovplbn', 'ovpx0i', 'ovzwmy', 'ovpway'}",9,2021-08-01
+112,https,amp,"{'ow1bpk', 'ovt3f9', 'ovovp9', 'ovqb0c', 'ow062u', 'ow2dm1', 'ovxvur', 'ovzwmy'}",8,2021-08-01
+114,https,need,"{'ow1bpk', 'ovouvm', 'ovitsb', 'ovxvur', 'ovzwmy', 'ovxjeq', 'ovxv0v'}",7,2021-08-01
+115,problem,store,"{'ow062u', 'ovyl5w'}",2,2021-08-01
+116,problem,crypto,{'ow062u'},1,2021-08-01
+117,problem,time,{'ow062u'},1,2021-08-01
+118,problem,people,{'ow062u'},1,2021-08-01
+119,problem,bitcoin,{'ovyl5w'},1,2021-08-01
+120,people,buying,"{'ovlizd', 'ovxlcw'}",2,2021-08-01
+121,asset,buying,"{'ovlizd', 'ovj73p'}",2,2021-08-01
+122,dollar,buying,"{'ovlizd', 'ow0430'}",2,2021-08-01
+123,buying,app,"{'ovutc6', 'ow0430'}",2,2021-08-01
+124,buying,cost,"{'ovlizd', 'ow0430'}",2,2021-08-01
+125,non,wallet,"{'ovmp90', 'ovila0'}",2,2021-08-01
+126,non,transactions,"{'ovmp90', 'ovila0'}",2,2021-08-01
+127,non,coins,"{'ovmp90', 'ovila0'}",2,2021-08-01
+128,non,coin,"{'ovmp90', 'ovila0'}",2,2021-08-01
+129,non,network,"{'ovmp90', 'ovila0'}",2,2021-08-01
+130,market,price,"{'ovmp90', 'ovlizd', 'ovovp9', 'ovxvur', 'ovqpb2'}",5,2021-08-01
+131,right,price,"{'ovmp90', 'ovyjra', 'ovitsb', 'ovxvur', 'ovi31v'}",5,2021-08-01
+132,place,price,"{'ovmp90', 'ovy1n7', 'ovovp9', 'ovitsb', 'ovxvur'}",5,2021-08-01
+133,time,price,"{'ovmp90', 'ovovp9', 'ovitsb', 'ovxvur'}",4,2021-08-01
+134,people,price,"{'ovys79', 'ovovp9', 'ovitsb', 'ovlizd'}",4,2021-08-01
+135,https,dont,"{'ovxjeq', 'ovzwmy'}",2,2021-08-01
+136,dont,need,"{'ovxjeq', 'ovzwmy'}",2,2021-08-01
+137,dont,time,{'ovzwmy'},1,2021-08-01
+138,dont,bitcoin,{'ovxjeq'},1,2021-08-01
+139,money,dont,{'ovxjeq'},1,2021-08-01
+141,ve,time,"{'ovkchj', 'ovze6i', 'ovitsb', 'ovzmn3', 'ovzaat'}",5,2021-08-01
+142,people,ve,"{'ovze6i', 'ovitsb', 'ow0i4d', 'ovzaat', 'ovo4jk'}",5,2021-08-01
+143,ve,don,"{'ovzaat', 'ovyjra', 'ovitsb', 'ovz88d'}",4,2021-08-01
+144,ve,eth,"{'ow0i4d', 'ovze6i', 'ovz88d', 'ow20qs'}",4,2021-08-01
+146,coin,coins,"{'ovmp90', 'ovz7c3', 'ovhw3s', 'ow02ri', 'ovila0', 'ovmytt', 'ow07x9'}",7,2021-08-01
+148,coins,people,"{'ovz7c3', 'ow02ri', 'ow062u', 'ovys79', 'ow0i4d'}",5,2021-08-01
+149,coins,wallet,"{'ovmp90', 'ow062u', 'ovila0', 'ovkpxj', 'ow0i4d'}",5,2021-08-01
+151,com,www,"{'ovrolb', 'ovnf3q', 'ow062u', 'ovitsb', 'ow2dm1', 'ovys79', 'ovxv0v'}",7,2021-08-01
+152,com,https www,"{'ovrolb', 'ovnf3q', 'ow062u', 'ovitsb', 'ow2dm1', 'ovys79', 'ovxv0v'}",7,2021-08-01
+154,com,crypto,"{'ovouvm', 'ovnf3q', 'ow062u', 'ovqb0c', 'ovitsb'}",5,2021-08-01
+155,crypto,use,"{'ow1bpk', 'ow02ri', 'ow062u', 'ovitsb', 'ow1hcg', 'ovllrb'}",6,2021-08-01
+156,use,time,"{'ow02ri', 'ow062u', 'ovitsb', 'ovxvur', 'ovzwmy'}",5,2021-08-01
+157,use,people,"{'ovxlcw', 'ow02ri', 'ow062u', 'ovitsb', 'ow1hcg'}",5,2021-08-01
+158,use,don,"{'ow1bpk', 'ow02ri', 'ow062u', 'ovitsb', 'ovllrb'}",5,2021-08-01
+159,https,use,"{'ow1bpk', 'ow062u', 'ovitsb', 'ovxvur', 'ovzwmy'}",5,2021-08-01
+160,worth,don,"{'ovjipp', 'ovyes3', 'ovyjra', 'ovz88d'}",4,2021-08-01
+161,worth,think,"{'ovjipp', 'ovz88d', 'ovoh0v'}",3,2021-08-01
+162,ve,worth,"{'ow1kxr', 'ovyjra', 'ovz88d'}",3,2021-08-01
+163,worth,year,"{'ovyes3', 'ovjc9a', 'ovyjra'}",3,2021-08-01
+164,crypto,worth,"{'ovjc9a', 'ovz88d'}",2,2021-08-01
+165,moons,sub,"{'ovxlcw', 'ovialk', 'ovmtdo', 'ovzf89'}",4,2021-08-01
+166,moons,moon,"{'ow037g', 'ovmtdo', 'ovxlze', 'ovzs4x'}",4,2021-08-01
+167,post,moons,"{'ovxlze', 'ovzs4x', 'ovzf89'}",3,2021-08-01
+168,moons,earn,"{'ovxlze', 'ovxlcw', 'ovzs4x'}",3,2021-08-01
+169,moons,time,"{'ovnhsf', 'ow037g'}",2,2021-08-01
+170,crypto,cryptocurrency,"{'ovs8zm', 'ow062u', 'ovkefb', 'ow02ri'}",4,2021-08-01
+171,people,cryptocurrency,"{'ow062u', 'ovzxgy', 'ow02ri'}",3,2021-08-01
+172,cryptocurrency,lot,"{'ovlp9f', 'ow062u', 'ow02ri'}",3,2021-08-01
+173,cryptocurrency,point,"{'ovlp9f', 'ovkefb', 'ow0430'}",3,2021-08-01
+174,cryptocurrency,way,"{'ovlp9f', 'ovialk', 'ow062u'}",3,2021-08-01
+176,time,way,"{'ovjuhz', 'ovkchj', 'ow062u', 'ovitsb', 'ovzwmy', 'ovzlon'}",6,2021-08-01
+177,https,way,"{'ovouvm', 'ovt3f9', 'ow062u', 'ovila0', 'ovitsb', 'ovzwmy'}",6,2021-08-01
+178,crypto,way,"{'ovouvm', 'ovjuhz', 'ovkchj', 'ow062u', 'ovitsb'}",5,2021-08-01
+179,people,way,"{'ovz7c3', 'ovlizd', 'ow062u', 'ovitsb', 'ow0i4d'}",5,2021-08-01
+181,amp,amp x200b,"{'ow1bpk', 'ovncn6', 'ovt3f9', 'ow062u', 'ovxvur', 'ovzwmy', 'ovlp9f'}",7,2021-08-01
+182,amp,x200b,"{'ow1bpk', 'ovncn6', 'ovt3f9', 'ow062u', 'ovxvur', 'ovzwmy', 'ovlp9f'}",7,2021-08-01
+183,crypto,amp,"{'ovmp90', 'ow1bpk', 'ow062u', 'ovqb0c', 'ow391v'}",5,2021-08-01
+184,amp,time,"{'ovmp90', 'ovovp9', 'ow062u', 'ovxvur', 'ovzwmy'}",5,2021-08-01
+185,crypto,thanks,"{'ow1ul5', 'ovkchj', 'ow20qs'}",3,2021-08-01
+186,market,thanks,"{'ow1ul5', 'ovkchj'}",2,2021-08-01
+187,ve,thanks,"{'ovkchj', 'ow20qs'}",2,2021-08-01
+188,ethereum,thanks,"{'ovkchj', 'ow1x6a'}",2,2021-08-01
+189,hi,thanks,"{'ovl0k9', 'ow1x6a'}",2,2021-08-01
+190,crypto,research,"{'ovmp90', 'ovjc9a', 'ovzaat'}",3,2021-08-01
+191,time,research,"{'ovmp90', 'ovzaat', 'ovxvur'}",3,2021-08-01
+192,people,research,"{'ovz7c3', 'ovzaat', 'ovjc9a'}",3,2021-08-01
+193,right,research,"{'ovmp90', 'ow1kxr', 'ovxvur'}",3,2021-08-01
+194,place,research,"{'ovmp90', 'ovzaat', 'ovxvur'}",3,2021-08-01
+196,look,people,"{'ovys79', 'ow0i4d', 'ow062u', 'ovitsb'}",4,2021-08-01
+197,look,https,"{'ovys79', 'ow1bpk', 'ow062u', 'ovitsb'}",4,2021-08-01
+198,com,look,"{'ovys79', 'ow0i4d', 'ow062u', 'ovitsb'}",4,2021-08-01
+199,look,way,"{'ow0i4d', 'ow062u', 'ovitsb', 'ovoh0v'}",4,2021-08-01
+200,crypto,portfolio,"{'ovnf3q', 'ovzbd5'}",2,2021-08-01
+201,portfolio,eth,"{'ow0i4d', 'ovyw36'}",2,2021-08-01
+202,btc,portfolio,"{'ow0i4d', 'ovyw36'}",2,2021-08-01
+203,ve,portfolio,"{'ow0i4d', 'ovzbd5'}",2,2021-08-01
+204,com,portfolio,"{'ow0i4d', 'ovnf3q'}",2,2021-08-01
+205,day,time,"{'ovjuhz', 'ovitsb', 'ovxvur', 'ovzlon', 'ovn6v9'}",5,2021-08-01
+206,crypto,day,"{'ow1ul5', 'ovn6v9', 'ovjuhz', 'ovitsb'}",4,2021-08-01
+207,day,think,"{'ow1ul5', 'ovjuhz', 'ovitsb', 'ovzgd8'}",4,2021-08-01
+208,market,day,"{'ow1ul5', 'ovn6v9', 'ovzgd8', 'ovxvur'}",4,2021-08-01
+209,people,day,"{'ovzgd8', 'ovn6v9', 'ovitsb'}",3,2021-08-01
+211,coin,crypto,"{'ovmp90', 'ovzgdu', 'ow02ri', 'ovqb0c', 'ovmytt'}",5,2021-08-01
+212,coin,don,"{'ovzgdu', 'ow02ri', 'ovyjra', 'ovmytt', 'ovxv0v'}",5,2021-08-01
+213,coin,eth,"{'ovmp90', 'ovz7c3', 'ovhw3s', 'ow02ri', 'ovy1n7'}",5,2021-08-01
+215,crypto,years,"{'ow1ul5', 'ow062u', 'ovitsb'}",3,2021-08-01
+216,years,time,"{'ovzuag', 'ow062u', 'ovitsb'}",3,2021-08-01
+217,years,think,"{'ow1ul5', 'ow062u', 'ovitsb'}",3,2021-08-01
+218,want,years,"{'ow1ul5', 'ovzuag', 'ovitsb'}",3,2021-08-01
+219,security,years,"{'ow1ul5', 'ow062u', 'ovitsb'}",3,2021-08-01
+221,need,time,"{'ovzwmy', 'ovy97k', 'ovitsb', 'ovxvur'}",4,2021-08-01
+222,com,need,"{'ovxjeq', 'ovouvm', 'ovxv0v', 'ovitsb'}",4,2021-08-01
+223,use,need,"{'ow1bpk', 'ovzwmy', 'ovitsb', 'ovxvur'}",4,2021-08-01
+224,exchanges,need,"{'ovouvm', 'ovxv0v', 'ovitsb', 'ovxvur'}",4,2021-08-01
+226,people,sub,"{'ovxlcw', 'ovo4jk'}",2,2021-08-01
+227,understand,sub,"{'ovxjeq', 'ovialk'}",2,2021-08-01
+228,hi,sub,"{'ovxjeq', 'ovialk'}",2,2021-08-01
+229,questions,sub,"{'ovxjeq', 'ovialk'}",2,2021-08-01
+230,post,ll,"{'ovna4o', 'ovxlze', 'ovlizd'}",3,2021-08-01
+231,ll,thing,"{'ovna4o', 'ovxlze', 'ovzgd8'}",3,2021-08-01
+232,people,ll,"{'ovzgd8', 'ovlizd'}",2,2021-08-01
+233,ll,think,"{'ovna4o', 'ovzgd8'}",2,2021-08-01
+234,ll,lot,"{'ovna4o', 'ovlizd'}",2,2021-08-01
+235,right,time,"{'ovmp90', 'ow02ri', 'ovna4o', 'ovze6i', 'ovitsb', 'ovxvur'}",6,2021-08-01
+236,right,eth,"{'ovmp90', 'ow02ri', 'ovze6i', 'ovzgd8', 'ovi31v'}",5,2021-08-01
+238,right,smart,"{'ovmp90', 'ow02ri', 'ow1kxr', 'ovxvur', 'ovzgd8'}",5,2021-08-01
+239,right,people,"{'ovzgd8', 'ovze6i', 'ovitsb', 'ow02ri'}",4,2021-08-01
+240,money,sure,"{'ovn6v9', 'ow062u', 'ovxjeq', 'ovxv0v'}",4,2021-08-01
+241,sure,help,"{'ovn6v9', 'ow1taw', 'ow062u', 'ovxjeq'}",4,2021-08-01
+242,crypto,sure,"{'ovn6v9', 'ow1taw', 'ow062u'}",3,2021-08-01
+243,sure,time,"{'ovn6v9', 'ovzuag', 'ow062u'}",3,2021-08-01
+244,want,sure,"{'ovxjeq', 'ovzuag', 'ow1taw'}",3,2021-08-01
+245,post,time,"{'ovmp90', 'ovna4o', 'ow062u', 'ovzaat', 'ovxod4'}",5,2021-08-01
+246,post,people,"{'ovlizd', 'ow062u', 'ow1hcg', 'ovzaat', 'ovyiax'}",5,2021-08-01
+247,post,moon,"{'ovzs4x', 'ovna4o', 'ow062u', 'ovxlze', 'ovyiax'}",5,2021-08-01
+248,post,crypto,"{'ovmp90', 'ow1hcg', 'ow062u', 'ovzaat'}",4,2021-08-01
+249,post,lot,"{'ovna4o', 'ow062u', 'ovxod4', 'ovlizd'}",4,2021-08-01

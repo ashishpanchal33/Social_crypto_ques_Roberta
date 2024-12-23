@@ -1,0 +1,218 @@
+,token_1,token_2,connections,connections_strength,date
+0,bitcoin,time,"{'ca33o5', 'cad6km', 'cad6lv', 'ca7fr9'}",4,2019-07-07
+1,bitcoin,don,"{'cads91', 'ca9uf7', 'cad6lv', 'ca7fr9'}",4,2019-07-07
+2,people,bitcoin,"{'cad93i', 'ca33o5', 'cad6km', 'cad6lv'}",4,2019-07-07
+3,ethereum,bitcoin,"{'cads91', 'ca8yso', 'cad6lv', 'caa2gi'}",4,2019-07-07
+4,bitcoin,price,"{'cad93i', 'ca33o5', 'ca9uf7', 'cad6lv'}",4,2019-07-07
+5,cryptocurrency,price,"{'cad93i', 'ca6d7w', 'ca404v', 'cadssu'}",4,2019-07-07
+6,https,cryptocurrency,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+7,crypto,cryptocurrency,"{'cabklu', 'ca404v', 'ca7wgd'}",3,2019-07-07
+8,information,cryptocurrency,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+9,cryptocurrency,read,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+10,com,https,"{'cad93i', 'ca0ndx', 'cad6lv', 'ca5zfk'}",4,2019-07-07
+11,com,www,"{'cad93i', 'ca0ndx', 'cad6lv', 'ca5zfk'}",4,2019-07-07
+12,com,https www,"{'cad93i', 'ca0ndx', 'cad6lv', 'ca5zfk'}",4,2019-07-07
+13,com,requirements,"{'cad93i', 'ca0ndx', 'cad6lv'}",3,2019-07-07
+14,com,bitcoin,"{'cad93i', 'cad6lv'}",2,2019-07-07
+16,https,www,"{'cad93i', 'ca0ndx', 'cad6lv', 'ca5zfk'}",4,2019-07-07
+17,https,https www,"{'cad93i', 'ca0ndx', 'cad6lv', 'ca5zfk'}",4,2019-07-07
+19,information,https,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+22,www,https www,"{'cad93i', 'ca0ndx', 'cad6lv', 'ca5zfk'}",4,2019-07-07
+23,www,requirements,"{'cad93i', 'ca0ndx', 'cad6lv'}",3,2019-07-07
+24,www,bitcoin,"{'cad93i', 'cad6lv'}",2,2019-07-07
+28,requirements,https www,"{'cad93i', 'ca0ndx', 'cad6lv'}",3,2019-07-07
+29,bitcoin,https www,"{'cad93i', 'cad6lv'}",2,2019-07-07
+30,crypto,money,"{'cac4cl', 'cad6km', 'ca31zq', 'ca7wgd'}",4,2019-07-07
+31,crypto,people,"{'ca33o5', 'ca7k4m', 'cad6km', 'ca31zq'}",4,2019-07-07
+32,crypto,bitcoin,"{'ca33o5', 'cad6km', 'ca8c7s'}",3,2019-07-07
+34,crypto,time,"{'ca33o5', 'ca404v', 'cad6km'}",3,2019-07-07
+36,https,information,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+37,information,read,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+38,information,price,"{'cad93i', 'cadssu', 'ca9uf7'}",3,2019-07-07
+39,information,bitcoin,"{'cad93i', 'ca9uf7'}",2,2019-07-07
+41,https,read,"{'cad93i', 'cadssu', 'ca0ndx'}",3,2019-07-07
+43,com,read,"{'cad93i', 'ca0ndx'}",2,2019-07-07
+44,www,read,"{'cad93i', 'ca0ndx'}",2,2019-07-07
+45,discussion,cryptocurrency,"{'ca6d7w', 'ca0ndx'}",2,2019-07-07
+46,com,discussion,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+47,discussion,https,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+48,discussion,www,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+49,discussion,https www,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+50,com,profit,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+51,profit,https,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+52,profit,www,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+53,profit,https www,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+54,profit,discussion,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+55,sub,thread,"{'ca33o5', 'ca0ndx'}",2,2019-07-07
+56,readers,sub,"{'ca33o5', 'ca0ndx'}",2,2019-07-07
+57,bitcoin,sub,{'ca33o5'},1,2019-07-07
+58,cryptocurrency,sub,{'ca0ndx'},1,2019-07-07
+59,com,sub,{'ca0ndx'},1,2019-07-07
+61,https,requirements,"{'cad93i', 'ca0ndx', 'cad6lv'}",3,2019-07-07
+64,bitcoin,requirements,"{'cad93i', 'cad6lv'}",2,2019-07-07
+65,libra,facebook,"{'cad93i', 'ca7bzb', 'cad6km'}",3,2019-07-07
+66,libra,bitcoin,"{'cad93i', 'cad6km'}",2,2019-07-07
+67,libra,cryptocurrency,"{'cad93i', 'ca7bzb'}",2,2019-07-07
+68,libra,people,"{'cad93i', 'cad6km'}",2,2019-07-07
+69,libra,coin,"{'cad93i', 'cad6km'}",2,2019-07-07
+70,thread,sub,"{'ca33o5', 'ca0ndx'}",2,2019-07-07
+71,readers,thread,"{'ca33o5', 'ca0ndx'}",2,2019-07-07
+72,bitcoin,thread,{'ca33o5'},1,2019-07-07
+73,cryptocurrency,thread,{'ca0ndx'},1,2019-07-07
+74,com,thread,{'ca0ndx'},1,2019-07-07
+75,time,bitcoin,"{'ca33o5', 'cad6km', 'cad6lv', 'ca7fr9'}",4,2019-07-07
+77,money,time,"{'cad6km', 'cad6lv', 'ca7fr9'}",3,2019-07-07
+78,people,time,"{'ca33o5', 'cad6km', 'cad6lv'}",3,2019-07-07
+79,time,way,"{'ca33o5', 'cad6km', 'cad6lv'}",3,2019-07-07
+80,blockchain,projects,"{'ca8rqc', 'ca7wgd', 'ca4at5'}",3,2019-07-07
+81,blockchain,change,"{'ca6als', 'cad6lv', 'ca7wgd'}",3,2019-07-07
+82,blockchain,cryptocurrency,"{'ca7pvd', 'ca7wgd'}",2,2019-07-07
+83,blockchain,money,"{'cad6lv', 'ca7wgd'}",2,2019-07-07
+84,blockchain,don,"{'cad6lv', 'ca7wgd'}",2,2019-07-07
+86,coin,facebook,"{'cad93i', 'ca0sub', 'cad6km'}",3,2019-07-07
+87,facebook,bitcoin,"{'cad93i', 'cad6km'}",2,2019-07-07
+88,cryptocurrency,facebook,"{'cad93i', 'ca7bzb'}",2,2019-07-07
+89,people,facebook,"{'cad93i', 'cad6km'}",2,2019-07-07
+90,com,dump,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+91,https,dump,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+92,dump,www,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+93,dump,https www,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+94,discussion,dump,"{'ca0ndx', 'cad6lv'}",2,2019-07-07
+95,rules,information,"{'ca6als', 'ca0ndx'}",2,2019-07-07
+96,rules,bitcoin,{'ca68os'},1,2019-07-07
+97,rules,cryptocurrency,{'ca0ndx'},1,2019-07-07
+98,com,rules,{'ca0ndx'},1,2019-07-07
+99,rules,https,{'ca0ndx'},1,2019-07-07
+100,sources,cryptocurrency,"{'cadssu', 'ca0ndx'}",2,2019-07-07
+101,sources,https,"{'cadssu', 'ca0ndx'}",2,2019-07-07
+102,sources,information,"{'cadssu', 'ca0ndx'}",2,2019-07-07
+103,sources,read,"{'cadssu', 'ca0ndx'}",2,2019-07-07
+104,com,sources,{'ca0ndx'},1,2019-07-07
+105,market,bitcoin,"{'ca33o5', 'cad6lv', 'ca16mb'}",3,2019-07-07
+106,market,price,"{'ca6d7w', 'cad6lv', 'ca33o5'}",3,2019-07-07
+107,market,cryptocurrency,"{'ca6d7w', 'ca414r'}",2,2019-07-07
+108,discussion,market,"{'ca6d7w', 'cad6lv'}",2,2019-07-07
+109,market,time,"{'ca33o5', 'cad6lv'}",2,2019-07-07
+111,money,bitcoin,"{'cad6km', 'cad6lv', 'ca7fr9'}",3,2019-07-07
+113,money,don,"{'cad6lv', 'ca7wgd', 'ca7fr9'}",3,2019-07-07
+114,money,people,"{'cad6lv', 'cad6km', 'ca31zq'}",3,2019-07-07
+115,don,bitcoin,"{'cads91', 'ca9uf7', 'cad6lv', 'ca7fr9'}",4,2019-07-07
+117,use,don,"{'ca7k4m', 'cad6lv', 'cads91'}",3,2019-07-07
+118,cryptocurrency,don,"{'cads91', 'ca7wgd'}",2,2019-07-07
+119,crypto,don,"{'ca7k4m', 'ca7wgd'}",2,2019-07-07
+120,btc,bitcoin,{'ca8c7s'},1,2019-07-07
+121,crypto,btc,{'ca8c7s'},1,2019-07-07
+122,community,btc,{'ca8c7s'},1,2019-07-07
+123,btc,eth,{'ca8c9s'},1,2019-07-07
+124,btc,art,{'ca8c9s'},1,2019-07-07
+129,people,way,"{'ca33o5', 'cad6km', 'cad6lv'}",3,2019-07-07
+130,topics,cryptocurrency,"{'ca6d7w', 'ca0ndx'}",2,2019-07-07
+131,discussion,topics,"{'ca6d7w', 'ca0ndx'}",2,2019-07-07
+132,com,topics,{'ca0ndx'},1,2019-07-07
+133,https,topics,{'ca0ndx'},1,2019-07-07
+134,topics,www,{'ca0ndx'},1,2019-07-07
+135,bitcoin,way,"{'ca33o5', 'cad6km', 'cad6lv'}",3,2019-07-07
+138,crypto,way,"{'ca33o5', 'cad6km'}",2,2019-07-07
+139,market,way,"{'ca33o5', 'cad6lv'}",2,2019-07-07
+141,coin,bitcoin,"{'cad93i', 'cad6km'}",2,2019-07-07
+142,coin,cryptocurrency,"{'cad93i', 'ca404v'}",2,2019-07-07
+143,coin,crypto,"{'ca404v', 'cad6km'}",2,2019-07-07
+145,years,facebook,{'ca0sub'},1,2019-07-07
+146,coin,years,{'ca0sub'},1,2019-07-07
+147,years,future,{'ca8qb3'},1,2019-07-07
+148,years,tokens,{'ca8qb3'},1,2019-07-07
+149,years,cryptos,{'ca8qb3'},1,2019-07-07
+150,amp,price,"{'cad93i', 'ca404v', 'cad6lv'}",3,2019-07-07
+151,amp,amp x200b,"{'ca8rqc', 'cad93i', 'ca404v'}",3,2019-07-07
+152,amp,x200b,"{'ca8rqc', 'cad93i', 'ca404v'}",3,2019-07-07
+153,amp,bitcoin,"{'cad93i', 'cad6lv'}",2,2019-07-07
+154,amp,cryptocurrency,"{'cad93i', 'ca404v'}",2,2019-07-07
+155,binance,bitcoin,"{'ca4poc', 'cads91', 'cad6lv'}",3,2019-07-07
+156,binance,exchange,"{'ca4poc', 'cads91', 'caafgj'}",3,2019-07-07
+157,binance,don,"{'cads91', 'cad6lv'}",2,2019-07-07
+158,binance,need,"{'cads91', 'cad6lv'}",2,2019-07-07
+159,binance,use,"{'cads91', 'cad6lv'}",2,2019-07-07
+160,need,bitcoin,"{'cads91', 'cad6km', 'cad6lv'}",3,2019-07-07
+161,crypto,need,"{'cad6km', 'caazln'}",2,2019-07-07
+162,need,time,"{'cad6km', 'cad6lv'}",2,2019-07-07
+163,money,need,"{'cad6km', 'cad6lv'}",2,2019-07-07
+164,need,don,"{'cads91', 'cad6lv'}",2,2019-07-07
+165,ve,bitcoin,"{'cad93i', 'cad6lv', 'ca7fr9'}",3,2019-07-07
+166,com,ve,"{'cad93i', 'cad6lv'}",2,2019-07-07
+167,https,ve,"{'cad93i', 'cad6lv'}",2,2019-07-07
+168,ve,www,"{'cad93i', 'cad6lv'}",2,2019-07-07
+169,ve,https www,"{'cad93i', 'cad6lv'}",2,2019-07-07
+171,use,bitcoin,"{'cads91', 'cad6lv'}",2,2019-07-07
+172,use,money,"{'ca33zb', 'cad6lv'}",2,2019-07-07
+173,use,people,"{'ca7k4m', 'cad6lv'}",2,2019-07-07
+175,technology,bitcoin,"{'cad6km', 'cad6lv'}",2,2019-07-07
+176,technology,time,"{'cad6km', 'cad6lv'}",2,2019-07-07
+177,technology,money,"{'cad6km', 'cad6lv'}",2,2019-07-07
+178,technology,people,"{'cad6km', 'cad6lv'}",2,2019-07-07
+179,technology,way,"{'cad6km', 'cad6lv'}",2,2019-07-07
+180,vs,bitcoin,"{'cad93i', 'cad6lv'}",2,2019-07-07
+181,com,vs,"{'cad93i', 'cad6lv'}",2,2019-07-07
+182,https,vs,"{'cad93i', 'cad6lv'}",2,2019-07-07
+183,vs,www,"{'cad93i', 'cad6lv'}",2,2019-07-07
+184,vs,https www,"{'cad93i', 'cad6lv'}",2,2019-07-07
+185,attempt,bitcoin,{'cad6km'},1,2019-07-07
+186,cryptocurrency,attempt,{'ca0ndx'},1,2019-07-07
+187,com,attempt,{'ca0ndx'},1,2019-07-07
+188,https,attempt,{'ca0ndx'},1,2019-07-07
+189,www,attempt,{'ca0ndx'},1,2019-07-07
+191,cryptocurrencies,ethereum,"{'caa2gi', 'ca8yso', 'cad6lv', 'cadssu'}",4,2019-07-07
+192,ethereum,version,"{'cads91', 'ca8yso', 'cad6lv', 'caa2gi'}",4,2019-07-07
+193,ethereum,cryptocurrency,"{'cads91', 'ca7pvd', 'cadssu'}",3,2019-07-07
+194,exchange,ethereum,"{'cads91', 'ca8yso', 'caa2gi'}",3,2019-07-07
+195,https,today,"{'cadssu', 'cad6lv'}",2,2019-07-07
+196,ethereum,today,"{'cadssu', 'cad6lv'}",2,2019-07-07
+197,today,price,"{'cadssu', 'cad6lv'}",2,2019-07-07
+198,today,think,"{'cadssu', 'cad6lv'}",2,2019-07-07
+199,today,year,"{'cadssu', 'cad6lv'}",2,2019-07-07
+200,network,change,"{'cad93i', 'ca6als', 'cad6lv'}",3,2019-07-07
+201,network,bitcoin,"{'cad93i', 'cad6lv'}",2,2019-07-07
+202,com,network,"{'cad93i', 'cad6lv'}",2,2019-07-07
+203,https,network,"{'cad93i', 'cad6lv'}",2,2019-07-07
+204,network,www,"{'cad93i', 'cad6lv'}",2,2019-07-07
+205,coins,bitcoin,"{'cad93i', 'cad6km'}",2,2019-07-07
+206,libra,coins,"{'cad93i', 'cad6km'}",2,2019-07-07
+207,coins,facebook,"{'cad93i', 'cad6km'}",2,2019-07-07
+208,coins,people,"{'cad93i', 'cad6km'}",2,2019-07-07
+209,coin,coins,"{'cad93i', 'cad6km'}",2,2019-07-07
+210,right,bitcoin,{'cads91'},1,2019-07-07
+211,right,cryptocurrency,{'cads91'},1,2019-07-07
+212,crypto,right,{'cac4cl'},1,2019-07-07
+213,right,blockchain,{'ca8rqc'},1,2019-07-07
+214,right,money,{'cac4cl'},1,2019-07-07
+215,blockchain,adoption,"{'ca8rqc', 'cad6lv'}",2,2019-07-07
+216,amp,adoption,"{'ca8rqc', 'cad6lv'}",2,2019-07-07
+217,adoption,lot,"{'ca8rqc', 'cad6lv'}",2,2019-07-07
+218,adoption,investment,"{'ca5xbo', 'cad6lv'}",2,2019-07-07
+219,things,adoption,"{'ca8rqc', 'cad6lv'}",2,2019-07-07
+220,transactions,bitcoin,"{'cads91', 'cad6lv'}",2,2019-07-07
+221,transactions,don,"{'cads91', 'cad6lv'}",2,2019-07-07
+222,binance,transactions,"{'cads91', 'cad6lv'}",2,2019-07-07
+223,transactions,need,"{'cads91', 'cad6lv'}",2,2019-07-07
+224,use,transactions,"{'cads91', 'cad6lv'}",2,2019-07-07
+227,think,price,"{'cad93i', 'ca6d7w', 'cadssu', 'cad6lv'}",4,2019-07-07
+228,https,price,"{'cad93i', 'cadssu', 'cad6lv'}",3,2019-07-07
+230,news,bitcoin,"{'ca33o5', 'ca9uf7'}",2,2019-07-07
+231,news,price,"{'ca33o5', 'ca9uf7'}",2,2019-07-07
+232,crypto,news,{'ca33o5'},1,2019-07-07
+233,information,news,{'ca9uf7'},1,2019-07-07
+234,news,sub,{'ca33o5'},1,2019-07-07
+235,future,bitcoin,"{'cad6km', 'cad6lv'}",2,2019-07-07
+236,future,time,"{'cad6km', 'cad6lv'}",2,2019-07-07
+237,money,future,"{'cad6km', 'cad6lv'}",2,2019-07-07
+238,people,future,"{'cad6km', 'cad6lv'}",2,2019-07-07
+239,future,way,"{'cad6km', 'cad6lv'}",2,2019-07-07
+240,bitcoin,help,"{'cads91', 'cad6lv'}",2,2019-07-07
+241,don,help,"{'cads91', 'cad6lv'}",2,2019-07-07
+242,binance,help,"{'cads91', 'cad6lv'}",2,2019-07-07
+243,need,help,"{'cads91', 'cad6lv'}",2,2019-07-07
+244,use,help,"{'cads91', 'cad6lv'}",2,2019-07-07
+245,price,think,"{'cad93i', 'ca6d7w', 'cadssu', 'cad6lv'}",4,2019-07-07
+246,bitcoin,think,"{'cad93i', 'cad6km', 'cad6lv'}",3,2019-07-07
+247,cryptocurrency,think,"{'cad93i', 'ca6d7w', 'cadssu'}",3,2019-07-07
+248,https,think,"{'cad93i', 'cadssu', 'cad6lv'}",3,2019-07-07
+249,people,think,"{'cad93i', 'cad6km', 'cad6lv'}",3,2019-07-07

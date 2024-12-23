@@ -1,0 +1,217 @@
+,token_1,token_2,connections,connections_strength,date
+0,bitcoin,bitcoin nan,"{'hon8q8', 'hoq6i8', 'hok3rf', 'hoxbqx'}",4,2020-07-10
+1,amp,bitcoin,"{'hoxgx6', 'hot1sv', 'hoxbqx'}",3,2020-07-10
+2,bitcoin,future,"{'hohzhm', 'hosfur', 'hoynp5'}",3,2020-07-10
+3,crypto,bitcoin,"{'honw6l', 'hotlmc'}",2,2020-07-10
+4,btc,bitcoin,"{'hosfur', 'hoxa8l'}",2,2020-07-10
+5,crypto,project,"{'hop0i9', 'hor2pr', 'houpkn', 'horie4'}",4,2020-07-10
+6,com,crypto,"{'hop0i9', 'hohul6', 'hohuzh'}",3,2020-07-10
+7,crypto,blockchain,"{'hop0i9', 'hopra4', 'houpkn'}",3,2020-07-10
+8,market,crypto,"{'hop0i9', 'hotlmc', 'hovn2w'}",3,2020-07-10
+9,crypto,network,"{'hop0i9', 'hopra4', 'hor2pr'}",3,2020-07-10
+10,cryptocurrency,july,"{'hot91s', 'hoemng'}",2,2020-07-10
+11,crypto,cryptocurrency,{'houpkn'},1,2020-07-10
+12,amp,cryptocurrency,{'hoemng'},1,2020-07-10
+13,https,cryptocurrency,{'hoemng'},1,2020-07-10
+14,com,cryptocurrency,{'hoemng'},1,2020-07-10
+16,https,amp,"{'hoemng', 'hooin6'}",2,2020-07-10
+17,com,amp,"{'hoemng', 'hooin6'}",2,2020-07-10
+18,amp,comments,"{'hoemng', 'hooin6'}",2,2020-07-10
+19,amp,click,"{'hoemng', 'hooin6'}",2,2020-07-10
+20,com,https,"{'hop0i9', 'hoemng', 'hoochc', 'hooin6'}",4,2020-07-10
+21,https,blockchain,"{'hop0i9', 'hopra4', 'hoochc'}",3,2020-07-10
+22,https,click,"{'hop0i9', 'hoemng', 'hooin6'}",3,2020-07-10
+23,https,project,"{'hop0i9', 'hoochc', 'hood6q'}",3,2020-07-10
+24,crypto,https,"{'hop0i9', 'hopra4'}",2,2020-07-10
+27,com,click,"{'hop0i9', 'hoemng', 'hooin6'}",3,2020-07-10
+28,card,com,"{'hop0i9', 'hohul6', 'hohuzh'}",3,2020-07-10
+31,prediction,btc,"{'hosfur', 'howgdl'}",2,2020-07-10
+32,btc,july,{'hox175'},1,2020-07-10
+33,post,btc,{'hokh0y'},1,2020-07-10
+34,btc,price,{'hosfur'},1,2020-07-10
+35,https,check,"{'hop0i9', 'hoemng'}",2,2020-07-10
+36,com,check,"{'hop0i9', 'hoemng'}",2,2020-07-10
+37,check,click,"{'hop0i9', 'hoemng'}",2,2020-07-10
+38,information,check,"{'hop0i9', 'hoemng'}",2,2020-07-10
+39,discussion,check,"{'hop0i9', 'hoemng'}",2,2020-07-10
+41,https,comments,"{'hoemng', 'hooin6'}",2,2020-07-10
+42,com,comments,"{'hoemng', 'hooin6'}",2,2020-07-10
+43,comments,click,"{'hoemng', 'hooin6'}",2,2020-07-10
+44,comments,rest,"{'hoemng', 'hooin6'}",2,2020-07-10
+45,trade,cryptocurrency,{'hoemng'},1,2020-07-10
+46,trade,amp,{'hoemng'},1,2020-07-10
+47,trade,https,{'hoemng'},1,2020-07-10
+48,com,trade,{'hoemng'},1,2020-07-10
+49,trade,check,{'hoemng'},1,2020-07-10
+50,search,cryptocurrency,{'hoemng'},1,2020-07-10
+51,search,amp,{'hoemng'},1,2020-07-10
+52,search,https,{'hoemng'},1,2020-07-10
+53,com,search,{'hoemng'},1,2020-07-10
+54,search,check,{'hoemng'},1,2020-07-10
+57,blockchain,project,"{'hop0i9', 'hoochc', 'houpkn'}",3,2020-07-10
+58,com,blockchain,"{'hop0i9', 'hoochc'}",2,2020-07-10
+59,blockchain,network,"{'hop0i9', 'hopra4'}",2,2020-07-10
+60,ethereum,bitcoin,{'howjfw'},1,2020-07-10
+61,ethereum,project,{'hoqpuz'},1,2020-07-10
+62,ethereum,fees,{'howjfw'},1,2020-07-10
+63,ethereum,testnet,{'hoeznr'},1,2020-07-10
+64,ethereum,phase,{'hoqpuz'},1,2020-07-10
+70,https,information,"{'hop0i9', 'hoemng'}",2,2020-07-10
+71,com,information,"{'hop0i9', 'hoemng'}",2,2020-07-10
+73,information,click,"{'hop0i9', 'hoemng'}",2,2020-07-10
+74,discussion,information,"{'hop0i9', 'hoemng'}",2,2020-07-10
+75,amp,rest,"{'hoemng', 'hooin6'}",2,2020-07-10
+76,https,rest,"{'hoemng', 'hooin6'}",2,2020-07-10
+77,com,rest,"{'hoemng', 'hooin6'}",2,2020-07-10
+79,click,rest,"{'hoemng', 'hooin6'}",2,2020-07-10
+80,discussion,https,"{'hop0i9', 'hoemng'}",2,2020-07-10
+81,com,discussion,"{'hop0i9', 'hoemng'}",2,2020-07-10
+83,discussion,click,"{'hop0i9', 'hoemng'}",2,2020-07-10
+85,time,bitcoin,{'hotq53'},1,2020-07-10
+86,crypto,time,{'houpkn'},1,2020-07-10
+87,cryptocurrency,time,{'houpkn'},1,2020-07-10
+88,blockchain,time,{'houpkn'},1,2020-07-10
+89,project,time,{'houpkn'},1,2020-07-10
+90,https,pump,"{'hop0i9', 'hoemng'}",2,2020-07-10
+91,com,pump,"{'hop0i9', 'hoemng'}",2,2020-07-10
+92,check,pump,"{'hop0i9', 'hoemng'}",2,2020-07-10
+93,click,pump,"{'hop0i9', 'hoemng'}",2,2020-07-10
+94,information,pump,"{'hop0i9', 'hoemng'}",2,2020-07-10
+96,market,crypto market,"{'hotlmc', 'hovn2w'}",2,2020-07-10
+97,market,bitcoin,{'hotlmc'},1,2020-07-10
+98,market,https,{'hop0i9'},1,2020-07-10
+99,com,market,{'hop0i9'},1,2020-07-10
+100,crypto,sub,{'horie4'},1,2020-07-10
+101,cryptocurrency,sub,{'hoemng'},1,2020-07-10
+102,amp,sub,{'hoemng'},1,2020-07-10
+103,https,sub,{'hoemng'},1,2020-07-10
+104,com,sub,{'hoemng'},1,2020-07-10
+105,money,bitcoin,"{'hoq6i8', 'hoynp5'}",2,2020-07-10
+106,crypto,money,"{'hoo6yx', 'hol1zd'}",2,2020-07-10
+107,money,bitcoin nan,{'hoq6i8'},1,2020-07-10
+108,years,money,{'hoo6yx'},1,2020-07-10
+109,money,scam,{'hoo6yx'},1,2020-07-10
+111,july nan,july,"{'hot91s', 'hokt3d'}",2,2020-07-10
+112,crypto,july,{'hokt3d'},1,2020-07-10
+113,amp,july,{'hoemng'},1,2020-07-10
+114,https,july,{'hoemng'},1,2020-07-10
+115,trade,don,{'hofvom'},1,2020-07-10
+116,doge,don,{'hofqm8'},1,2020-07-10
+117,exchange,don,{'hofvom'},1,2020-07-10
+118,scam,don,{'hoz98a'},1,2020-07-10
+119,today,don,{'hofvom'},1,2020-07-10
+120,post,amp,{'hooin6'},1,2020-07-10
+121,post,https,{'hooin6'},1,2020-07-10
+122,com,post,{'hooin6'},1,2020-07-10
+124,post,comments,{'hooin6'},1,2020-07-10
+125,bitcoin,price,"{'hol9ly', 'hosfur'}",2,2020-07-10
+126,prediction,price,"{'hol9ly', 'hosfur'}",2,2020-07-10
+127,price prediction,price,"{'hol9ly', 'hosfur'}",2,2020-07-10
+128,crypto,price,{'hop0i9'},1,2020-07-10
+129,https,price,{'hop0i9'},1,2020-07-10
+130,amp,day,"{'hoxgx6', 'hooin6'}",2,2020-07-10
+131,day,bitcoin,{'hoxgx6'},1,2020-07-10
+132,https,day,{'hooin6'},1,2020-07-10
+133,com,day,{'hooin6'},1,2020-07-10
+134,comments,day,{'hooin6'},1,2020-07-10
+135,profit,https,"{'hoemng', 'hoochc'}",2,2020-07-10
+136,com,profit,"{'hoemng', 'hoochc'}",2,2020-07-10
+137,profit,crypto,{'hovn2w'},1,2020-07-10
+138,profit,cryptocurrency,{'hoemng'},1,2020-07-10
+139,profit,amp,{'hoemng'},1,2020-07-10
+140,world,investors,"{'hotlmc', 'hood6q'}",2,2020-07-10
+141,world,bitcoin,{'hotlmc'},1,2020-07-10
+142,crypto,world,{'hotlmc'},1,2020-07-10
+143,https,world,{'hood6q'},1,2020-07-10
+144,market,world,{'hotlmc'},1,2020-07-10
+146,https,network,"{'hop0i9', 'hopra4'}",2,2020-07-10
+148,information,network,"{'hop0i9', 'how1rx'}",2,2020-07-10
+149,network,project,"{'hop0i9', 'hor2pr'}",2,2020-07-10
+150,doge nan,doge,"{'hoy5ke', 'hofqm8'}",2,2020-07-10
+152,binance,doge,{'hoiynk'},1,2020-07-10
+153,list,doge,{'hoiynk'},1,2020-07-10
+154,tiktok,doge,{'hoy5ke'},1,2020-07-10
+156,amp,bitcoin nan,{'hoxbqx'},1,2020-07-10
+158,traders,bitcoin nan,{'hoxbqx'},1,2020-07-10
+159,challenge,bitcoin nan,{'hoxbqx'},1,2020-07-10
+163,com,project,"{'hop0i9', 'hoochc'}",2,2020-07-10
+164,project,network,"{'hop0i9', 'hor2pr'}",2,2020-07-10
+165,want,https,"{'hop0i9', 'hooin6'}",2,2020-07-10
+166,com,want,"{'hop0i9', 'hooin6'}",2,2020-07-10
+167,want,click,"{'hop0i9', 'hooin6'}",2,2020-07-10
+168,want,app,"{'hop0i9', 'hooin6'}",2,2020-07-10
+169,want,store,"{'hop0i9', 'hooin6'}",2,2020-07-10
+170,btc,eth,{'hokh0y'},1,2020-07-10
+171,post,eth,{'hokh0y'},1,2020-07-10
+172,phase,eth,{'honr8f'},1,2020-07-10
+173,eth,march,{'hokh0y'},1,2020-07-10
+174,coinbase,bitcoin,{'hoxgx6'},1,2020-07-10
+175,amp,coinbase,{'hoxgx6'},1,2020-07-10
+176,coinbase,day,{'hoxgx6'},1,2020-07-10
+177,exchanges,coinbase,{'hoqacz'},1,2020-07-10
+178,investor,coinbase,{'hoxgx6'},1,2020-07-10
+179,years,bitcoin,{'hoxf5v'},1,2020-07-10
+180,crypto,years,{'hoo6yx'},1,2020-07-10
+182,years,scam,{'hoo6yx'},1,2020-07-10
+183,years,ve,{'hoo6yx'},1,2020-07-10
+184,https,token,{'hoochc'},1,2020-07-10
+185,com,token,{'hoochc'},1,2020-07-10
+186,blockchain,token,{'hoochc'},1,2020-07-10
+187,profit,token,{'hoochc'},1,2020-07-10
+188,project,token,{'hoochc'},1,2020-07-10
+189,exchange,crypto,{'hopra4'},1,2020-07-10
+190,exchange,https,{'hopra4'},1,2020-07-10
+191,trade,exchange,{'hofvom'},1,2020-07-10
+192,exchange,blockchain,{'hopra4'},1,2020-07-10
+194,crypto,scam,"{'hooglm', 'hoo6yx'}",2,2020-07-10
+195,scam,scam nan,"{'hooglm', 'hoz98a'}",2,2020-07-10
+196,scam,time,{'hougzz'},1,2020-07-10
+199,crypto,think,"{'hol1zd', 'hotlmc', 'horie4'}",3,2020-07-10
+200,bitcoin,think,{'hotlmc'},1,2020-07-10
+201,market,think,{'hotlmc'},1,2020-07-10
+202,think,sub,{'horie4'},1,2020-07-10
+203,money,think,{'hol1zd'},1,2020-07-10
+204,right,world,{'hov0au'},1,2020-07-10
+205,right,news,{'hon9il'},1,2020-07-10
+206,right,today,{'hov0au'},1,2020-07-10
+207,right,lot,{'hov0au'},1,2020-07-10
+208,right,erd,{'hon9il'},1,2020-07-10
+209,crypto,ve,{'hoo6yx'},1,2020-07-10
+210,https,ve,{'hoochc'},1,2020-07-10
+211,com,ve,{'hoochc'},1,2020-07-10
+212,blockchain,ve,{'hoochc'},1,2020-07-10
+213,money,ve,{'hoo6yx'},1,2020-07-10
+214,crypto,build,{'houpkn'},1,2020-07-10
+215,build,cryptocurrency,{'houpkn'},1,2020-07-10
+216,build,blockchain,{'houpkn'},1,2020-07-10
+217,build,time,{'houpkn'},1,2020-07-10
+218,build,project,{'houpkn'},1,2020-07-10
+219,crypto,community,{'hop0i9'},1,2020-07-10
+220,https,community,{'hop0i9'},1,2020-07-10
+221,com,community,{'hop0i9'},1,2020-07-10
+222,community,check,{'hop0i9'},1,2020-07-10
+223,community,blockchain,{'hop0i9'},1,2020-07-10
+224,bitcoin,value,{'hohzhm'},1,2020-07-10
+225,crypto,value,{'hopra4'},1,2020-07-10
+226,https,value,{'hopra4'},1,2020-07-10
+227,blockchain,value,{'hopra4'},1,2020-07-10
+228,network,value,{'hopra4'},1,2020-07-10
+229,crypto,news,{'hokt3d'},1,2020-07-10
+230,news,july,{'hokt3d'},1,2020-07-10
+232,erd,news,{'hon9il'},1,2020-07-10
+233,july nan,news,{'hokt3d'},1,2020-07-10
+234,crypto,wallet,"{'hoj1sg', 'hoo6yx'}",2,2020-07-10
+235,wallet nan,wallet,"{'hol46w', 'hoj1sg'}",2,2020-07-10
+236,wallet,cryptocurrency,{'hol46w'},1,2020-07-10
+237,wallet,money,{'hoo6yx'},1,2020-07-10
+238,years,wallet,{'hoo6yx'},1,2020-07-10
+239,finance,defi,"{'hoq6u4', 'hoq4lh'}",2,2020-07-10
+240,services,defi,"{'hoq6u4', 'hoq4lh'}",2,2020-07-10
+241,decentralized finance,defi,"{'hoq6u4', 'hoq4lh'}",2,2020-07-10
+242,masses,defi,"{'hoq6u4', 'hoq4lh'}",2,2020-07-10
+243,defi,democratizing financial,"{'hoq6u4', 'hoq4lh'}",2,2020-07-10
+244,crypto,today,"{'hol1zd', 'houpkn'}",2,2020-07-10
+245,today,cryptocurrency,{'houpkn'},1,2020-07-10
+246,amp,today,{'hooin6'},1,2020-07-10
+247,https,today,{'hooin6'},1,2020-07-10
+248,com,today,{'hooin6'},1,2020-07-10

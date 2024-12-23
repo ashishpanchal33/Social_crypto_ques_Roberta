@@ -1,0 +1,220 @@
+,token_1,token_2,connections,connections_strength,date
+0,bitcoin,bitcoin nan,"{'iq2gz9', 'iq17tr', 'iqbfz5', 'iq0uyj', 'iq0xu7'}",5,2020-09-10
+1,bitcoin,gold,"{'iq022h', 'ipwnx3', 'ipybnj', 'iptqx8'}",4,2020-09-10
+2,amp,bitcoin,"{'ipy8jz', 'iq503k', 'iptqx8'}",3,2020-09-10
+3,crypto,bitcoin,"{'iq503k', 'ipzt3h', 'iptqx8'}",3,2020-09-10
+4,years,bitcoin,"{'iq503k', 'ipybnj', 'ipxvfn'}",3,2020-09-10
+5,com,crypto,"{'ipzh3x', 'iq7zzb', 'iqan8w', 'iq0vrb', 'ipzwy3', 'iq503k'}",6,2020-09-10
+6,com,check,"{'iqan8w', 'iq7zzb', 'ipsfur', 'ipzwy3', 'iq503k'}",5,2020-09-10
+7,com,https,"{'iq7zzb', 'ipzwy3', 'ipsfur', 'iq503k'}",4,2020-09-10
+8,com,amp,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+9,com,cryptocurrency,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+10,amp,check,"{'iq7zzb', 'iq9m76', 'ipsfur', 'iq503k'}",4,2020-09-10
+13,crypto,amp,"{'iq7zzb', 'iq503k', 'iptqx8'}",3,2020-09-10
+14,amp,cryptocurrency,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+16,crypto,time,"{'iq7zzb', 'ipybrr', 'iptdqs', 'ipzwy3', 'iq503k'}",5,2020-09-10
+17,crypto,check,"{'iqan8w', 'iq7zzb', 'ipzwy3', 'iq503k'}",4,2020-09-10
+18,crypto,people,"{'ipybrr', 'iq7zzb', 'ipwq3s', 'ipzwy3'}",4,2020-09-10
+22,https,cryptocurrency,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+23,cryptocurrency,www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+24,cryptocurrency,https www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+26,https,check,"{'iq7zzb', 'ipzwy3', 'ipsfur', 'iq503k'}",4,2020-09-10
+27,https,amp,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+28,crypto,https,"{'iq7zzb', 'ipzwy3', 'iq503k'}",3,2020-09-10
+30,com,www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+31,amp,www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+33,https,www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+34,www,https www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+35,com,https www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+36,amp,https www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+38,https,https www,"{'iq7zzb', 'ipsfur', 'iq503k'}",3,2020-09-10
+44,check,time,"{'iq7zzb', 'iq9m76', 'ipzwy3', 'iq503k'}",4,2020-09-10
+45,com,reddit,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+46,https,reddit,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+47,check,reddit,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+48,comments,reddit,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+49,reddit com,reddit,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+50,com,rest,"{'iq503k', 'ipsfur'}",2,2020-09-10
+51,amp,rest,"{'iq503k', 'ipsfur'}",2,2020-09-10
+52,cryptocurrency,rest,"{'iq503k', 'ipsfur'}",2,2020-09-10
+53,https,rest,"{'iq503k', 'ipsfur'}",2,2020-09-10
+54,rest,www,"{'iq503k', 'ipsfur'}",2,2020-09-10
+55,com,comments,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+56,https,comments,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+57,check,comments,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+59,reddit com,comments,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+60,trade,discussion,"{'ipsfur', 'iqd1ej'}",2,2020-09-10
+61,trade,coin,"{'ipuhjn', 'iqd1ej'}",2,2020-09-10
+62,com,trade,{'ipsfur'},1,2020-09-10
+63,trade,amp,{'ipsfur'},1,2020-09-10
+64,trade,cryptocurrency,{'ipsfur'},1,2020-09-10
+65,com,reddit com,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+66,reddit com,https,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+67,reddit com,check,"{'iq7zzb', 'ipzwy3', 'ipsfur'}",3,2020-09-10
+70,com,www reddit,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+71,www reddit,amp,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+72,www reddit,cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+73,https,www reddit,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+74,www reddit,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+75,com,search,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+76,search,amp,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+77,search,cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+78,search,https,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+79,search,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+80,https,click,"{'ipzmdc', 'ipsfur'}",2,2020-09-10
+81,com,click,{'ipsfur'},1,2020-09-10
+82,amp,click,{'ipsfur'},1,2020-09-10
+83,cryptocurrency,click,{'ipsfur'},1,2020-09-10
+84,click,www,{'ipsfur'},1,2020-09-10
+85,com,profit,{'ipsfur'},1,2020-09-10
+86,profit,amp,{'ipsfur'},1,2020-09-10
+87,profit,crypto,{'ipybrr'},1,2020-09-10
+88,profit,cryptocurrency,{'ipsfur'},1,2020-09-10
+89,profit,https,{'ipsfur'},1,2020-09-10
+90,information,amp,"{'iq7zzb', 'iq9m76', 'ipsfur'}",3,2020-09-10
+91,information,check,"{'iq7zzb', 'iq9m76', 'ipsfur'}",3,2020-09-10
+92,information,read,"{'iq9m76', 'ipwj7h', 'ipsfur'}",3,2020-09-10
+93,information,lot,"{'iq7zzb', 'iq9m76', 'ipwj7h'}",3,2020-09-10
+94,com,information,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+95,com,com cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+96,amp,com cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+97,cryptocurrency,com cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+98,https,com cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+99,www,com cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+100,com,discussion,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+101,discussion,amp,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+102,discussion,cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+103,discussion,https,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+104,discussion,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+106,million bitcoin,bitcoin nan,"{'iq0uyj', 'iq0xu7'}",2,2020-09-10
+107,hackers,bitcoin nan,"{'iq0uyj', 'iq0xu7'}",2,2020-09-10
+108,electricity,bitcoin nan,"{'iq0uyj', 'iq0xu7'}",2,2020-09-10
+109,bitcoin nan,pakistan,"{'iq0uyj', 'iq0xu7'}",2,2020-09-10
+110,com,amp restrict_sr,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+111,amp,amp restrict_sr,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+112,cryptocurrency,amp restrict_sr,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+113,https,amp restrict_sr,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+114,amp restrict_sr,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+115,com,cryptocurrency search,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+116,cryptocurrency search,amp,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+117,cryptocurrency search,cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+118,cryptocurrency search,https,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+119,cryptocurrency search,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+120,com,restrict_sr,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+121,restrict_sr,amp,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+122,restrict_sr,cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+123,restrict_sr,https,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+124,restrict_sr,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+125,ethereum,defi,"{'iq95db', 'ipzpkx', 'ipxvfn'}",3,2020-09-10
+126,finance,defi,"{'iq95db', 'ipzpkx', 'iqeqev'}",3,2020-09-10
+127,yield,defi,"{'iqb1an', 'ipxvfn', 'iq8xcf'}",3,2020-09-10
+128,defi,dump,"{'ipzwy3', 'ipxvfn'}",2,2020-09-10
+129,defi,pump,"{'ipzwy3', 'ipxvfn'}",2,2020-09-10
+130,coin,price,"{'iq7zia', 'iq7zzb', 'ipxvfn'}",3,2020-09-10
+131,people,price,"{'iq7zia', 'iq7zzb', 'ipxvfn'}",3,2020-09-10
+132,bitcoin,price,"{'ipy8jz', 'ipxvfn'}",2,2020-09-10
+133,amp,price,"{'iq7zzb', 'ipy8jz'}",2,2020-09-10
+134,coins,price,"{'iq7zia', 'iq7zzb'}",2,2020-09-10
+136,ethereum,bitcoin,"{'iq503k', 'ipxvfn'}",2,2020-09-10
+137,market,ethereum,"{'iq95db', 'iq503k'}",2,2020-09-10
+138,years,ethereum,"{'iq503k', 'ipxvfn'}",2,2020-09-10
+139,ethereum,world,"{'ipzpkx', 'iq503k'}",2,2020-09-10
+140,blockchain,job,"{'iq3hvy', 'iqdlda'}",2,2020-09-10
+141,crypto,blockchain,{'ipybrr'},1,2020-09-10
+142,search,blockchain,{'iq3hvy'},1,2020-09-10
+143,profit,blockchain,{'ipybrr'},1,2020-09-10
+144,blockchain,ethereum,{'iq1pb3'},1,2020-09-10
+146,amp,read,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+147,check,read,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+148,sources,read,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+149,read,sub,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+150,dump,pump,"{'ipsfur', 'ipzwy3', 'ipxvfn'}",3,2020-09-10
+151,dump,pump dump,"{'ipsfur', 'ipzwy3', 'ipxvfn'}",3,2020-09-10
+152,com,dump,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+153,https,dump,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+154,check,dump,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+156,pump dump,pump,"{'ipsfur', 'ipzwy3', 'ipxvfn'}",3,2020-09-10
+157,com,pump,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+158,https,pump,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+159,check,pump,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+160,right,time,"{'ipybrr', 'iq9m76', 'ipzwy3'}",3,2020-09-10
+161,right,people,"{'iq7zia', 'ipybrr', 'ipzwy3'}",3,2020-09-10
+162,use,right,"{'iq7zia', 'iq9m76', 'ipzwy3'}",3,2020-09-10
+163,right,work,"{'ipybrr', 'iq9m76', 'ipzwy3'}",3,2020-09-10
+164,right,things,"{'iq7zia', 'ipybrr', 'ipzwy3'}",3,2020-09-10
+165,bought,price,{'iq7zia'},1,2020-09-10
+166,bought,right,{'iq7zia'},1,2020-09-10
+167,coin,bought,{'iq7zia'},1,2020-09-10
+168,bought,coins,{'iq7zia'},1,2020-09-10
+169,bought,people,{'iq7zia'},1,2020-09-10
+170,com,discussions,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+171,discussions,amp,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+172,discussions,cryptocurrency,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+173,https,discussions,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+174,discussions,www,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+175,com,ve,"{'iqan8w', 'iq503k'}",2,2020-09-10
+176,crypto,ve,"{'iqan8w', 'iq503k'}",2,2020-09-10
+177,check,ve,"{'iqan8w', 'iq503k'}",2,2020-09-10
+178,ve,way,"{'ipwj7h', 'iq503k'}",2,2020-09-10
+179,ve,eth,"{'ipwj7h', 'iq503k'}",2,2020-09-10
+180,sources,amp,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+181,sources,check,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+182,sources,information,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+184,sources,sub,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+187,com,time,"{'iq7zzb', 'ipzwy3', 'iq503k'}",3,2020-09-10
+188,amp,time,"{'iq7zzb', 'iq9m76', 'iq503k'}",3,2020-09-10
+189,https,time,"{'iq7zzb', 'ipzwy3', 'iq503k'}",3,2020-09-10
+190,market,crypto,"{'iq6qrf', 'iq503k'}",2,2020-09-10
+192,market,network,"{'ipt23r', 'iqdcyi'}",2,2020-09-10
+193,ecosystem,market,"{'ipt23r', 'iqdcyi'}",2,2020-09-10
+194,market,expansion,"{'ipt23r', 'iqdcyi'}",2,2020-09-10
+195,com,september,{'ipsfur'},1,2020-09-10
+196,september,amp,{'ipsfur'},1,2020-09-10
+197,september,cryptocurrency,{'ipsfur'},1,2020-09-10
+198,september,https,{'ipsfur'},1,2020-09-10
+199,september,www,{'ipsfur'},1,2020-09-10
+200,community,today,"{'iq7zzb', 'iqeso1'}",2,2020-09-10
+201,learn,today,"{'iq7zzb', 'iqeso1'}",2,2020-09-10
+202,com,today,{'iq7zzb'},1,2020-09-10
+203,amp,today,{'iq7zzb'},1,2020-09-10
+204,crypto,today,{'iq7zzb'},1,2020-09-10
+205,com,sort,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+206,amp,sort,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+207,cryptocurrency,sort,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+208,https,sort,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+209,www,sort,"{'iq7zzb', 'ipsfur'}",2,2020-09-10
+210,coinbase,fees,"{'iq94f2', 'iq953y'}",2,2020-09-10
+211,avoid,fees,"{'iq94f2', 'iq953y'}",2,2020-09-10
+212,need,fees,{'iq94f2'},1,2020-09-10
+215,years,value,"{'iq503k', 'ipxvfn'}",2,2020-09-10
+216,years,cap,"{'iq503k', 'ipxvfn'}",2,2020-09-10
+217,years,investment,"{'iq503k', 'ipxvfn'}",2,2020-09-10
+218,amp,sub,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+219,check,sub,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+220,information,sub,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+221,sub,read,"{'iq9m76', 'ipsfur'}",2,2020-09-10
+223,rules,amp,"{'iq503k', 'iq9m76', 'ipsfur'}",3,2020-09-10
+224,rules,check,"{'iq503k', 'iq9m76', 'ipsfur'}",3,2020-09-10
+225,com,rules,"{'iq503k', 'ipsfur'}",2,2020-09-10
+226,rules,cryptocurrency,"{'iq503k', 'ipsfur'}",2,2020-09-10
+227,rules,https,"{'iq503k', 'ipsfur'}",2,2020-09-10
+228,com,title,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+229,https,title,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+230,check,title,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+231,title,reddit,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+232,comments,title,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+233,com,thread,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+234,https,thread,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+235,check,thread,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+236,thread,reddit,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+237,comments,thread,"{'ipzwy3', 'ipsfur'}",2,2020-09-10
+238,crypto,feel,"{'iq7zzb', 'ipwq3s', 'iq503k'}",3,2020-09-10
+239,feel,point,"{'iq7zzb', 'ipwq3s', 'iq503k'}",3,2020-09-10
+240,com,feel,"{'iq7zzb', 'iq503k'}",2,2020-09-10
+241,amp,feel,"{'iq7zzb', 'iq503k'}",2,2020-09-10
+242,cryptocurrency,feel,"{'iq7zzb', 'iq503k'}",2,2020-09-10
+243,crypto,don,"{'ipybrr', 'ipwq3s', 'iq503k'}",3,2020-09-10
+244,don,time,"{'ipybrr', 'iq9m76', 'iq503k'}",3,2020-09-10
+245,don,way,"{'ipybrr', 'iq9m76', 'iq503k'}",3,2020-09-10
+246,don,point,"{'iq9m76', 'ipwq3s', 'iq503k'}",3,2020-09-10
+247,track,don,"{'iq9m76', 'iq503k', 'iqarnb'}",3,2020-09-10

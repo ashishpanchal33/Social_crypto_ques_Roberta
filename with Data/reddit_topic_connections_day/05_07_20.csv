@@ -1,0 +1,218 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'hlmpb1', 'hlihak'}",2,2020-07-05
+1,cryptocurrency,bitcoin,"{'hlj5sx', 'hlmpb1'}",2,2020-07-05
+2,amp,bitcoin,"{'hlj5sx', 'hlw1as'}",2,2020-07-05
+3,news,bitcoin,"{'hlj5sx', 'hllccj'}",2,2020-07-05
+4,bitcoin,gold,"{'hlmpb1', 'hliy6q'}",2,2020-07-05
+5,crypto,cryptocurrency,"{'hlu4pl', 'hlg4y2', 'hlmpb1', 'hlk3cm'}",4,2020-07-05
+6,crypto,https,"{'hlw6hr', 'hlu4pl', 'hlnevp', 'hlk3cm'}",4,2020-07-05
+7,crypto,investment,"{'hlk6nr', 'hlu4pl', 'hlmpb1', 'hlm4qo'}",4,2020-07-05
+8,crypto,amp,"{'hlw6hr', 'hlu4pl', 'hlngf3'}",3,2020-07-05
+9,com,crypto,"{'hlnevp', 'hlu4pl', 'hlk3cm'}",3,2020-07-05
+12,amp,cryptocurrency,"{'hlj5sx', 'hlu4pl'}",2,2020-07-05
+13,https,cryptocurrency,"{'hlu4pl', 'hlk3cm'}",2,2020-07-05
+14,com,cryptocurrency,"{'hlu4pl', 'hlk3cm'}",2,2020-07-05
+15,https,amp,"{'hlw6hr', 'hlu4pl', 'hlw759', 'hlm932'}",4,2020-07-05
+16,post,amp,"{'hlw6hr', 'hlu4pl', 'hlw759', 'hlm932'}",4,2020-07-05
+18,amp,comments,"{'hlw6hr', 'hlu4pl', 'hlm932'}",3,2020-07-05
+20,com,https,"{'hlm932', 'hln5pd', 'hlk3cm', 'hlnevp', 'hlu4pl'}",5,2020-07-05
+23,post,https,"{'hlw6hr', 'hlu4pl', 'hlw759', 'hlm932'}",4,2020-07-05
+24,https,time,"{'hlw6hr', 'hlu4pl', 'hln5pd'}",3,2020-07-05
+27,com,day,"{'hlm932', 'hlu4pl', 'hledom'}",3,2020-07-05
+29,com,amp,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+30,btc,world,"{'hllgj3', 'hlm4qo'}",2,2020-07-05
+31,crypto,btc,{'hlm4qo'},1,2020-07-05
+32,btc,read,{'hlm4qo'},1,2020-07-05
+33,market,btc,{'hlm4qo'},1,2020-07-05
+34,money,btc,{'hllgj3'},1,2020-07-05
+35,amp,www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+36,https,www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+37,www,https www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+38,discussion,www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+39,post,www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+40,amp,https www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+41,https,https www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+43,discussion,https www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+44,post,https www,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+45,ethereum,bitcoin,{'hlw1as'},1,2020-07-05
+46,crypto,ethereum,{'hlidbo'},1,2020-07-05
+47,ethereum,amp,{'hlw1as'},1,2020-07-05
+48,ethereum,blockchain,{'hlw1as'},1,2020-07-05
+49,coin,ethereum,{'hlw1as'},1,2020-07-05
+50,crypto,reddit,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+51,amp,reddit,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+52,https,reddit,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+53,time,reddit,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+54,comments,reddit,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+55,crypto,time,"{'hlw6hr', 'hlu4pl', 'hli24v'}",3,2020-07-05
+57,community,time,"{'hlw6hr', 'hlu4pl', 'hln5pd'}",3,2020-07-05
+58,thing,time,"{'hlw6hr', 'hlu4pl', 'hln5pd'}",3,2020-07-05
+59,amp,time,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+60,https,blockchain,"{'hlk3cm', 'hln5pd', 'hlw759'}",3,2020-07-05
+61,crypto,blockchain,"{'hlk3cm', 'hlg4y2'}",2,2020-07-05
+62,blockchain,cryptocurrency,"{'hlk3cm', 'hlg4y2'}",2,2020-07-05
+63,blockchain,amp,"{'hlw759', 'hlw1as'}",2,2020-07-05
+64,com,blockchain,"{'hlk3cm', 'hln5pd'}",2,2020-07-05
+66,https,comments,"{'hlw6hr', 'hlu4pl', 'hlm932'}",3,2020-07-05
+67,post,comments,"{'hlw6hr', 'hlu4pl', 'hlm932'}",3,2020-07-05
+68,crypto,comments,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+69,com,comments,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+70,crypto,check,"{'hlu4pl', 'hlg4y2'}",2,2020-07-05
+71,check,cryptocurrency,"{'hlu4pl', 'hlg4y2'}",2,2020-07-05
+72,com,check,"{'hlu4pl', 'hledom'}",2,2020-07-05
+73,check,day,"{'hlu4pl', 'hledom'}",2,2020-07-05
+74,right,check,"{'hlg4y2', 'hledom'}",2,2020-07-05
+75,https,click,"{'hlnevp', 'hlw6hr', 'hlm932'}",3,2020-07-05
+76,crypto,click,"{'hlnevp', 'hlw6hr'}",2,2020-07-05
+77,amp,click,"{'hlw6hr', 'hlm932'}",2,2020-07-05
+78,com,click,"{'hlnevp', 'hlm932'}",2,2020-07-05
+79,comments,click,"{'hlw6hr', 'hlm932'}",2,2020-07-05
+80,crypto,read,"{'hlk14j', 'hlm4qo'}",2,2020-07-05
+82,market,read,{'hlm4qo'},1,2020-07-05
+83,world,read,{'hlm4qo'},1,2020-07-05
+84,read,year,{'hlk14j'},1,2020-07-05
+86,amp,day,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+87,https,day,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+88,comments,day,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+90,discussion,amp,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+91,discussion,https,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+94,post,discussion,"{'hlu4pl', 'hlw759'}",2,2020-07-05
+95,market,crypto,"{'hlj8fc', 'hlm4qo'}",2,2020-07-05
+98,market,world,{'hlm4qo'},1,2020-07-05
+99,market,investment,{'hlm4qo'},1,2020-07-05
+100,crypto,way,"{'hlw6hr', 'hlk6nr'}",2,2020-07-05
+101,cool,way,"{'hlm7lb', 'hlido1'}",2,2020-07-05
+102,way,cool way,"{'hlm7lb', 'hlido1'}",2,2020-07-05
+103,program,way,"{'hlw6hr', 'hli3py'}",2,2020-07-05
+104,amp,way,{'hlw6hr'},1,2020-07-05
+105,crypto,price,{'hlu4pl'},1,2020-07-05
+106,cryptocurrency,price,{'hlu4pl'},1,2020-07-05
+107,amp,price,{'hlu4pl'},1,2020-07-05
+108,https,price,{'hlu4pl'},1,2020-07-05
+109,com,price,{'hlu4pl'},1,2020-07-05
+110,crypto,world,"{'hlv12u', 'hlmpb1', 'hlm4qo'}",3,2020-07-05
+111,world,btc,"{'hllgj3', 'hlm4qo'}",2,2020-07-05
+112,world,investment,"{'hlmpb1', 'hlm4qo'}",2,2020-07-05
+113,exchange,world,"{'hlhank', 'hlmpb1'}",2,2020-07-05
+114,world,currency,"{'hllgj3', 'hlmpb1'}",2,2020-07-05
+115,bitcoin,year,{'hliy6q'},1,2020-07-05
+116,crypto,year,{'hlk14j'},1,2020-07-05
+117,https,year,{'hln5pd'},1,2020-07-05
+118,com,year,{'hln5pd'},1,2020-07-05
+119,time,year,{'hln5pd'},1,2020-07-05
+120,crypto,people,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+121,amp,people,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+122,https,people,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+123,people,reddit,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+124,people,time,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+125,crypto,money,"{'hlk6nr', 'hlk14j'}",2,2020-07-05
+127,money,read,{'hlk14j'},1,2020-07-05
+128,money,way,{'hlk6nr'},1,2020-07-05
+129,money,world,{'hllgj3'},1,2020-07-05
+133,post,crypto,"{'hlw6hr', 'hlu4pl'}",2,2020-07-05
+134,com,post,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+135,crypto,use,"{'hlk3cm', 'hlmpb1'}",2,2020-07-05
+136,use,cryptocurrency,"{'hlk3cm', 'hlmpb1'}",2,2020-07-05
+137,https,use,"{'hlk3cm', 'hln5pd'}",2,2020-07-05
+138,com,use,"{'hlk3cm', 'hln5pd'}",2,2020-07-05
+139,use,blockchain,"{'hlk3cm', 'hln5pd'}",2,2020-07-05
+140,crypto,today,"{'hlk6nr', 'hlu4pl', 'hlihak'}",3,2020-07-05
+141,amp,today,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+142,https,today,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+143,com,today,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+144,today,comments,"{'hlm932', 'hlu4pl'}",2,2020-07-05
+145,crypto,don,"{'hlw6hr', 'hlja4x', 'hlk14j'}",3,2020-07-05
+146,don,value,"{'hlw6hr', 'hlk14j'}",2,2020-07-05
+147,don,bitcoin,{'hlh9pw'},1,2020-07-05
+148,amp,don,{'hlw6hr'},1,2020-07-05
+149,https,don,{'hlw6hr'},1,2020-07-05
+150,coin,crypto,"{'hlu4pl', 'hlikh3'}",2,2020-07-05
+151,coin,amp,"{'hlu4pl', 'hlw1as'}",2,2020-07-05
+152,coin,people,"{'hlhank', 'hlu4pl'}",2,2020-07-05
+153,coin,zero,"{'hlhank', 'hlu4pl'}",2,2020-07-05
+154,coin,bitcoin,{'hlw1as'},1,2020-07-05
+156,amp,news,"{'hlngf3', 'hlj5sx'}",2,2020-07-05
+157,crypto,news,{'hlngf3'},1,2020-07-05
+158,news,cryptocurrency,{'hlj5sx'},1,2020-07-05
+159,news,token,{'hlngf3'},1,2020-07-05
+160,crypto,value,"{'hlw6hr', 'hlmpb1', 'hlk14j'}",3,2020-07-05
+162,worth,value,"{'hledom', 'hlmpb1'}",2,2020-07-05
+163,exchange,value,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+164,stay,value,"{'hlw6hr', 'hlmpb1'}",2,2020-07-05
+166,cryptocurrency,investment,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+168,today,investment,"{'hlk6nr', 'hlu4pl'}",2,2020-07-05
+169,investment,feel,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+170,crypto,token,"{'hlngf3', 'hlg4y2'}",2,2020-07-05
+171,blockchain,token,"{'hlg4y2', 'hln5pd'}",2,2020-07-05
+172,cryptocurrency,token,{'hlg4y2'},1,2020-07-05
+173,amp,token,{'hlngf3'},1,2020-07-05
+174,https,token,{'hln5pd'},1,2020-07-05
+176,isn,worth,"{'hledom', 'hlmpb1'}",2,2020-07-05
+177,worth,bitcoin,{'hlmpb1'},1,2020-07-05
+178,crypto,worth,{'hlmpb1'},1,2020-07-05
+179,cryptocurrency,worth,{'hlmpb1'},1,2020-07-05
+180,crypto,projects,"{'hlj8fc', 'hlu4pl'}",2,2020-07-05
+181,cryptocurrency,projects,{'hlu4pl'},1,2020-07-05
+182,amp,projects,{'hlu4pl'},1,2020-07-05
+183,https,projects,{'hlu4pl'},1,2020-07-05
+184,com,projects,{'hlu4pl'},1,2020-07-05
+185,crypto,need,"{'hlw6hr', 'hlidbo'}",2,2020-07-05
+186,amp,need,{'hlw6hr'},1,2020-07-05
+187,https,need,{'hlw6hr'},1,2020-07-05
+188,ethereum,need,{'hlidbo'},1,2020-07-05
+189,need,reddit,{'hlw6hr'},1,2020-07-05
+190,want,https,"{'hlm932', 'hlk3cm'}",2,2020-07-05
+191,com,want,"{'hlm932', 'hlk3cm'}",2,2020-07-05
+192,want,crypto,{'hlk3cm'},1,2020-07-05
+193,want,cryptocurrency,{'hlk3cm'},1,2020-07-05
+194,want,amp,{'hlm932'},1,2020-07-05
+195,exchange,crypto,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+197,exchange,use,"{'hlmn7c', 'hlmpb1'}",2,2020-07-05
+199,options,exchange,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+200,crypto,feel,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+201,cryptocurrency,feel,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+202,feel,investment,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+203,hold,feel,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+204,asset,feel,"{'hlu4pl', 'hlmpb1'}",2,2020-07-05
+205,stay,crypto,"{'hlw6hr', 'hlmpb1'}",2,2020-07-05
+207,example,stay,"{'hlw6hr', 'hlmpb1'}",2,2020-07-05
+208,stay,things,"{'hlw6hr', 'hlmpb1'}",2,2020-07-05
+209,stay,simple,"{'hlw6hr', 'hlmpb1'}",2,2020-07-05
+210,people,scam,"{'hlu4pl', 'hlixtw'}",2,2020-07-05
+211,scam,bitcoin,{'hlixtw'},1,2020-07-05
+212,crypto,scam,{'hlu4pl'},1,2020-07-05
+213,cryptocurrency,scam,{'hlu4pl'},1,2020-07-05
+214,amp,scam,{'hlu4pl'},1,2020-07-05
+215,use,help,"{'hln5pd', 'hlmn7c'}",2,2020-07-05
+216,https,help,{'hln5pd'},1,2020-07-05
+217,com,help,{'hln5pd'},1,2020-07-05
+218,time,help,{'hln5pd'},1,2020-07-05
+219,blockchain,help,{'hln5pd'},1,2020-07-05
+220,crypto,case,"{'hlw6hr', 'hlm4qo'}",2,2020-07-05
+221,case,value,"{'hlw6hr', 'hledom'}",2,2020-07-05
+222,example,case,"{'hlw6hr', 'hlm4qo'}",2,2020-07-05
+223,amp,case,{'hlw6hr'},1,2020-07-05
+224,https,case,{'hlw6hr'},1,2020-07-05
+225,crypto,right,"{'hlg4y2', 'hlk14j'}",2,2020-07-05
+227,right,value,"{'hledom', 'hlk14j'}",2,2020-07-05
+228,right,idea,"{'hlg4y2', 'hlk14j'}",2,2020-07-05
+229,right,change,"{'hledom', 'hlk14j'}",2,2020-07-05
+230,options,crypto,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+231,options,value,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+233,fiat,options,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+234,options,pay,"{'hlmpb1', 'hlk14j'}",2,2020-07-05
+235,bitcoin,events,{'hllccj'},1,2020-07-05
+236,amp,events,{'hlm932'},1,2020-07-05
+237,https,events,{'hlm932'},1,2020-07-05
+238,com,events,{'hlm932'},1,2020-07-05
+239,comments,events,{'hlm932'},1,2020-07-05
+240,week,cryptocurrency,"{'hlj5sx', 'hlu4pl'}",2,2020-07-05
+241,week,amp,"{'hlj5sx', 'hlu4pl'}",2,2020-07-05
+242,week,bitcoin,{'hlj5sx'},1,2020-07-05
+243,crypto,week,{'hlu4pl'},1,2020-07-05
+244,https,week,{'hlu4pl'},1,2020-07-05
+245,crypto,event,{'hlk14j'},1,2020-07-05
+246,event,amp,{'hlm932'},1,2020-07-05
+247,https,event,{'hlm932'},1,2020-07-05
+248,com,event,{'hlm932'},1,2020-07-05
+249,event,comments,{'hlm932'},1,2020-07-05

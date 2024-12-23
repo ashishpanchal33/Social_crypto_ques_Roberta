@@ -1,0 +1,225 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'b5q6x3', 'b5sn89', 'b5ims1', 'b5pg77', 'b5q23f', 'b5n5ia', 'b5t9hv'}",7,2019-03-26
+1,market,crypto,"{'b5q6x3', 'b5l56y', 'b5qvwb', 'b5pg77', 'b5q23f', 'b5n5ia', 'b5vgle'}",7,2019-03-26
+2,exchange,crypto,"{'b5se8e', 'b5q6x3', 'b5pzbb', 'b5lmuv', 'b5t8p2', 'b5q23f'}",6,2019-03-26
+3,crypto,amp,"{'b5kz41', 'b5pzbb', 'b5t6x7', 'b5ims1', 'b5q23f'}",5,2019-03-26
+4,trading,crypto,"{'b5pzbb', 'b5sn89', 'b5ims1', 'b5ogf7', 'b5q23f'}",5,2019-03-26
+5,cryptocurrency,bitcoin,"{'b5qqxt', 'b5sn89', 'b5t1vf', 'b5ims1', 'b5q23f', 'b5ijx7'}",6,2019-03-26
+6,exchange,cryptocurrency,"{'b5tngd', 'b5pzbb', 'b5m4s1', 'b5v6q9', 'b5q23f', 'b5lgml'}",6,2019-03-26
+7,https,cryptocurrency,"{'b5qqxt', 'b5tngd', 'b5imxn', 'b5sn89', 'b5q23f'}",5,2019-03-26
+8,trading,cryptocurrency,"{'b5tghd', 'b5pzbb', 'b5sn89', 'b5ims1', 'b5q23f'}",5,2019-03-26
+9,crypto,cryptocurrency,"{'b5sn89', 'b5q23f', 'b5pzbb', 'b5ims1'}",4,2019-03-26
+11,com,https,"{'b5ng23', 'b5imxn', 'b5sn89', 'b5v1yl', 'b5tss4'}",5,2019-03-26
+12,https,project,"{'b5qqxt', 'b5v1yl', 'b5tss4', 'b5q23f', 'b5vgle'}",5,2019-03-26
+13,crypto,https,"{'b5sn89', 'b5tss4', 'b5vgle', 'b5q23f'}",4,2019-03-26
+14,https,www,"{'b5imxn', 'b5ng23', 'b5v1yl', 'b5tngd'}",4,2019-03-26
+16,com,crypto,"{'b5sn89', 'b5tss4', 'b5t9hv'}",3,2019-03-26
+17,com,www,"{'b5imxn', 'b5ng23', 'b5v1yl'}",3,2019-03-26
+18,com,https www,"{'b5imxn', 'b5ng23', 'b5v1yl'}",3,2019-03-26
+19,com,simple,"{'b5sn89', 'b5ukkn', 'b5ng23'}",3,2019-03-26
+22,market,bitcoin,"{'b5q6x3', 'b5pg77', 'b5q23f', 'b5o1no', 'b5n5ia', 'b5sw3i'}",6,2019-03-26
+23,bitcoin,price,"{'b5nuw3', 'b5nj4y', 'b5qdif', 'b5q23f', 'b5qpai', 'b5t1vf'}",6,2019-03-26
+24,btc,bitcoin,"{'b5qqxt', 'b5sn89', 'b5q3u1', 'b5qpai', 'b5t1vf'}",5,2019-03-26
+25,blockchain,investment,"{'b5u1sd', 'b5tss4', 'b5q23f', 'b5maci'}",4,2019-03-26
+26,summit,blockchain,"{'b5lvct', 'b5u1sd', 'b5o6xt', 'b5o50a'}",4,2019-03-26
+27,blockchain,week,"{'b5lvct', 'b5u1sd', 'b5o6xt', 'b5o50a'}",4,2019-03-26
+28,blockchain,blockchain week,"{'b5lvct', 'b5u1sd', 'b5o6xt', 'b5o50a'}",4,2019-03-26
+29,paris,blockchain,"{'b5lvct', 'b5u1sd', 'b5o6xt', 'b5o50a'}",4,2019-03-26
+31,www,https www,"{'b5imxn', 'b5ng23', 'b5v1yl', 'b5tngd'}",4,2019-03-26
+33,cryptocurrency,www,"{'b5imxn', 'b5tngd'}",2,2019-03-26
+34,amp,www,"{'b5ng23', 'b5v1yl'}",2,2019-03-26
+35,https,https www,"{'b5imxn', 'b5ng23', 'b5v1yl', 'b5tngd'}",4,2019-03-26
+38,cryptocurrency,https www,"{'b5imxn', 'b5tngd'}",2,2019-03-26
+39,amp,https www,"{'b5ng23', 'b5v1yl'}",2,2019-03-26
+40,time,bitcoin,"{'b5qqxt', 'b5n5ia', 'b5q23f', 'b5ims1'}",4,2019-03-26
+41,market,time,"{'b5v1yl', 'b5q23f', 'b5n5ia', 'b5oixc'}",4,2019-03-26
+42,crypto,time,"{'b5n5ia', 'b5q23f', 'b5ims1'}",3,2019-03-26
+43,cryptocurrency,time,"{'b5qqxt', 'b5q23f', 'b5ims1'}",3,2019-03-26
+44,https,time,"{'b5v1yl', 'b5qqxt', 'b5q23f'}",3,2019-03-26
+46,amp,price,"{'b5kz41', 'b5nj4y', 'b5scok', 'b5q23f'}",4,2019-03-26
+47,watch,amp,"{'b5kz41', 'b5q23f', 'b5ng23', 'b5v1yl'}",4,2019-03-26
+48,amp,cryptocurrency,"{'b5q23f', 'b5pzbb', 'b5ims1'}",3,2019-03-26
+49,https,amp,"{'b5v1yl', 'b5q23f', 'b5ng23'}",3,2019-03-26
+50,cryptocurrency,reddit,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+51,https,reddit,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+52,need,reddit,"{'b5wjx4', 'b5q23f'}",2,2019-03-26
+53,money,reddit,"{'b5wjx4', 'b5q23f'}",2,2019-03-26
+54,check,reddit,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+55,trade,march,"{'b5nj4y', 'b5imxn'}",2,2019-03-26
+56,cryptocurrency,march,{'b5imxn'},1,2019-03-26
+57,https,march,{'b5imxn'},1,2019-03-26
+58,com,march,{'b5imxn'},1,2019-03-26
+59,bitcoin,march,{'b5nj4y'},1,2019-03-26
+60,people,bitcoin,"{'b5qqxt', 'b5n5ia', 'b5ltrx'}",3,2019-03-26
+61,people,time,"{'b5qqxt', 'b5n5ia'}",2,2019-03-26
+62,people,start,"{'b5qqxt', 'b5n5ia'}",2,2019-03-26
+63,people,world,"{'b5qqxt', 'b5n5ia'}",2,2019-03-26
+64,people,way,"{'b5qqxt', 'b5ltrx'}",2,2019-03-26
+68,market,crypto market,"{'b5l56y', 'b5qvwb', 'b5pg77', 'b5vgle'}",4,2019-03-26
+69,market,https,"{'b5q23f', 'b5vgle', 'b5v1yl'}",3,2019-03-26
+71,btc,cryptocurrency,"{'b5t1vf', 'b5qqxt', 'b5sn89', 'b5tngd'}",4,2019-03-26
+72,https,btc,"{'b5qqxt', 'b5sn89', 'b5tngd'}",3,2019-03-26
+73,btc,way,"{'b5qqxt', 'b5sn89', 'b5p598'}",3,2019-03-26
+74,btc,price,"{'b5t1vf', 'b5scok', 'b5qpai'}",3,2019-03-26
+75,crypto,information,"{'b5n5ia', 'b5pzbb'}",2,2019-03-26
+76,information,cryptocurrency,"{'b5imxn', 'b5pzbb'}",2,2019-03-26
+77,information,today,"{'b5n5ia', 'b5pzbb'}",2,2019-03-26
+78,https,information,{'b5imxn'},1,2019-03-26
+79,com,information,{'b5imxn'},1,2019-03-26
+80,trade,cryptocurrency,"{'b5rh8g', 'b5imxn'}",2,2019-03-26
+81,trade,https,"{'b5imxn', 'b5v1yl'}",2,2019-03-26
+82,com,trade,"{'b5imxn', 'b5v1yl'}",2,2019-03-26
+83,trade,www,"{'b5imxn', 'b5v1yl'}",2,2019-03-26
+84,trade,https www,"{'b5imxn', 'b5v1yl'}",2,2019-03-26
+85,crypto,need,"{'b5n5ia', 'b5q23f', 'b5wwli'}",3,2019-03-26
+86,money,need,"{'b5wjx4', 'b5n5ia', 'b5q23f'}",3,2019-03-26
+87,need,bitcoin,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+88,need,time,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+90,crypto,money,"{'b5kz41', 'b5n5ia', 'b5q23f'}",3,2019-03-26
+92,money,bitcoin,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+93,money,time,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+94,money,amp,"{'b5kz41', 'b5q23f'}",2,2019-03-26
+95,check,cryptocurrency,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+96,https,check,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+98,profit,check,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+99,check,requirements,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+100,cryptocurrency,rest,"{'b5qqxt', 'b5imxn'}",2,2019-03-26
+101,https,rest,"{'b5qqxt', 'b5imxn'}",2,2019-03-26
+102,rest,age,"{'b5qqxt', 'b5imxn'}",2,2019-03-26
+103,com,rest,{'b5imxn'},1,2019-03-26
+104,rest,bitcoin,{'b5qqxt'},1,2019-03-26
+105,https,use,"{'b5sn89', 'b5ng23', 'b5v924'}",3,2019-03-26
+106,use,blockchain,"{'b5rh8g', 'b5qpzg', 'b5o0bu'}",3,2019-03-26
+107,supply,use,"{'b5rh8g', 'b5qpzg', 'b5o0bu'}",3,2019-03-26
+108,use,cryptocurrency,"{'b5rh8g', 'b5sn89'}",2,2019-03-26
+109,com,use,"{'b5sn89', 'b5ng23'}",2,2019-03-26
+110,crypto,today,"{'b5kz41', 'b5n5ia', 'b5pzbb'}",3,2019-03-26
+111,amp,today,"{'b5kz41', 'b5scok', 'b5pzbb'}",3,2019-03-26
+113,money,today,"{'b5kz41', 'b5n5ia'}",2,2019-03-26
+114,exchange,today,"{'b5scok', 'b5pzbb'}",2,2019-03-26
+115,post,crypto,"{'b5sn89', 'b5pzbb'}",2,2019-03-26
+116,post,cryptocurrency,"{'b5sn89', 'b5pzbb'}",2,2019-03-26
+117,trading,post,"{'b5sn89', 'b5pzbb'}",2,2019-03-26
+118,post,https,{'b5sn89'},1,2019-03-26
+119,com,post,{'b5sn89'},1,2019-03-26
+122,exchange,exchange nan,"{'b5se8e', 'b5q6x3', 'b5t8p2', 'b5lgml'}",4,2019-03-26
+123,exchange,amp,"{'b5scok', 'b5q23f', 'b5pzbb'}",3,2019-03-26
+124,exchange,coins,"{'b5se8e', 'b5scok', 'b5q23f'}",3,2019-03-26
+125,crypto,think,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+126,bitcoin,think,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+127,time,think,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+128,market,think,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+129,need,think,"{'b5n5ia', 'b5q23f'}",2,2019-03-26
+130,cryptocurrency,don,"{'b5qqxt', 'b5q23f'}",2,2019-03-26
+131,https,don,"{'b5qqxt', 'b5q23f'}",2,2019-03-26
+132,don,bitcoin,"{'b5qqxt', 'b5q23f'}",2,2019-03-26
+133,don,time,"{'b5qqxt', 'b5q23f'}",2,2019-03-26
+134,amp,don,"{'b5scok', 'b5q23f'}",2,2019-03-26
+135,btc,eth,"{'b5tngd', 'b5p598'}",2,2019-03-26
+136,cryptocurrency,eth,{'b5tngd'},1,2019-03-26
+137,https,eth,{'b5tngd'},1,2019-03-26
+138,www,eth,{'b5tngd'},1,2019-03-26
+139,eth,https www,{'b5tngd'},1,2019-03-26
+140,years,cryptocurrency,"{'b5qqxt', 'b5sn89', 'b5q23f'}",3,2019-03-26
+141,https,years,"{'b5qqxt', 'b5sn89', 'b5q23f'}",3,2019-03-26
+142,years,bitcoin,"{'b5qqxt', 'b5sn89', 'b5q23f'}",3,2019-03-26
+143,years,way,"{'b5qqxt', 'b5sn89', 'b5q23f'}",3,2019-03-26
+144,years,work,"{'b5qqxt', 'b5sn89', 'b5q23f'}",3,2019-03-26
+145,users,cryptocurrency,"{'b5rh8g', 'b5sn89'}",2,2019-03-26
+146,users,use,"{'b5rh8g', 'b5sn89'}",2,2019-03-26
+147,users,way,"{'b5rh8g', 'b5sn89'}",2,2019-03-26
+148,users,tokens,"{'b5rh8g', 'b5pzvl'}",2,2019-03-26
+149,users,work,"{'b5rh8g', 'b5sn89'}",2,2019-03-26
+150,coin,today,"{'b5n5ia', 'b5scok'}",2,2019-03-26
+151,coin,world,"{'b5n5ia', 'b5scok'}",2,2019-03-26
+152,problem,coin,"{'b5n5ia', 'b5scok'}",2,2019-03-26
+153,coin,real world,"{'b5n5ia', 'b5scok'}",2,2019-03-26
+154,coin,chance,"{'b5n5ia', 'b5scok'}",2,2019-03-26
+155,crypto,start,"{'b5kz41', 'b5sn89', 'b5n5ia'}",3,2019-03-26
+156,start,bitcoin,"{'b5qqxt', 'b5sn89', 'b5n5ia'}",3,2019-03-26
+157,work,start,"{'b5qqxt', 'b5sn89', 'b5n5ia'}",3,2019-03-26
+158,cryptocurrency,start,"{'b5qqxt', 'b5sn89'}",2,2019-03-26
+159,https,start,"{'b5qqxt', 'b5sn89'}",2,2019-03-26
+160,wallet,set,"{'b5qh3o', 'b5sb3b'}",2,2019-03-26
+161,crypto,wallet,{'b5sb3b'},1,2019-03-26
+162,wallet,cryptocurrency,{'b5qh3o'},1,2019-03-26
+163,wallet,people,{'b5mzul'},1,2019-03-26
+164,exchange,wallet,{'b5pn54'},1,2019-03-26
+165,news,bitcoin,"{'b5nj4y', 'b5t1vf'}",2,2019-03-26
+166,news,price,"{'b5nj4y', 'b5t1vf'}",2,2019-03-26
+167,news,cryptocurrency,{'b5t1vf'},1,2019-03-26
+168,amp,news,{'b5nj4y'},1,2019-03-26
+169,news,reddit,{'b5wjx4'},1,2019-03-26
+170,ethereum,amp,"{'b5lt26', 'b5q23f', 'b5lt42'}",3,2019-03-26
+171,https,ethereum,"{'b5q23f', 'b5v924'}",2,2019-03-26
+172,ethereum,blockchain,"{'b5q23f', 'b5lkjl'}",2,2019-03-26
+173,ethereum,time,"{'b5q23f', 'b5lkjl'}",2,2019-03-26
+174,profit,ethereum,"{'b5q23f', 'b5v924'}",2,2019-03-26
+175,world,space,"{'b5qqxt', 'b5n5ia', 'b5rbu9'}",3,2019-03-26
+176,crypto,world,"{'b5n5ia', 'b5rbu9'}",2,2019-03-26
+177,world,bitcoin,"{'b5qqxt', 'b5n5ia'}",2,2019-03-26
+178,world,time,"{'b5qqxt', 'b5n5ia'}",2,2019-03-26
+180,profit,https,"{'b5imxn', 'b5q23f', 'b5v924'}",3,2019-03-26
+181,profit,cryptocurrency,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+182,profit,reddit,"{'b5imxn', 'b5q23f'}",2,2019-03-26
+185,btc,future,"{'b5scok', 'b5p598'}",2,2019-03-26
+186,scenario,future,"{'b5scok', 'b5p598'}",2,2019-03-26
+187,blockchain,future,{'b5vjbn'},1,2019-03-26
+188,amp,future,{'b5scok'},1,2019-03-26
+189,today,future,{'b5scok'},1,2019-03-26
+190,amp,amp x200b,"{'b5kz41', 'b5scok', 'b5ng23'}",3,2019-03-26
+191,amp x200b,x200b,"{'b5kz41', 'b5scok', 'b5ng23'}",3,2019-03-26
+192,today,amp x200b,"{'b5kz41', 'b5scok'}",2,2019-03-26
+193,amp x200b,price,"{'b5kz41', 'b5scok'}",2,2019-03-26
+194,team,amp x200b,"{'b5scok', 'b5ng23'}",2,2019-03-26
+195,amp,x200b,"{'b5kz41', 'b5scok', 'b5ng23'}",3,2019-03-26
+197,today,x200b,"{'b5kz41', 'b5scok'}",2,2019-03-26
+198,price,x200b,"{'b5kz41', 'b5scok'}",2,2019-03-26
+199,team,x200b,"{'b5scok', 'b5ng23'}",2,2019-03-26
+200,crypto,bank,{'b5wwli'},1,2019-03-26
+201,bank,cryptocurrency,{'b5tn8o'},1,2019-03-26
+202,bank,need,{'b5wwli'},1,2019-03-26
+203,bank,coinbase,{'b5r15t'},1,2019-03-26
+204,bank,currency,{'b5wwli'},1,2019-03-26
+207,trading,bitcoin,"{'b5sn89', 'b5q23f', 'b5ims1'}",3,2019-03-26
+208,trading,amp,"{'b5q23f', 'b5pzbb', 'b5ims1'}",3,2019-03-26
+209,trading,means,"{'b5sn89', 'b5q23f', 'b5ims1'}",3,2019-03-26
+210,cryptocurrency,way,"{'b5rh8g', 'b5qqxt', 'b5sn89', 'b5q23f'}",4,2019-03-26
+211,bitcoin,way,"{'b5qqxt', 'b5sn89', 'b5q23f', 'b5ltrx'}",4,2019-03-26
+212,work,way,"{'b5rh8g', 'b5qqxt', 'b5sn89', 'b5q23f'}",4,2019-03-26
+213,https,way,"{'b5qqxt', 'b5sn89', 'b5q23f'}",3,2019-03-26
+215,earn,coinbase,"{'b5ukkn', 'b5t22o', 'b5x955', 'b5ssig'}",4,2019-03-26
+216,stellar,coinbase,"{'b5t22o', 'b5ssig'}",2,2019-03-26
+217,xlm,coinbase,"{'b5ukkn', 'b5x955'}",2,2019-03-26
+218,coinbase earn,coinbase,"{'b5ukkn', 'b5t22o'}",2,2019-03-26
+219,com,coinbase,{'b5ukkn'},1,2019-03-26
+220,https,ve,"{'b5q23f', 'b5v1yl'}",2,2019-03-26
+221,ve,time,"{'b5q23f', 'b5v1yl'}",2,2019-03-26
+222,amp,ve,"{'b5q23f', 'b5v1yl'}",2,2019-03-26
+223,market,ve,"{'b5q23f', 'b5v1yl'}",2,2019-03-26
+224,coins,ve,"{'b5q23f', 'b5v1yl'}",2,2019-03-26
+225,adoption,way,"{'b5rh8g', 'b5ltrx', 'b5p598'}",3,2019-03-26
+226,adoption,btc,"{'b5q1mz', 'b5p598'}",2,2019-03-26
+227,adoption,value,"{'b5rh8g', 'b5p598'}",2,2019-03-26
+228,technology,adoption,"{'b5rh8g', 'b5q1mz'}",2,2019-03-26
+229,adoption,pay,"{'b5rh8g', 'b5ltrx'}",2,2019-03-26
+230,crypto,network,{'b5rlek'},1,2019-03-26
+231,network,price,{'b5rlek'},1,2019-03-26
+232,network,token,{'b5rlek'},1,2019-03-26
+233,huobi,network,{'b5rlek'},1,2019-03-26
+234,sales,network,{'b5rlek'},1,2019-03-26
+235,cryptocurrency,tokens,"{'b5rh8g', 'b5v6q9', 'b5q23f'}",3,2019-03-26
+236,market,tokens,"{'b5rh8g', 'b5q1fp', 'b5q23f'}",3,2019-03-26
+237,tokens,price,"{'b5rh8g', 'b5qr7r', 'b5q23f'}",3,2019-03-26
+238,receive,tokens,"{'b5rh8g', 'b5q23f', 'b5pzvl'}",3,2019-03-26
+239,tokens,tokens nan,"{'b5qr7r', 'b5v6q9', 'b5qrfx'}",3,2019-03-26
+240,bitcoin,year,"{'b5t3rb', 'b5q23f'}",2,2019-03-26
+241,pay,year,"{'b5t3rb', 'b5q23f'}",2,2019-03-26
+242,crypto,year,{'b5q23f'},1,2019-03-26
+243,cryptocurrency,year,{'b5q23f'},1,2019-03-26
+244,https,year,{'b5q23f'},1,2019-03-26
+245,crypto,ceo,{'b5ims1'},1,2019-03-26
+246,cryptocurrency,ceo,{'b5ims1'},1,2019-03-26
+247,ceo,bitcoin,{'b5ims1'},1,2019-03-26
+248,blockchain,ceo,{'b5w2es'},1,2019-03-26
+249,ceo,time,{'b5ims1'},1,2019-03-26

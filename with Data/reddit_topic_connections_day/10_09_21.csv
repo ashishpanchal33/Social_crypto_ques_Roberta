@@ -1,0 +1,219 @@
+,token_1,token_2,connections,connections_strength,date
+0,com,https,"{'plp3wb', 'plwf5q', 'plm9vi', 'pln5r2', 'plbeun', 'plgwr8'}",6,2021-09-10
+1,crypto,https,"{'plmdsq', 'plwf5q', 'plvl40', 'plbeun', 'plgwr8'}",5,2021-09-10
+2,https,reddit,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+3,https,www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+4,https,https www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+5,crypto,cryptocurrency,"{'plmdsq', 'plghh6'}",2,2021-09-10
+6,digital,cryptocurrency,"{'plghh6', 'plbcmn'}",2,2021-09-10
+7,assets,cryptocurrency,"{'plmdsq', 'plghh6'}",2,2021-09-10
+8,https,cryptocurrency,{'plmdsq'},1,2021-09-10
+9,cryptocurrency,smart,{'plmdsq'},1,2021-09-10
+11,com,crypto,"{'plwf5q', 'plru7a', 'plbeun', 'plrpbc', 'pli7ih', 'plgwr8'}",6,2021-09-10
+12,com,reddit,"{'plwf5q', 'plpeki', 'plm9vi', 'pln5r2', 'pli7ih'}",5,2021-09-10
+13,com,www,"{'plwf5q', 'plm9vi', 'pli7ih', 'pln5r2'}",4,2021-09-10
+14,reddit com,com,"{'plwf5q', 'plpeki', 'plm9vi', 'pln5r2'}",4,2021-09-10
+15,crypto,amp,"{'plvl40', 'pli7ih'}",2,2021-09-10
+16,amp,money,"{'plvl40', 'pli9ww'}",2,2021-09-10
+17,amp,defi,"{'pljit3', 'pljmof'}",2,2021-09-10
+18,amp,web,"{'pljit3', 'pljmof'}",2,2021-09-10
+19,cosmos,amp,"{'pljit3', 'pljmof'}",2,2021-09-10
+20,crypto,use,"{'plwf5q', 'plgwr8', 'plr2if'}",3,2021-09-10
+21,market,use,"{'plwf5q', 'plufk0', 'plr2if'}",3,2021-09-10
+22,https,use,"{'plwf5q', 'plgwr8'}",2,2021-09-10
+23,com,use,"{'plwf5q', 'plgwr8'}",2,2021-09-10
+24,wallet,use,"{'plgwr8', 'pli1ol'}",2,2021-09-10
+26,www,reddit,"{'plwf5q', 'plm9vi', 'pli7ih', 'pln5r2'}",4,2021-09-10
+27,reddit com,reddit,"{'plwf5q', 'plpeki', 'plm9vi', 'pln5r2'}",4,2021-09-10
+28,fair,reddit,"{'plwf5q', 'plpeki', 'plm9vi', 'pli7ih'}",4,2021-09-10
+33,www,https www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+34,reddit com,www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+36,com,https www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+37,https www,reddit,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+39,reddit com,https www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+40,wallet,future,"{'pli62d', 'plgwr8', 'plt3o5'}",3,2021-09-10
+41,wallet,works,"{'pli62d', 'plgwr8', 'plt3o5'}",3,2021-09-10
+42,use,wallet,"{'plgwr8', 'pli1ol'}",2,2021-09-10
+43,wallet,people,"{'pli62d', 'plt3o5'}",2,2021-09-10
+44,wallet,don,"{'plt3o5', 'pli1ol'}",2,2021-09-10
+45,crypto,invest,"{'plok8z', 'plulla'}",2,2021-09-10
+46,invest,people,{'plok8z'},1,2021-09-10
+47,invest,time,{'plulla'},1,2021-09-10
+48,invest,bitcoin,{'plulla'},1,2021-09-10
+49,invest,money,{'plok8z'},1,2021-09-10
+50,https,read,"{'plgwr8', 'plwf5q'}",2,2021-09-10
+51,com,read,"{'plgwr8', 'plwf5q'}",2,2021-09-10
+52,use,read,"{'plgwr8', 'plwf5q'}",2,2021-09-10
+53,crypto,read,"{'plgwr8', 'plwf5q'}",2,2021-09-10
+54,investment,read,"{'plgwr8', 'plwf5q'}",2,2021-09-10
+55,https,smart,"{'plmdsq', 'plgwr8'}",2,2021-09-10
+56,crypto,smart,"{'plmdsq', 'plgwr8'}",2,2021-09-10
+57,right,smart,"{'pltq46', 'plgwr8'}",2,2021-09-10
+58,kind,smart,"{'plmdsq', 'pltq46'}",2,2021-09-10
+59,smart,contracts,"{'pltq46', 'plgwr8'}",2,2021-09-10
+60,profit,crypto,"{'plwf5q', 'plvl40', 'plmug2'}",3,2021-09-10
+61,profit,people,"{'pli62d', 'plwf5q', 'plmug2'}",3,2021-09-10
+62,profit,market,"{'plwf5q', 'plufk0', 'plmug2'}",3,2021-09-10
+63,profit,price,"{'plwf5q', 'plufk0', 'plvl40'}",3,2021-09-10
+64,profit,cryptocurrencies,"{'plwf5q', 'pli62d', 'plufk0'}",3,2021-09-10
+65,share,don,{'pltqtv'},1,2021-09-10
+66,want,share,{'pltqtv'},1,2021-09-10
+67,share,day,{'pltqtv'},1,2021-09-10
+68,share,thing,{'plfbjf'},1,2021-09-10
+69,share,today,{'pltqtv'},1,2021-09-10
+70,crypto,information,"{'plmdsq', 'pli3j0', 'pli7ih'}",3,2021-09-10
+71,information,people,"{'plt3o5', 'pli3j0', 'pli7ih'}",3,2021-09-10
+72,information,don,"{'plt3o5', 'pli3j0'}",2,2021-09-10
+73,information,future,"{'plt3o5', 'pli3j0'}",2,2021-09-10
+74,kind,information,"{'plmdsq', 'plt3o5'}",2,2021-09-10
+75,trade,https,"{'plbeun', 'plwf5q'}",2,2021-09-10
+76,com,trade,"{'plbeun', 'plwf5q'}",2,2021-09-10
+77,trade,use,"{'plwf5q', 'plufk0'}",2,2021-09-10
+78,profit,trade,"{'plwf5q', 'plufk0'}",2,2021-09-10
+79,trade,crypto,"{'plbeun', 'plwf5q'}",2,2021-09-10
+80,crypto,join,"{'plghh6', 'pli7ih'}",2,2021-09-10
+81,exchange,join,"{'plghh6', 'pli7ih'}",2,2021-09-10
+82,join,cryptocurrency,{'plghh6'},1,2021-09-10
+83,com,join,{'pli7ih'},1,2021-09-10
+84,amp,join,{'pli7ih'},1,2021-09-10
+85,users,cross,"{'plmdsq', 'plemk0'}",2,2021-09-10
+86,cross,tokens,"{'plmdsq', 'plemk0'}",2,2021-09-10
+87,cross,holders,"{'plmdsq', 'plemk0'}",2,2021-09-10
+88,https,cross,{'plmdsq'},1,2021-09-10
+89,cross,cryptocurrency,{'plmdsq'},1,2021-09-10
+90,com,links,"{'plpeki', 'plm9vi', 'pli7ih'}",3,2021-09-10
+91,links,reddit,"{'plpeki', 'plm9vi', 'pli7ih'}",3,2021-09-10
+92,links,token,"{'plpeki', 'plm9vi', 'pli7ih'}",3,2021-09-10
+93,links,supply,"{'plpeki', 'plm9vi', 'pli7ih'}",3,2021-09-10
+94,links,twitter,"{'plpeki', 'plm9vi', 'pli7ih'}",3,2021-09-10
+95,com,reddit com,"{'plwf5q', 'plpeki', 'plm9vi', 'pln5r2'}",4,2021-09-10
+97,reddit com,https,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+100,https,www reddit,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+101,com,www reddit,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+102,www reddit,reddit,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+103,www reddit,www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+104,www reddit,https www,"{'plwf5q', 'plm9vi', 'pln5r2'}",3,2021-09-10
+105,crypto,people,"{'pliaum', 'plwf5q', 'pli3j0', 'pli7ih', 'plmug2', 'plgsg0', 'plok8z'}",7,2021-09-10
+106,market,crypto,"{'plr2if', 'plmdsq', 'pliaum', 'plwf5q', 'plmug2', 'plpc5v', 'plgsg0'}",7,2021-09-10
+108,crypto,bitcoin,"{'plr2if', 'plghh6', 'pliaum', 'plwf5q', 'plqj4j', 'plulla'}",6,2021-09-10
+109,crypto,money,"{'plok8z', 'plghh6', 'plbeun', 'pli3j0', 'plw4x2', 'plvl40'}",6,2021-09-10
+111,people,don,"{'pli3j0', 'plt3o5', 'plwf5q', 'plmug2'}",4,2021-09-10
+112,people,bitcoin,"{'plwf5q', 'pliaum', 'plpro2', 'pli62d'}",4,2021-09-10
+113,market,people,"{'plgsg0', 'pliaum', 'plwf5q', 'plmug2'}",4,2021-09-10
+115,crypto,don,"{'plwf5q', 'plexhg', 'pli3j0', 'plmug2', 'plpc5v'}",5,2021-09-10
+117,com,don,"{'plwf5q', 'plpeki', 'plm9vi'}",3,2021-09-10
+118,don,reddit,"{'plwf5q', 'plpeki', 'plm9vi'}",3,2021-09-10
+119,reddit com,don,"{'plwf5q', 'plpeki', 'plm9vi'}",3,2021-09-10
+120,gas,eth,"{'plbeun', 'plp0ox'}",2,2021-09-10
+121,eth gas,eth,"{'plbeun', 'plp0ox'}",2,2021-09-10
+122,https,eth,{'plbeun'},1,2021-09-10
+123,com,eth,{'plbeun'},1,2021-09-10
+124,trade,eth,{'plbeun'},1,2021-09-10
+125,crypto,time,"{'plwf5q', 'pli3j0', 'plulla'}",3,2021-09-10
+126,people,time,"{'plwf5q', 'pli3j0', 'plp0ox'}",3,2021-09-10
+127,time,bitcoin,"{'plp3wb', 'plwf5q', 'plulla'}",3,2021-09-10
+128,https,time,"{'plp3wb', 'plwf5q'}",2,2021-09-10
+129,com,time,"{'plp3wb', 'plwf5q'}",2,2021-09-10
+131,salvador,bitcoin,"{'plghh6', 'plp3wb', 'pldoey', 'plgwa4', 'plcam4', 'pletk3'}",6,2021-09-10
+132,el,bitcoin,"{'plghh6', 'plp3wb', 'pldoey', 'plgwa4', 'plcam4', 'pletk3'}",6,2021-09-10
+133,el salvador,bitcoin,"{'plghh6', 'plp3wb', 'pldoey', 'plgwa4', 'plcam4', 'pletk3'}",6,2021-09-10
+135,btc,bitcoin,"{'pli62d', 'plwf5q', 'pldoey'}",3,2021-09-10
+136,wallet,btc,"{'pli62d', 'pldoey'}",2,2021-09-10
+137,profit,btc,"{'pli62d', 'plwf5q'}",2,2021-09-10
+138,people,btc,"{'pli62d', 'plwf5q'}",2,2021-09-10
+139,cryptocurrencies,btc,"{'pli62d', 'plwf5q'}",2,2021-09-10
+144,market,don,"{'plwf5q', 'plmug2', 'plpc5v'}",3,2021-09-10
+145,crypto,think,"{'pliaum', 'pli3j0'}",2,2021-09-10
+146,people,think,"{'pliaum', 'pli3j0'}",2,2021-09-10
+147,money,think,"{'pli3j0', 'plemk0'}",2,2021-09-10
+148,ethereum,think,"{'pliaum', 'plemk0'}",2,2021-09-10
+149,think,way,"{'plemk0', 'plq14m'}",2,2021-09-10
+151,money,way,"{'plemk0', 'plghh6', 'pli62d', 'plbeun', 'plok8z'}",5,2021-09-10
+152,money,need,"{'pli3j0', 'pli62d', 'plok8z', 'pli9ww'}",4,2021-09-10
+153,money,people,"{'pli62d', 'pli3j0', 'plok8z'}",3,2021-09-10
+154,money,network,"{'pli62d', 'plemk0', 'plbeun'}",3,2021-09-10
+155,https,price,"{'plmdsq', 'plwf5q', 'plvl40'}",3,2021-09-10
+157,crypto,price,"{'plmdsq', 'plwf5q', 'plvl40'}",3,2021-09-10
+158,market,price,"{'plmdsq', 'plufk0', 'plwf5q'}",3,2021-09-10
+159,range,price,"{'plmdsq', 'plwf5q', 'plufk0'}",3,2021-09-10
+160,people,ve,"{'pliaum', 'plt3o5'}",2,2021-09-10
+161,ve,lot,"{'pliaum', 'plt3o5'}",2,2021-09-10
+162,ve,heard,"{'pliaum', 'plt3o5'}",2,2021-09-10
+163,wallet,ve,{'plt3o5'},1,2021-09-10
+164,information,ve,{'plt3o5'},1,2021-09-10
+165,years,don,"{'plpeki', 'plm9vi', 'plmug2'}",3,2021-09-10
+166,com,years,"{'plpeki', 'plm9vi'}",2,2021-09-10
+167,years,reddit,"{'plpeki', 'plm9vi'}",2,2021-09-10
+168,links,years,"{'plpeki', 'plm9vi'}",2,2021-09-10
+169,reddit com,years,"{'plpeki', 'plm9vi'}",2,2021-09-10
+170,crypto,ethereum,"{'pliaum', 'plgwr8'}",2,2021-09-10
+172,ethereum,end,"{'plja9u', 'plgwr8'}",2,2021-09-10
+173,ethereum,investment,"{'pliaum', 'plgwr8'}",2,2021-09-10
+174,ethereum,secure,"{'plgwr8', 'plemk0'}",2,2021-09-10
+175,want,https,"{'plp3wb', 'plgwr8'}",2,2021-09-10
+176,com,want,"{'plp3wb', 'plgwr8'}",2,2021-09-10
+177,want,use,"{'plgwr8', 'pli1ol'}",2,2021-09-10
+178,want,wallet,"{'plgwr8', 'pli1ol'}",2,2021-09-10
+179,want,crypto,"{'plok8z', 'plgwr8'}",2,2021-09-10
+181,crypto,way,"{'plghh6', 'plbeun', 'plok8z', 'plmug2'}",4,2021-09-10
+182,people,way,"{'pli62d', 'plok8z', 'plmug2'}",3,2021-09-10
+183,lot,way,"{'plbeun', 'plq14m', 'plmug2'}",3,2021-09-10
+184,network,way,"{'pli62d', 'plemk0', 'plbeun'}",3,2021-09-10
+185,coin,lot,"{'plbeun', 'plt3o5', 'plr2if', 'plmug2'}",4,2021-09-10
+186,coin,crypto,"{'plbeun', 'plr2if', 'plmug2'}",3,2021-09-10
+187,coin,people,"{'plt3o5', 'plmug2'}",2,2021-09-10
+188,coin,don,"{'plt3o5', 'plmug2'}",2,2021-09-10
+189,coin,bitcoin,"{'pltq46', 'plr2if'}",2,2021-09-10
+190,crypto,lot,"{'pliaum', 'plbeun', 'plr2if', 'plmug2'}",4,2021-09-10
+192,people,lot,"{'pliaum', 'plt3o5', 'plmug2'}",3,2021-09-10
+193,market,lot,"{'pliaum', 'plr2if', 'plmug2'}",3,2021-09-10
+195,crypto,day,"{'plgsg0', 'plqj4j', 'plr2if'}",3,2021-09-10
+196,day,bitcoin,"{'pli62d', 'plqj4j', 'plr2if'}",3,2021-09-10
+197,people,day,"{'plgsg0', 'pli62d'}",2,2021-09-10
+198,market,day,"{'plgsg0', 'plr2if'}",2,2021-09-10
+199,use,day,{'plr2if'},1,2021-09-10
+200,coins,crypto,"{'pliaum', 'plvl40', 'plmug2'}",3,2021-09-10
+201,profit,coins,"{'plvl40', 'plmug2'}",2,2021-09-10
+202,coins,people,"{'pliaum', 'plmug2'}",2,2021-09-10
+203,coins,bitcoin,"{'pliaum', 'pltq46'}",2,2021-09-10
+204,market,coins,"{'pliaum', 'plmug2'}",2,2021-09-10
+205,thing,start,"{'pli62d', 'plfbjf'}",2,2021-09-10
+206,wallet,thing,{'pli62d'},1,2021-09-10
+207,profit,thing,{'pli62d'},1,2021-09-10
+209,people,thing,{'pli62d'},1,2021-09-10
+210,exchange,crypto,"{'plghh6', 'plwf5q', 'pli7ih'}",3,2021-09-10
+211,com,exchange,"{'plwf5q', 'pli7ih'}",2,2021-09-10
+212,exchange,reddit,"{'plwf5q', 'pli7ih'}",2,2021-09-10
+213,exchange,www,"{'plwf5q', 'pli7ih'}",2,2021-09-10
+216,crypto,right,"{'plok8z', 'plgwr8'}",2,2021-09-10
+217,want,right,"{'plok8z', 'plgwr8'}",2,2021-09-10
+218,right,need,"{'plok8z', 'plgwr8'}",2,2021-09-10
+219,right,contracts,"{'pltq46', 'plgwr8'}",2,2021-09-10
+220,com,world,"{'plgwr8', 'pli7ih'}",2,2021-09-10
+221,crypto,world,"{'plgwr8', 'pli7ih'}",2,2021-09-10
+222,world,project,"{'plgwr8', 'pli7ih'}",2,2021-09-10
+223,world,public,"{'plgwr8', 'plwn1t'}",2,2021-09-10
+224,https,world,{'plgwr8'},1,2021-09-10
+225,https,worth,"{'plbeun', 'plwf5q'}",2,2021-09-10
+226,com,worth,"{'plbeun', 'plwf5q'}",2,2021-09-10
+227,trade,worth,"{'plbeun', 'plwf5q'}",2,2021-09-10
+228,crypto,worth,"{'plbeun', 'plwf5q'}",2,2021-09-10
+229,money,worth,"{'plbeun', 'plemk0'}",2,2021-09-10
+230,hodl,today,"{'pltqtv', 'plufk0'}",2,2021-09-10
+231,use,today,{'plufk0'},1,2021-09-10
+232,profit,today,{'plufk0'},1,2021-09-10
+234,trade,today,{'plufk0'},1,2021-09-10
+235,sell,don,"{'pltqtv', 'plwf5q', 'plmug2'}",3,2021-09-10
+236,hodl,sell,"{'pltqtv', 'plwf5q', 'plmug2'}",3,2021-09-10
+237,profit,sell,"{'plwf5q', 'plmug2'}",2,2021-09-10
+238,crypto,sell,"{'plwf5q', 'plmug2'}",2,2021-09-10
+239,people,sell,"{'plwf5q', 'plmug2'}",2,2021-09-10
+240,use,coinbase,"{'plwf5q', 'plr2if'}",2,2021-09-10
+241,crypto,coinbase,"{'plwf5q', 'plr2if'}",2,2021-09-10
+242,coinbase,bitcoin,"{'plwf5q', 'plr2if'}",2,2021-09-10
+243,market,coinbase,"{'plwf5q', 'plr2if'}",2,2021-09-10
+244,trading,coinbase,"{'plvk4b', 'plwf5q'}",2,2021-09-10
+245,wallet,end,"{'pli62d', 'plgwr8'}",2,2021-09-10
+246,profit,end,"{'pli62d', 'plmug2'}",2,2021-09-10
+247,crypto,end,"{'plgwr8', 'plmug2'}",2,2021-09-10
+248,people,end,"{'pli62d', 'plmug2'}",2,2021-09-10

@@ -1,0 +1,200 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'kivzle', 'kj0g1m', 'kipvi1'}",3,2020-12-23
+1,ethereum,bitcoin,"{'kivzle', 'kj15r3', 'kiuls7'}",3,2020-12-23
+2,bitcoin,year,"{'kiyvd5', 'kj15r3', 'kivl8a'}",3,2020-12-23
+3,xrp,bitcoin,"{'kj15r3', 'kiuls7', 'kiticj'}",3,2020-12-23
+4,ripple,bitcoin,"{'kivzle', 'kiuls7', 'kiticj'}",3,2020-12-23
+5,https,amp,"{'kis0i9', 'kiskac'}",2,2020-12-23
+6,com,https,"{'kik6bn', 'kiskac'}",2,2020-12-23
+7,https,www,"{'kis0i9', 'kik6bn'}",2,2020-12-23
+8,https,https www,"{'kis0i9', 'kik6bn'}",2,2020-12-23
+9,want,https,"{'kis0i9', 'kiskac'}",2,2020-12-23
+10,xrp,amp,"{'kip6lj', 'kis0i9', 'kiticj'}",3,2020-12-23
+11,amp,amp x200b,"{'kip6lj', 'kis0i9', 'kiskac'}",3,2020-12-23
+12,amp,x200b,"{'kip6lj', 'kis0i9', 'kiskac'}",3,2020-12-23
+13,amp,bitcoin,"{'kiiyvn', 'kiticj'}",2,2020-12-23
+15,cryptocurrency,sec,"{'kiqqip', 'kil2nw'}",2,2020-12-23
+16,xrp,cryptocurrency,{'kiqqip'},1,2020-12-23
+17,ripple,cryptocurrency,{'kiqqip'},1,2020-12-23
+18,charges,cryptocurrency,{'kiqqip'},1,2020-12-23
+19,charges ripple,cryptocurrency,{'kiqqip'},1,2020-12-23
+21,com,end,"{'kik6bn', 'kiskac'}",2,2020-12-23
+22,com,amp,{'kiskac'},1,2020-12-23
+23,com,www,{'kik6bn'},1,2020-12-23
+24,com,https www,{'kik6bn'},1,2020-12-23
+26,www,https www,"{'kis0i9', 'kik6bn'}",2,2020-12-23
+27,xrp,www,"{'kis0i9', 'kik6bn'}",2,2020-12-23
+28,amp,www,{'kis0i9'},1,2020-12-23
+32,xrp,https www,"{'kis0i9', 'kik6bn'}",2,2020-12-23
+33,amp,https www,{'kis0i9'},1,2020-12-23
+35,xrp,crypto,"{'kiuhcs', 'kivmqx', 'kixsud', 'kitiyo'}",4,2020-12-23
+37,ripple,crypto,"{'kivzle', 'kiomvy', 'kixsud'}",3,2020-12-23
+38,crypto,fund,"{'kiuhcs', 'kivmqx', 'kixsud'}",3,2020-12-23
+39,crypto,fincen,"{'kikep9', 'kikri2', 'kiuner'}",3,2020-12-23
+40,information,bitcoin,{'kj0g1m'},1,2020-12-23
+41,https,information,{'kis0i9'},1,2020-12-23
+42,information,amp,{'kis0i9'},1,2020-12-23
+43,information,www,{'kis0i9'},1,2020-12-23
+44,information,https www,{'kis0i9'},1,2020-12-23
+45,comments,time,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+46,want,comments,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+47,comments,way,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+48,blockchain,comments,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+49,place,comments,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+50,use,bitcoin,{'kj0rde'},1,2020-12-23
+51,use,price,{'kizakr'},1,2020-12-23
+52,binance,use,{'kizakr'},1,2020-12-23
+53,use,sec,{'kj0rde'},1,2020-12-23
+54,use,investor,{'kj0rde'},1,2020-12-23
+56,want,time,"{'kikd13', 'kikajd', 'kikj9m'}",3,2020-12-23
+57,time,way,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+58,blockchain,time,"{'kikd13', 'kikajd', 'kikj9m'}",3,2020-12-23
+59,place,time,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+60,xrp,price,"{'kipa2r', 'kirbd5', 'kixsad', 'kj15r3'}",4,2020-12-23
+61,ripple,price,"{'kipa2r', 'kirbd5', 'kixsad'}",3,2020-12-23
+62,price,sec,"{'kipa2r', 'kirbd5', 'kixsad'}",3,2020-12-23
+63,xrp price,price,"{'kipa2r', 'kirbd5', 'kixsad'}",3,2020-12-23
+64,bitcoin,price,"{'kj15r3', 'kiqei2'}",2,2020-12-23
+65,market,amp,{'kipv05'},1,2020-12-23
+66,market,crypto,{'kipv05'},1,2020-12-23
+67,ve,bitcoin,"{'kj15r3', 'kiyhxd'}",2,2020-12-23
+68,ve,price,{'kj15r3'},1,2020-12-23
+69,ethereum,ve,{'kj15r3'},1,2020-12-23
+70,ve,year,{'kj15r3'},1,2020-12-23
+71,xrp,ve,{'kj15r3'},1,2020-12-23
+73,ethereum,price,"{'kj15r3', 'kioy9b'}",2,2020-12-23
+74,xrp,ethereum,"{'kj15r3', 'kiuls7'}",2,2020-12-23
+75,ripple,ethereum,"{'kivzle', 'kiuls7'}",2,2020-12-23
+76,crypto,ethereum,{'kivzle'},1,2020-12-23
+77,custody,coinbase,"{'kiiums', 'kj0yhb'}",2,2020-12-23
+78,coinbase,inj,"{'kiiums', 'kj0yhb'}",2,2020-12-23
+79,coinbase,coinbase custody,"{'kiiums', 'kj0yhb'}",2,2020-12-23
+80,coinbase,bitcoin,{'kj1d5i'},1,2020-12-23
+81,xrp,coinbase,{'kirn42'},1,2020-12-23
+82,money,bitcoin,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+83,dollar,money,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+84,money,alpha,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+85,money,alpha generation,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+86,money,bitcoin replace,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+87,want,place,"{'kikd13', 'kikj9m', 'kikajd', 'kitl9p'}",4,2020-12-23
+88,want,community,"{'kikd13', 'kikajd', 'kikj9m', 'kitl9p'}",4,2020-12-23
+89,want,join,"{'kikd13', 'kikajd', 'kiskac', 'kikj9m'}",4,2020-12-23
+90,want,chat,"{'kikd13', 'kis0i9', 'kikj9m', 'kikajd'}",4,2020-12-23
+93,price,year,{'kj15r3'},1,2020-12-23
+95,ethereum,year,{'kj15r3'},1,2020-12-23
+96,xrp,year,{'kj15r3'},1,2020-12-23
+97,crypto,start,"{'kiskac', 'kitiyo'}",2,2020-12-23
+98,https,start,{'kiskac'},1,2020-12-23
+99,amp,start,{'kiskac'},1,2020-12-23
+100,com,start,{'kiskac'},1,2020-12-23
+101,ethereum,start,{'kisjeo'},1,2020-12-23
+102,ripple,xrp,"{'kipa2r', 'kiqgpp', 'kirbd5', 'kihxa0', 'kizo9s', 'kixsad', 'kiiyjx', 'kisxpd', 'kiuls7', 'kixsud', 'kiqqip', 'kip6lj', 'kipsbz', 'kija65', 'kiticj', 'kik6bn'}",16,2020-12-23
+103,xrp,sec,"{'kipa2r', 'kirbd5', 'kihxa0', 'kizo9s', 'kixsad', 'kiiyjx', 'kisxpd', 'kixsud', 'kiqqip', 'kija65', 'kip6lj', 'kiticj', 'kik6bn'}",13,2020-12-23
+106,xrp,security,"{'kiqgpp', 'kiiyjx', 'kik6bn', 'kija65'}",4,2020-12-23
+107,bitcoin,think,{'kj0g1m'},1,2020-12-23
+108,crypto,think,{'kj0g1m'},1,2020-12-23
+109,information,think,{'kj0g1m'},1,2020-12-23
+110,coin,think,{'kj0l8l'},1,2020-12-23
+111,buying,think,{'kj0l8l'},1,2020-12-23
+114,want,way,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+115,blockchain,way,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+116,place,way,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+117,trading,crypto,"{'kis68e', 'kiskac'}",2,2020-12-23
+118,trading,strategies,"{'kis68e', 'kiskac'}",2,2020-12-23
+119,trading,https,{'kiskac'},1,2020-12-23
+120,trading,amp,{'kiskac'},1,2020-12-23
+121,com,trading,{'kiskac'},1,2020-12-23
+122,coin,https,{'kiskac'},1,2020-12-23
+123,coin,amp,{'kiskac'},1,2020-12-23
+124,com,coin,{'kiskac'},1,2020-12-23
+125,coin,crypto,{'kiskac'},1,2020-12-23
+126,want,coin,{'kiskac'},1,2020-12-23
+129,want,blockchain,"{'kikd13', 'kikajd', 'kikj9m'}",3,2020-12-23
+131,place,blockchain,"{'kikd13', 'kikj9m', 'kikajd'}",3,2020-12-23
+132,xrp,today,"{'kipsbz', 'kj15r3'}",2,2020-12-23
+133,charts,today,"{'kj15r3', 'kik414'}",2,2020-12-23
+134,today,bitcoin,{'kj15r3'},1,2020-12-23
+135,today,price,{'kj15r3'},1,2020-12-23
+136,ve,today,{'kj15r3'},1,2020-12-23
+137,buying,sec,"{'kik6bn', 'kj0l8l'}",2,2020-12-23
+138,earn,buying,"{'kik6bn', 'kj1563'}",2,2020-12-23
+139,https,buying,{'kik6bn'},1,2020-12-23
+140,com,buying,{'kik6bn'},1,2020-12-23
+141,buying,www,{'kik6bn'},1,2020-12-23
+142,investment,bitcoin,"{'kiq0c7', 'kiu93l'}",2,2020-12-23
+143,xrp,investment,{'kizo9s'},1,2020-12-23
+144,ripple,investment,{'kizo9s'},1,2020-12-23
+145,investment,fund,{'kiu93l'},1,2020-12-23
+146,investment,sec,{'kizo9s'},1,2020-12-23
+147,exchange,exchange nan,"{'kir387', 'kj2i3o'}",2,2020-12-23
+148,exchange,crypto,{'kir387'},1,2020-12-23
+149,police,exchange,{'kir387'},1,2020-12-23
+150,exchange,attack,{'kir387'},1,2020-12-23
+152,amp x200b,x200b,"{'kip6lj', 'kis0i9', 'kiskac'}",3,2020-12-23
+153,https,amp x200b,"{'kis0i9', 'kiskac'}",2,2020-12-23
+154,want,amp x200b,"{'kis0i9', 'kiskac'}",2,2020-12-23
+155,xrp,amp x200b,"{'kip6lj', 'kis0i9'}",2,2020-12-23
+158,https,x200b,"{'kis0i9', 'kiskac'}",2,2020-12-23
+159,want,x200b,"{'kis0i9', 'kiskac'}",2,2020-12-23
+160,xrp,x200b,"{'kip6lj', 'kis0i9'}",2,2020-12-23
+161,https,end,"{'kik6bn', 'kiskac'}",2,2020-12-23
+163,amp,end,{'kiskac'},1,2020-12-23
+164,www,end,{'kik6bn'},1,2020-12-23
+165,end,https www,{'kik6bn'},1,2020-12-23
+166,data,ledger,{'kiuc4l'},1,2020-12-23
+167,crypto,crypto nan,"{'kitbos', 'kiuner'}",2,2020-12-23
+168,monero,crypto nan,{'kiuner'},1,2020-12-23
+169,send,crypto nan,{'kiuner'},1,2020-12-23
+170,fincen,crypto nan,{'kiuner'},1,2020-12-23
+171,blockchain,digital,{'kio2tn'},1,2020-12-23
+172,binance,digital,{'kiu3xs'},1,2020-12-23
+173,digital,investors,{'kiu3xs'},1,2020-12-23
+174,assets,digital,{'kiu3xs'},1,2020-12-23
+176,binance,price,{'kizakr'},1,2020-12-23
+178,binance,investors,{'kiu3xs'},1,2020-12-23
+179,binance,assets,{'kiu3xs'},1,2020-12-23
+180,ripple,sec,"{'kiuo1i', 'kiqqip', 'kik6bn', 'kipa2r', 'kirbd5', 'kihxa0', 'kixsad', 'kijr8o', 'kiunu1', 'kixsud', 'kip6lj', 'kiomvy', 'kipo0u', 'kizo9s', 'kiiyjx', 'kisxpd', 'kija65', 'kiticj', 'kiyp7m'}",19,2020-12-23
+182,ripple,ripple nan,"{'kizo9s', 'kisxpd', 'kijr8o', 'kixsud', 'kiqqip', 'kiyp7m'}",6,2020-12-23
+183,ripple,lawsuit,"{'kizo9s', 'kiunu1', 'kiuo1i', 'kiomvy', 'kipo0u'}",5,2020-12-23
+184,ripple,security,"{'kiqgpp', 'kiiyjx', 'kik6bn', 'kija65'}",4,2020-12-23
+186,send,ledger,{'kio9zg'},1,2020-12-23
+188,xrp,fund,"{'kiuhcs', 'kivmqx', 'kixsud'}",3,2020-12-23
+189,index,fund,"{'kiuhcs', 'kivmqx', 'kixsud'}",3,2020-12-23
+190,bitwise,fund,"{'kiuhcs', 'kivmqx', 'kixsud'}",3,2020-12-23
+191,position,fund,"{'kiuhcs', 'kivmqx', 'kixsud'}",3,2020-12-23
+192,crypto,project,{'kitl9p'},1,2020-12-23
+193,want,project,{'kitl9p'},1,2020-12-23
+194,project,token,{'kir7xt'},1,2020-12-23
+195,place,project,{'kitl9p'},1,2020-12-23
+196,community,project,{'kitl9p'},1,2020-12-23
+197,investors,bitcoin,{'kiuhpg'},1,2020-12-23
+200,assets,investors,{'kiu3xs'},1,2020-12-23
+201,capital,investors,{'kiuhpg'},1,2020-12-23
+202,case,sec,"{'kihxa0', 'kiyp7m', 'kj0l8l'}",3,2020-12-23
+203,ripple,case,"{'kihxa0', 'kiyp7m'}",2,2020-12-23
+204,xrp,case,{'kihxa0'},1,2020-12-23
+205,think,case,{'kj0l8l'},1,2020-12-23
+206,coin,case,{'kj0l8l'},1,2020-12-23
+207,ripple,defi,{'kirny6'},1,2020-12-23
+208,defi,join,{'kirny6'},1,2020-12-23
+209,xrp,drops,"{'kixsad', 'kisxpd'}",2,2020-12-23
+210,ripple,drops,"{'kixsad', 'kisxpd'}",2,2020-12-23
+211,drops,sec,"{'kixsad', 'kisxpd'}",2,2020-12-23
+212,drops,price,{'kixsad'},1,2020-12-23
+213,drops,ceo,{'kixsad'},1,2020-12-23
+216,ripple nan,sec,"{'kizo9s', 'kisxpd', 'kijr8o', 'kixsud', 'kiqqip', 'kiyp7m'}",6,2020-12-23
+217,lawsuit,sec,"{'kizo9s', 'kiunu1', 'kiuo1i', 'kiomvy', 'kipo0u'}",5,2020-12-23
+218,security,sec,"{'kix27p', 'kiiyjx', 'kik6bn', 'kija65'}",4,2020-12-23
+219,exchanges,delist,"{'kitiyo', 'kj0l8l'}",2,2020-12-23
+220,crypto,exchanges,{'kitiyo'},1,2020-12-23
+221,exchanges,start,{'kitiyo'},1,2020-12-23
+222,xrp,exchanges,{'kitiyo'},1,2020-12-23
+223,exchanges,think,{'kj0l8l'},1,2020-12-23
+224,dollar,bitcoin,"{'kiq0t9', 'kiozxp'}",2,2020-12-23
+226,dollar,alpha,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+227,dollar,alpha generation,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+228,dollar,bitcoin replace,"{'kiozxp', 'kiq0t9'}",2,2020-12-23
+229,xrp,token,{'kiqgpp'},1,2020-12-23
+230,ripple,token,{'kiqgpp'},1,2020-12-23
+232,ceo,token,{'kiqgpp'},1,2020-12-23
+233,token,month,{'kir7xt'},1,2020-12-23

@@ -1,0 +1,220 @@
+,token_1,token_2,connections,connections_strength,date
+0,com,https,"{'ncfopb', 'ncgvz1', 'nc9yuf'}",3,2021-05-14
+1,https,bitcoin,"{'ncg7r2', 'ncgvz1', 'nche7x'}",3,2021-05-14
+2,coins,https,"{'ncfopb', 'nc9yuf', 'ncgvz1'}",3,2021-05-14
+3,look,https,"{'nc9yuf', 'nche7x', 'ncgvz1'}",3,2021-05-14
+4,https,cryptocurrency,"{'ncfopb', 'nc9yuf'}",2,2021-05-14
+5,coins,cryptocurrency,"{'nckblh', 'ncfopb', 'ncenwu', 'nc9yuf'}",4,2021-05-14
+6,cryptocurrency,don,"{'nckblh', 'ncenwu', 'nc9yuf'}",3,2021-05-14
+7,cryptocurrency,think,"{'nckblh', 'nc9yuf', 'nchbxg'}",3,2021-05-14
+8,doge,cryptocurrency,"{'nckblh', 'ncfopb', 'ncgny6'}",3,2021-05-14
+11,com,coins,"{'ncfopb', 'ncgvz1', 'nc9yuf'}",3,2021-05-14
+12,com,cryptocurrency,"{'ncfopb', 'nc9yuf'}",2,2021-05-14
+13,com,way,"{'ncgvz1', 'nc9yuf'}",2,2021-05-14
+14,com,people,"{'ncgvz1', 'nc9yuf'}",2,2021-05-14
+15,crypto,reddit,"{'ncagsf', 'ncfrtg'}",2,2021-05-14
+16,people,reddit,"{'ncagsf', 'nc9yuf'}",2,2021-05-14
+17,don,reddit,"{'ncagsf', 'nc9yuf'}",2,2021-05-14
+18,money,reddit,"{'ncagsf', 'nc9yuf'}",2,2021-05-14
+19,coin,reddit,"{'ncagsf', 'ncfrtg'}",2,2021-05-14
+20,https,amp,{'ncg7r2'},1,2021-05-14
+21,crypto,amp,{'nbzg0q'},1,2021-05-14
+22,amp,time,{'ncg7r2'},1,2021-05-14
+23,amp,bitcoin,{'ncg7r2'},1,2021-05-14
+24,amp,price,{'ncg7r2'},1,2021-05-14
+25,comments,think,"{'nckblh', 'nc9yuf', 'nchdo4'}",3,2021-05-14
+26,comments,cryptocurrency,"{'nckblh', 'nc9yuf'}",2,2021-05-14
+27,comments,way,"{'nc9yuf', 'nchdo4'}",2,2021-05-14
+28,comments,don,"{'nckblh', 'nc9yuf'}",2,2021-05-14
+29,coins,comments,"{'nckblh', 'nc9yuf'}",2,2021-05-14
+30,crypto,use,"{'ncgxum', 'ncgiwo', 'ncgzfy', 'ncaiik', 'nchauj'}",5,2021-05-14
+31,use,coinbase,"{'ncgxum', 'ncgiwo', 'nchauj', 'ncgzfy'}",4,2021-05-14
+32,use,way,"{'ncgxum', 'ncgiwo', 'ncgzfy'}",3,2021-05-14
+33,coins,use,"{'ncgxum', 'ncgiwo', 'ncgzfy'}",3,2021-05-14
+34,use,need,"{'nckh3b', 'ncg6ww', 'nchauj'}",3,2021-05-14
+35,crypto,read,"{'ncg5gk', 'nc9zaj'}",2,2021-05-14
+36,bitcoin,read,"{'nch7mt', 'nc9zaj'}",2,2021-05-14
+37,coins,read,"{'ncg5gk', 'nch7mt'}",2,2021-05-14
+38,coinbase,read,"{'ncg5gk', 'nc9zaj'}",2,2021-05-14
+39,com,read,{'nc9zaj'},1,2021-05-14
+40,wallet,ll,"{'ncfopb', 'nch6ka', 'ncg6ww', 'nbyeo3'}",4,2021-05-14
+41,wallet,help,"{'ncftb7', 'nchauj', 'nbyeo3'}",3,2021-05-14
+42,use,wallet,"{'ncg6ww', 'nchauj'}",2,2021-05-14
+43,crypto,wallet,"{'ncftb7', 'nchauj'}",2,2021-05-14
+44,coin,wallet,"{'ncfopb', 'nch6ka'}",2,2021-05-14
+45,share,time,"{'nclou2', 'nckytk'}",2,2021-05-14
+46,profit,share,{'nckytk'},1,2021-05-14
+47,share,afford,{'nclou2'},1,2021-05-14
+48,share,money,{'nclou2'},1,2021-05-14
+49,share,bitcoin,{'nclou2'},1,2021-05-14
+50,profit,cryptocurrency,{'ncenwu'},1,2021-05-14
+52,profit,discussion,{'ncenwu'},1,2021-05-14
+53,profit,welcome,{'ncenwu'},1,2021-05-14
+54,profit,moon,{'ncenwu'},1,2021-05-14
+55,trade,crypto,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+56,trade,don,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+57,trade,day,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+58,trade,eth,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+59,trade,week,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+60,moons,welcome,{'ncjkg8'},1,2021-05-14
+61,moons,moon,{'nch120'},1,2021-05-14
+62,moons,way,{'nch120'},1,2021-05-14
+63,moons,posts,{'nch120'},1,2021-05-14
+64,moons,didn,{'ncjkg8'},1,2021-05-14
+65,money,afford,"{'ncagsf', 'nclou2'}",2,2021-05-14
+66,afford,need,"{'ncagsf', 'nclou2'}",2,2021-05-14
+67,process,afford,"{'ncagsf', 'nclou2'}",2,2021-05-14
+68,stocks,afford,"{'ncagsf', 'nclou2'}",2,2021-05-14
+69,afford,reddit,{'ncagsf'},1,2021-05-14
+70,crypto,smart,"{'ncagsf', 'ncgtm7', 'ncgny6', 'ncgfpj'}",4,2021-05-14
+71,coin,smart,"{'ncagsf', 'ncgvz1', 'ncgtm7'}",3,2021-05-14
+72,market,smart,"{'ncagsf', 'ncgvz1', 'ncgtm7'}",3,2021-05-14
+73,ve,smart,"{'ncagsf', 'ncgtm7', 'ncgfpj'}",3,2021-05-14
+74,exchange,smart,"{'ncagsf', 'ncgtm7', 'ncgfpj'}",3,2021-05-14
+75,discussion,cryptocurrency,"{'nckblh', 'ncenwu'}",2,2021-05-14
+76,discussion,don,"{'nckblh', 'ncenwu'}",2,2021-05-14
+77,discussion,coins,"{'nckblh', 'ncenwu'}",2,2021-05-14
+78,discussion,comments,{'nckblh'},1,2021-05-14
+80,crypto,welcome,"{'nclp6r', 'ncenwu', 'nclmf9'}",3,2021-05-14
+81,gains,welcome,"{'nclp6r', 'nclmf9'}",2,2021-05-14
+82,advice,welcome,"{'nclp6r', 'nclmf9'}",2,2021-05-14
+83,welcome,research,"{'nclmf9', 'ncjkg8'}",2,2021-05-14
+84,pay,welcome,"{'nclp6r', 'nclmf9'}",2,2021-05-14
+85,cryptocurrency,moon,{'ncenwu'},1,2021-05-14
+88,discussion,moon,{'ncenwu'},1,2021-05-14
+89,moon,welcome,{'ncenwu'},1,2021-05-14
+90,crypto,coins,"{'ncgxum', 'ncgiwo', 'nca8f3', 'ncgzfy', 'ncg5gk', 'ncagsf', 'ncenwu'}",7,2021-05-14
+91,crypto,way,"{'ncgxum', 'ncgiwo', 'nca0f6', 'nchdo4', 'ncgzfy', 'ncaiml'}",6,2021-05-14
+92,coin,crypto,"{'ncgdsz', 'ncfrtg', 'ncfmox', 'ncagsf', 'ncenwu', 'ncgtm7'}",6,2021-05-14
+93,crypto,ve,"{'ncg5gk', 'ncgc8l', 'ncaiml', 'ncagsf', 'ncgtm7', 'ncgfpj'}",6,2021-05-14
+94,crypto,doge,"{'ncgdsz', 'nbzg0q', 'ncg39d', 'ncfmox', 'ncgny6', 'ncgtm7'}",6,2021-05-14
+96,coins,way,"{'ncgxum', 'ncgiwo', 'nc9yuf', 'ncgzfy', 'ncgvz1'}",5,2021-05-14
+97,people,way,"{'ncaiml', 'nc9yuf', 'ncg7ue', 'ncgvz1'}",4,2021-05-14
+99,don,way,"{'nc9yuf', 'ncg7ue', 'ncgvz1'}",3,2021-05-14
+100,people,don,"{'ncfnlx', 'nc9yuf', 'ncg7ue', 'ncgvz1', 'ncagsf'}",5,2021-05-14
+101,market,people,"{'nc9yuf', 'ncgvz1', 'ncgz2u', 'ncfxjw', 'ncagsf'}",5,2021-05-14
+102,crypto,people,"{'ncagsf', 'ncfrdp', 'ncfmox', 'ncaiml'}",4,2021-05-14
+104,money,people,"{'ncagsf', 'ncfnlx', 'nc9yuf', 'ncg7ue'}",4,2021-05-14
+106,coin,don,"{'ncg7ue', 'ncgvz1', 'nckh3b', 'ncagsf', 'ncenwu'}",5,2021-05-14
+107,coins,don,"{'nc9yuf', 'ncgvz1', 'nckblh', 'ncagsf', 'ncenwu'}",5,2021-05-14
+108,crypto,don,"{'ncgn6y', 'ncagsf', 'ncenwu', 'ncftpo'}",4,2021-05-14
+109,money,don,"{'ncagsf', 'ncfnlx', 'nc9yuf', 'ncg7ue'}",4,2021-05-14
+110,time,bitcoin,"{'nclou2', 'ncg7r2', 'nch7mt'}",3,2021-05-14
+111,coin,time,"{'nckh3b', 'ncg7ue', 'nch7mt'}",3,2021-05-14
+112,coins,time,"{'ncgiwo', 'nca8f3', 'nch7mt'}",3,2021-05-14
+113,use,time,"{'ncgiwo', 'nckh3b'}",2,2021-05-14
+115,crypto,money,"{'ncagsf', 'ncgtm7', 'nclmf9', 'nc9zaj'}",4,2021-05-14
+118,money,bitcoin,"{'nclou2', 'ncgtm7', 'nche7x', 'nc9zaj'}",4,2021-05-14
+119,coin,money,"{'ncagsf', 'ncgtm7', 'ncg7ue'}",3,2021-05-14
+120,market,bitcoin,"{'ncg22y', 'ncgvz1', 'ncfxjw', 'nch7mt', 'ncfqva', 'ncgtm7'}",6,2021-05-14
+122,coin,bitcoin,"{'ncg22y', 'ncgvz1', 'ncgtm7', 'nch7mt'}",4,2021-05-14
+123,btc,bitcoin,"{'ncfy1r', 'ncg6ww', 'ncgtm7', 'nche7x'}",4,2021-05-14
+124,need,bitcoin,"{'ncf2c6', 'nclou2', 'ncg6ww', 'nchdo4'}",4,2021-05-14
+127,coin,coins,"{'ncgvz1', 'nch7mt', 'ncagsf', 'ncfopb', 'ncenwu'}",5,2021-05-14
+128,market,coin,"{'ncg22y', 'ncgvz1', 'nch7mt', 'ncagsf', 'ncgtm7'}",5,2021-05-14
+129,coin,doge,"{'ncgdsz', 'ncg7ue', 'ncfmox', 'ncfopb', 'ncgtm7'}",5,2021-05-14
+130,coins,crypto,"{'ncgxum', 'ncgiwo', 'nca8f3', 'ncgzfy', 'ncg5gk', 'ncagsf', 'ncenwu'}",7,2021-05-14
+134,market,coins,"{'nc9yuf', 'ncgvz1', 'nckblh', 'nch7mt', 'ncagsf'}",5,2021-05-14
+135,post,comments,"{'nc9yuf', 'nchdo4'}",2,2021-05-14
+136,post,way,"{'nc9yuf', 'nchdo4'}",2,2021-05-14
+137,post,think,"{'nc9yuf', 'nchdo4'}",2,2021-05-14
+138,post,https,{'nc9yuf'},1,2021-05-14
+139,post,cryptocurrency,{'nc9yuf'},1,2021-05-14
+140,market,think,"{'nc9yuf', 'ncgz2u', 'nckblh', 'nch7mt', 'ncagsf'}",5,2021-05-14
+141,people,think,"{'ncagsf', 'nc9yuf', 'ncg7ue', 'ncgz2u'}",4,2021-05-14
+142,don,think,"{'nckblh', 'ncagsf', 'nc9yuf', 'ncg7ue'}",4,2021-05-14
+143,coins,think,"{'nckblh', 'ncagsf', 'nc9yuf', 'nch7mt'}",4,2021-05-14
+146,money,btc,"{'ncagsf', 'ncgtm7', 'nche7x'}",3,2021-05-14
+147,coin,btc,"{'ncagsf', 'nckh3b', 'ncgtm7'}",3,2021-05-14
+148,want,btc,"{'ncagsf', 'nckh3b', 'ncg6ww'}",3,2021-05-14
+149,btc,need,"{'ncagsf', 'nckh3b', 'ncg6ww'}",3,2021-05-14
+150,crypto,day,"{'ncgiwo', 'ncftpo', 'ncfmox', 'ncgn6y', 'ncgtm7'}",5,2021-05-14
+151,day,eth,"{'ncgn6y', 'ncgtm7', 'ncftpo'}",3,2021-05-14
+152,ethereum,day,"{'ncgn6y', 'ncgtm7', 'ncftpo'}",3,2021-05-14
+153,told,day,"{'ncgn6y', 'ncfmox', 'ncftpo'}",3,2021-05-14
+154,anyways,day,"{'ncgn6y', 'ncgtm7', 'ncftpo'}",3,2021-05-14
+155,coins,price,"{'ncagsf', 'ncgiwo', 'ncfopb'}",3,2021-05-14
+156,supply,price,"{'ncagsf', 'ncfopb', 'ncf6xf'}",3,2021-05-14
+157,https,price,"{'ncfopb', 'ncg7r2'}",2,2021-05-14
+158,crypto,price,"{'ncagsf', 'ncgiwo'}",2,2021-05-14
+159,time,price,"{'ncgiwo', 'ncg7r2'}",2,2021-05-14
+160,ethereum,eth,"{'ncftpo', 'ncf6xf', 'ncgn6y', 'ncfy1r', 'ncgtm7'}",5,2021-05-14
+161,crypto,eth,"{'ncgn6y', 'ncgtm7', 'ncftpo'}",3,2021-05-14
+162,eth,don,"{'ncgn6y', 'ncg7ue', 'ncftpo'}",3,2021-05-14
+163,eth,day,"{'ncgn6y', 'ncgtm7', 'ncftpo'}",3,2021-05-14
+164,sell,eth,"{'ncgn6y', 'ncfy1r', 'ncftpo'}",3,2021-05-14
+166,market,cap,"{'ncg22y', 'ncgvz1', 'nckblh', 'ncfqva', 'ncgenn', 'ncgtm7'}",6,2021-05-14
+167,market,market cap,"{'ncg22y', 'ncgvz1', 'nckblh', 'ncfqva', 'ncgenn', 'ncgtm7'}",6,2021-05-14
+169,coin,market,"{'ncg22y', 'ncgvz1', 'nch7mt', 'ncagsf', 'ncgtm7'}",5,2021-05-14
+170,bit,investment,"{'ncfopb', 'ncfy1r'}",2,2021-05-14
+171,initial investment,investment,"{'ncfy1r', 'ncg9jb'}",2,2021-05-14
+172,https,investment,{'ncfopb'},1,2021-05-14
+173,cryptocurrency,investment,{'ncfopb'},1,2021-05-14
+174,com,investment,{'ncfopb'},1,2021-05-14
+175,crypto,week,"{'ncgn6y', 'nca8f3', 'ncftpo', 'nchdo4'}",4,2021-05-14
+176,week,kept,"{'ncgn6y', 'nca8f3', 'ncftpo', 'nchdo4'}",4,2021-05-14
+177,bought,week,"{'ncgn6y', 'nbyeo3', 'ncftpo'}",3,2021-05-14
+178,week,sell,"{'ncgn6y', 'nca8f3', 'ncftpo'}",3,2021-05-14
+179,week,worth,"{'ncgn6y', 'ncftpo', 'nchdo4'}",3,2021-05-14
+180,posts,way,"{'nch120', 'ncg7ue', 'nchdo4'}",3,2021-05-14
+181,posts,think,"{'nckblh', 'ncg7ue', 'nchdo4'}",3,2021-05-14
+182,posts,comments,"{'nckblh', 'nchdo4'}",2,2021-05-14
+183,crypto,posts,"{'nca8f3', 'nchdo4'}",2,2021-05-14
+184,posts,don,"{'nckblh', 'ncg7ue'}",2,2021-05-14
+185,want,need,"{'ncagsf', 'nckh3b', 'ncg6ww', 'nchdo4'}",4,2021-05-14
+186,want,crypto,"{'ncagsf', 'nclp6r', 'nchdo4'}",3,2021-05-14
+187,want,think,"{'ncagsf', 'ncgz2u', 'nchdo4'}",3,2021-05-14
+189,want,sense,"{'nclp6r', 'ncgz2u', 'nchdo4'}",3,2021-05-14
+190,market,minutes,"{'ncg22y', 'ncgenn'}",2,2021-05-14
+191,cap,minutes,"{'ncg22y', 'ncgenn'}",2,2021-05-14
+192,minutes,market cap,"{'ncg22y', 'ncgenn'}",2,2021-05-14
+193,crypto,minutes,{'ncg39d'},1,2021-05-14
+194,don,minutes,{'nca0cf'},1,2021-05-14
+195,community,smart,"{'ncagsf', 'ncgfpj'}",2,2021-05-14
+196,crypto,community,"{'ncagsf', 'ncgfpj'}",2,2021-05-14
+197,community,don,"{'ncagsf', 'nckblh'}",2,2021-05-14
+198,coins,community,"{'ncagsf', 'nckblh'}",2,2021-05-14
+199,community,think,"{'ncagsf', 'nckblh'}",2,2021-05-14
+200,people,didn,"{'ncfy1r', 'ncaiml'}",2,2021-05-14
+201,didn,weeks,"{'ncfy1r', 'ncaiml'}",2,2021-05-14
+202,didn,didn know,"{'ncaiml', 'ncjkg8'}",2,2021-05-14
+204,didn,welcome,{'ncjkg8'},1,2021-05-14
+205,right,fees,"{'ncfopb', 'nclou2'}",2,2021-05-14
+206,transaction,right,"{'ncfopb', 'nclou2'}",2,2021-05-14
+207,https,right,{'ncfopb'},1,2021-05-14
+208,right,cryptocurrency,{'ncfopb'},1,2021-05-14
+209,com,right,{'ncfopb'},1,2021-05-14
+210,money,start,"{'nc9yuf', 'nclmf9'}",2,2021-05-14
+211,https,start,{'nc9yuf'},1,2021-05-14
+212,cryptocurrency,start,{'nc9yuf'},1,2021-05-14
+213,com,start,{'nc9yuf'},1,2021-05-14
+214,start,reddit,{'nc9yuf'},1,2021-05-14
+217,exchange,ve,"{'ncagsf', 'ncgtm7', 'ncgfpj'}",3,2021-05-14
+218,people,ve,"{'ncagsf', 'ncaiml'}",2,2021-05-14
+219,money,ve,"{'ncagsf', 'ncgtm7'}",2,2021-05-14
+220,crypto,sure,"{'ncgn6y', 'ncftpo', 'nc9zaj'}",3,2021-05-14
+221,trade,sure,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+222,sure,don,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+223,sure,bitcoin,"{'ncg6ww', 'nc9zaj'}",2,2021-05-14
+224,sure,day,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+226,bought,sell,"{'ncgn6y', 'ncg7r2', 'ncftpo'}",3,2021-05-14
+227,bought,shut,"{'ncgn6y', 'nbyeo3', 'ncftpo'}",3,2021-05-14
+228,trade,bought,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+229,bought,crypto,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+230,trade,feel,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+231,crypto,feel,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+232,feel,don,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+233,feel,day,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+234,feel,eth,"{'ncgn6y', 'ncftpo'}",2,2021-05-14
+238,shitcoin,doge,"{'nckblh', 'ncgtm7', 'ncgny6'}",3,2021-05-14
+239,doge,holders,"{'nckblh', 'ncfopb', 'nbzg0q'}",3,2021-05-14
+240,person,way,"{'ncaiml', 'nc9yuf'}",2,2021-05-14
+241,people,person,"{'ncaiml', 'nc9yuf'}",2,2021-05-14
+242,market,person,"{'ncg22y', 'nc9yuf'}",2,2021-05-14
+243,banks,person,"{'ncg22y', 'ncaiml'}",2,2021-05-14
+244,https,person,{'nc9yuf'},1,2021-05-14
+245,crypto,sell,"{'ncgxum', 'nca8f3', 'ncgzfy', 'ncftpo', 'ncagsf', 'ncgn6y'}",6,2021-05-14
+246,coins,sell,"{'ncgxum', 'ncagsf', 'nca8f3', 'ncgzfy'}",4,2021-05-14
+247,sell,buying,"{'ncgxum', 'ncfy1r', 'nch6ka', 'ncgzfy'}",4,2021-05-14
+248,ethereum,sell,"{'ncgn6y', 'ncfy1r', 'nch6ka', 'ncftpo'}",4,2021-05-14
+249,sell,don,"{'ncgn6y', 'ncagsf', 'ncftpo'}",3,2021-05-14

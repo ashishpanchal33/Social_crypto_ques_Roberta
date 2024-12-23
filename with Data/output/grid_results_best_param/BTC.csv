@@ -1,0 +1,2 @@
+,eval_metric,learning_rate,max_depth,min_child_weight,n_estimators,objective,predictor,random_state,reg_alpha,reg_lambda,tree_method,sym
+0,rmse,0.05,6,2,1000,reg:squarederror,gpu_predictor,123,0.17,0.01,gpu_hist,BTC

@@ -1,0 +1,11 @@
+,eval_metric,learning_rate,max_depth,min_child_weight,n_estimators,objective,predictor,random_state,reg_alpha,reg_lambda,tree_method,sym
+0,rmse,0.45,6,2,1000,reg:squarederror,gpu_predictor,123,0.05,0.1,gpu_hist,XRP
+1,rmse,0.45,6,2,1000,reg:squarederror,gpu_predictor,123,0.29,0.1,gpu_hist,SOL
+2,rmse,0.45,6,2,1000,reg:squarederror,gpu_predictor,123,0.005,0.01,gpu_hist,ADA
+3,rmse,0.2,6,2,1000,reg:squarederror,gpu_predictor,123,0.21,0.01,gpu_hist,LTC
+4,rmse,0.45,6,2,1000,reg:squarederror,gpu_predictor,123,0.45,0.1,gpu_hist,XLM
+5,rmse,0.2,6,2,1000,reg:squarederror,gpu_predictor,123,0.05,0.01,gpu_hist,USDT
+6,rmse,0.03,6,2,1000,reg:squarederror,gpu_predictor,123,0.29,0.001,gpu_hist,USDC
+7,rmse,0.2,6,2,1000,reg:squarederror,gpu_predictor,123,0.41,0.3,gpu_hist,ETH
+8,rmse,0.45,6,2,1000,reg:squarederror,gpu_predictor,123,0.05,0.1,gpu_hist,ALGO
+9,rmse,0.03,6,2,1000,reg:squarederror,gpu_predictor,123,0.005,0.0001,gpu_hist,ICP

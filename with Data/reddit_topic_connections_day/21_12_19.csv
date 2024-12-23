@@ -1,0 +1,216 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,cryptocurrency,"{'edumm9', 'edpkom', 'edo38p', 'edwr80', 'edpmld'}",5,2019-12-21
+1,crypto,https,"{'edq5hq', 'edsu8p', 'edw4zm', 'edo38p'}",4,2019-12-21
+2,crypto,www,"{'edq5hq', 'edw4zm', 'edo38p'}",3,2019-12-21
+3,crypto,https www,"{'edq5hq', 'edw4zm', 'edo38p'}",3,2019-12-21
+4,crypto,people,"{'edpkom', 'edumm9', 'edpmld'}",3,2019-12-21
+5,bitcoin,price,"{'edsz6e', 'ednb70', 'ednyb2'}",3,2019-12-21
+6,model,bitcoin,"{'edrd3t', 'edox3h', 'edrd08'}",3,2019-12-21
+7,crypto,bitcoin,"{'edj1ch', 'edmfhy'}",2,2019-12-21
+8,amp,bitcoin,"{'edsz6e', 'ednb70'}",2,2019-12-21
+9,ethereum,bitcoin,"{'edu219', 'edox3h'}",2,2019-12-21
+10,com,https,"{'edq5hq', 'edid9z', 'edjm18', 'edw4zm', 'edusa3', 'edq7te'}",6,2019-12-21
+11,com,amp,"{'edq5hq', 'edjm18', 'edq7te'}",3,2019-12-21
+12,com,www,"{'edq5hq', 'edid9z', 'edw4zm'}",3,2019-12-21
+13,com,https www,"{'edq5hq', 'edid9z', 'edw4zm'}",3,2019-12-21
+14,com,use,"{'edq5hq', 'edvo6z', 'edjm18'}",3,2019-12-21
+16,https,amp,"{'edq5hq', 'edsz6e', 'edjm18', 'edsu8p', 'edq7te'}",5,2019-12-21
+17,https,www,"{'edq5hq', 'edr9si', 'edid9z', 'edo38p', 'edw4zm'}",5,2019-12-21
+18,https,https www,"{'edq5hq', 'edr9si', 'edid9z', 'edo38p', 'edw4zm'}",5,2019-12-21
+21,people,cryptocurrency,"{'edvo6z', 'edpkom', 'edumm9', 'edpmld'}",4,2019-12-21
+22,https,cryptocurrency,"{'edmf1q', 'edj9pr', 'edo38p'}",3,2019-12-21
+23,government,cryptocurrency,"{'edpkom', 'edumm9', 'edpmld'}",3,2019-12-21
+24,cryptocurrency,supports,"{'edpmld', 'edpkom', 'edmf1q'}",3,2019-12-21
+27,use,amp,"{'edq5hq', 'edrm9u', 'edjm18'}",3,2019-12-21
+28,crypto,amp,"{'edq5hq', 'edsu8p'}",2,2019-12-21
+30,com,blockchain,"{'edvo6z', 'edid9z'}",2,2019-12-21
+31,use,blockchain,"{'edvo6z', 'edrm9u'}",2,2019-12-21
+32,https,blockchain,{'edid9z'},1,2019-12-21
+33,blockchain,cryptocurrency,{'edvo6z'},1,2019-12-21
+34,blockchain,amp,{'edrm9u'},1,2019-12-21
+36,www,https www,"{'edq5hq', 'edr9si', 'edid9z', 'edo38p', 'edw4zm'}",5,2019-12-21
+39,news,www,"{'edq5hq', 'edo38p'}",2,2019-12-21
+44,news,https www,"{'edq5hq', 'edo38p'}",2,2019-12-21
+45,crypto,time,{'edumm9'},1,2019-12-21
+46,cryptocurrency,time,{'edumm9'},1,2019-12-21
+47,people,time,{'edumm9'},1,2019-12-21
+48,cryptocurrencies,time,{'edumm9'},1,2019-12-21
+49,money,time,{'edumm9'},1,2019-12-21
+51,com,ethereum,{'edox3h'},1,2019-12-21
+52,ethereum,blockchain,{'edmw49'},1,2019-12-21
+53,ethereum,money,{'edu219'},1,2019-12-21
+54,ethereum,scam,{'edmcq7'},1,2019-12-21
+57,government,people,"{'edpkom', 'edumm9', 'edpmld'}",3,2019-12-21
+58,use,people,"{'edvo6z', 'edumm9'}",2,2019-12-21
+59,technology,people,"{'edvo6z', 'edumm9'}",2,2019-12-21
+60,com,december,"{'edusa3', 'edq7te'}",2,2019-12-21
+61,https,december,"{'edusa3', 'edq7te'}",2,2019-12-21
+62,amp,december,"{'ednb70', 'edq7te'}",2,2019-12-21
+63,today,december,"{'edusa3', 'edq7te'}",2,2019-12-21
+64,december 2019,december,"{'ednb70', 'edusa3'}",2,2019-12-21
+65,crypto,end,{'edqkrj'},1,2019-12-21
+66,com,end,{'edvo6z'},1,2019-12-21
+67,cryptocurrency,end,{'edvo6z'},1,2019-12-21
+68,blockchain,end,{'edvo6z'},1,2019-12-21
+69,people,end,{'edvo6z'},1,2019-12-21
+70,cryptocurrencies,cryptocurrency,"{'edumm9', 'edj9pr'}",2,2019-12-21
+71,cryptocurrencies,crypto,{'edumm9'},1,2019-12-21
+72,cryptocurrencies,https,{'edj9pr'},1,2019-12-21
+74,cryptocurrencies,people,{'edumm9'},1,2019-12-21
+75,cryptocurrency,year,"{'edvo6z', 'edj9pr'}",2,2019-12-21
+76,year,group,"{'edvo6z', 'edj9pr'}",2,2019-12-21
+77,com,year,{'edvo6z'},1,2019-12-21
+78,https,year,{'edj9pr'},1,2019-12-21
+79,blockchain,year,{'edvo6z'},1,2019-12-21
+80,com,network,"{'edvo6z', 'edusa3'}",2,2019-12-21
+81,mining,network,"{'edvo6z', 'edmfhy'}",2,2019-12-21
+82,crypto,network,{'edmfhy'},1,2019-12-21
+83,network,bitcoin,{'edmfhy'},1,2019-12-21
+84,https,network,{'edusa3'},1,2019-12-21
+86,amp,price,"{'edsz6e', 'ednb70'}",2,2019-12-21
+87,bitcoin price,price,"{'edsz6e', 'ednyb2'}",2,2019-12-21
+88,prediction,price,"{'ednb70', 'ednyb2'}",2,2019-12-21
+89,https,price,{'edsz6e'},1,2019-12-21
+90,crypto,btc,{'edsu8p'},1,2019-12-21
+91,https,btc,{'edsu8p'},1,2019-12-21
+92,amp,btc,{'edsu8p'},1,2019-12-21
+93,development,btc,{'edsu8p'},1,2019-12-21
+94,btc,amp x200b,{'edsu8p'},1,2019-12-21
+95,internet,money,"{'edu219', 'edumm9'}",2,2019-12-21
+96,crypto,money,{'edumm9'},1,2019-12-21
+97,money,bitcoin,{'edu219'},1,2019-12-21
+98,money,cryptocurrency,{'edumm9'},1,2019-12-21
+100,crypto,worth,{'edkg3y'},1,2019-12-21
+101,com,worth,{'edjm18'},1,2019-12-21
+102,https,worth,{'edjm18'},1,2019-12-21
+103,amp,worth,{'edjm18'},1,2019-12-21
+104,use,worth,{'edjm18'},1,2019-12-21
+105,com,don,"{'edid9z', 'edusa3'}",2,2019-12-21
+106,https,don,"{'edid9z', 'edusa3'}",2,2019-12-21
+107,don,don know,"{'edm0lm', 'edid9z'}",2,2019-12-21
+108,crypto,don,{'edm0lm'},1,2019-12-21
+109,don,bitcoin,{'edtig1'},1,2019-12-21
+110,trading,cryptocurrency,"{'edumm9', 'edmf1q'}",2,2019-12-21
+111,trading,exchange,"{'edumm9', 'edmf1q'}",2,2019-12-21
+112,options,trading,"{'edumm9', 'edmf1q'}",2,2019-12-21
+113,trading,trading options,"{'edumm9', 'edmf1q'}",2,2019-12-21
+114,trading,crypto,{'edumm9'},1,2019-12-21
+117,crypto,use,"{'edq5hq', 'edumm9'}",2,2019-12-21
+118,https,use,"{'edq5hq', 'edjm18'}",2,2019-12-21
+119,use,cryptocurrency,"{'edvo6z', 'edumm9'}",2,2019-12-21
+120,game,eth,"{'edsuxq', 'edtg06'}",2,2019-12-21
+121,eth,creators,"{'edsuxq', 'edtg06'}",2,2019-12-21
+122,eth,eth nan,"{'edsuxq', 'edtg06'}",2,2019-12-21
+123,eth,new game,"{'edsuxq', 'edtg06'}",2,2019-12-21
+124,eth,time,{'edtg06'},1,2019-12-21
+125,exchange,scam,"{'edumm9', 'edusa3'}",2,2019-12-21
+126,scam,sec,"{'edraex', 'edumm9'}",2,2019-12-21
+127,crypto,scam,{'edumm9'},1,2019-12-21
+128,com,scam,{'edusa3'},1,2019-12-21
+129,https,scam,{'edusa3'},1,2019-12-21
+130,com,coin,"{'edq5hq', 'edq7te'}",2,2019-12-21
+131,coin,https,"{'edq5hq', 'edq7te'}",2,2019-12-21
+132,coin,amp,"{'edq5hq', 'edq7te'}",2,2019-12-21
+133,coin,platform,"{'edq5hq', 'edq7te'}",2,2019-12-21
+134,coin,crypto,{'edq5hq'},1,2019-12-21
+135,market,https,"{'edmf1q', 'edo38p'}",2,2019-12-21
+136,market,cryptocurrency,"{'edmf1q', 'edo38p'}",2,2019-12-21
+137,market,io,"{'edmf1q', 'edo38p'}",2,2019-12-21
+138,market,crypto,{'edo38p'},1,2019-12-21
+139,market,www,{'edo38p'},1,2019-12-21
+140,bitcoin,think,{'ednyb2'},1,2019-12-21
+141,com,think,{'edusa3'},1,2019-12-21
+142,https,think,{'edusa3'},1,2019-12-21
+143,think,december,{'edusa3'},1,2019-12-21
+144,network,think,{'edusa3'},1,2019-12-21
+145,report,hex,"{'edraex', 'edr9si'}",2,2019-12-21
+146,reminder,report,"{'edraex', 'edr9si'}",2,2019-12-21
+147,report,sec,"{'edraex', 'edr9si'}",2,2019-12-21
+148,report,fraud,"{'edraex', 'edr9si'}",2,2019-12-21
+149,securities,report,"{'edraex', 'edr9si'}",2,2019-12-21
+150,com,project,{'edvo6z'},1,2019-12-21
+151,project,cryptocurrency,{'edvo6z'},1,2019-12-21
+152,amp,project,{'edvl72'},1,2019-12-21
+153,blockchain,project,{'edvo6z'},1,2019-12-21
+154,people,project,{'edvo6z'},1,2019-12-21
+155,crypto,investment,"{'edumm9', 'edmfhy'}",2,2019-12-21
+156,investment,scheme,"{'edumm9', 'edmfhy'}",2,2019-12-21
+157,investment,bitcoin,{'edmfhy'},1,2019-12-21
+158,cryptocurrency,investment,{'edumm9'},1,2019-12-21
+159,investment,time,{'edumm9'},1,2019-12-21
+160,https,tokens,"{'edjm18', 'edj9pr'}",2,2019-12-21
+161,com,tokens,{'edjm18'},1,2019-12-21
+162,cryptocurrency,tokens,{'edj9pr'},1,2019-12-21
+163,amp,tokens,{'edjm18'},1,2019-12-21
+164,cryptocurrencies,tokens,{'edj9pr'},1,2019-12-21
+165,crypto,start,{'edm0lm'},1,2019-12-21
+166,com,start,{'edvo6z'},1,2019-12-21
+167,cryptocurrency,start,{'edvo6z'},1,2019-12-21
+168,blockchain,start,{'edvo6z'},1,2019-12-21
+169,people,start,{'edvo6z'},1,2019-12-21
+170,coins,bitcoin,{'edu219'},1,2019-12-21
+171,com,coins,{'edusa3'},1,2019-12-21
+172,coins,https,{'edusa3'},1,2019-12-21
+173,coins,ethereum,{'edu219'},1,2019-12-21
+174,coins,december,{'edusa3'},1,2019-12-21
+176,crypto,mining,{'edmfhy'},1,2019-12-21
+177,mining,bitcoin,{'edmfhy'},1,2019-12-21
+178,com,mining,{'edvo6z'},1,2019-12-21
+179,https,mining,{'edslqa'},1,2019-12-21
+180,ripple,amp,{'edujts'},1,2019-12-21
+181,ripple,xrp,{'edujts'},1,2019-12-21
+182,exchange,crypto,"{'edumm9', 'edvdfb'}",2,2019-12-21
+183,exchange,https,"{'edusa3', 'edmf1q'}",2,2019-12-21
+184,exchange,cryptocurrency,"{'edumm9', 'edmf1q'}",2,2019-12-21
+187,digital,bitcoin,{'edu219'},1,2019-12-21
+188,ethereum,digital,{'edu219'},1,2019-12-21
+189,money,digital,{'edu219'},1,2019-12-21
+190,coins,digital,{'edu219'},1,2019-12-21
+191,digital,currency,{'edp9z2'},1,2019-12-21
+192,crypto,currency,{'edm0lm'},1,2019-12-21
+193,currency,don,{'edm0lm'},1,2019-12-21
+194,currency,start,{'edm0lm'},1,2019-12-21
+196,post,currency,{'edm0lm'},1,2019-12-21
+197,post,crypto,"{'edkg3y', 'edm0lm'}",2,2019-12-21
+198,com,post,{'edq7te'},1,2019-12-21
+199,post,https,{'edq7te'},1,2019-12-21
+200,post,amp,{'edq7te'},1,2019-12-21
+201,post,december,{'edq7te'},1,2019-12-21
+202,support,airdrop,"{'edrmlf', 'edu7m1'}",2,2019-12-21
+203,bancor,support,"{'edrmlf', 'edu7m1'}",2,2019-12-21
+204,support,poloniex,"{'edusa3', 'edu7m1'}",2,2019-12-21
+205,bancor airdrop,support,"{'edrmlf', 'edu7m1'}",2,2019-12-21
+206,com,support,{'edusa3'},1,2019-12-21
+207,crypto,value,{'edkg3y'},1,2019-12-21
+208,https,value,{'edj9pr'},1,2019-12-21
+209,cryptocurrency,value,{'edj9pr'},1,2019-12-21
+210,cryptocurrencies,value,{'edj9pr'},1,2019-12-21
+211,value,year,{'edj9pr'},1,2019-12-21
+213,reminder,hex,"{'edraex', 'edr9si'}",2,2019-12-21
+214,hex,sec,"{'edraex', 'edr9si'}",2,2019-12-21
+215,hex,fraud,"{'edraex', 'edr9si'}",2,2019-12-21
+216,securities,hex,"{'edraex', 'edr9si'}",2,2019-12-21
+217,https,today,"{'edslqa', 'edmf1q', 'edusa3', 'edq7te'}",4,2019-12-21
+218,com,today,"{'edusa3', 'edq7te'}",2,2019-12-21
+220,exchange,today,"{'edmf1q', 'edusa3'}",2,2019-12-21
+221,today,io,"{'edslqa', 'edmf1q'}",2,2019-12-21
+222,com,platform,"{'edq5hq', 'edq7te'}",2,2019-12-21
+223,https,platform,"{'edq5hq', 'edq7te'}",2,2019-12-21
+224,amp,platform,"{'edq5hq', 'edq7te'}",2,2019-12-21
+226,crypto,platform,{'edq5hq'},1,2019-12-21
+227,xrp,crypto,{'edj1ch'},1,2019-12-21
+228,xrp,bitcoin,{'edj1ch'},1,2019-12-21
+229,xrp,amp,{'edujts'},1,2019-12-21
+231,xrp,trx,{'edj1ch'},1,2019-12-21
+233,december 2019,bitcoin,{'ednb70'},1,2019-12-21
+234,com,december 2019,{'edusa3'},1,2019-12-21
+235,https,december 2019,{'edusa3'},1,2019-12-21
+236,amp,december 2019,{'ednb70'},1,2019-12-21
+237,crypto,news,"{'edq5hq', 'edo38p'}",2,2019-12-21
+238,https,news,"{'edq5hq', 'edo38p'}",2,2019-12-21
+239,amp,news,"{'edq5hq', 'ednb70'}",2,2019-12-21
+242,https,launch,"{'edj9pr', 'edq7te'}",2,2019-12-21
+243,details,launch,"{'edj9pr', 'edq7te'}",2,2019-12-21
+244,com,launch,{'edq7te'},1,2019-12-21
+245,launch,cryptocurrency,{'edj9pr'},1,2019-12-21
+246,amp,launch,{'edq7te'},1,2019-12-21

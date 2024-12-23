@@ -1,0 +1,212 @@
+,token_1,token_2,connections,connections_strength,date
+0,com,https,"{'pbl7fi', 'pbhmtw', 'pbd2qk', 'pbkli7', 'pbdlku', 'pbabhj', 'pb5mqs'}",7,2021-08-25
+1,https,www,"{'pbl7fi', 'pbhmtw', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+2,https,https www,"{'pbl7fi', 'pbhmtw', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+3,https,people,"{'pbhmtw', 'pbd2qk', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+4,https,amp,"{'pbl7fi', 'pbkli7', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+6,com,amp,"{'pbl7fi', 'pbkli7', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+7,amp,www,"{'pbl7fi', 'pbkli7', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+8,amp,https www,"{'pbl7fi', 'pbkli7', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+9,amp,people,"{'pbkli7', 'pbha0d', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+10,use,people,"{'pbav26', 'pbd2qk', 'pbha0d', 'pbkli7', 'pbhigl', 'pbd7ag', 'pb2x14', 'pb5mqs'}",8,2021-08-25
+11,use,don,"{'pbeamf', 'pbkli7', 'pbl1uc', 'pb7g62', 'pbj1ds', 'pb2x14', 'pb8mug'}",7,2021-08-25
+12,use,money,"{'pbeamf', 'pbav26', 'pbd2qk', 'pbha0d', 'pbkli7', 'pb7g62'}",6,2021-08-25
+13,crypto,use,"{'pb8mug', 'pbhigl', 'pb7g62', 'pb2x14', 'pb5mqs'}",5,2021-08-25
+14,use,bitcoin,"{'pb8mug', 'pbkli7', 'pbha0d', 'pbhigl', 'pb5mqs'}",5,2021-08-25
+15,crypto,cryptocurrency,"{'pbho2u', 'pbhmtw', 'pbhigl', 'pbhff1', 'pb54ef', 'pb8mug', 'pbioxa', 'pb5mqs'}",8,2021-08-25
+16,cryptocurrency,bitcoin,"{'pbhmtw', 'pbhigl', 'pbhff1', 'pb54ef', 'pb8mug', 'pb5mqs'}",6,2021-08-25
+17,coins,cryptocurrency,"{'pbflkg', 'pbmsge', 'pbhigl', 'pbhff1', 'pb54ef', 'pbioxa'}",6,2021-08-25
+18,cryptocurrency,time,"{'pb8mug', 'pbgkhk', 'pbioxa', 'pb5mqs'}",4,2021-08-25
+19,cryptocurrency,don,"{'pbflkg', 'pb8mug', 'pbhmtw', 'pb54ef'}",4,2021-08-25
+21,com,www,"{'pbl7fi', 'pbhmtw', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+22,com,https www,"{'pbl7fi', 'pbhmtw', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+23,com,people,"{'pbhmtw', 'pbd2qk', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+25,amp,moon,{'pb58dl'},1,2021-08-25
+26,moons,moon,{'pbj8yn'},1,2021-08-25
+27,careful,moon,{'pbj8yn'},1,2021-08-25
+28,tip,moon,{'pbj8yn'},1,2021-08-25
+29,crypto,moon,{'pbj8yn'},1,2021-08-25
+31,moons,reddit,{'pbfda7'},1,2021-08-25
+32,moons,careful,{'pbj8yn'},1,2021-08-25
+33,moons,tip,{'pbj8yn'},1,2021-08-25
+34,moons,crypto,{'pbj8yn'},1,2021-08-25
+35,day,reddit,"{'pbflkg', 'pbhnsu'}",2,2021-08-25
+36,post,reddit,"{'pbflkg', 'pbhnsu'}",2,2021-08-25
+37,today,reddit,"{'pbflkg', 'pbhnsu'}",2,2021-08-25
+38,cryptocurrency,reddit,{'pbflkg'},1,2021-08-25
+40,cryptocurrency,sub,{'pbflkg'},1,2021-08-25
+41,sub,reddit,{'pbflkg'},1,2021-08-25
+42,comments,sub,{'pbflkg'},1,2021-08-25
+43,invest,sub,{'pbhp9v'},1,2021-08-25
+44,sub,read,{'pbhp9v'},1,2021-08-25
+47,www,https www,"{'pbl7fi', 'pbhmtw', 'pbkli7', 'pbabhj', 'pb5mqs'}",5,2021-08-25
+49,people,www,"{'pb5mqs', 'pbkli7', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+54,people,https www,"{'pb5mqs', 'pbkli7', 'pbabhj', 'pbhmtw'}",4,2021-08-25
+55,right,comments,"{'pbflkg', 'pbl7fi', 'pbjvlb'}",3,2021-08-25
+56,play,comments,"{'pbl7fi', 'pbjvlb'}",2,2021-08-25
+57,game,comments,"{'pbl7fi', 'pbjvlb'}",2,2021-08-25
+58,comments,simple,"{'pbflkg', 'pbjvlb'}",2,2021-08-25
+59,https,comments,{'pbl7fi'},1,2021-08-25
+60,crypto,invest,"{'pb2x14', 'pbhff1', 'pbhp9v', 'pbkkv2'}",4,2021-08-25
+61,invest,lot,"{'pbhff1', 'pblwqx', 'pbhp9v', 'pb2x14'}",4,2021-08-25
+62,invest,time,"{'pbgkhk', 'pbhp9v', 'pbkkv2'}",3,2021-08-25
+63,invest,eth,"{'pbhff1', 'pbhp9v', 'pbkkv2'}",3,2021-08-25
+64,invest,btc,"{'pbhff1', 'pbhp9v', 'pbkkv2'}",3,2021-08-25
+65,smart,contracts,"{'pbha0d', 'pbjvlb', 'pbdlku', 'pbkkv2'}",4,2021-08-25
+66,smart contracts,smart,"{'pbha0d', 'pbjvlb', 'pbdlku', 'pbkkv2'}",4,2021-08-25
+67,project,smart,"{'pbha0d', 'pbjvlb', 'pbkkv2'}",3,2021-08-25
+68,crypto,smart,"{'pbjvlb', 'pbkkv2'}",2,2021-08-25
+69,smart,time,"{'pbjvlb', 'pbkkv2'}",2,2021-08-25
+70,wallet,address,"{'pbl7fi', 'pbhmd5', 'pbdxec', 'pb8mug', 'pbhe4u'}",5,2021-08-25
+71,want,wallet,"{'pbl7fi', 'pbnffh', 'pbhmd5', 'pbhrdy'}",4,2021-08-25
+72,wallet,guys,"{'pb8mug', 'pbhe4u', 'pbnffh', 'pbdxec'}",4,2021-08-25
+73,wallet,amp,"{'pbl7fi', 'pbkli7', 'pbhmd5'}",3,2021-08-25
+74,com,wallet,"{'pbl7fi', 'pbkli7', 'pb8mug'}",3,2021-08-25
+75,crypto,read,"{'pbhp9v', 'pbhmtw'}",2,2021-08-25
+76,ve,read,"{'pbhp9v', 'pbhmtw'}",2,2021-08-25
+77,matter,read,"{'pbhp9v', 'pbhmtw'}",2,2021-08-25
+78,ones,read,"{'pbhp9v', 'pbhmtw'}",2,2021-08-25
+79,https,read,{'pbhmtw'},1,2021-08-25
+80,profit,crypto,"{'pbmqhn', 'pb54ef'}",2,2021-08-25
+81,profit,time,"{'pbmqhn', 'pbf6j5'}",2,2021-08-25
+82,profit,bitcoin,"{'pbeitg', 'pb54ef'}",2,2021-08-25
+83,profit,ethereum,"{'pbeitg', 'pb54ef'}",2,2021-08-25
+84,profit,coins,"{'pbmqhn', 'pb54ef'}",2,2021-08-25
+85,share,https,"{'pbkli7', 'pbf6j5'}",2,2021-08-25
+86,share,use,"{'pbkli7', 'pbf6j5'}",2,2021-08-25
+87,share,information,"{'pbkli7', 'pbf6j5'}",2,2021-08-25
+88,share,blockchain,"{'pbkli7', 'pbf6j5'}",2,2021-08-25
+89,share,transactions,"{'pbkli7', 'pbf6j5'}",2,2021-08-25
+90,information,people,"{'pb1m23', 'pbd2qk', 'pazyjq', 'pbkli7'}",4,2021-08-25
+91,https,information,"{'pbd2qk', 'pbf6j5', 'pbkli7'}",3,2021-08-25
+92,use,information,"{'pbd2qk', 'pbf6j5', 'pbkli7'}",3,2021-08-25
+93,information,blockchain,"{'pbkli7', 'pazyjq', 'pbf6j5'}",3,2021-08-25
+94,knows,information,"{'pbd2qk', 'pazyjq', 'pbkli7'}",3,2021-08-25
+95,trade,crypto,"{'pbdxm0', 'pbho2u', 'pbhesu'}",3,2021-08-25
+96,trade,exchange,"{'pb8job', 'pbho2u'}",2,2021-08-25
+97,trade,set,"{'pbh9ve', 'pbdxm0'}",2,2021-08-25
+98,trade,sure,"{'pbh9ve', 'pbhesu'}",2,2021-08-25
+99,trade,hold,"{'pbdxm0', 'pbho2u'}",2,2021-08-25
+100,longer,time,"{'pbh9ve', 'pbjvlb'}",2,2021-08-25
+101,right,longer,"{'pb1m23', 'pbjvlb'}",2,2021-08-25
+102,longer,term,"{'pbh9ve', 'pb1m23'}",2,2021-08-25
+103,longer,guess,"{'pb1m23', 'pbjvlb'}",2,2021-08-25
+104,longer,simple,"{'pbh9ve', 'pbjvlb'}",2,2021-08-25
+105,money,afford,"{'pbhrdy', 'pbeamf'}",2,2021-08-25
+106,want,afford,"{'pbhrdy', 'pbeamf'}",2,2021-08-25
+107,afford,start,"{'pbhrdy', 'pbeamf'}",2,2021-08-25
+108,afford,portfolio,"{'pbhrdy', 'pbeamf'}",2,2021-08-25
+109,use,afford,{'pbeamf'},1,2021-08-25
+110,invest,scams,{'pblwqx'},1,2021-08-25
+111,don,scams,{'pblwqx'},1,2021-08-25
+112,people,scams,{'pblwqx'},1,2021-08-25
+113,market,scams,{'pblwqx'},1,2021-08-25
+114,money,scams,{'pblwqx'},1,2021-08-25
+115,crypto,page,"{'pbd9mv', 'pb8mug'}",2,2021-08-25
+116,page,time,"{'pbd9mv', 'pb8mug'}",2,2021-08-25
+117,page,eth,"{'pbd9mv', 'pb8mug'}",2,2021-08-25
+118,btc,page,"{'pbd9mv', 'pb8mug'}",2,2021-08-25
+119,page,don,"{'pbd9mv', 'pb8mug'}",2,2021-08-25
+120,check,cryptocurrency,"{'pbflkg', 'pb8mug'}",2,2021-08-25
+121,check,don,"{'pbflkg', 'pb8mug'}",2,2021-08-25
+122,coin,check,"{'pbflkg', 'pb8mug'}",2,2021-08-25
+123,check,help,"{'pbflkg', 'pb8mug'}",2,2021-08-25
+124,users,check,"{'pbflkg', 'pb8mug'}",2,2021-08-25
+125,quick,bitcoin,"{'pbha0d', 'pb54ef'}",2,2021-08-25
+126,quick,people,"{'pbha0d', 'pb54ef'}",2,2021-08-25
+127,quick,coins,"{'pbha0d', 'pb54ef'}",2,2021-08-25
+128,coin,quick,"{'pbha0d', 'pb54ef'}",2,2021-08-25
+129,quick,lot,"{'pbha0d', 'pb54ef'}",2,2021-08-25
+130,discussion,lot,"{'pb1m23', 'pazyjq', 'pbhff1'}",3,2021-08-25
+131,discussion,information,"{'pb1m23', 'pazyjq'}",2,2021-08-25
+132,discussion,crypto,"{'pazyjq', 'pbhff1'}",2,2021-08-25
+133,discussion,eth,"{'pazyjq', 'pbhff1'}",2,2021-08-25
+134,discussion,btc,"{'pazyjq', 'pbhff1'}",2,2021-08-25
+135,fall,time,"{'pbmqhn', 'pbggws', 'pbkkv2'}",3,2021-08-25
+136,crypto,fall,"{'pbmqhn', 'pbkkv2'}",2,2021-08-25
+137,ve,fall,"{'pbmqhn', 'pbkkv2'}",2,2021-08-25
+138,coins,fall,"{'pbmqhn', 'pbggws'}",2,2021-08-25
+139,coin,fall,"{'pbmqhn', 'pbggws'}",2,2021-08-25
+140,effect,cryptocurrency,"{'pb5mqs', 'pbhff1'}",2,2021-08-25
+141,effect,crypto,"{'pb5mqs', 'pbhff1'}",2,2021-08-25
+142,effect,bitcoin,"{'pb5mqs', 'pbhff1'}",2,2021-08-25
+143,effect,market,"{'pb5mqs', 'pbhff1'}",2,2021-08-25
+144,effect,risk,"{'pb5mqs', 'pbhff1'}",2,2021-08-25
+145,careful,don,"{'pbeamf', 'pbj8yn'}",2,2021-08-25
+146,money,careful,"{'pbeamf', 'pbj8yn'}",2,2021-08-25
+147,want,careful,"{'pbeamf', 'pbj8yn'}",2,2021-08-25
+148,use,careful,{'pbeamf'},1,2021-08-25
+150,portfolios,use,{'pbl1uc'},1,2021-08-25
+151,portfolios,eth,{'pbl1uc'},1,2021-08-25
+152,portfolios,btc,{'pbl1uc'},1,2021-08-25
+153,portfolios,don,{'pbl1uc'},1,2021-08-25
+154,portfolios,bitcoin,{'pbk57i'},1,2021-08-25
+157,tip,careful,{'pbj8yn'},1,2021-08-25
+158,crypto,tip,{'pbj8yn'},1,2021-08-25
+159,tip,time,{'pbj8yn'},1,2021-08-25
+160,market,crypto,"{'pbmqhn', 'pb7bam', 'pbhesu', 'pbhigl', 'pbd9mv', 'pbhff1', 'pbabhj', 'pb2x14', 'pb5mqs', 'pb6e7f', 'pb6e68'}",11,2021-08-25
+161,crypto,time,"{'pbmqhn', 'pb8mug', 'pbhp9v', 'pbjvlb', 'pbj8yn', 'pbd9mv', 'pbkkv2', 'pb5mqs', 'pbioxa', 'pbhnsu'}",10,2021-08-25
+162,crypto,eth,"{'pazyjq', 'pbhp9v', 'pbd9mv', 'pbabhj', 'pbhff1', 'pbkkv2', 'pbdxm0', 'pb8mug', 'pbhnsu'}",9,2021-08-25
+163,crypto,don,"{'pazyjq', 'pbhmtw', 'pbj8yn', 'pbd9mv', 'pb7g62', 'pb54ef', 'pbdxm0', 'pb8mug', 'pb2x14'}",9,2021-08-25
+166,time,eth,"{'pbhp9v', 'pbn4a9', 'pbd9mv', 'pbkkv2', 'pb8mug', 'pbhnsu'}",6,2021-08-25
+167,time,start,"{'pbhp9v', 'pbggws', 'pbjvlb', 'pb8mug', 'pbioxa', 'pbhnsu'}",6,2021-08-25
+168,time,way,"{'pbmqhn', 'pbj8yn', 'pbd9mv', 'pbgkhk', 'pbhnsu'}",5,2021-08-25
+169,coin,time,"{'pbmqhn', 'pbgkhk', 'pbggws', 'pbd9mv', 'pb8mug'}",5,2021-08-25
+171,btc,eth,"{'pazyjq', 'pbhp9v', 'pbl1uc', 'pbd9mv', 'pbabhj', 'pbhff1', 'pbkkv2', 'pb8mug'}",8,2021-08-25
+172,btc eth,eth,"{'pazyjq', 'pbhp9v', 'pbl1uc', 'pbd9mv', 'pbabhj', 'pbhff1', 'pb8mug'}",7,2021-08-25
+173,eth,time,"{'pbhp9v', 'pbn4a9', 'pbd9mv', 'pbkkv2', 'pb8mug', 'pbhnsu'}",6,2021-08-25
+174,trading,eth,"{'pbn4a9', 'pbd9mv', 'pbabhj', 'pbdxm0', 'pb8mug', 'pbhnsu'}",6,2021-08-25
+175,crypto,btc,"{'pazyjq', 'pbhp9v', 'pbhigl', 'pbd9mv', 'pbabhj', 'pbhff1', 'pbkkv2', 'pb8mug'}",8,2021-08-25
+177,btc eth,btc,"{'pazyjq', 'pbhp9v', 'pbl1uc', 'pbd9mv', 'pbabhj', 'pbhff1', 'pb8mug'}",7,2021-08-25
+178,btc,don,"{'pazyjq', 'pbnffh', 'pbl1uc', 'pbd9mv', 'pb8mug'}",5,2021-08-25
+179,btc,bitcoin,"{'pbc5kk', 'pbnffh', 'pbhigl', 'pbhff1', 'pb8mug'}",5,2021-08-25
+181,money,don,"{'pbflkg', 'pbeamf', 'pbhmtw', 'pbkli7', 'pblwqx', 'pbj8yn', 'pbd9mv', 'pb7g62'}",8,2021-08-25
+183,people,don,"{'pazyjq', 'pbhmtw', 'pbkli7', 'pblwqx', 'pbj8yn', 'pb54ef', 'pb2x14'}",7,2021-08-25
+184,coin,don,"{'pbflkg', 'pbnffh', 'pbd9mv', 'pb54ef', 'pbdxm0', 'pb8mug', 'pb2x14'}",7,2021-08-25
+185,people,bitcoin,"{'pbhmtw', 'pbkli7', 'pbha0d', 'pbhigl', 'pb1m23', 'pb54ef', 'pb5mqs'}",7,2021-08-25
+187,crypto,bitcoin,"{'pb8mug', 'pbhmtw', 'pbhigl', 'pbhff1', 'pb54ef', 'pb5mqs'}",6,2021-08-25
+191,crypto,people,"{'pazyjq', 'pbhmtw', 'pbhigl', 'pbj8yn', 'pbabhj', 'pb54ef', 'pb5mqs', 'pb2x14'}",8,2021-08-25
+192,money,people,"{'pbhmtw', 'pbav26', 'pbd2qk', 'pbha0d', 'pbkli7', 'pblwqx', 'pbj8yn', 'pbabhj'}",8,2021-08-25
+193,people,lot,"{'pazyjq', 'pbha0d', 'pblwqx', 'pbj8yn', 'pb1m23', 'pbd7ag', 'pb54ef', 'pb2x14'}",8,2021-08-25
+196,market,people,"{'pblwqx', 'pbhigl', 'pb1m23', 'pbabhj', 'pb2x14', 'pb5mqs'}",6,2021-08-25
+197,market,use,"{'pbeamf', 'pbhigl', 'pbn4a9', 'pb2x14', 'pb5mqs'}",5,2021-08-25
+198,market,price,"{'pbhigl', 'pbn4a9', 'pb1m23', 'pbd9mv', 'pb5mqs'}",5,2021-08-25
+199,market,time,"{'pbd9mv', 'pbmqhn', 'pb5mqs', 'pbn4a9'}",4,2021-08-25
+200,crypto,money,"{'pb5nb8', 'pbhmtw', 'pbj8yn', 'pbd9mv', 'pb7g62', 'pbf2ta', 'pbabhj', 'pbhrdy'}",8,2021-08-25
+203,money,start,"{'pbeamf', 'pbd2qk', 'pbha0d', 'pbggws', 'pblwqx', 'pb7g62', 'pbhrdy'}",7,2021-08-25
+206,use,price,"{'pb5mqs', 'pbhigl', 'pbj1ds', 'pbn4a9'}",4,2021-08-25
+207,bitcoin,price,"{'pb1m23', 'pb25j1', 'pb5mqs', 'pbhigl'}",4,2021-08-25
+208,cryptocurrency,price,"{'pbflkg', 'pb5mqs', 'pbhigl'}",3,2021-08-25
+209,crypto,price,"{'pbd9mv', 'pb5mqs', 'pbhigl'}",3,2021-08-25
+210,crypto,way,"{'pbmqhn', 'pazyjq', 'pbj8yn', 'pbd9mv', 'pb7g62', 'pbf2ta', 'pbdxm0', 'pbhnsu'}",8,2021-08-25
+211,don,way,"{'pazyjq', 'pbj8yn', 'pbd9mv', 'pb7g62', 'pbj1ds', 'pbdxm0'}",6,2021-08-25
+212,coin,way,"{'pbmqhn', 'pbha0d', 'pbdlku', 'pbd9mv', 'pbdxm0', 'pbgkhk'}",6,2021-08-25
+214,money,way,"{'pbha0d', 'pbj8yn', 'pbd9mv', 'pb7g62', 'pbf2ta'}",5,2021-08-25
+215,crypto,ve,"{'pbmqhn', 'pbhmtw', 'pbhp9v', 'pbf2ta', 'pbkkv2', 'pbdxm0'}",6,2021-08-25
+216,ve,don,"{'pbeamf', 'pbhmtw', 'pbl1uc', 'pbj1ds', 'pbdxm0'}",5,2021-08-25
+217,ve,way,"{'pbmqhn', 'pbha0d', 'pbj1ds', 'pbf2ta', 'pbdxm0'}",5,2021-08-25
+218,ve,portfolio,"{'pbmqhn', 'pbeamf', 'pbhmtw', 'pbl1uc', 'pbj1ds'}",5,2021-08-25
+219,use,ve,"{'pbha0d', 'pbj1ds', 'pbeamf', 'pbl1uc'}",4,2021-08-25
+220,cryptocurrency,day,"{'pbflkg', 'pb54ef'}",2,2021-08-25
+222,crypto,day,"{'pbhnsu', 'pb54ef'}",2,2021-08-25
+223,day,don,"{'pbflkg', 'pb54ef'}",2,2021-08-25
+224,coins,day,"{'pbflkg', 'pb54ef'}",2,2021-08-25
+225,don,think,"{'pazyjq', 'pbnffh', 'pb2x14'}",3,2021-08-25
+226,people,think,"{'pb1m23', 'pazyjq', 'pb2x14'}",3,2021-08-25
+227,lot,think,"{'pb1m23', 'pazyjq', 'pb2x14'}",3,2021-08-25
+228,information,think,"{'pb1m23', 'pazyjq'}",2,2021-08-25
+229,discussion,think,"{'pb1m23', 'pazyjq'}",2,2021-08-25
+230,ethereum,cardano,"{'pb1m23', 'pbd8h6', 'pbdlku', 'pb54ef'}",4,2021-08-25
+231,ethereum,bitcoin,"{'pb1m23', 'pbeitg', 'pb54ef'}",3,2021-08-25
+233,ethereum,people,"{'pb1m23', 'pb54ef'}",2,2021-08-25
+234,market,ethereum,"{'pb1m23', 'pbdlku'}",2,2021-08-25
+235,crypto,years,"{'pbhrdy', 'pb5nb8', 'pbf2ta'}",3,2021-08-25
+236,years,money,"{'pbhrdy', 'pb5nb8', 'pbf2ta'}",3,2021-08-25
+237,years,ve,"{'pbj1ds', 'pbf2ta', 'pbl1uc'}",3,2021-08-25
+238,coins,years,"{'pbhrdy', 'pbl1uc', 'pbmsge'}",3,2021-08-25
+239,years,portfolio,"{'pbhrdy', 'pbj1ds', 'pbl1uc'}",3,2021-08-25
+240,coins,crypto,"{'pbmqhn', 'pbhigl', 'pbhff1', 'pb54ef', 'pbdxm0', 'pbioxa', 'pbhrdy'}",7,2021-08-25
+242,coin,coins,"{'pbflkg', 'pbmqhn', 'pbha0d', 'pbggws', 'pb54ef', 'pbdxm0'}",6,2021-08-25
+243,coins,bitcoin,"{'pbha0d', 'pbhigl', 'pb1m23', 'pbhff1', 'pb54ef'}",5,2021-08-25
+244,coins,lot,"{'pbha0d', 'pbggws', 'pb1m23', 'pbhff1', 'pb54ef'}",5,2021-08-25
+246,coin,crypto,"{'pbmqhn', 'pb54ef', 'pbd9mv', 'pb2x14', 'pbdxm0', 'pb8mug'}",6,2021-08-25

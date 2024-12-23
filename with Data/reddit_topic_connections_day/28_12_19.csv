@@ -1,0 +1,212 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,https,"{'egopab', 'egs16f', 'eglelf', 'egka08', 'egppp5'}",5,2019-12-28
+1,crypto,btc,"{'egmh20', 'egjnjb', 'egwipt', 'egt2va', 'egl717'}",5,2019-12-28
+2,crypto,coins,"{'egwipt', 'egvm57', 'eglelf', 'egt2va'}",4,2019-12-28
+3,crypto,cryptocurrency,"{'egs5wt', 'egka08', 'eglelf'}",3,2019-12-28
+4,com,crypto,"{'egka08', 'egs16f', 'eglelf'}",3,2019-12-28
+5,https,bitcoin,"{'egqhj7', 'egs16f', 'egk3ep'}",3,2019-12-28
+6,com,bitcoin,"{'egtlv8', 'egs16f', 'egk3ep'}",3,2019-12-28
+7,bitcoin,time,"{'egqhj7', 'egs16f'}",2,2019-12-28
+8,coin,bitcoin,"{'egoogy', 'egk3ep'}",2,2019-12-28
+9,link,bitcoin,"{'egqhj7', 'egs16f'}",2,2019-12-28
+11,https,cryptocurrency,"{'egj862', 'egka08', 'eglelf'}",3,2019-12-28
+12,com,cryptocurrency,"{'egj862', 'egka08', 'eglelf'}",3,2019-12-28
+13,amp,cryptocurrency,"{'egj862', 'eglelf'}",2,2019-12-28
+14,cryptocurrency,www,"{'egka08', 'egj862'}",2,2019-12-28
+15,com,https,"{'egps0b', 'egk3ep', 'egs16f', 'eglelf', 'egma2w', 'egka08', 'egseai', 'egj862'}",8,2019-12-28
+17,https,amp,"{'egqfmh', 'egs16f', 'eglelf', 'egj862', 'egppp5'}",5,2019-12-28
+24,com,amp,"{'egj862', 'egs16f', 'eglelf'}",3,2019-12-28
+26,crypto,amp,"{'egppp5', 'egs16f', 'eglelf'}",3,2019-12-28
+28,amp,amp x200b,"{'egqfmh', 'egs16f', 'eglelf'}",3,2019-12-28
+29,amp,x200b,"{'egqfmh', 'egs16f', 'eglelf'}",3,2019-12-28
+30,https,blockchain,"{'egopab', 'egqhj7', 'egppp5'}",3,2019-12-28
+31,crypto,blockchain,"{'egopab', 'egppp5'}",2,2019-12-28
+32,blockchain,end,"{'egopab', 'egkqu1'}",2,2019-12-28
+33,blockchain,network,"{'egppp5', 'ego5oj'}",2,2019-12-28
+34,users,blockchain,"{'egopab', 'egqhj7'}",2,2019-12-28
+35,coin,ethereum,"{'egpuzu', 'egoogy'}",2,2019-12-28
+36,ethereum,bitcoin,{'egoogy'},1,2019-12-28
+37,wallet,ethereum,{'egoogy'},1,2019-12-28
+38,ethereum,money,{'egoogy'},1,2019-12-28
+39,ethereum,start,{'egoogy'},1,2019-12-28
+40,https,www,"{'egka08', 'egqhj7', 'egj862'}",3,2019-12-28
+41,www,https www,"{'egka08', 'egqhj7', 'egj862'}",3,2019-12-28
+43,com,www,"{'egka08', 'egj862'}",2,2019-12-28
+44,crypto,www,{'egka08'},1,2019-12-28
+45,https,https www,"{'egka08', 'egqhj7', 'egj862'}",3,2019-12-28
+47,cryptocurrency,https www,"{'egka08', 'egj862'}",2,2019-12-28
+48,com,https www,"{'egka08', 'egj862'}",2,2019-12-28
+49,crypto,https www,{'egka08'},1,2019-12-28
+50,cryptocurrency,december,{'egj862'},1,2019-12-28
+51,https,december,{'egj862'},1,2019-12-28
+52,com,december,{'egj862'},1,2019-12-28
+53,amp,december,{'egj862'},1,2019-12-28
+54,www,december,{'egj862'},1,2019-12-28
+55,crypto,ve,"{'egwipt', 'egt2va'}",2,2019-12-28
+56,ve,time,"{'egxiyl', 'egt2va'}",2,2019-12-28
+57,trade,ve,"{'egwipt', 'egt2va'}",2,2019-12-28
+58,market,ve,"{'egwipt', 'egt2va'}",2,2019-12-28
+59,ve,btc,"{'egwipt', 'egt2va'}",2,2019-12-28
+60,crypto,time,"{'egvm57', 'egs16f', 'egt2va'}",3,2019-12-28
+61,time,day,"{'egs16f', 'egxiyl', 'egvm57'}",3,2019-12-28
+62,coins,time,"{'egvm57', 'egqhj7', 'egt2va'}",3,2019-12-28
+63,time,bitcoin,"{'egqhj7', 'egs16f'}",2,2019-12-28
+64,https,time,"{'egqhj7', 'egs16f'}",2,2019-12-28
+65,people,time,"{'egxiyl', 'egvm57'}",2,2019-12-28
+66,use,people,"{'egpv0d', 'egvm57'}",2,2019-12-28
+67,people,day,"{'egxiyl', 'egvm57'}",2,2019-12-28
+68,want,people,"{'egpv0d', 'egxiyl'}",2,2019-12-28
+69,website,people,"{'egxiyl', 'egvm57'}",2,2019-12-28
+70,trading,crypto,"{'egncha', 'egvm57', 'egt2va'}",3,2019-12-28
+71,trading,time,"{'egvm57', 'egt2va'}",2,2019-12-28
+72,trading,eth,"{'egvm57', 'egt2va'}",2,2019-12-28
+73,trading,price,"{'egvm57', 'egt2va'}",2,2019-12-28
+74,trading,tokens,"{'egncha', 'egvm57'}",2,2019-12-28
+75,trade,crypto,"{'egwipt', 'egt2va'}",2,2019-12-28
+76,com,trade,"{'egtlv8', 'egj862'}",2,2019-12-28
+78,trade,market,"{'egwipt', 'egt2va'}",2,2019-12-28
+79,trade,btc,"{'egwipt', 'egt2va'}",2,2019-12-28
+80,market,crypto,"{'egwipt', 'egka08', 'egt2va'}",3,2019-12-28
+82,market,time,"{'egmbcf', 'egt2va'}",2,2019-12-28
+84,market,btc,"{'egwipt', 'egt2va'}",2,2019-12-28
+85,crypto,use,"{'egopab', 'eglelf', 'egvm57'}",3,2019-12-28
+86,use,cryptocurrency,"{'egpv0d', 'eglelf'}",2,2019-12-28
+87,https,use,"{'egopab', 'eglelf'}",2,2019-12-28
+89,use,today,"{'eglelf', 'egvm57'}",2,2019-12-28
+90,pi,mining,"{'egpv0d', 'egqh8c', 'egs16f'}",3,2019-12-28
+91,crypto,mining,"{'egqh8c', 'egs16f'}",2,2019-12-28
+92,mining,app,"{'egpv0d', 'egs16f'}",2,2019-12-28
+93,code,mining,"{'egpv0d', 'egs16f'}",2,2019-12-28
+94,mining,phone,"{'egpv0d', 'egs16f'}",2,2019-12-28
+95,crypto,wallet,{'egualj'},1,2019-12-28
+96,wallet,bitcoin,{'egoogy'},1,2019-12-28
+98,wallet,money,{'egoogy'},1,2019-12-28
+99,coin,wallet,{'egoogy'},1,2019-12-28
+101,https,btc,"{'egqfmh', 'egmqkn', 'egqhj7'}",3,2019-12-28
+102,coins,btc,"{'egwipt', 'egqhj7', 'egt2va'}",3,2019-12-28
+104,btc,time,"{'egqhj7', 'egt2va'}",2,2019-12-28
+106,crypto,end,{'egopab'},1,2019-12-28
+107,https,end,{'egopab'},1,2019-12-28
+108,use,end,{'egopab'},1,2019-12-28
+109,end,year,{'egopab'},1,2019-12-28
+110,https,check,"{'egseai', 'egma2w', 'egj862'}",3,2019-12-28
+111,com,check,"{'egseai', 'egma2w', 'egj862'}",3,2019-12-28
+112,check,network,"{'egma2w', 'egmivx'}",2,2019-12-28
+113,profit,check,"{'egma2w', 'egj862'}",2,2019-12-28
+114,check,fees,"{'egma2w', 'egmivx'}",2,2019-12-28
+115,crypto,token,"{'egppp5', 'egvm57'}",2,2019-12-28
+116,https,token,"{'egseai', 'egppp5'}",2,2019-12-28
+117,com,token,{'egseai'},1,2019-12-28
+118,amp,token,{'egppp5'},1,2019-12-28
+119,blockchain,token,{'egppp5'},1,2019-12-28
+120,crypto,today,"{'egs16f', 'eglelf', 'egvm57'}",3,2019-12-28
+121,https,today,"{'egs16f', 'eglelf'}",2,2019-12-28
+122,com,today,"{'egs16f', 'eglelf'}",2,2019-12-28
+123,amp,today,"{'egs16f', 'eglelf'}",2,2019-12-28
+124,today,time,"{'egs16f', 'egvm57'}",2,2019-12-28
+125,crypto,year,{'egopab'},1,2019-12-28
+126,cryptocurrency,year,{'ego26f'},1,2019-12-28
+127,https,year,{'egopab'},1,2019-12-28
+128,blockchain,year,{'egopab'},1,2019-12-28
+129,time,year,{'egmbcf'},1,2019-12-28
+130,censorship,youtube,"{'egj6tu', 'egrjze'}",2,2019-12-28
+131,crypto,youtube,{'egl717'},1,2019-12-28
+132,youtube,btc,{'egl717'},1,2019-12-28
+133,youtube,crypto btc,{'egl717'},1,2019-12-28
+134,https,network,"{'egma2w', 'egs16f', 'egppp5'}",3,2019-12-28
+135,network,join,"{'egma2w', 'egs16f', 'egmivx'}",3,2019-12-28
+136,network,telegram,"{'ego5oj', 'egma2w', 'egmivx'}",3,2019-12-28
+137,network,allows,"{'egma2w', 'egs16f', 'egmivx'}",3,2019-12-28
+138,crypto,network,"{'egs16f', 'egppp5'}",2,2019-12-28
+139,crypto,eth,"{'egvm57', 'egt2va'}",2,2019-12-28
+140,eth,time,"{'egvm57', 'egt2va'}",2,2019-12-28
+142,eth,price,"{'egvm57', 'egt2va'}",2,2019-12-28
+143,coins,eth,"{'egvm57', 'egt2va'}",2,2019-12-28
+144,crypto,money,"{'egwipt', 'egvm57'}",2,2019-12-28
+145,coins,money,"{'egwipt', 'egvm57'}",2,2019-12-28
+146,money,smart,"{'egoogy', 'egvm57'}",2,2019-12-28
+147,money,coinbase,"{'egwipt', 'egoogy'}",2,2019-12-28
+148,order,money,"{'egoogy', 'egvm57'}",2,2019-12-28
+149,users,crypto,"{'egopab', 'egvm57'}",2,2019-12-28
+150,users,https,"{'egopab', 'egqhj7'}",2,2019-12-28
+152,users,time,"{'egqhj7', 'egvm57'}",2,2019-12-28
+153,users,use,"{'egopab', 'egvm57'}",2,2019-12-28
+154,lot,help,"{'egxiyl', 'eglelf'}",2,2019-12-28
+155,crypto,lot,{'eglelf'},1,2019-12-28
+156,cryptocurrency,lot,{'eglelf'},1,2019-12-28
+157,https,lot,{'eglelf'},1,2019-12-28
+158,com,lot,{'eglelf'},1,2019-12-28
+159,crypto,worth,"{'egka08', 'egvm57'}",2,2019-12-28
+160,cryptocurrency,worth,{'egka08'},1,2019-12-28
+161,https,worth,{'egka08'},1,2019-12-28
+162,com,worth,{'egka08'},1,2019-12-28
+163,worth,www,{'egka08'},1,2019-12-28
+164,crypto,price,"{'egvm57', 'egt2va'}",2,2019-12-28
+165,time,price,"{'egvm57', 'egt2va'}",2,2019-12-28
+168,coins,price,"{'egvm57', 'egt2va'}",2,2019-12-28
+169,profit,https,"{'egma2w', 'egj862'}",2,2019-12-28
+170,com,profit,"{'egma2w', 'egj862'}",2,2019-12-28
+172,profit,website,"{'egma2w', 'egvm57'}",2,2019-12-28
+173,profit,offer,"{'egma2w', 'egvm57'}",2,2019-12-28
+174,crypto,app,"{'egs16f', 'egt2va'}",2,2019-12-28
+175,time,app,"{'egs16f', 'egt2va'}",2,2019-12-28
+177,code,app,"{'egpv0d', 'egs16f'}",2,2019-12-28
+178,phone,app,"{'egpv0d', 'egs16f'}",2,2019-12-28
+181,coin,cryptocurrency,{'eguui6'},1,2019-12-28
+182,coin,https,{'egk3ep'},1,2019-12-28
+183,com,coin,{'egk3ep'},1,2019-12-28
+184,cryptocurrencies,cryptocurrencies 2010s,"{'egq6jo', 'egouxa'}",2,2019-12-28
+185,cryptocurrencies,worst cryptocurrencies,"{'egq6jo', 'egouxa'}",2,2019-12-28
+186,crypto,tokens,"{'egncha', 'eglelf', 'egvm57'}",3,2019-12-28
+188,use,tokens,"{'eglelf', 'egvm57'}",2,2019-12-28
+189,today,tokens,"{'eglelf', 'egvm57'}",2,2019-12-28
+190,coins,tokens,"{'eglelf', 'egvm57'}",2,2019-12-28
+191,crypto,day,"{'egopab', 'egs16f', 'egvm57'}",3,2019-12-28
+192,day,time,"{'egs16f', 'egxiyl', 'egvm57'}",3,2019-12-28
+193,https,day,"{'egopab', 'egs16f'}",2,2019-12-28
+195,use,day,"{'egopab', 'egvm57'}",2,2019-12-28
+196,coins,crypto,"{'egwipt', 'egvm57', 'eglelf', 'egt2va'}",4,2019-12-28
+199,coins,trades,"{'egwipt', 'egvm57', 'egt2va'}",3,2019-12-28
+200,coins,https,"{'egqhj7', 'eglelf'}",2,2019-12-28
+201,start,change,"{'egmqkn', 'egxiyl'}",2,2019-12-28
+202,start,bitcoin,{'egoogy'},1,2019-12-28
+203,https,start,{'egmqkn'},1,2019-12-28
+205,ve,start,{'egxiyl'},1,2019-12-28
+206,crypto,sell,{'egvm57'},1,2019-12-28
+207,https,sell,{'egqfmh'},1,2019-12-28
+208,amp,sell,{'egqfmh'},1,2019-12-28
+209,sell,time,{'egvm57'},1,2019-12-28
+210,people,sell,{'egvm57'},1,2019-12-28
+211,exchange,crypto,"{'egncha', 'egvm57'}",2,2019-12-28
+212,trading,exchange,"{'egncha', 'egvm57'}",2,2019-12-28
+213,exchange,tokens,"{'egncha', 'egvm57'}",2,2019-12-28
+214,exchange,time,{'egvm57'},1,2019-12-28
+215,exchange,people,{'egvm57'},1,2019-12-28
+216,blockchain,digital,"{'eguui6', 'egoolb'}",2,2019-12-28
+217,digital,cryptocurrency,{'eguui6'},1,2019-12-28
+218,trade,digital,{'egoolb'},1,2019-12-28
+219,coin,digital,{'eguui6'},1,2019-12-28
+220,digital,tokens,{'egoolb'},1,2019-12-28
+221,hey,fees,"{'egma2w', 'egmivx', 'egt2va'}",3,2019-12-28
+223,network,fees,"{'egma2w', 'egmivx'}",2,2019-12-28
+224,offer,fees,"{'egma2w', 'egmivx'}",2,2019-12-28
+225,fees,foundation,"{'egma2w', 'egmivx'}",2,2019-12-28
+226,google,crypto,"{'egopab', 'egs16f', 'eglelf'}",3,2019-12-28
+227,google,https,"{'egopab', 'egs16f', 'eglelf'}",3,2019-12-28
+228,com,google,"{'egs16f', 'eglelf'}",2,2019-12-28
+229,google,amp,"{'egs16f', 'eglelf'}",2,2019-12-28
+230,google,use,"{'egopab', 'eglelf'}",2,2019-12-28
+231,crypto,ones,"{'egka08', 'egt2va'}",2,2019-12-28
+232,market,ones,"{'egka08', 'egt2va'}",2,2019-12-28
+233,cryptocurrency,ones,{'egka08'},1,2019-12-28
+234,https,ones,{'egka08'},1,2019-12-28
+235,com,ones,{'egka08'},1,2019-12-28
+236,crypto,value,"{'egka08', 'egs16f'}",2,2019-12-28
+237,https,value,"{'egka08', 'egs16f'}",2,2019-12-28
+238,com,value,"{'egka08', 'egs16f'}",2,2019-12-28
+239,grow,value,"{'egka08', 'egs16f'}",2,2019-12-28
+240,press,value,"{'egka08', 'egs16f'}",2,2019-12-28
+242,want,future,"{'egpv0d', 'egxiyl'}",2,2019-12-28
+243,want,cryptocurrency,{'egpv0d'},1,2019-12-28
+244,want,ve,{'egxiyl'},1,2019-12-28
+245,want,time,{'egxiyl'},1,2019-12-28

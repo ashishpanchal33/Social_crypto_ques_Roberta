@@ -1,0 +1,216 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'ip03pd', 'ip4hj9', 'ioque8', 'iorb4m', 'iooldn'}",5,2020-09-08
+1,ethereum,bitcoin,"{'iorb4m', 'iozufa', 'iozunh', 'iouvyy'}",4,2020-09-08
+2,btc,bitcoin,"{'iou503', 'iorb4m', 'ip1y30', 'iooldn'}",4,2020-09-08
+3,use,bitcoin,"{'ip03pd', 'ip50uu', 'iojlps', 'ioque8'}",4,2020-09-08
+4,com,bitcoin,"{'iorb4m', 'iojtsq', 'ioque8'}",3,2020-09-08
+5,com,https,"{'ioj92p', 'iot43e', 'ioque8', 'iorb4m', 'ioudrf', 'iouch3'}",6,2020-09-08
+6,com,amp,"{'ioj92p', 'iot43e', 'ioque8', 'iorb4m', 'ioudrf'}",5,2020-09-08
+7,com,https www,"{'ioj92p', 'ioque8', 'iorb4m', 'ioudrf', 'iouch3'}",5,2020-09-08
+8,com,www,"{'ioj92p', 'ioque8', 'iorb4m', 'ioudrf', 'iouch3'}",5,2020-09-08
+10,https,amp,"{'ioj92p', 'iot43e', 'ioque8', 'iorb4m', 'ioudrf', 'ioue8f', 'iow4lh'}",7,2020-09-08
+12,amp,https www,"{'iorb4m', 'ioj92p', 'ioudrf', 'ioque8'}",4,2020-09-08
+13,amp,www,"{'iorb4m', 'ioj92p', 'ioudrf', 'ioque8'}",4,2020-09-08
+14,amp,amp x200b,"{'ioue8f', 'iorb4m', 'iow4lh', 'ioque8'}",4,2020-09-08
+15,cryptocurrency,bitcoin,"{'iorb4m', 'iojlps', 'ioque8'}",3,2020-09-08
+16,com,cryptocurrency,"{'iorb4m', 'ioj92p', 'ioque8'}",3,2020-09-08
+17,amp,cryptocurrency,"{'iorb4m', 'ioj92p', 'ioque8'}",3,2020-09-08
+18,crypto,cryptocurrency,"{'iojaye', 'iorb4m', 'ioque8'}",3,2020-09-08
+19,https,cryptocurrency,"{'iorb4m', 'ioj92p', 'ioque8'}",3,2020-09-08
+20,crypto,don,"{'iozgv2', 'ioque8', 'iouch3', 'iojaye', 'iozgo2', 'iotwso'}",6,2020-09-08
+22,crypto,time,"{'iorb4m', 'ioque8', 'iotwso', 'iouch3'}",4,2020-09-08
+23,crypto,way,"{'iozgo2', 'iorb4m', 'iozgv2', 'iouch3'}",4,2020-09-08
+24,crypto,value,"{'iozgo2', 'iorb4m', 'iozgv2', 'iotwso'}",4,2020-09-08
+27,https,https www,"{'ioj92p', 'ioque8', 'iorb4m', 'ioudrf', 'iouch3'}",5,2020-09-08
+28,https,www,"{'ioj92p', 'ioque8', 'iorb4m', 'ioudrf', 'iouch3'}",5,2020-09-08
+29,https,time,"{'ioue8f', 'iorb4m', 'ioque8', 'iouch3'}",4,2020-09-08
+32,www,https www,"{'ioj92p', 'ioque8', 'iorb4m', 'ioudrf', 'iouch3'}",5,2020-09-08
+34,cryptocurrency,https www,"{'iorb4m', 'ioj92p', 'ioque8'}",3,2020-09-08
+39,cryptocurrency,www,"{'iorb4m', 'ioj92p', 'ioque8'}",3,2020-09-08
+40,amp,check,"{'ioue8f', 'ioj92p'}",2,2020-09-08
+41,check,cryptocurrency,"{'ioj92p', 'iojlps'}",2,2020-09-08
+42,https,check,"{'ioue8f', 'ioj92p'}",2,2020-09-08
+43,trade,check,"{'ioj92p', 'iojlps'}",2,2020-09-08
+44,information,check,"{'ioj92p', 'iojlps'}",2,2020-09-08
+45,com,rest,"{'ioj92p', 'iot43e'}",2,2020-09-08
+46,amp,rest,"{'ioj92p', 'iot43e'}",2,2020-09-08
+47,https,rest,"{'ioj92p', 'iot43e'}",2,2020-09-08
+48,comments,rest,"{'ioj92p', 'iot43e'}",2,2020-09-08
+49,click,rest,"{'ioj92p', 'iot43e'}",2,2020-09-08
+50,com,comments,"{'ioj92p', 'iot43e'}",2,2020-09-08
+51,amp,comments,"{'ioj92p', 'iot43e'}",2,2020-09-08
+52,https,comments,"{'ioj92p', 'iot43e'}",2,2020-09-08
+54,comments,click,"{'ioj92p', 'iot43e'}",2,2020-09-08
+55,trade,cryptocurrency,"{'iorb4m', 'ioj92p', 'iojlps'}",3,2020-09-08
+56,trade,bitcoin,"{'iorb4m', 'iojlps'}",2,2020-09-08
+57,com,trade,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+58,trade,amp,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+59,trade,https,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+60,com,click,"{'ioj92p', 'iot43e'}",2,2020-09-08
+61,amp,click,"{'ioj92p', 'iot43e'}",2,2020-09-08
+62,https,click,"{'ioj92p', 'iot43e'}",2,2020-09-08
+65,com,discussion,{'ioj92p'},1,2020-09-08
+66,discussion,amp,{'ioj92p'},1,2020-09-08
+67,discussion,cryptocurrency,{'ioj92p'},1,2020-09-08
+68,discussion,https,{'ioj92p'},1,2020-09-08
+69,discussion,https www,{'ioj92p'},1,2020-09-08
+70,information,cryptocurrency,"{'ioj92p', 'iojlps'}",2,2020-09-08
+72,trade,information,"{'ioj92p', 'iojlps'}",2,2020-09-08
+73,information,read,"{'ioj92p', 'iojlps'}",2,2020-09-08
+74,sources,information,"{'ioj92p', 'iojlps'}",2,2020-09-08
+75,bitcoin,bitcoin nan,"{'ip4oj8', 'ionat5', 'iopya9'}",3,2020-09-08
+76,peter,bitcoin nan,{'ionat5'},1,2020-09-08
+77,bitcoin nan,peter schiff,{'ionat5'},1,2020-09-08
+78,schiff,bitcoin nan,{'ionat5'},1,2020-09-08
+79,schiff son,bitcoin nan,{'ionat5'},1,2020-09-08
+80,com,longer,"{'ioj92p', 'ioque8'}",2,2020-09-08
+81,amp,longer,"{'ioj92p', 'ioque8'}",2,2020-09-08
+82,longer,cryptocurrency,"{'ioj92p', 'ioque8'}",2,2020-09-08
+83,https,longer,"{'ioj92p', 'ioque8'}",2,2020-09-08
+84,longer,https www,"{'ioj92p', 'ioque8'}",2,2020-09-08
+85,usdt,defi,"{'iopr5e', 'ioprbw'}",2,2020-09-08
+86,noob,defi,"{'iopr5e', 'ioprbw'}",2,2020-09-08
+87,defi,withdrawals,"{'iool1e', 'iow4lh'}",2,2020-09-08
+88,defi mistake,defi,"{'iopr5e', 'ioprbw'}",2,2020-09-08
+89,defi,horrendous defi,"{'iopr5e', 'ioprbw'}",2,2020-09-08
+91,ethereum,blockchain,"{'iozufa', 'iozunh'}",2,2020-09-08
+92,ethereum,eth,"{'iorb4m', 'ip2nc8'}",2,2020-09-08
+93,blockchain nan,ethereum,"{'iozufa', 'iozunh'}",2,2020-09-08
+94,ethereum,yield,"{'iorb4m', 'ioryfa'}",2,2020-09-08
+95,blockchain nan,blockchain,"{'iozufa', 'iowgrz', 'ip1kws', 'iozunh'}",4,2020-09-08
+96,blockchain,bitcoin,"{'iozufa', 'iozunh', 'ioque8'}",3,2020-09-08
+97,crypto,blockchain,"{'iouq1p', 'iowgrz', 'ioque8'}",3,2020-09-08
+98,blockchain,amp,"{'ip1kws', 'ioque8'}",2,2020-09-08
+99,blockchain,ethereum,"{'iozufa', 'iozunh'}",2,2020-09-08
+100,cryptocurrency,read,"{'ioj92p', 'iojlps'}",2,2020-09-08
+101,check,read,"{'ioj92p', 'iojlps'}",2,2020-09-08
+102,trade,read,"{'ioj92p', 'iojlps'}",2,2020-09-08
+104,sources,read,"{'ioj92p', 'iojlps'}",2,2020-09-08
+105,com,pump,{'ioj92p'},1,2020-09-08
+106,amp,pump,{'ioj92p'},1,2020-09-08
+107,cryptocurrency,pump,{'ioj92p'},1,2020-09-08
+108,https,pump,{'ioj92p'},1,2020-09-08
+109,pump,https www,{'ioj92p'},1,2020-09-08
+110,right,amp,{'ioue8f'},1,2020-09-08
+111,https,right,{'ioue8f'},1,2020-09-08
+112,right,check,{'ioue8f'},1,2020-09-08
+113,right,ve,{'iomfkv'},1,2020-09-08
+114,right,time,{'ioue8f'},1,2020-09-08
+115,com,ve,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+116,amp,ve,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+117,https,ve,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+118,ve,https www,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+119,ve,www,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+122,com,time,"{'iorb4m', 'ioque8', 'iouch3'}",3,2020-09-08
+123,amp,time,"{'ioue8f', 'iorb4m', 'ioque8'}",3,2020-09-08
+124,time,https www,"{'iorb4m', 'ioque8', 'iouch3'}",3,2020-09-08
+125,com,today,"{'ioudrf', 'iot43e'}",2,2020-09-08
+126,amp,today,"{'ioudrf', 'iot43e'}",2,2020-09-08
+127,https,today,"{'ioudrf', 'iot43e'}",2,2020-09-08
+128,years,today,"{'ioudrf', 'iotwso'}",2,2020-09-08
+129,people,today,"{'ioudrf', 'iotwso'}",2,2020-09-08
+130,market,crypto,"{'ioryh3', 'iorb4m', 'iotwso'}",3,2020-09-08
+131,market,time,"{'ioue8f', 'iorb4m', 'iotwso'}",3,2020-09-08
+132,market,bitcoin,"{'iorb4m', 'iojlps'}",2,2020-09-08
+133,market,amp,"{'ioue8f', 'iorb4m'}",2,2020-09-08
+134,market,cryptocurrency,"{'iorb4m', 'iojlps'}",2,2020-09-08
+135,com,years,"{'iorb4m', 'ioudrf', 'ioque8'}",3,2020-09-08
+136,years,amp,"{'iorb4m', 'ioudrf', 'ioque8'}",3,2020-09-08
+137,crypto,years,"{'iorb4m', 'iotwso', 'ioque8'}",3,2020-09-08
+138,https,years,"{'iorb4m', 'ioudrf', 'ioque8'}",3,2020-09-08
+139,years,https www,"{'iorb4m', 'ioudrf', 'ioque8'}",3,2020-09-08
+140,schiff,bitcoin,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+141,peter,schiff,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+142,schiff,peter schiff,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+143,schiff,schiff son,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+144,schiff,son,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+145,peter,bitcoin,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+146,peter,peter schiff,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+148,peter,schiff son,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+149,peter,son,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+150,bitcoin,peter schiff,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+153,schiff son,peter schiff,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+154,son,peter schiff,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+155,schiff son,bitcoin,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+159,schiff son,son,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+160,son,bitcoin,"{'ioq9lf', 'ionat5'}",2,2020-09-08
+165,sources,cryptocurrency,"{'ioj92p', 'iojlps', 'ioque8'}",3,2020-09-08
+166,sources,bitcoin,"{'iojlps', 'ioque8'}",2,2020-09-08
+167,com,sources,"{'ioj92p', 'ioque8'}",2,2020-09-08
+168,sources,amp,"{'ioj92p', 'ioque8'}",2,2020-09-08
+169,sources,https,"{'ioj92p', 'ioque8'}",2,2020-09-08
+170,years,money,"{'ioque8', 'ioq5i4', 'iotwso'}",3,2020-09-08
+171,crypto,money,"{'ioque8', 'iotwso'}",2,2020-09-08
+172,money,time,"{'ioque8', 'iotwso'}",2,2020-09-08
+173,money,don,"{'ioque8', 'iotwso'}",2,2020-09-08
+174,money,people,"{'ioque8', 'iotwso'}",2,2020-09-08
+175,ve,month,"{'iorb4m', 'iomfkv'}",2,2020-09-08
+176,time,month,"{'ioshok', 'iorb4m'}",2,2020-09-08
+177,exchange,month,"{'ioshok', 'iorb4m'}",2,2020-09-08
+178,link,month,"{'iorb4m', 'iomfkv'}",2,2020-09-08
+179,reach,month,"{'iorb4m', 'iomfkv'}",2,2020-09-08
+180,com,fees,"{'ioque8', 'iouch3'}",2,2020-09-08
+181,crypto,fees,"{'ioque8', 'iouch3'}",2,2020-09-08
+182,https,fees,"{'ioque8', 'iouch3'}",2,2020-09-08
+183,fees,https www,"{'ioque8', 'iouch3'}",2,2020-09-08
+184,www,fees,"{'ioque8', 'iouch3'}",2,2020-09-08
+185,com,september,"{'ioj92p', 'iot43e'}",2,2020-09-08
+186,september,amp,"{'ioj92p', 'iot43e'}",2,2020-09-08
+187,september,https,"{'ioj92p', 'iot43e'}",2,2020-09-08
+188,september,rest,"{'ioj92p', 'iot43e'}",2,2020-09-08
+189,september,comments,"{'ioj92p', 'iot43e'}",2,2020-09-08
+190,com,feel,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+191,amp,feel,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+192,https,feel,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+193,feel,https www,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+194,feel,www,"{'iorb4m', 'ioudrf'}",2,2020-09-08
+195,com,september 2020,"{'ioj92p', 'iot43e'}",2,2020-09-08
+196,amp,september 2020,"{'ioj92p', 'iot43e'}",2,2020-09-08
+197,https,september 2020,"{'ioj92p', 'iot43e'}",2,2020-09-08
+198,rest,september 2020,"{'ioj92p', 'iot43e'}",2,2020-09-08
+199,comments,september 2020,"{'ioj92p', 'iot43e'}",2,2020-09-08
+201,amp,btc,"{'iorb4m', 'iow4lh'}",2,2020-09-08
+202,crypto,btc,"{'iorb4m', 'iooldn'}",2,2020-09-08
+203,https,btc,"{'iorb4m', 'iow4lh'}",2,2020-09-08
+204,news,btc,"{'iorb4m', 'iooldn'}",2,2020-09-08
+206,currency,don,"{'iozgo2', 'iojaye', 'iozgv2', 'ioque8'}",4,2020-09-08
+207,don,time,"{'ioque8', 'iotwso', 'iouch3'}",3,2020-09-08
+208,don,way,"{'iozgo2', 'iozgv2', 'iouch3'}",3,2020-09-08
+209,users,don,"{'ioque8', 'iotwso', 'iouch3'}",3,2020-09-08
+210,com,rules,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+211,rules,amp,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+212,rules,cryptocurrency,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+213,rules,https,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+214,rules,https www,"{'iorb4m', 'ioj92p'}",2,2020-09-08
+215,coins,bitcoin,"{'iorb4m', 'iojlps'}",2,2020-09-08
+216,coins,cryptocurrency,"{'iorb4m', 'iojlps'}",2,2020-09-08
+217,trade,coins,"{'iorb4m', 'iojlps'}",2,2020-09-08
+218,market,coins,"{'iorb4m', 'iojlps'}",2,2020-09-08
+219,coins,help,"{'iorb4m', 'iojlps'}",2,2020-09-08
+220,years,people,"{'ioudrf', 'ioque8', 'iotwso'}",3,2020-09-08
+221,users,people,"{'ioudrf', 'ioque8', 'iotwso'}",3,2020-09-08
+222,com,people,"{'ioudrf', 'ioque8'}",2,2020-09-08
+223,amp,people,"{'ioudrf', 'ioque8'}",2,2020-09-08
+224,crypto,people,"{'ioque8', 'iotwso'}",2,2020-09-08
+225,litecoin,set,{'iootgc'},1,2020-09-08
+226,litecoin,launch,{'iootgc'},1,2020-09-08
+227,litecoin,portfolio,{'ip2s2r'},1,2020-09-08
+228,litecoin,guide,{'ip2s2r'},1,2020-09-08
+229,trading,volume,"{'iojlps', 'iooh77'}",2,2020-09-08
+230,trading,bitcoin,{'iojlps'},1,2020-09-08
+231,trading,amp,{'iow4lh'},1,2020-09-08
+232,trading,cryptocurrency,{'iojlps'},1,2020-09-08
+233,trading,crypto,{'iooh77'},1,2020-09-08
+234,worth,bitcoin,{'iorb4m'},1,2020-09-08
+235,com,worth,{'iorb4m'},1,2020-09-08
+236,amp,worth,{'iorb4m'},1,2020-09-08
+237,cryptocurrency,worth,{'iorb4m'},1,2020-09-08
+238,crypto,worth,{'iorb4m'},1,2020-09-08
+240,use,cryptocurrency,"{'iojlps', 'ioque8'}",2,2020-09-08
+241,crypto,use,"{'ip03pd', 'ioque8'}",2,2020-09-08
+242,sources,use,"{'iojlps', 'ioque8'}",2,2020-09-08
+243,use,exchanges,"{'iojlps', 'ioque8'}",2,2020-09-08
+245,eth,bitcoin,{'iorb4m'},1,2020-09-08
+246,com,eth,{'iorb4m'},1,2020-09-08
+247,amp,eth,{'iorb4m'},1,2020-09-08
+248,cryptocurrency,eth,{'iorb4m'},1,2020-09-08

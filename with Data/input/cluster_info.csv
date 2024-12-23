@@ -1,0 +1,1393 @@
+,index,Cluster,,ai-big-data,algorand-ecosystem,amm,analytics,arbitrum-ecosytem,asset-backed-stablecoin,avalanche-ecosystem,binance-chain,binance-launchpad,blake256,blake2s,bnb-chain,cardano,cardano-ecosystem,celo-ecosystem,centralized-exchange,collectibles-nfts,content-creation,cosmos-ecosystem,dag,dao,data-provenance,decentralized-exchange,defi,derivatives,dex,discount-token,distributed-computing,doggone-doggerel,dpos,elrond-ecosystem,enterprise-solutions,entertainment,equihash,ethash,ethereum-ecosystem,fantom-ecosystem,filesharing,gaming,governance,harmony-ecosystem,hybrid-pow-pos,injective-ecosystem,interoperability,iot,iotex-ecosystem,lending-borowing,logistics,lpos,marketing,marketplace,masternodes,media,medium-of-exchange,memes,metaverse,mineable,mobile,moonriver-ecosystem,move-to-earn,music,near-protocol-ecosystem,oracles,parafi-capital,payments,platform,play-to-earn,poi,polkadot,polkadot-ecosystem,polygon-ecosystem,pos,pow,privacy,research,ringct,rollups,scaling,scrypt,services,sha-256,sharing-economy,smart-contracts,solana-ecosystem,spartan-group,sports,stablecoin,staking,state-channel,storage,store-of-value,substrate,terra-ecosystem,tron-ecosystem,usd-stablecoin,video,web3,wrapped-tokens,x11,yield-aggregator,yield-farming,zero-knowledge-proofs,zilliqa-ecosystem,symbol,groups,0,1,name,main_token,info
+0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BTC,"BTC,BSV",18,"store-of-value    1.0
+state-channel     1.0
+pow               1.0
+mineable          1.0
+sha-256           1.0
+Name: 18, dtype: float64",Bitcoin,bitcoin,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ETH,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Ethereum,ethereum,"Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or Ξ) is the native cryptocurrency of the platform. Among cryptocurrencies, Ether is second only to Bitcoin in market capitalization.Ethereum was conceived in 2013 by programmer Vitalik Buterin."
+2,2,7,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,USDT,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",Tether,tether,"Tether (often called by its symbol USDT) is a cryptocurrency that is hosted on the Ethereum and Bitcoin blockchains, among others. Its tokens are issued by the Hong Kong company Tether Limited, which in turn is controlled by the owners of Bitfinex. Tether is called a stablecoin because it was originally designed to always be worth US$1.00, maintaining $1.00 in reserves for each tether issued.While, according to its 2021 settlement with the New York Attorney General Letitia James, ""Tether represents to users that any holder of tethers can redeem them from Tether the company at the rate of one tether for one U.S. dollar"", Tether Limited as of 2017 stated that owners of tethers have no contractual right, other legal claims, or guarantee that tethers will or can be redeemed or exchanged for dollars."
+3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BNB,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",BNB,bnb,"SafeMoon is a cryptocurrency token created in March 2021 on the Binance Smart Chain blockchain.The token charges a 10% fee on transactions, with 5% redistributed (or reflected) to token holders and 5% directed to wallets in a different currency, Binance Coin (BNB), controlled by the coin's authors.
+
+
+== History ==
+SafeMoon was released in March 2021. The slogan of SafeMoon, ""Safely to the moon"", derived from the phrase ""To the moon"", meaning ""to quickly rise in price""."
+4,4,7,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,USDC,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",USD Coin,usd coin,"USD Coin (USDC) is a digital stablecoin that is pegged to the United States dollar. USD Coin is managed by a consortium called Centre, which was founded by Circle and includes members from the cryptocurrency exchange Coinbase and Bitcoin mining company Bitmain, an investor in Circle. USDC is issued by a private entity and should not be confused with a central bank digital currency (CBDC)."
+5,5,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XRP,"XRP,XLM,EOS",12,"medium-of-exchange      1.000000
+enterprise-solutions    1.000000
+smart-contracts         0.666667
+binance-chain           0.666667
+Name: 12, dtype: float64",XRP,xrp,"Ripple is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company. Released in 2012, Ripple is built upon a distributed open source protocol, and supports tokens representing fiat currency, cryptocurrency, commodities, or other units of value such as frequent flier miles or mobile minutes.  Ripple purports to enable ""secure, instantly and nearly free global financial transactions of any size with no chargebacks""."
+6,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SOL,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Solana,solana,"Solana is a public blockchain platform with smart contract functionality. Its native cryptocurrency is SOL. Solana claims to offer faster transaction times and lower costs than its main competitor, Ethereum.
+
+
+== History ==
+Solana was proposed in a white paper Anatoly Yakovenko which was published in November of 2017."
+7,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,LUNA,LUNA,6,"Series([], Name: 6, dtype: float64)",Terra,terra,"A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from most cryptocurrencies, such as Bitcoin, which are fungible."
+8,8,11,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ADA,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",Cardano,cardano,"Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake. It can facilitate peer-to-peer transactions with its internal cryptocurrency, ADA.Cardano was founded in 2015 by Ethereum co-founder Charles Hoskinson."
+9,9,9,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AVAX,"AVAX,NEAR,ATOM,FTM,STX",9,"injective-ecosystem    1.0
+platform               0.8
+bnb-chain              0.8
+smart-contracts        0.6
+defi                   0.6
+Name: 9, dtype: float64",Avalanche,avalanche,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+10,10,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,DOT,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Polkadot,polkadot,"Polkadot is an open source, blockchain platform and cryptocurrency. It provides interconnectivity and interoperability between blockchains, by enabling independent chains to securely exchange messages and perform transactions with each other without trusted third-party. This allows for cross-chain transfers of data or assets, between different blockchains, and for cross-chain DApps (decentralized applications) to be built using the Polkadot Network.The Polkadot network has a primary blockchain named relay chain and many user-created parallel chains called parachains."
+11,11,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,UST,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",TerraUSD,terrausd,
+12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,DOGE,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Dogecoin,dogecoin,"Dogecoin ( DOHJ-koyn or DOHZH-koyn, code: DOGE, symbol: Ð) is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system as a ""joke"", making fun of the wild speculation in cryptocurrencies at the time. It is considered both the first ""meme coin"", and, more specifically, the first ""dog coin"". Despite its satirical nature, some consider it a legitimate investment prospect."
+13,13,7,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,BUSD,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",Binance USD,binance usd,"Binance is a cryptocurrency exchange which is the largest exchange in the world in terms of daily trading volume of cryptocurrencies. It was founded in 2017 and is registered in the Cayman Islands.
+Binance was founded by Changpeng Zhao, a developer who had previously created high frequency trading software."
+14,14,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SHIB,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Shiba Inu,shiba inu,"Shiba Inu token (ticker: SHIB) is a decentralized cryptocurrency created in August 2020 by an anonymous person or group known as ""Ryoshi"". It is named after the Shiba Inu (柴犬), a Japanese breed of dog originating in the Chūbu region, the same breed that is depicted in Dogecoin's symbol, itself originally a satirical cryptocurrency based on the Doge meme. Shiba Inu has been characterized as a ""meme coin"" and a pump and dump scheme."
+15,15,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,WBTC,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Wrapped Bitcoin,wrapped bitcoin,"Bitcoin (₿) is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. The cryptocurrency was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto."
+16,16,19,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MATIC,"MATIC,ONE",19,"platform                1.0
+binance-launchpad       1.0
+enterprise-solutions    1.0
+injective-ecosystem     1.0
+bnb-chain               1.0
+scaling                 1.0
+Name: 19, dtype: float64",Polygon,polygon,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+17,17,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NEAR,"AVAX,NEAR,ATOM,FTM,STX",9,"injective-ecosystem    1.0
+platform               0.8
+bnb-chain              0.8
+smart-contracts        0.6
+defi                   0.6
+Name: 9, dtype: float64",NEAR Protocol,near protocol,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+18,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CRO,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",Cronos,cronos,
+19,19,7,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,DAI,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",Dai,dai,"Wei Dai (Chinese: 戴维) is a computer engineer known for contributions to cryptography and cryptocurrencies.  He developed the Crypto++ cryptographic library, created the b-money cryptocurrency system, and co-proposed the VMAC message authentication algorithm. The smallest subunit of Ether, the wei, is named after him."
+20,20,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LTC,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Litecoin,litecoin,"Litecoin (LTC or Ł) is a peer-to-peer cryptocurrency and open-source software project released under the MIT/X11 license. Litecoin was an early bitcoin spinoff or altcoin, starting in October 2011.  In technical details, Litecoin is nearly identical to Bitcoin."
+21,21,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,TRX,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",TRON,tron,"TRON is a decentralized, open-source blockchain-based operating system with smart contract functionality, proof-of-stake principles as its consensus algorithm and a cryptocurrency native to the system, known as  Tronix (TRX). It was established in March 2014 by Justin Sun and since 2017 has been overseen and supervised by the TRON Foundation, a non-profit organization in Singapore, established in the same year. It was originally an Ethereum-based ERC-20 token, which switched its protocol to its own blockchain in 2018."
+22,22,9,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ATOM,"AVAX,NEAR,ATOM,FTM,STX",9,"injective-ecosystem    1.0
+platform               0.8
+bnb-chain              0.8
+smart-contracts        0.6
+defi                   0.6
+Name: 9, dtype: float64",Cosmos,cosmos,
+23,23,16,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,LINK,LINK,16,"Series([], Name: 16, dtype: float64)",Chainlink,chainlink,"Chainlink is a decentralized blockchain oracle network built on Ethereum. The network is intended to be used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. Its creators claim it can be used to verify whether the parameters of a smart contract are met in a manner independent from any of the contract's stakeholders by connecting the contract directly to real-world data, events, payments, and other inputs."
+24,24,14,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UNI,"UNI,CAKE,AAVE,CRV,KNC",14,"governance                1.0
+defi                      1.0
+yield-farming             0.8
+decentralized-exchange    0.8
+dao                       0.8
+amm                       0.8
+parafi-capital            0.6
+bnb-chain                 0.6
+arbitrum-ecosytem         0.4
+polygon-ecosystem         0.4
+fantom-ecosystem          0.4
+Name: 14, dtype: float64",Uniswap,uniswap,Uniswap is a cryptocurrency exchange which uses a decentralized network protocol. Uniswap is also the name of the company that initially built the Uniswap protocol. The protocol facilitates automated transactions between cryptocurrency tokens on the Ethereum blockchain through the use of smart contracts.
+25,25,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BCH,BCH,5,"Series([], Name: 5, dtype: float64)",Bitcoin Cash,bitcoin cash,"Bitcoin Cash is a cryptocurrency that is a fork of Bitcoin. Bitcoin Cash is a spin-off or altcoin that was created in 2017.In November 2018, Bitcoin Cash split further into two cryptocurrencies: Bitcoin Cash and Bitcoin SV.
+
+
+== History ==
+Since its inception, Bitcoin users had maintained a common set of rules for the cryptocurrency. On 21 July 2017, bitcoin miners locked-in a software upgrade referred to as Bitcoin Improvement Proposal (BIP) 91, which meant that the Segregated Witness upgrade would activate at block 477,120."
+26,26,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FTT,"FTT,LEO,KCS,HT,OKB",15,"centralized-exchange    1.0
+marketplace             1.0
+discount-token          0.8
+algorand-ecosystem      0.4
+payments                0.4
+Name: 15, dtype: float64",FTX Token,ftx token,"A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from most cryptocurrencies, such as Bitcoin, which are fungible."
+27,27,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LEO,"FTT,LEO,KCS,HT,OKB",15,"centralized-exchange    1.0
+marketplace             1.0
+discount-token          0.8
+algorand-ecosystem      0.4
+payments                0.4
+Name: 15, dtype: float64",UNUS SED LEO,unus sed leo,
+28,28,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,APE,"APE,MANA,SAND,AXS,GALA,ENJ",17,"collectibles-nfts     1.000000
+gaming                1.000000
+metaverse             0.833333
+play-to-earn          0.666667
+ethereum-ecosystem    0.333333
+content-creation      0.333333
+polygon-ecosystem     0.333333
+binance-launchpad     0.333333
+Name: 17, dtype: float64",ApeCoin,apecoin,"Bored Ape Yacht Club (BAYC), or often colloquially called Bored Ape, is a non-fungible token (NFT) collection built on the Ethereum blockchain. The collection features profile pictures of cartoon apes that are procedurally generated by an algorithm. Yuga Labs is the parent company of Bored Ape Yacht Club."
+29,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XMR,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Monero,monero,"Monero (; XMR) is a decentralized cryptocurrency. It uses a public distributed ledger with privacy-enhancing technologies that obfuscate transactions to achieve anonymity and fungibility. Observers cannot decipher addresses trading monero, transaction amounts, address balances, or transaction histories."
+30,30,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XLM,"XRP,XLM,EOS",12,"medium-of-exchange      1.000000
+enterprise-solutions    1.000000
+smart-contracts         0.666667
+binance-chain           0.666667
+Name: 12, dtype: float64",Stellar,stellar,"After the creation of bitcoin, the number of cryptocurrencies available over the internet is growing. This is a list of notable cryptocurrencies."
+31,31,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ALGO,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",Algorand,algorand,"Algorand is a pure proof of stake blockchain cryptocurrency protocol with a consensus mechanism chosen for scalability, intending to solve the blockchain trilemma. The Algorand platform supports smart contracts, and its consensus algorithm is based on proof of stake and a Byzantine agreement protocol.  Algorand's native cryptocurrency is called ALGO.
+
+
+== History ==
+Algorand was founded in 2017 by Silvio Micali, a professor at MIT. Algorand is composed of a company and a foundation."
+32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ETC,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Ethereum Classic,ethereum classic,"Ethereum Classic is an open source, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions executed on a public Ethereum Virtual Machine (EVM).
+Ethereum Classic maintains the original, unaltered history of the Ethereum network."
+33,33,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VET,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",VeChain,vechain,
+34,34,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ICP,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Internet Computer,internet computer,"The DFINITY Foundation is a not-for-profit organization that develops the Internet Computer, a public blockchain network platform.
+
+
+== History ==
+
+
+=== Origins (2015 – 2019) ===
+The Internet Computer was conceived in 2015 by programmer Dominic Williams, the idea being a world computer that cannot be shut down; which originated from the Ethereum ecosystem.
+DFINITY was later founded by Williams in October 2016.In 2018, prominent venture capital firms such as Andreessen Horowitz, Polychain Capital, SV Angel, Wanxiang Blockchain provided financial contributions for less than 10% of the network's governance tokens.DFINITY raised $61 million from Andreesen Horowitz and Polychain Capital in a February 2018 funding round."
+35,35,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MANA,"APE,MANA,SAND,AXS,GALA,ENJ",17,"collectibles-nfts     1.000000
+gaming                1.000000
+metaverse             0.833333
+play-to-earn          0.666667
+ethereum-ecosystem    0.333333
+content-creation      0.333333
+polygon-ecosystem     0.333333
+binance-launchpad     0.333333
+Name: 17, dtype: float64",Decentraland,decentraland,"Decentraland is a 3D virtual world browser-based platform. Users may buy virtual plots of land in the platform as NFTs via the MANA cryptocurrency, which uses the Ethereum blockchain. It was  opened to the public in February 2020, and is overseen by the nonprofit Decentraland Foundation."
+36,36,10,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,FIL,"FIL,BTT,AR,HOT",10,"filesharing              1.00
+distributed-computing    1.00
+storage                  1.00
+web3                     0.75
+platform                 0.50
+bnb-chain                0.50
+Name: 10, dtype: float64",Filecoin,filecoin,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+37,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HBAR,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",Hedera,hedera,
+38,38,4,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EGLD,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Elrond,elrond,"Sibiu ( see-BEW, Romanian: [siˈbiw], German: Hermannstadt [ˈhɛʁmanʃtat], Hungarian: Nagyszeben [ˈnɒt͡sːɛbɛn]) is a city in Transylvania, a historical region of Romania. Located some 275 km (171 mi) north-west of Bucharest, the city straddles the Cibin River, a tributary of the river Olt. Now the capital of the Sibiu County, between 1692 and 1791 and 1849–65 Sibiu was also the capital of the Principality of Transylvania."
+39,39,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SAND,"APE,MANA,SAND,AXS,GALA,ENJ",17,"collectibles-nfts     1.000000
+gaming                1.000000
+metaverse             0.833333
+play-to-earn          0.666667
+ethereum-ecosystem    0.333333
+content-creation      0.333333
+polygon-ecosystem     0.333333
+binance-launchpad     0.333333
+Name: 17, dtype: float64",The Sandbox,the sandbox,"The Sandbox is a sandbox game for mobile phones (iOS and Android) and Microsoft Windows, developed by the game studio Pixowl and released on May 15, 2012. It was released for PC on Steam on 29 June 2015.
+The brand was acquired by Animoca Brands in 2018, and its name was used for a blockchain-based 3D open world game."
+40,40,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,THETA,THETA,3,"Series([], Name: 3, dtype: float64)",Theta Network,theta network,
+41,41,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FTM,"AVAX,NEAR,ATOM,FTM,STX",9,"injective-ecosystem    1.0
+platform               0.8
+bnb-chain              0.8
+smart-contracts        0.6
+defi                   0.6
+Name: 9, dtype: float64",Fantom,fantom,
+42,42,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AXS,"APE,MANA,SAND,AXS,GALA,ENJ",17,"collectibles-nfts     1.000000
+gaming                1.000000
+metaverse             0.833333
+play-to-earn          0.666667
+ethereum-ecosystem    0.333333
+content-creation      0.333333
+polygon-ecosystem     0.333333
+binance-launchpad     0.333333
+Name: 17, dtype: float64",Axie Infinity,axie infinity,"Axie Infinity is an non-fungible token-based online video game developed by Vietnamese studio Sky Mavis, known for its in-game economy which uses Ethereum-based cryptocurrencies.Players of Axie Infinity collect and mint NFTs which represent axolotl-inspired digital pets known as Axies. These creatures can be bred and battled with each other within the game. Sky Mavis charges a 4.25% fee to players when they trade Axies on its marketplace.As of September 2021, most Axie Infinity players are from the Philippines.Axie Infinity is built on the Ronin Network, an Ethereum-linked sidechain developed by Sky Mavis."
+43,43,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,RUNE,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",THORChain,thorchain,
+44,44,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XTZ,XTZ,13,"Series([], Name: 13, dtype: float64)",Tezos,tezos,"Tezos is a decentralized open-source blockchain that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts. The native cryptocurrency for the Tezos blockchain is the tez which has the symbol XTZ.
+Tezos was created by husband-and-wife team Arthur and Kathleen Breitman and first proposed in 2014. The non-profit Tezos Foundation, based in Zug, Switzerland, was created in 2017 to support the project and raised $232 million in Bitcoin and Ethereum in one of the biggest initial coin offerings (ICOs) at the time."
+45,45,14,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,CAKE,"UNI,CAKE,AAVE,CRV,KNC",14,"governance                1.0
+defi                      1.0
+yield-farming             0.8
+decentralized-exchange    0.8
+dao                       0.8
+amm                       0.8
+parafi-capital            0.6
+bnb-chain                 0.6
+arbitrum-ecosytem         0.4
+polygon-ecosystem         0.4
+fantom-ecosystem          0.4
+Name: 14, dtype: float64",PancakeSwap,pancakeswap,"The following is a list of ethnic slurs or ethnophaulisms or ethnic epithets that are, or have been, used as insinuations or allegations about members of a given ethnicity or racial group or to refer to them in a derogatory, pejorative, or otherwise insulting manner.
+Some of the terms listed below (such as ""Gringo"", ""Yank"", etc.) can be used in casual speech without any intention of causing offense. The connotation of a term and prevalence of its use as a pejorative or neutral descriptor varies over time and by geography."
+46,46,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,KLAY,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Klaytn,klaytn,"Kakao (Korean: 카카오) is a South Korean Internet company that was established in 2010. It formed as a result of a merger between Daum Communications and the original Kakao Inc. In 2014, the company was renamed Daum Kakao."
+47,47,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,AAVE,"UNI,CAKE,AAVE,CRV,KNC",14,"governance                1.0
+defi                      1.0
+yield-farming             0.8
+decentralized-exchange    0.8
+dao                       0.8
+amm                       0.8
+parafi-capital            0.6
+bnb-chain                 0.6
+arbitrum-ecosytem         0.4
+polygon-ecosystem         0.4
+fantom-ecosystem          0.4
+Name: 14, dtype: float64",Aave,aave,
+48,48,12,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EOS,"XRP,XLM,EOS",12,"medium-of-exchange      1.000000
+enterprise-solutions    1.000000
+smart-contracts         0.666667
+binance-chain           0.666667
+Name: 12, dtype: float64",EOS,eos,"EOS.IO is a blockchain protocol based on the cryptocurrency EOS. The smart contract platform claims to eliminate transaction fees and also conduct millions of transactions per second.
+
+
+== History ==
+Based on a white paper published in 2017, the EOSIO platform was developed by the private company block.one and released as open-source software on June 1, 2018. In order to ensure widespread distribution of the native cryptocurrency at the launch of the blockchain, one billion tokens were distributed as ERC-20 tokens by block.one."
+49,49,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,ZEC,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Zcash,zcash,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+50,50,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,HNT,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Helium,helium,"FreedomFi is a company for cellular networking.
+
+
+== Gateway ==
+The FreedomFi Gateway is a x86 device that functions as a 4G network in a box.
+
+
+== Helium ==
+FreedomFi has partnered with Helium to provide more coverage."
+51,51,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,WAVES,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",Waves,waves,
+52,52,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,FLOW,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Flow,flow,"CryptoKitties is a blockchain game on Ethereum developed by Canadian studio Dapper Labs that allows players to purchase, collect, breed and sell virtual cats. It is one of the earliest attempts to deploy blockchain technology for recreation and leisure. The game's popularity in December 2017 congested the Ethereum network, causing it to reach an all-time high in the number of transactions and slowing it down significantly."
+53,53,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,KCS,"FTT,LEO,KCS,HT,OKB",15,"centralized-exchange    1.0
+marketplace             1.0
+discount-token          0.8
+algorand-ecosystem      0.4
+payments                0.4
+Name: 15, dtype: float64",KuCoin Token,kucoin token,An Initial Exchange Offering (IEO) is the Cryptocurrency Exchange equivalent to a stock launch or Initial Public Offering (IPO). An IEO is the process of digital asset (e.g. coins or tokens) procurement through an established exchange for the purpose of raising capital for start-up companies.
+54,54,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,MIOTA,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",IOTA,iota,"IOTA is an open-source distributed ledger and cryptocurrency designed for the Internet of things (IoT). It uses a directed acyclic graph to store transactions on its ledger, motivated by a potentially higher scalability over blockchain based distributed ledgers. IOTA does not use miners to validate transactions, instead, nodes that issue a new transaction on the network must approve two previous transactions."
+55,55,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GMT,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",STEPN,stepn,
+56,56,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XEC,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",eCash,ecash,"Bitcoin Cash is a cryptocurrency that is a fork of Bitcoin. Bitcoin Cash is a spin-off or altcoin that was created in 2017.In November 2018, Bitcoin Cash split further into two cryptocurrencies: Bitcoin Cash and Bitcoin SV.
+
+
+== History ==
+Since its inception, Bitcoin users had maintained a common set of rules for the cryptocurrency. On 21 July 2017, bitcoin miners locked-in a software upgrade referred to as Bitcoin Improvement Proposal (BIP) 91, which meant that the Segregated Witness upgrade would activate at block 477,120."
+57,57,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,MKR,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Maker,maker,"CryptoKitties is a blockchain game on Ethereum developed by Canadian studio Dapper Labs that allows players to purchase, collect, breed and sell virtual cats. It is one of the earliest attempts to deploy blockchain technology for recreation and leisure. The game's popularity in December 2017 congested the Ethereum network, causing it to reach an all-time high in the number of transactions and slowing it down significantly."
+58,58,10,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,BTT,"FIL,BTT,AR,HOT",10,"filesharing              1.00
+distributed-computing    1.00
+storage                  1.00
+web3                     0.75
+platform                 0.50
+bnb-chain                0.50
+Name: 10, dtype: float64",BitTorrent-New,bittorrent-new,"WebTorrent is a peer-to-peer (P2P) streaming torrent client written in JavaScript, from the same author, Feross Aboukhadijeh, of YouTube Instant, and the team at WebTorrent and on GitHub, for use in web browsers, as well as a WebTorrent Desktop stand alone version able to bridge WebTorrent and BitTorrent serverless networks.
+
+
+== History ==
+Before creating WebTorrent, the developers first created PeerCDN (content delivery network) which was bought by Yahoo! in 2013."
+59,59,2,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,GRT,GRT,2,"Series([], Name: 2, dtype: float64)",The Graph,the graph,"Nano is a peer-to-peer open-source cryptocurrency. The currency is based on directed acyclic graph data structure and distributed ledger, making it possible for Nano to work without intermediaries. To agree on what transactions to commit, or forming consensuses, it uses a system called ""Open Representative Voting"" with weight based on the amount of currency they hold.Nano was launched in October 2015 by Colin LeMahieu to address Bitcoin scalability problem."
+60,60,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,BSV,"BTC,BSV",18,"store-of-value    1.0
+state-channel     1.0
+pow               1.0
+mineable          1.0
+sha-256           1.0
+Name: 18, dtype: float64",Bitcoin SV,bitcoin sv,"Bitcoin Cash is a cryptocurrency that is a fork of Bitcoin. Bitcoin Cash is a spin-off or altcoin that was created in 2017.In November 2018, Bitcoin Cash split further into two cryptocurrencies: Bitcoin Cash and Bitcoin SV.
+
+
+== History ==
+Since its inception, Bitcoin users had maintained a common set of rules for the cryptocurrency. On 21 July 2017, bitcoin miners locked-in a software upgrade referred to as Bitcoin Improvement Proposal (BIP) 91, which meant that the Segregated Witness upgrade would activate at block 477,120."
+61,61,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,CVX,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Convex Finance,convex finance,"Igor Rivin (born 1961 in Moscow, USSR) is a Russian-Canadian mathematician, 
+working in various fields of pure and applied mathematics, computer science, 
+and materials science. He was the Regius Professor of Mathematics at the University of St. Andrews from 2015 to 2017, and was   the chief research officer at Cryptos Fund until 2019."
+62,62,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NEO,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",Neo,neo,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+63,63,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,STX,"AVAX,NEAR,ATOM,FTM,STX",9,"injective-ecosystem    1.0
+platform               0.8
+bnb-chain              0.8
+smart-contracts        0.6
+defi                   0.6
+Name: 9, dtype: float64",Stacks,stacks,"Stacks project, formerly Blockstack, is an open-source platform to build smart contracts and decentralized blockchain applications. Stacks blockchain connects to Bitcoin to enable apps and smart contracts. In addition to smart contracts, the Stacks project provides open-source software for authentication, and data storage."
+64,64,15,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HT,"FTT,LEO,KCS,HT,OKB",15,"centralized-exchange    1.0
+marketplace             1.0
+discount-token          0.8
+algorand-ecosystem      0.4
+payments                0.4
+Name: 15, dtype: float64",Huobi Token,huobi token,"Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or Ξ) is the native cryptocurrency of the platform. Among cryptocurrencies, Ether is second only to Bitcoin in market capitalization.Ethereum was conceived in 2013 by programmer Vitalik Buterin."
+65,65,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ZIL,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",Zilliqa,zilliqa,
+66,66,19,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ONE,"MATIC,ONE",19,"platform                1.0
+binance-launchpad       1.0
+enterprise-solutions    1.0
+injective-ecosystem     1.0
+bnb-chain               1.0
+scaling                 1.0
+Name: 19, dtype: float64",Harmony,harmony,"In Christian theology, the Harrowing of Hell (Latin: Descensus Christi ad Inferos, ""the descent of Christ into Hell"" or Hades), is an Old English and Middle English term referring to the period of time between the Crucifixion of Jesus and his resurrection. In triumphant descent, Christ brought salvation to the souls held captive there since the beginning of the world.Jesus Christ's descent into the world of the dead is referred to in the Apostles' Creed and the Athanasian Creed (Quicumque vult), which state that he ""descended into the underworld"" (descendit ad inferos), although neither mention that he liberated the dead. His descent to the underworld is alluded to in the New Testament in 1 Peter 4:6, which states that the ""good tidings were proclaimed to the dead""."
+67,67,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,KSM,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Kusama,kusama,"Voxel Bridge is an interactive public artwork under the Cambie Bridge in Vancouver, by artist Jessica Angel. The 8,000-square-foot (740 m2) mural is a vinyl overlay on the bridge that reveals interactive elements through augmented reality (AR), with aspects of the artwork being sold as non-fungible tokens. The installation  will be part of the Vancouver Biennale from summer 2021 to 2023."
+68,68,7,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,TUSD,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",TrueUSD,trueusd,"Stablecoins are cryptocurrencies where the price is designed to be pegged to a cryptocurrency, fiat money, or to exchange-traded commodities (such as precious metals or industrial metals).
+
+
+== Backed stablecoins ==
+Advantages of asset-backed cryptocurrencies are that coins are stabilized by assets that fluctuate outside of the cryptocurrency space, that is, the underlying asset is not correlated, reducing financial risk. Bitcoin and altcoins are highly correlated, so that cryptocurrency holders cannot escape widespread price falls without exiting the market or taking refuge in asset backed stablecoins."
+69,69,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,GALA,"APE,MANA,SAND,AXS,GALA,ENJ",17,"collectibles-nfts     1.000000
+gaming                1.000000
+metaverse             0.833333
+play-to-earn          0.666667
+ethereum-ecosystem    0.333333
+content-creation      0.333333
+polygon-ecosystem     0.333333
+binance-launchpad     0.333333
+Name: 17, dtype: float64",Gala,gala,"Matthew Paige Damon (; born October 8, 1970) is an American actor, film producer, and screenwriter. Ranked among Forbes' most bankable stars, the films in which he has appeared have collectively earned over $3.88 billion at the North American box office, making him one of the highest-grossing actors of all time. He is the recipient of various accolades, including an Academy Award and two Golden Globe Awards, in addition to nominations for three British Academy Film Awards, six Screen Actors Guild Awards, and seven Primetime Emmy Awards."
+70,70,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,CHZ,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",Chiliz,chiliz,
+71,71,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NEXO,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",Nexo,nexo,
+72,72,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,CELO,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",Celo,celo,
+73,73,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,QNT,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Quant,quant,
+74,74,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ENJ,"APE,MANA,SAND,AXS,GALA,ENJ",17,"collectibles-nfts     1.000000
+gaming                1.000000
+metaverse             0.833333
+play-to-earn          0.666667
+ethereum-ecosystem    0.333333
+content-creation      0.333333
+polygon-ecosystem     0.333333
+binance-launchpad     0.333333
+Name: 17, dtype: float64",Enjin Coin,enjin coin,
+75,75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,LRC,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Loopring,loopring,
+76,76,14,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,CRV,"UNI,CAKE,AAVE,CRV,KNC",14,"governance                1.0
+defi                      1.0
+yield-farming             0.8
+decentralized-exchange    0.8
+dao                       0.8
+amm                       0.8
+parafi-capital            0.6
+bnb-chain                 0.6
+arbitrum-ecosytem         0.4
+polygon-ecosystem         0.4
+fantom-ecosystem          0.4
+Name: 14, dtype: float64",Curve DAO Token,curve dao token,"Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or Ξ) is the native cryptocurrency of the platform. Among cryptocurrencies, Ether is second only to Bitcoin in market capitalization.Ethereum was conceived in 2013 by programmer Vitalik Buterin."
+77,77,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,OKB,"FTT,LEO,KCS,HT,OKB",15,"centralized-exchange    1.0
+marketplace             1.0
+discount-token          0.8
+algorand-ecosystem      0.4
+payments                0.4
+Name: 15, dtype: float64",OKB,okb,"OKX, formerly known as OKEx, is one of the largest crypto spot and derivatives trading exchanges. OKX is a Seychelles-based cryptocurrency exchange that provides a platform for trading various instruments such as spot and derivative. Some of the exchange's core features include spot and derivative trading."
+78,78,8,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,BAT,BAT,8,"Series([], Name: 8, dtype: float64)",Basic Attention Token,basic attention token,"A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from most cryptocurrencies, such as Bitcoin, which are fungible."
+79,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,DASH,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Dash,dash,"After the creation of bitcoin, the number of cryptocurrencies available over the internet is growing. This is a list of notable cryptocurrencies."
+80,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,MINA,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Mina,mina,"The Pirate Bay (sometimes abbreviated as TPB) is an online index of digital content of entertainment media and software. Founded in 2003 by Swedish think tank Piratbyrån, The Pirate Bay allows visitors to search, download, and contribute magnet links and torrent files, which facilitate peer-to-peer (P2P) file sharing among users of the BitTorrent protocol.
+The Pirate Bay has sparked controversies and discussion about legal aspects of file sharing, copyright, and civil liberties and has become a platform for political initiatives against established intellectual property laws as well as a central figure in an anti-copyright movement."
+81,81,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,USDN,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",Neutrino USD,neutrino usd,"Coinbase Global, Inc., branded Coinbase, is an American company that operates a cryptocurrency exchange platform. Coinbase is a distributed company; all employees operate via remote work and the company lacks a physical headquarters. It is the largest cryptocurrency exchange in the United States by trading volume."
+82,82,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,AR,"FIL,BTT,AR,HOT",10,"filesharing              1.00
+distributed-computing    1.00
+storage                  1.00
+web3                     0.75
+platform                 0.50
+bnb-chain                0.50
+Name: 10, dtype: float64",Arweave,arweave,"Proof of space (PoS) is a type of consensus algorithm achieved by demonstrating one's legitimate interest in a service (such as sending an email) by allocating a non-trivial amount of memory or disk space to solve a challenge presented by the service provider. The concept was formulated in 2013 by Dziembowski et al. and (with a different formulation) by Ateniese et al..Proofs of space are very similar to proofs of work (PoW), except that instead of computation, storage is used to earn cryptocurrency."
+83,83,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AMP,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Amp,amp,"Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. Brave is a privacy-focused browser, which automatically blocks online advertisements and website trackers in its default settings."
+84,84,7,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,USDP,"USDT,USDC,UST,BUSD,DAI,TUSD,USDN,USDP",7,"stablecoin                 1.000
+bnb-chain                  1.000
+usd-stablecoin             1.000
+asset-backed-stablecoin    0.625
+moonriver-ecosystem        0.500
+arbitrum-ecosytem          0.500
+avalanche-ecosystem        0.375
+fantom-ecosystem           0.250
+harmony-ecosystem          0.250
+injective-ecosystem        0.250
+defi                       0.250
+store-of-value             0.250
+Name: 7, dtype: float64",Pax Dollar,pax dollar,"Paxos Trust Company is a New York-based financial institution and technology company specializing in blockchain. The company's product offerings include a cryptocurrency brokerage service, asset tokenization services, and settlement services. ItBit, a bitcoin exchange run by Paxos, was the first bitcoin exchange to be licensed by the New York State Department of Financial Services, granting the company the ability to be the custodian and exchange for customers in the United States.Paxos was founded in 2012 and is based in New York City, with offices in London and Singapore."
+85,85,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,COMP,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Compound,compound,"A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.Individual coin ownership records are stored in a digital ledger, which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Despite their name, cryptocurrencies are not considered to be currencies in the traditional sense and while varying treatments have been applied to them, including classification as commodities, securities, as well as currencies, cryptocurrencies are generally viewed as a distinct asset class in practice. Some crypto schemes use validators to maintain the cryptocurrency."
+86,86,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,KNC,"UNI,CAKE,AAVE,CRV,KNC",14,"governance                1.0
+defi                      1.0
+yield-farming             0.8
+decentralized-exchange    0.8
+dao                       0.8
+amm                       0.8
+parafi-capital            0.6
+bnb-chain                 0.6
+arbitrum-ecosytem         0.4
+polygon-ecosystem         0.4
+fantom-ecosystem          0.4
+Name: 14, dtype: float64",Kyber Network Crystal v2,kyber network crystal v2,Post-Quantum Cryptography Standardization is a program and competition by NIST to update their standards to include post-quantum cryptography. It was announced at PQCrypto 2016. 23 signature schemes and 59 encryption/KEM schemes were submitted by the initial submission deadline at the end of 2017 of which 69 total were deemed complete and proper and participated in the first round.
+87,87,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,TFUEL,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",Theta Fuel,theta fuel,"Malcolm CasSelle (1970-2020) was an American businessman. He was CEO of BIGtoken, Inc. He was the CIO of OPSkins and was the President of WAX (Worldwide Asset eXchange)."
+88,88,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,DCR,"ETH,DOGE,LTC,XMR,ETC,ZEC,MIOTA,DASH,DCR",0,"mineable              0.888889
+medium-of-exchange    0.777778
+bnb-chain             0.666667
+pow                   0.666667
+privacy               0.333333
+scrypt                0.222222
+smart-contracts       0.222222
+hybrid-pow-pos        0.222222
+dao                   0.222222
+binance-chain         0.222222
+Name: 0, dtype: float64",Decred,decred,
+89,89,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,KDA,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",Kadena,kadena,"USS Pueblo (AGER-2) is a  Banner-class environmental research ship, attached to Navy intelligence as a spy ship, which was attacked and captured by North Korean forces on 23 January 1968, in what was later known as the ""Pueblo incident"" or alternatively, as the ""Pueblo crisis"".
+The seizure of the U.S. Navy ship and her 83 crew members, one of whom was killed in the attack, came less than a week after President Lyndon B. Johnson's State of the Union address to the United States Congress, a week before the start of the Tet Offensive in South Vietnam during the Vietnam War and three days after 31 men of North Korea's KPA Unit 124 had crossed the Korean Demilitarized Zone (DMZ) and killed 26 South Koreans in an attempt to attack the South Korean Blue House (executive mansion) in the capital Seoul. The taking of Pueblo and the abuse and torture of her crew during the subsequent eleven months became a major Cold War incident, raising tensions between western and eastern powers."
+90,90,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,GLMR,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Moonbeam,moonbeam,"Michael John Moorcock (born 18 December 1939) is an English writer, best-known for science fiction and fantasy, who has published a number of well-received literary novels as well as comic thrillers, graphic novels and non-fiction. He has worked as an editor and is also a successful musician. He is best known for his novels about the character Elric of Melniboné, a seminal influence on the field of fantasy since the 1960s and '70s.As editor of the British science fiction magazine New Worlds, from May 1964 until March 1971 and then again from 1976 to 1996, Moorcock fostered the development of the science fiction ""New Wave"" in the UK and indirectly in the United States, leading to the advent of cyberpunk."
+91,91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,XEM,"BNB,CRO,TRX,HBAR,CHZ,NEXO,CELO,TFUEL,XEM",1,"payments                1.000000
+smart-contracts         0.333333
+bnb-chain               0.222222
+mobile                  0.222222
+medium-of-exchange      0.222222
+media                   0.222222
+marketplace             0.222222
+centralized-exchange    0.222222
+content-creation        0.222222
+Name: 1, dtype: float64",NEM,nem,"Cryptocurrency bubble refers to the skeptical viewpoint about cryptocurrencies that the rising price of cryptocurrencies constitutes a speculative bubble. Adherents include The Black Swan author Nassim Taleb; Michael Burry, who shorted subprime mortgage bonds as detailed in The Big Short; Berkshire Hathaway board members, including Warren Buffett and Charlie Munger; and many other critics. Bitcoin and other cryptocurrencies have been named as speculative bubbles by several laureates of the Nobel Memorial Prize in Economic Sciences, central bankers, and investors."
+92,92,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,KAVA,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Kava,kava,
+93,93,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,HOT,"FIL,BTT,AR,HOT",10,"filesharing              1.00
+distributed-computing    1.00
+storage                  1.00
+web3                     0.75
+platform                 0.50
+bnb-chain                0.50
+Name: 10, dtype: float64",Holo,holo,
+94,94,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ROSE,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Oasis Network,oasis network,"The Organization for the Advancement of Structured Information Standards (OASIS; ) is a nonprofit consortium that works on the development, convergence, and adoption of open standards for cybersecurity, blockchain, Internet of things (IoT), emergency management, cloud computing, legal data exchange, energy, content technologies, and other areas.
+
+
+== History ==
+OASIS was founded under the name ""SGML Open"" in 1993. It began as a trade association of Standard Generalized Markup Language (SGML) tool vendors to cooperatively promote the adoption of SGML through mainly educational activities, though some amount of technical activity was also pursued including an update of the CALS Table Model specification and specifications for fragment interchange and entity management.In 1998, with the movement of the industry to XML, SGML Open changed its emphasis from SGML to XML, and changed its name to OASIS Open to be inclusive of XML and reflect an expanded scope of technical work and standards."
+95,95,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SCRT,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Secret,secret,"A secret society is a club or an organization whose activities, events, inner functioning, or membership are concealed. The society may or may not attempt to conceal its existence. The term usually excludes covert groups, such as intelligence agencies or guerrilla warfare insurgencies, that hide their activities and memberships but maintain a public presence."
+96,96,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,ZRX,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",0x,0x,"0x is an open-source, decentralized exchange infrastructure that enables the exchange of tokenized assets on multiple blockchains. Developers can use 0x to incorporate exchange functionality into their applications, and market makers can use 0x to create markets for cryptocurrencies and tokens. ZRX, an Ethereum ERC-20 token, is the native governance and staking token of 0x."
+97,97,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,AUDIO,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",Audius,audius,
+98,98,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ICX,"ADA,ALGO,WAVES,NEO,ZIL,KDA,ICX",11,"smart-contracts         1.000000
+platform                1.000000
+mineable                0.428571
+enterprise-solutions    0.285714
+research                0.285714
+pos                     0.285714
+bnb-chain               0.285714
+Name: 11, dtype: float64",ICON,icon,"A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from most cryptocurrencies, such as Bitcoin, which are fungible."
+99,99,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IOTX,"SOL,DOT,SHIB,WBTC,VET,ICP,EGLD,RUNE,KLAY,HNT,FLOW,GMT,XEC,MKR,CVX,KSM,QNT,LRC,MINA,AMP,COMP,GLMR,KAVA,ROSE,SCRT,ZRX,AUDIO,IOTX",4,"defi                      0.357143
+platform                  0.214286
+polkadot-ecosystem        0.178571
+injective-ecosystem       0.178571
+bnb-chain                 0.178571
+substrate                 0.142857
+cosmos-ecosystem          0.142857
+scaling                   0.107143
+lending-borowing          0.107143
+iot                       0.107143
+smart-contracts           0.107143
+polkadot                  0.107143
+decentralized-exchange    0.107143
+dao                       0.107143
+collectibles-nfts         0.107143
+solana-ecosystem          0.107143
+web3                      0.107143
+binance-launchpad         0.107143
+                          0.071429
+distributed-computing     0.071429
+governance                0.071429
+spartan-group             0.071429
+pos                       0.071429
+enterprise-solutions      0.071429
+privacy                   0.071429
+Name: 4, dtype: float64",IoTeX,iotex,

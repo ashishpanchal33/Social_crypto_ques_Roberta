@@ -1,0 +1,216 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'f8or9r', 'f8us6l', 'f8olhn', 'f8jjai', 'f8rjbk', 'f8jj05'}",6,2020-02-24
+1,market,crypto,"{'f8rjbk', 'f8j9bn', 'f8rrk9', 'f8ssj2'}",4,2020-02-24
+2,crypto,news,"{'f8jjai', 'f8or9r', 'f8jj05', 'f8olhn'}",4,2020-02-24
+3,news nan,crypto,"{'f8jjai', 'f8or9r', 'f8jj05', 'f8olhn'}",4,2020-02-24
+4,crypto,amp,"{'f8j9bn', 'f8or9r', 'f8olhn'}",3,2020-02-24
+6,bitcoin,price,"{'f8us6l', 'f8rjbk', 'f8qafb', 'f8qwnt', 'f8pv6e'}",5,2020-02-24
+7,cryptocurrency,bitcoin,"{'f8l9s3', 'f8lanj', 'f8suhg', 'f8pv6e'}",4,2020-02-24
+8,btc,bitcoin,"{'f8t5vf', 'f8jjai', 'f8jj05', 'f8pv6e'}",4,2020-02-24
+9,bitcoin,way,"{'f8l9s3', 'f8lanj', 'f8vvd7', 'f8pv6e'}",4,2020-02-24
+10,com,https,"{'f8ud17', 'f8jflx', 'f8o98m', 'f8tinl', 'f8kvog', 'f8oiz1', 'f8rlpm'}",7,2020-02-24
+11,https,comments,"{'f8ud17', 'f8o98m', 'f8kvog', 'f8oiz1', 'f8rlpm'}",5,2020-02-24
+12,https,reddit,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+13,reddit com,https,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+14,https,www,"{'f8jflx', 'f8ud17', 'f8s6at'}",3,2020-02-24
+16,cryptocurrency,need,"{'f8ylzx', 'f8l9s3', 'f8lanj', 'f8pv6e'}",4,2020-02-24
+17,years,cryptocurrency,"{'f8l9s3', 'f8lanj', 'f8ktc9'}",3,2020-02-24
+18,cryptocurrency,way,"{'f8l9s3', 'f8lanj', 'f8pv6e'}",3,2020-02-24
+19,digital,cryptocurrency,"{'f8l9s3', 'f8lanj', 'f8pv6e'}",3,2020-02-24
+21,com,comments,"{'f8ud17', 'f8o98m', 'f8kvog', 'f8oiz1', 'f8rlpm'}",5,2020-02-24
+22,com,reddit,"{'f8ud17', 'f8o98m', 'f8kvog', 'f8oiz1', 'f906v8'}",5,2020-02-24
+23,reddit com,com,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+24,post,com,"{'f8o98m', 'f8rlpm', 'f8ud17'}",3,2020-02-24
+25,amp,btc,"{'f8j9bn', 'f8j8yu', 'f8ly9f', 'f8pv6e'}",4,2020-02-24
+27,amp,bitcoin,"{'f8or9r', 'f8olhn', 'f8pv6e'}",3,2020-02-24
+28,ecosystem,amp,"{'f8or9r', 'f8olhn', 'f8pv6e'}",3,2020-02-24
+29,times,amp,"{'f8j8yu', 'f8j9bn', 'f8pv6e'}",3,2020-02-24
+31,www,https www,"{'f8jflx', 'f8ud17', 'f8s6at'}",3,2020-02-24
+32,com,www,"{'f8jflx', 'f8ud17'}",2,2020-02-24
+33,crypto,www,{'f8s6at'},1,2020-02-24
+34,cryptocurrency,www,{'f8ud17'},1,2020-02-24
+35,https,https www,"{'f8jflx', 'f8ud17', 'f8s6at'}",3,2020-02-24
+37,com,https www,"{'f8jflx', 'f8ud17'}",2,2020-02-24
+38,crypto,https www,{'f8s6at'},1,2020-02-24
+39,cryptocurrency,https www,{'f8ud17'},1,2020-02-24
+40,use,blockchain,"{'f8s04x', 'f8rxpm', 'f8pv6e'}",3,2020-02-24
+41,blockchain,bank,"{'f8pv6e', 'f8t8yw', 'f8t8su'}",3,2020-02-24
+42,blockchain,ceo,"{'f8s04x', 'f8rxpm', 'f8pv6e'}",3,2020-02-24
+43,build,blockchain,"{'f8pv6e', 'f8t8yw', 'f8t8su'}",3,2020-02-24
+44,blockchain,interview,"{'f8s04x', 'f8rxpm', 'f8pv6e'}",3,2020-02-24
+45,information,money,"{'f8l82v', 'f8pv6e'}",2,2020-02-24
+46,information,customers,"{'f8l82v', 'f8pv6e'}",2,2020-02-24
+47,information,bitcoin,{'f8pv6e'},1,2020-02-24
+48,information,cryptocurrency,{'f8pv6e'},1,2020-02-24
+49,information,amp,{'f8pv6e'},1,2020-02-24
+52,comments,reddit,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+53,reddit com,comments,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+54,post,comments,"{'f8o98m', 'f8rlpm', 'f8ud17'}",3,2020-02-24
+55,trade,cryptocurrency,"{'f8ktc9', 'f8pv6e'}",2,2020-02-24
+56,trade,amp,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+57,trade,btc,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+58,trade,money,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+59,trade,think,"{'f8ktc9', 'f8ly9f'}",2,2020-02-24
+60,people,bitcoin,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+61,people,time,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+62,money,people,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+63,market,people,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+64,people,world,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+65,https,click,"{'f8rlpm', 'f8ud17'}",2,2020-02-24
+66,com,click,"{'f8rlpm', 'f8ud17'}",2,2020-02-24
+67,comments,click,"{'f8rlpm', 'f8ud17'}",2,2020-02-24
+68,post,click,"{'f8rlpm', 'f8ud17'}",2,2020-02-24
+69,click,day,"{'f8rlpm', 'f8ud17'}",2,2020-02-24
+72,crypto,btc,"{'f8j9bn', 'f8jjai', 'f8jj05'}",3,2020-02-24
+73,loses,btc,"{'f8jjai', 'f8ly9f', 'f8jj05'}",3,2020-02-24
+74,times,btc,"{'f8j8yu', 'f8j9bn', 'f8pv6e'}",3,2020-02-24
+78,reddit com,reddit,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+79,post,reddit,"{'f8o98m', 'f8ud17'}",2,2020-02-24
+80,market,time,"{'f8rjbk', 'f8ssj2', 'f8pv6e'}",3,2020-02-24
+81,crypto,time,"{'f8rjbk', 'f8ssj2'}",2,2020-02-24
+82,time,bitcoin,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+84,money,time,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+85,years,bitcoin,"{'f8l9s3', 'f8us6l', 'f8lanj'}",3,2020-02-24
+87,years,money,"{'f8us6l', 'f8l82v'}",2,2020-02-24
+88,years,way,"{'f8l9s3', 'f8lanj'}",2,2020-02-24
+89,years,need,"{'f8l9s3', 'f8lanj'}",2,2020-02-24
+90,money,bitcoin,"{'f8rjbk', 'f8us6l', 'f8pv6e'}",3,2020-02-24
+91,money,value,"{'f8rjbk', 'f8ly9f', 'f8pv6e'}",3,2020-02-24
+92,money,price,"{'f8rjbk', 'f8us6l', 'f8pv6e'}",3,2020-02-24
+93,money,markets,"{'f8rjbk', 'f8us6l', 'f8pv6e'}",3,2020-02-24
+94,crypto,money,"{'f8rjbk', 'f8us6l'}",2,2020-02-24
+96,use,ceo,"{'f8s04x', 'f8rxpm', 'f8pv6e'}",3,2020-02-24
+97,use,interview,"{'f8s04x', 'f8rxpm', 'f8pv6e'}",3,2020-02-24
+98,use,bitcoin,"{'f8us6l', 'f8pv6e'}",2,2020-02-24
+99,use,money,"{'f8us6l', 'f8pv6e'}",2,2020-02-24
+100,discussion,https,{'f8ud17'},1,2020-02-24
+101,discussion,cryptocurrency,{'f8ud17'},1,2020-02-24
+102,com,discussion,{'f8ud17'},1,2020-02-24
+103,discussion,www,{'f8ud17'},1,2020-02-24
+104,discussion,https www,{'f8ud17'},1,2020-02-24
+105,ethereum,defi,"{'f8sqqp', 'f8nr7d', 'f8pv6e'}",3,2020-02-24
+106,ethereum,amp,"{'f8tinl', 'f8pv6e'}",2,2020-02-24
+107,ethereum,eth,"{'f8yuxz', 'f8pv6e'}",2,2020-02-24
+108,ethereum,price,"{'f8nr7d', 'f8pv6e'}",2,2020-02-24
+109,ethereum,moment,"{'f8yuxz', 'f8pv6e'}",2,2020-02-24
+111,market,bitcoin,"{'f8rjbk', 'f8sw5a', 'f8pv6e'}",3,2020-02-24
+113,coin,market,"{'f8ssj2', 'f8sw5a', 'f8pv6e'}",3,2020-02-24
+114,market,increase,"{'f8ssj2', 'f8sw5a', 'f8pv6e'}",3,2020-02-24
+115,world,gold,"{'f8rjbk', 'f8nnsz', 'f8pv6e'}",3,2020-02-24
+116,world,bitcoin,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+118,world,time,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+119,money,world,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+120,ve,scam,"{'f8ly9f', 'f906v8'}",2,2020-02-24
+121,crypto,ve,{'f906v8'},1,2020-02-24
+122,com,ve,{'f906v8'},1,2020-02-24
+123,amp,ve,{'f8ly9f'},1,2020-02-24
+124,trade,ve,{'f8ly9f'},1,2020-02-24
+126,fiat,way,"{'f8l9s3', 'f8lanj', 'f8pv6e', 'f8s6at'}",4,2020-02-24
+128,need,way,"{'f8l9s3', 'f8lanj', 'f8pv6e'}",3,2020-02-24
+129,digital,way,"{'f8l9s3', 'f8lanj', 'f8pv6e'}",3,2020-02-24
+130,cryptocurrencies,money,{'f8ph3e'},1,2020-02-24
+131,discussion,cryptocurrencies,{'f8oarr'},1,2020-02-24
+132,cryptocurrencies,need,{'f8oarr'},1,2020-02-24
+133,cryptocurrencies,app,{'f8ph3e'},1,2020-02-24
+134,cryptocurrencies,payment,{'f8ph3e'},1,2020-02-24
+135,https,network,"{'f8oiz1', 'f8tinl'}",2,2020-02-24
+136,com,network,"{'f8oiz1', 'f8tinl'}",2,2020-02-24
+137,network,miner,"{'f8oiz1', 'f8tinl'}",2,2020-02-24
+138,amp,network,{'f8tinl'},1,2020-02-24
+139,network,comments,{'f8oiz1'},1,2020-02-24
+140,need,bitcoin,"{'f8l9s3', 'f8lanj', 'f8jlgf', 'f8pv6e'}",4,2020-02-24
+143,digital,need,"{'f8l9s3', 'f8lanj', 'f8pv6e'}",3,2020-02-24
+144,transactions,need,"{'f8l9s3', 'f8lanj', 'f8jlgf'}",3,2020-02-24
+145,crypto,think,"{'f8ylzx', 'f8us6l', 'f8ssj2'}",3,2020-02-24
+146,bitcoin,think,"{'f8t5vf', 'f8us6l', 'f8sw5a'}",3,2020-02-24
+147,guys,think,"{'f8ly9f', 'f8sw5a', 'f8ssj2'}",3,2020-02-24
+148,cryptocurrency,think,"{'f8ylzx', 'f8ktc9'}",2,2020-02-24
+150,eth,bitcoin,"{'f8us6l', 'f8pv6e'}",2,2020-02-24
+151,money,eth,"{'f8us6l', 'f8pv6e'}",2,2020-02-24
+152,use,eth,"{'f8us6l', 'f8pv6e'}",2,2020-02-24
+154,eth,price,"{'f8us6l', 'f8pv6e'}",2,2020-02-24
+155,coins,bitcoin,"{'f8t5vf', 'f8sw5a', 'f8pv6e'}",3,2020-02-24
+156,coins,crypto,"{'f8wsgc', 'f8s6q0'}",2,2020-02-24
+157,coins,btc,"{'f8t5vf', 'f8pv6e'}",2,2020-02-24
+158,market,coins,"{'f8sw5a', 'f8pv6e'}",2,2020-02-24
+159,coins,think,"{'f8t5vf', 'f8sw5a'}",2,2020-02-24
+161,bitcoin,value,"{'f8rjbk', 'f8pv6e'}",2,2020-02-24
+162,cryptocurrency,value,"{'f8wa3r', 'f8pv6e'}",2,2020-02-24
+163,amp,value,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+164,trade,value,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+165,don,bitcoin,"{'f8ka9d', 'f8juy0', 'f8jlgf', 'f8pv6e'}",4,2020-02-24
+166,transaction,don,"{'f8ka9d', 'f8juy0', 'f8pv6e'}",3,2020-02-24
+167,cryptocurrency,don,"{'f8pv6e', 'f8wa3r'}",2,2020-02-24
+168,need,don,"{'f8jlgf', 'f8pv6e'}",2,2020-02-24
+169,don,value,"{'f8wa3r', 'f8pv6e'}",2,2020-02-24
+171,markets,price,"{'f8rjbk', 'f8us6l', 'f8s6q0', 'f8pv6e'}",4,2020-02-24
+172,crypto,price,"{'f8rjbk', 'f8us6l', 'f8s6q0'}",3,2020-02-24
+174,price,gold,"{'f8qwnt', 'f8rjbk', 'f8pv6e'}",3,2020-02-24
+176,com,reddit com,"{'f8oiz1', 'f8o98m', 'f8ud17', 'f8kvog'}",4,2020-02-24
+179,post,reddit com,"{'f8o98m', 'f8ud17'}",2,2020-02-24
+180,exchange,world,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+181,trading,exchange,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+182,exchange,token,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+183,exchange,digital,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+184,exchange,gold,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+185,hold,project,"{'f8kvog', 'f8pv6e'}",2,2020-02-24
+186,project,ceo,"{'f8kvog', 'f8pv6e'}",2,2020-02-24
+187,project,interview,"{'f8kvog', 'f8pv6e'}",2,2020-02-24
+188,project,bitcoin,{'f8pv6e'},1,2020-02-24
+189,https,project,{'f8kvog'},1,2020-02-24
+190,market,coin,"{'f8ssj2', 'f8sw5a', 'f8pv6e'}",3,2020-02-24
+191,coin,increase,"{'f8ssj2', 'f8sw5a', 'f8pv6e'}",3,2020-02-24
+192,coin,bitcoin,"{'f8sw5a', 'f8pv6e'}",2,2020-02-24
+193,coin,amp,"{'f8rlpm', 'f8pv6e'}",2,2020-02-24
+194,coin,time,"{'f8ssj2', 'f8pv6e'}",2,2020-02-24
+195,crypto,wallet,"{'f8or9r', 'f8olhn'}",2,2020-02-24
+196,wallet,bitcoin,"{'f8or9r', 'f8olhn'}",2,2020-02-24
+197,wallet,amp,"{'f8or9r', 'f8olhn'}",2,2020-02-24
+198,wallet,news,"{'f8or9r', 'f8olhn'}",2,2020-02-24
+199,ecosystem,wallet,"{'f8or9r', 'f8olhn'}",2,2020-02-24
+200,want,crypto,"{'f8rjbk', 'f8us6l'}",2,2020-02-24
+201,want,bitcoin,"{'f8rjbk', 'f8us6l'}",2,2020-02-24
+202,want,years,"{'f8us6l', 'f8ktc9'}",2,2020-02-24
+203,want,money,"{'f8rjbk', 'f8us6l'}",2,2020-02-24
+204,want,think,"{'f8us6l', 'f8ktc9'}",2,2020-02-24
+205,post,https,"{'f8o98m', 'f8rlpm', 'f8ud17'}",3,2020-02-24
+206,com,post,"{'f8o98m', 'f8rlpm', 'f8ud17'}",3,2020-02-24
+210,com,today,"{'f8t5vf', 'f8rlpm'}",2,2020-02-24
+211,today,bitcoin,{'f8t5vf'},1,2020-02-24
+212,https,today,{'f8rlpm'},1,2020-02-24
+213,amp,today,{'f8rlpm'},1,2020-02-24
+214,today,comments,{'f8rlpm'},1,2020-02-24
+215,trading,questions,"{'f8ud17', 'f8ly9f', 'f8pv6e'}",3,2020-02-24
+216,trading,cryptocurrency,"{'f8ud17', 'f8pv6e'}",2,2020-02-24
+217,trading,amp,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+218,trade,trading,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+219,trading,btc,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+220,event,projects,"{'f8o293', 'f8pv6e'}",2,2020-02-24
+221,bitcoin,projects,{'f8pv6e'},1,2020-02-24
+222,cryptocurrency,projects,{'f8pv6e'},1,2020-02-24
+223,amp,projects,{'f8pv6e'},1,2020-02-24
+224,blockchain,projects,{'f8pv6e'},1,2020-02-24
+225,search,don,"{'f906v8', 'f8pv6e'}",2,2020-02-24
+226,search,investors,"{'f906v8', 'f8pv6e'}",2,2020-02-24
+227,bring,search,"{'f906v8', 'f8pv6e'}",2,2020-02-24
+228,search,crypto,{'f906v8'},1,2020-02-24
+229,search,bitcoin,{'f8pv6e'},1,2020-02-24
+230,cryptocurrency,welcome,"{'f8ud17', 'f8pv6e'}",2,2020-02-24
+231,trading,welcome,"{'f8ud17', 'f8pv6e'}",2,2020-02-24
+232,account,welcome,"{'f8ud17', 'f8pv6e'}",2,2020-02-24
+233,questions,welcome,"{'f8ud17', 'f8pv6e'}",2,2020-02-24
+234,groups,welcome,"{'f8ud17', 'f8pv6e'}",2,2020-02-24
+235,users,amp,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+236,trade,users,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+237,users,btc,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+238,users,money,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+239,users,value,"{'f8ly9f', 'f8pv6e'}",2,2020-02-24
+240,world,token,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+242,trading,token,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+243,digital,token,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+244,token,gold,"{'f8nnsz', 'f8pv6e'}",2,2020-02-24
+245,things,hold,"{'f8rjbk', 'f8kvog'}",2,2020-02-24
+246,crypto,things,{'f8rjbk'},1,2020-02-24
+247,things,bitcoin,{'f8rjbk'},1,2020-02-24
+248,https,things,{'f8kvog'},1,2020-02-24
+249,com,things,{'f8kvog'},1,2020-02-24

@@ -1,0 +1,208 @@
+,token_1,token_2,connections,connections_strength,date
+0,com,https,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+1,https,www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+2,https,https www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+3,https,governance,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+4,https,price,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+6,com,www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+7,com,https www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+8,com,governance,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+9,com,price,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+12,www,https www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+13,www,governance,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+14,www,price,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+18,governance,https www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+19,price,https www,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+20,invest,wallet,{'raco7l'},1,2021-12-06
+21,wallet,cryptocurrency,{'rabfcx'},1,2021-12-06
+22,crypto,wallet,{'raco7l'},1,2021-12-06
+23,wallet,governance,{'raco7l'},1,2021-12-06
+24,wallet,think,{'raco7l'},1,2021-12-06
+25,invest,projects,"{'ra6x40', 'raco7l', 'r9tc32'}",3,2021-12-06
+26,crypto,invest,"{'raco7l', 'r9tc32'}",2,2021-12-06
+27,invest,governance,"{'ra6x40', 'raco7l'}",2,2021-12-06
+28,invest,think,"{'ra6x40', 'raco7l'}",2,2021-12-06
+29,invest,don,"{'raco7l', 'r9tc32'}",2,2021-12-06
+30,https,cryptocurrency,{'r9t8hp'},1,2021-12-06
+31,com,cryptocurrency,{'r9t8hp'},1,2021-12-06
+32,cryptocurrency,www,{'r9t8hp'},1,2021-12-06
+33,cryptocurrency,https www,{'r9t8hp'},1,2021-12-06
+35,amp,crash,"{'radl9l', 'ra8uv0', 'r9tjjy'}",3,2021-12-06
+36,crypto,amp,"{'radl9l', 'r9tjjy'}",2,2021-12-06
+37,amp,people,"{'radl9l', 'ra8uv0'}",2,2021-12-06
+38,amp,price,"{'ra8uv0', 'r9tjjy'}",2,2021-12-06
+39,amp,btc,"{'radl9l', 'r9tjjy'}",2,2021-12-06
+40,coin,crypto,"{'radl9l', 'raco7l', 'r9t8hp'}",3,2021-12-06
+41,ecosystem,crypto,"{'r9tc32', 'raco7l', 'r9t8hp'}",3,2021-12-06
+44,crypto,governance,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+45,tokens,governance,"{'ra8uv0', 'raco7l', 'r9t8hp', 'ra6x40'}",4,2021-12-06
+46,governance,time,"{'ra6x40', 'raco7l', 'r9t8hp'}",3,2021-12-06
+47,governance,projects,"{'ra8uv0', 'raco7l', 'ra6x40'}",3,2021-12-06
+48,project,governance,"{'ra8uv0', 'r9t8hp', 'ra6x40'}",3,2021-12-06
+49,defi,governance,"{'ra6x40', 'raco7l', 'r9t8hp'}",3,2021-12-06
+50,people,join,"{'ra8uv0', 'r9tc32'}",2,2021-12-06
+51,join,don,"{'ra8uv0', 'r9tc32'}",2,2021-12-06
+52,join,projects,"{'ra8uv0', 'r9tc32'}",2,2021-12-06
+53,profits,join,"{'ra8uv0', 'r9tc32'}",2,2021-12-06
+54,https,join,{'ra8uv0'},1,2021-12-06
+55,people,don,"{'r9ueby', 'r9tc32', 'ra8uv0'}",3,2021-12-06
+57,crypto,people,"{'radl9l', 'r9tc32'}",2,2021-12-06
+59,money,people,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+61,governance,think,"{'ra6x40', 'raco7l'}",2,2021-12-06
+62,want,think,"{'ra6x40', 'raco7l'}",2,2021-12-06
+63,time,think,"{'ra6x40', 'raco7l'}",2,2021-12-06
+64,ve,think,"{'raco7l', 'rah8m0'}",2,2021-12-06
+66,money,don,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+67,money,community,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+68,money,end,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+69,friends,money,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+71,don,projects,"{'ra8uv0', 'raco7l', 'r9tc32'}",3,2021-12-06
+72,don,start,"{'ra8uv0', 'raco7l', 'r9ueby'}",3,2021-12-06
+73,profits,don,"{'ra8uv0', 'raco7l', 'r9tc32'}",3,2021-12-06
+75,market,crypto,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+76,market,blockchain,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+77,market,solana,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+78,ecosystem,market,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+79,terra,market,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+80,want,invest,"{'ra6x40', 'raco7l'}",2,2021-12-06
+81,want,governance,"{'ra6x40', 'raco7l'}",2,2021-12-06
+83,want,time,"{'ra6x40', 'raco7l'}",2,2021-12-06
+84,want,projects,"{'ra6x40', 'raco7l'}",2,2021-12-06
+85,coins,crypto,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+86,coins,governance,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+87,coins,time,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+88,coins,world,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+89,coin,coins,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+90,time,governance,"{'ra6x40', 'raco7l', 'r9t8hp'}",3,2021-12-06
+91,tokens,time,"{'ra6x40', 'raco7l', 'r9t8hp'}",3,2021-12-06
+92,defi,time,"{'ra6x40', 'raco7l', 'r9t8hp'}",3,2021-12-06
+93,invest,time,"{'ra6x40', 'raco7l'}",2,2021-12-06
+94,crypto,time,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+95,eth,price,"{'rajrlg', 'r9t8hp', 'r9tjjy'}",3,2021-12-06
+96,cardano,price,"{'ra8uv0', 'r9t8hp', 'r9tjjy'}",3,2021-12-06
+101,crypto,btc,"{'radl9l', 'r9tjjy'}",2,2021-12-06
+102,btc,crash,"{'radl9l', 'r9tjjy'}",2,2021-12-06
+103,people,btc,{'radl9l'},1,2021-12-06
+104,btc,price,{'r9tjjy'},1,2021-12-06
+105,invest,space,"{'ra6x40', 'r9tc32'}",2,2021-12-06
+106,crypto,space,"{'radl9l', 'r9tc32'}",2,2021-12-06
+107,people,space,"{'radl9l', 'r9tc32'}",2,2021-12-06
+108,users,space,"{'radl9l', 'r9tc32'}",2,2021-12-06
+109,space,projects,"{'ra6x40', 'r9tc32'}",2,2021-12-06
+110,crypto,world,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+111,world,governance,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+113,world,time,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+114,coin,world,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+115,users,crypto,"{'radl9l', 'r9tc32'}",2,2021-12-06
+116,users,people,"{'radl9l', 'r9tc32'}",2,2021-12-06
+118,users,decision,"{'radl9l', 'r9tc32'}",2,2021-12-06
+119,users,invest,{'r9tc32'},1,2021-12-06
+121,ve,guys,"{'raco7l', 'rah8m0'}",2,2021-12-06
+122,wallet,ve,{'raco7l'},1,2021-12-06
+123,invest,ve,{'raco7l'},1,2021-12-06
+124,crypto,ve,{'raco7l'},1,2021-12-06
+125,governance,way,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+126,time,way,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+127,investors,way,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+128,project,way,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+129,tokens,way,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+130,https,data,{'r9t8hp'},1,2021-12-06
+131,com,data,{'r9t8hp'},1,2021-12-06
+132,data,www,{'r9t8hp'},1,2021-12-06
+133,data,https www,{'r9t8hp'},1,2021-12-06
+134,data,cryptocurrency,{'r9t8hp'},1,2021-12-06
+136,coin,governance,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+138,coin,time,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+140,crypto,blockchain,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+142,solana,blockchain,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+143,ecosystem,blockchain,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+144,terra,blockchain,"{'r9tc32', 'r9t8hp'}",2,2021-12-06
+145,invest,risk,"{'raco7l', 'r9tc32'}",2,2021-12-06
+146,crypto,risk,"{'raco7l', 'r9tc32'}",2,2021-12-06
+147,risk,don,"{'raco7l', 'r9tc32'}",2,2021-12-06
+148,risk,projects,"{'raco7l', 'r9tc32'}",2,2021-12-06
+149,profits,risk,"{'raco7l', 'r9tc32'}",2,2021-12-06
+151,crypto,eth,"{'r9t8hp', 'r9tjjy'}",2,2021-12-06
+152,cardano,eth,"{'r9t8hp', 'r9tjjy'}",2,2021-12-06
+153,https,eth,{'r9t8hp'},1,2021-12-06
+154,com,eth,{'r9t8hp'},1,2021-12-06
+155,https,today,{'ra8uv0'},1,2021-12-06
+156,com,today,{'ra8uv0'},1,2021-12-06
+157,today,www,{'ra8uv0'},1,2021-12-06
+158,today,https www,{'ra8uv0'},1,2021-12-06
+159,amp,today,{'ra8uv0'},1,2021-12-06
+160,guys,think,"{'raco7l', 'rah8m0'}",2,2021-12-06
+162,wallet,guys,{'raco7l'},1,2021-12-06
+163,invest,guys,{'raco7l'},1,2021-12-06
+164,crypto,guys,{'raco7l'},1,2021-12-06
+168,tokens,projects,"{'ra8uv0', 'raco7l', 'ra6x40'}",3,2021-12-06
+169,profits,projects,"{'ra8uv0', 'raco7l', 'r9tc32'}",3,2021-12-06
+170,community,people,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+171,community,money,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+172,community,don,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+173,community,end,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+174,friends,community,"{'r9ueby', 'r9tc32'}",2,2021-12-06
+175,investors,governance,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+176,investors,time,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+178,investors,project,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+179,investors,tokens,"{'ra6x40', 'r9t8hp'}",2,2021-12-06
+180,look,governance,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+181,look,don,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+182,look,projects,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+183,look,feel,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+184,look,tokens,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+185,governance,mean,"{'ra8uv0', 'ra6x40'}",2,2021-12-06
+186,people,mean,"{'ra8uv0', 'r9ueby'}",2,2021-12-06
+187,don,mean,"{'ra8uv0', 'r9ueby'}",2,2021-12-06
+188,mean,projects,"{'ra8uv0', 'ra6x40'}",2,2021-12-06
+189,project,mean,"{'ra8uv0', 'ra6x40'}",2,2021-12-06
+190,people,sell,{'r9ueby'},1,2021-12-06
+191,money,sell,{'r9ueby'},1,2021-12-06
+192,sell,don,{'r9ueby'},1,2021-12-06
+193,community,sell,{'r9ueby'},1,2021-12-06
+194,sell,mean,{'r9ueby'},1,2021-12-06
+195,feel,governance,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+196,feel,don,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+197,feel,projects,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+199,feel,tokens,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+200,invest,things,"{'ra6x40', 'raco7l'}",2,2021-12-06
+201,things,governance,"{'ra6x40', 'raco7l'}",2,2021-12-06
+202,things,think,"{'ra6x40', 'raco7l'}",2,2021-12-06
+203,want,things,"{'ra6x40', 'raco7l'}",2,2021-12-06
+204,things,time,"{'ra6x40', 'raco7l'}",2,2021-12-06
+206,project,tokens,"{'ra8uv0', 'r9t8hp', 'ra6x40'}",3,2021-12-06
+207,project,means,"{'ra8uv0', 'r9t8hp', 'ra6x40'}",3,2021-12-06
+208,https,project,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+209,com,project,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+214,defi,tokens,"{'ra6x40', 'raco7l', 'r9t8hp'}",3,2021-12-06
+215,start,don,"{'ra8uv0', 'raco7l', 'r9ueby'}",3,2021-12-06
+216,start,governance,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+217,people,start,"{'ra8uv0', 'r9ueby'}",2,2021-12-06
+218,start,projects,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+219,look,start,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+223,invest,defi,"{'ra6x40', 'raco7l'}",2,2021-12-06
+224,crypto,defi,"{'raco7l', 'r9t8hp'}",2,2021-12-06
+225,times,don,"{'raco7l', 'r9ueby'}",2,2021-12-06
+226,times,start,"{'raco7l', 'r9ueby'}",2,2021-12-06
+227,times,wallet,{'raco7l'},1,2021-12-06
+228,times,invest,{'raco7l'},1,2021-12-06
+229,times,crypto,{'raco7l'},1,2021-12-06
+230,hit,crypto,"{'radl9l', 'r9t8hp'}",2,2021-12-06
+231,coin,hit,"{'radl9l', 'r9t8hp'}",2,2021-12-06
+232,hit,https,{'r9t8hp'},1,2021-12-06
+233,com,hit,{'r9t8hp'},1,2021-12-06
+234,hit,www,{'r9t8hp'},1,2021-12-06
+235,governance,means,"{'ra8uv0', 'r9t8hp', 'ra6x40'}",3,2021-12-06
+237,tokens,means,"{'ra8uv0', 'r9t8hp', 'ra6x40'}",3,2021-12-06
+238,https,means,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+239,com,means,"{'ra8uv0', 'r9t8hp'}",2,2021-12-06
+240,sure,governance,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+241,sure,don,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+242,sure,projects,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+243,look,sure,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+244,sure,feel,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+245,advice,governance,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+246,advice,don,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+247,advice,projects,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+248,look,advice,"{'ra8uv0', 'raco7l'}",2,2021-12-06
+249,advice,feel,"{'ra8uv0', 'raco7l'}",2,2021-12-06

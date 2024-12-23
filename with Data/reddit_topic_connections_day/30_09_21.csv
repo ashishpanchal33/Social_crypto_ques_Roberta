@@ -1,0 +1,231 @@
+,token_1,token_2,connections,connections_strength,date
+0,market,crypto,"{'pyekad', 'pyryid', 'pydc73', 'pyrs7q', 'pykk81', 'pyjgvx', 'pyges9', 'pys6yh', 'pyqkty', 'pynmu2', 'pyumcr'}",11,2021-09-30
+1,crypto,bitcoin,"{'pydc73', 'pyryid', 'pykk81', 'pyj13g', 'pyrs7q', 'pyimnk', 'pys6yh', 'pytfbu', 'pyodjv'}",9,2021-09-30
+2,crypto,https,"{'pyryid', 'pyrs7q', 'pyges9', 'pys6yh', 'pya5r1', 'pyr2x4', 'pylsbx', 'py85gi'}",8,2021-09-30
+3,crypto,people,"{'pyjgvx', 'pyges9', 'py8zv3', 'pytfbu', 'pygx23', 'pyumcr', 'py8azf'}",7,2021-09-30
+4,crypto,time,"{'pyryid', 'pyrs7q', 'pyges9', 'pys6yh', 'pytfbu', 'py8zv3', 'pynmu2'}",7,2021-09-30
+5,https,amp,"{'pyvh4a', 'pyj8k8', 'pyqcn6', 'pyfpwh', 'py85gi', 'pyjgwc'}",6,2021-09-30
+6,amp,price,"{'pytccg', 'pykk81', 'pyhxr9', 'pyj8k8', 'pytfbu', 'pyqcn6'}",6,2021-09-30
+7,amp,amp x200b,"{'pyhxr9', 'pyj8k8', 'pytfbu', 'pyfpwh', 'py85gi', 'pyr2fa'}",6,2021-09-30
+8,amp,x200b,"{'pyhxr9', 'pyj8k8', 'pytfbu', 'pyfpwh', 'py85gi', 'pyr2fa'}",6,2021-09-30
+9,coin,amp,"{'pyhxr9', 'pytfbu', 'pyqcn6', 'py85gi', 'pyjgwc'}",5,2021-09-30
+10,com,https,"{'pyvh4a', 'pyuaer', 'pyges9', 'pyqx7m', 'pya5r1', 'pylsbx', 'pyfpwh', 'pyqvsa', 'pyjgwc'}",9,2021-09-30
+12,september,https,"{'pyrs7q', 'pyryid', 'pyuaer', 'pyj8k8', 'pys6yh', 'pylsbx', 'pyjgwc'}",7,2021-09-30
+13,coin,https,"{'pyrs7q', 'pyryid', 'pys6yh', 'pyqcn6', 'py85gi', 'pyk11j', 'pyjgwc'}",7,2021-09-30
+14,https,nft,"{'pyrs7q', 'pyryid', 'pys6yh', 'pyfpwh', 'py85gi', 'pyqvsa', 'pyjgwc'}",7,2021-09-30
+15,cryptocurrency,sign,"{'pyvh4a', 'pyk11j', 'pymyov', 'pyges9'}",4,2021-09-30
+16,crypto,cryptocurrency,"{'pyowj8', 'pyges9', 'pytfbu'}",3,2021-09-30
+17,https,cryptocurrency,"{'pyvh4a', 'pyges9', 'pyk11j'}",3,2021-09-30
+18,information,cryptocurrency,"{'pyk11j', 'pyges9', 'pytfbu'}",3,2021-09-30
+19,cryptocurrency,time,"{'pyk11j', 'pyges9', 'pytfbu'}",3,2021-09-30
+20,https,wallet,"{'pyges9', 'py85gi', 'pyk11j', 'pyqcn6'}",4,2021-09-30
+21,exchange,wallet,"{'pyo00s', 'pyges9', 'pyk11j'}",3,2021-09-30
+22,coin,wallet,"{'py85gi', 'pyk11j', 'pyqcn6'}",3,2021-09-30
+23,transfer,wallet,"{'pyo00s', 'pyges9', 'pyk11j'}",3,2021-09-30
+24,crypto,wallet,"{'pyges9', 'py85gi'}",2,2021-09-30
+26,com,crypto,"{'pylsbx', 'pya5r1', 'pyges9'}",3,2021-09-30
+27,com,amp,"{'pyfpwh', 'pyvh4a', 'pyjgwc'}",3,2021-09-30
+28,com,www,"{'pylsbx', 'pyvh4a', 'pyges9'}",3,2021-09-30
+29,com,https www,"{'pylsbx', 'pyvh4a', 'pyges9'}",3,2021-09-30
+30,want,reddit,"{'pyvh4a', 'pyryid', 'pyrs7q', 'pyowj8', 'pys6yh'}",5,2021-09-30
+31,crypto,reddit,"{'pyryid', 'pyowj8', 'pyrs7q', 'pys6yh'}",4,2021-09-30
+32,https,reddit,"{'pyryid', 'pyvh4a', 'pyrs7q', 'pys6yh'}",4,2021-09-30
+33,check,reddit,"{'pyryid', 'pyvh4a', 'pyrs7q', 'pys6yh'}",4,2021-09-30
+34,today,reddit,"{'pyryid', 'pyowj8', 'pyrs7q', 'pys6yh'}",4,2021-09-30
+35,exchange,use,"{'pyo00s', 'pyk11j', 'pyjgwc'}",3,2021-09-30
+36,coin,use,"{'pytfbu', 'pyk11j', 'pyjgwc'}",3,2021-09-30
+37,use,network,"{'pymojn', 'pyk11j', 'pyjgwc'}",3,2021-09-30
+38,use,currency,"{'pymojn', 'pyk11j', 'pyjgwc'}",3,2021-09-30
+39,use,amp,"{'pytfbu', 'pyjgwc'}",2,2021-09-30
+40,https,www,"{'pylsbx', 'pyvh4a', 'pyj8k8', 'pyges9'}",4,2021-09-30
+41,www,https www,"{'pylsbx', 'pyvh4a', 'pyj8k8', 'pyges9'}",4,2021-09-30
+43,crypto,www,"{'pylsbx', 'pyges9'}",2,2021-09-30
+44,amp,www,"{'pyvh4a', 'pyj8k8'}",2,2021-09-30
+45,https,https www,"{'pylsbx', 'pyvh4a', 'pyj8k8', 'pyges9'}",4,2021-09-30
+48,crypto,https www,"{'pylsbx', 'pyges9'}",2,2021-09-30
+49,amp,https www,"{'pyvh4a', 'pyj8k8'}",2,2021-09-30
+50,amp,comments,"{'pyvh4a', 'pyjgwc'}",2,2021-09-30
+51,https,comments,"{'pyvh4a', 'pyjgwc'}",2,2021-09-30
+52,com,comments,"{'pyvh4a', 'pyjgwc'}",2,2021-09-30
+53,want,comments,"{'pyvh4a', 'pyjgwc'}",2,2021-09-30
+54,algo,comments,"{'pyvh4a', 'pyjgwc'}",2,2021-09-30
+55,share,amp,{'pyvh4a'},1,2021-09-30
+56,share,https,{'pyvh4a'},1,2021-09-30
+57,share,cryptocurrency,{'pyvh4a'},1,2021-09-30
+58,com,share,{'pyvh4a'},1,2021-09-30
+59,share,reddit,{'pyvh4a'},1,2021-09-30
+60,sure,sub,"{'pya5r1', 'pygs5e', 'pyt2b0'}",3,2021-09-30
+61,https,sub,"{'pya5r1', 'pyjgwc'}",2,2021-09-30
+62,com,sub,"{'pya5r1', 'pyjgwc'}",2,2021-09-30
+63,coin,sub,"{'pygs5e', 'pyjgwc'}",2,2021-09-30
+64,network,sub,"{'pyt2b0', 'pyjgwc'}",2,2021-09-30
+65,invest,money,"{'pyj8k8', 'pytccg', 'pynmu2', 'pygx23'}",4,2021-09-30
+66,crypto,invest,"{'pynmu2', 'pygx23'}",2,2021-09-30
+67,invest,amp,"{'pyj8k8', 'pytccg'}",2,2021-09-30
+68,invest,people,"{'pytccg', 'pygx23'}",2,2021-09-30
+69,invest,time,"{'pytccg', 'pynmu2'}",2,2021-09-30
+70,https,check,"{'pyvh4a', 'pyryid', 'pyrs7q', 'pyges9', 'pys6yh', 'pyqvsa'}",6,2021-09-30
+71,crypto,check,"{'pyryid', 'pyrs7q', 'pyges9', 'pys6yh', 'pytffp'}",5,2021-09-30
+72,want,check,"{'pyvh4a', 'pyryid', 'pyrs7q', 'pys6yh', 'pytffp'}",5,2021-09-30
+73,market,check,"{'pyryid', 'pyrs7q', 'pyges9', 'pys6yh', 'pyqvsa'}",5,2021-09-30
+74,ask,check,"{'pyryid', 'pyrs7q', 'pyges9', 'pys6yh', 'pytffp'}",5,2021-09-30
+75,time,read,"{'pyuaer', 'pytccg', 'pytfbu'}",3,2021-09-30
+76,amp,read,"{'pytccg', 'pytfbu'}",2,2021-09-30
+77,bitcoin,read,"{'pyuaer', 'pytfbu'}",2,2021-09-30
+78,people,read,"{'pytccg', 'pytfbu'}",2,2021-09-30
+79,don,read,"{'pytccg', 'pytfbu'}",2,2021-09-30
+81,bitcoin,time,"{'pyryid', 'pyrs7q', 'pyuaer', 'pys6yh', 'pytfbu', 'pygmzq'}",6,2021-09-30
+82,market,bitcoin,"{'pyrs7q', 'pyryid', 'pykk81', 'pydc73', 'pys6yh'}",5,2021-09-30
+83,coin,bitcoin,"{'pyrs7q', 'pyryid', 'pys6yh', 'pytfbu', 'pygmzq'}",5,2021-09-30
+84,bitcoin,sign,"{'pyryid', 'pyrs7q', 'pymyov', 'pys6yh', 'pysp0q'}",5,2021-09-30
+85,crypto,moon,"{'pytffp', 'pygx23'}",2,2021-09-30
+86,moon,buying,"{'pytffp', 'pygx23'}",2,2021-09-30
+87,community,moon,"{'pytffp', 'pygx23'}",2,2021-09-30
+88,project,moon,"{'pytffp', 'pygx23'}",2,2021-09-30
+89,scam,moon,"{'pytffp', 'pygx23'}",2,2021-09-30
+91,september,time,"{'pyrs7q', 'pyryid', 'pyuaer', 'pys6yh', 'pyq61e'}",5,2021-09-30
+92,september,today,"{'pyrs7q', 'pyryid', 'pys6yh', 'pylsbx', 'pyjgwc'}",5,2021-09-30
+93,september,crypto,"{'pyrs7q', 'pylsbx', 'pyryid', 'pys6yh'}",4,2021-09-30
+94,september,bitcoin,"{'pyrs7q', 'pyuaer', 'pyryid', 'pys6yh'}",4,2021-09-30
+95,information,don,"{'pyk11j', 'pyjdlx', 'pynm9a', 'pytfbu'}",4,2021-09-30
+96,information,time,"{'pyges9', 'pyk11j', 'pynm9a', 'pytfbu'}",4,2021-09-30
+97,ask,information,"{'pytffp', 'pyk11j', 'pyges9', 'pytfbu'}",4,2021-09-30
+98,crypto,information,"{'pytffp', 'pyges9', 'pytfbu'}",3,2021-09-30
+100,trade,community,"{'pytffp', 'pytccg'}",2,2021-09-30
+101,trade,place,"{'pytffp', 'pytccg'}",2,2021-09-30
+102,trade,crypto,{'pytffp'},1,2021-09-30
+103,trade,amp,{'pytccg'},1,2021-09-30
+104,trade,invest,{'pytccg'},1,2021-09-30
+105,non,today,"{'pyowj8', 'pyjdlx'}",2,2021-09-30
+106,non,nft,"{'pyowj8', 'pyno63'}",2,2021-09-30
+107,non,crypto,{'pyowj8'},1,2021-09-30
+108,non,cryptocurrency,{'pyowj8'},1,2021-09-30
+109,non,reddit,{'pyowj8'},1,2021-09-30
+110,dump,token,"{'pytffp', 'pytanq'}",2,2021-09-30
+111,dump,project,"{'pytffp', 'pytanq'}",2,2021-09-30
+112,crypto,dump,{'pytffp'},1,2021-09-30
+113,check,dump,{'pytffp'},1,2021-09-30
+114,dump,moon,{'pytffp'},1,2021-09-30
+115,discord,crypto,"{'pyrs7q', 'pyryid', 'pys6yh', 'pytfbu', 'pyn3h0'}",5,2021-09-30
+116,discord,https,"{'pyrs7q', 'pyryid', 'pys6yh', 'pyqvsa'}",4,2021-09-30
+117,discord,check,"{'pyrs7q', 'pyryid', 'pys6yh', 'pyqvsa'}",4,2021-09-30
+118,discord,bitcoin,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+119,discord,time,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+120,time,welcome,"{'pyuaer', 'pynm9a'}",2,2021-09-30
+121,ve,welcome,"{'pyuaer', 'pynm9a'}",2,2021-09-30
+122,https,welcome,{'pyuaer'},1,2021-09-30
+123,com,welcome,{'pyuaer'},1,2021-09-30
+124,welcome,read,{'pyuaer'},1,2021-09-30
+125,discussion,point,"{'pyt6vf', 'pyuaer'}",2,2021-09-30
+126,discussion,crypto,{'pyt6vf'},1,2021-09-30
+127,discussion,https,{'pyuaer'},1,2021-09-30
+128,com,discussion,{'pyuaer'},1,2021-09-30
+129,discussion,read,{'pyuaer'},1,2021-09-30
+130,links,https,"{'pyuaer', 'pyqvsa'}",2,2021-09-30
+131,com,links,"{'pyuaer', 'pyqvsa'}",2,2021-09-30
+132,links,market,"{'pyjdlx', 'pyqvsa'}",2,2021-09-30
+133,links,reality,"{'pyjdlx', 'pyqvsa'}",2,2021-09-30
+134,links,share,{'pyjdlx'},1,2021-09-30
+135,amp,join,"{'pyfpwh', 'pyvh4a'}",2,2021-09-30
+136,https,join,"{'pyfpwh', 'pyvh4a'}",2,2021-09-30
+137,com,join,"{'pyfpwh', 'pyvh4a'}",2,2021-09-30
+138,join,cryptocurrency,{'pyvh4a'},1,2021-09-30
+139,join,reddit,{'pyvh4a'},1,2021-09-30
+140,stocks,tip,"{'pytffp', 'pyj8k8'}",2,2021-09-30
+141,crypto,tip,{'pytffp'},1,2021-09-30
+142,tip,amp,{'pyj8k8'},1,2021-09-30
+143,https,tip,{'pyj8k8'},1,2021-09-30
+144,tip,www,{'pyj8k8'},1,2021-09-30
+146,money,people,"{'pytccg', 'pysnbz', 'pyjgvx', 'pyges9', 'pytfbu', 'pygx23', 'pyumcr'}",7,2021-09-30
+147,market,people,"{'pyjdlx', 'pytanq', 'pyjgvx', 'pyges9', 'pysa13', 'pyumcr'}",6,2021-09-30
+148,people,don,"{'pyjdlx', 'pytccg', 'pyjgvx', 'pytfbu', 'py8zv3'}",5,2021-09-30
+149,people,time,"{'pytccg', 'pyges9', 'pytfbu', 'py8zv3', 'pygmzq'}",5,2021-09-30
+150,crypto,keys,"{'pyrs7q', 'pyryid', 'pys6yh'}",3,2021-09-30
+151,https,keys,"{'pyrs7q', 'pyryid', 'pys6yh'}",3,2021-09-30
+152,keys,reddit,"{'pyrs7q', 'pyryid', 'pys6yh'}",3,2021-09-30
+153,check,keys,"{'pyrs7q', 'pyryid', 'pys6yh'}",3,2021-09-30
+154,keys,bitcoin,"{'pyrs7q', 'pyryid', 'pys6yh'}",3,2021-09-30
+155,don,way,"{'pyjdlx', 'pytfbu', 'pypz3x', 'pya5r1', 'pymomw', 'pyk11j'}",6,2021-09-30
+156,crypto,don,"{'pyjgvx', 'pytfbu', 'py8zv3', 'pyt6vf', 'pya5r1'}",5,2021-09-30
+158,don,time,"{'pytccg', 'py8zv3', 'pytfbu', 'pynm9a', 'pyk11j'}",5,2021-09-30
+160,exchange,fees,"{'pyumcr', 'pyv7nr'}",2,2021-09-30
+161,crypto,fees,{'pyumcr'},1,2021-09-30
+162,amp,fees,{'pyfpwh'},1,2021-09-30
+163,https,fees,{'pyfpwh'},1,2021-09-30
+164,com,fees,{'pyfpwh'},1,2021-09-30
+165,crypto,think,"{'pyr2fa', 'pyauky', 'pytfbu', 'pyn3h0'}",4,2021-09-30
+166,coin,think,"{'pygmzq', 'pytfbu', 'pyqcn6', 'pytax5'}",4,2021-09-30
+167,guys,think,"{'pygzf0', 'pyauky', 'pyqcn6', 'pytax5'}",4,2021-09-30
+168,amp,think,"{'pyr2fa', 'pytfbu', 'pyqcn6'}",3,2021-09-30
+169,bitcoin,think,"{'pysp0q', 'pygmzq', 'pytfbu'}",3,2021-09-30
+171,https,time,"{'pyryid', 'pyrs7q', 'pyuaer', 'pyges9', 'pys6yh', 'pyk11j'}",6,2021-09-30
+172,time,bitcoin,"{'pyryid', 'pyrs7q', 'pyuaer', 'pys6yh', 'pytfbu', 'pygmzq'}",6,2021-09-30
+173,ve,time,"{'pytccg', 'pyryid', 'pyrs7q', 'pyuaer', 'pys6yh', 'pynm9a'}",6,2021-09-30
+174,coin,time,"{'pyryid', 'pyrs7q', 'pys6yh', 'pytfbu', 'pygmzq', 'pyk11j'}",6,2021-09-30
+175,rules,crypto,"{'pyjgvx', 'pyges9'}",2,2021-09-30
+176,rules,people,"{'pyjgvx', 'pyges9'}",2,2021-09-30
+177,rules,money,"{'pyjgvx', 'pyges9'}",2,2021-09-30
+178,market,rules,"{'pyjgvx', 'pyges9'}",2,2021-09-30
+179,rules,investors,"{'pyjgvx', 'pyges9'}",2,2021-09-30
+180,algo,governance,"{'pyo00s', 'pyvh4a'}",2,2021-09-30
+181,governance,algorand,"{'pyo00s', 'pyvh4a'}",2,2021-09-30
+182,amp,governance,{'pyvh4a'},1,2021-09-30
+183,https,governance,{'pyvh4a'},1,2021-09-30
+184,cryptocurrency,governance,{'pyvh4a'},1,2021-09-30
+185,want,crypto,"{'pyryid', 'pyrs7q', 'pyowj8', 'pys6yh', 'pytfbu', 'pynmu2', 'pytffp'}",7,2021-09-30
+186,want,coin,"{'pyryid', 'pyrs7q', 'pys6yh', 'pytfbu', 'pypz3x', 'pytffp', 'pyjgwc'}",7,2021-09-30
+187,want,today,"{'pyryid', 'pyrs7q', 'pyowj8', 'pys6yh', 'pymomw', 'pyjgwc'}",6,2021-09-30
+188,want,eth,"{'pyryid', 'pyrs7q', 'pys6yh', 'pypz3x', 'pynmu2', 'pyjgwc'}",6,2021-09-30
+189,want,https,"{'pyvh4a', 'pyryid', 'pyrs7q', 'pys6yh', 'pyjgwc'}",5,2021-09-30
+190,coinbase,welcome,{'pyv7nr'},1,2021-09-30
+191,coinbase,fees,{'pyv7nr'},1,2021-09-30
+192,exchange,coinbase,{'pyv7nr'},1,2021-09-30
+193,exchanges,coinbase,{'pyv7nr'},1,2021-09-30
+194,trading,coinbase,{'pyv7nr'},1,2021-09-30
+196,crypto,money,"{'pyjgvx', 'pyges9', 'pytfbu', 'pynmu2', 'pygx23', 'pyumcr'}",6,2021-09-30
+198,money,don,"{'pyjgvx', 'pytccg', 'pytfbu', 'pymomw'}",4,2021-09-30
+199,money,time,"{'pytfbu', 'pytccg', 'pyges9', 'pynmu2'}",4,2021-09-30
+200,post,amp,"{'pytccg', 'pytfbu', 'pyjgwc'}",3,2021-09-30
+201,post,people,"{'pyjdlx', 'pytccg', 'pytfbu'}",3,2021-09-30
+202,post,don,"{'pyjdlx', 'pytccg', 'pytfbu'}",3,2021-09-30
+203,post,thing,"{'pyjdlx', 'pytccg', 'pytfbu'}",3,2021-09-30
+204,post,community,"{'pytccg', 'pytfbu', 'pyjgwc'}",3,2021-09-30
+205,crypto,china,{'py8azf'},1,2021-09-30
+206,china,cryptocurrency,{'pyoeir'},1,2021-09-30
+207,people,china,{'py8azf'},1,2021-09-30
+208,china,exchanges,{'py8azf'},1,2021-09-30
+209,china,projects,{'py8azf'},1,2021-09-30
+210,binance,exchange,"{'pyo00s', 'pymyov', 'pyv7nr', 'pyjgwc'}",4,2021-09-30
+211,exchange,crypto,"{'pyumcr', 'pyges9', 'pysjmd'}",3,2021-09-30
+212,exchange,https,"{'pyges9', 'pyk11j', 'pyjgwc'}",3,2021-09-30
+213,exchange,cryptocurrency,"{'pyk11j', 'pymyov', 'pyges9'}",3,2021-09-30
+215,https,today,"{'pyryid', 'pyrs7q', 'pys6yh', 'pylsbx', 'pyfpwh', 'pyjgwc'}",6,2021-09-30
+217,today,nft,"{'pyryid', 'pyrs7q', 'pyowj8', 'pys6yh', 'pyfpwh', 'pyjgwc'}",6,2021-09-30
+218,crypto,today,"{'pyryid', 'pyrs7q', 'pyowj8', 'pys6yh', 'pylsbx'}",5,2021-09-30
+221,coin,market,"{'pyryid', 'pyrs7q', 'pys6yh', 'pysa13', 'pyqcn6', 'pyumcr', 'pygs5e'}",7,2021-09-30
+222,market,https,"{'pyrs7q', 'pyryid', 'pyges9', 'pys6yh', 'pyqcn6', 'pyqvsa'}",6,2021-09-30
+224,market,start,"{'pyryid', 'pyrs7q', 'pytanq', 'pyjgvx', 'pys6yh', 'pysa13'}",6,2021-09-30
+225,money,banks,"{'pyjgvx', 'pyq9ns'}",2,2021-09-30
+226,crypto,banks,{'pyjgvx'},1,2021-09-30
+227,people,banks,{'pyjgvx'},1,2021-09-30
+228,banks,don,{'pyjgvx'},1,2021-09-30
+229,rules,banks,{'pyjgvx'},1,2021-09-30
+230,money,month,"{'pyumcr', 'pyj8k8', 'pymomw', 'pynmu2'}",4,2021-09-30
+231,btc,month,"{'pyumcr', 'pyj8k8', 'pynmu2'}",3,2021-09-30
+232,crypto,month,"{'pyumcr', 'pynmu2'}",2,2021-09-30
+233,invest,month,"{'pyj8k8', 'pynmu2'}",2,2021-09-30
+234,want,month,"{'pymomw', 'pynmu2'}",2,2021-09-30
+235,crypto,eth,"{'pyryid', 'pyrs7q', 'pys6yh', 'pynmu2', 'pyrui8', 'py85gi'}",6,2021-09-30
+237,coin,eth,"{'pyryid', 'pyrs7q', 'pys6yh', 'pypz3x', 'py85gi', 'pyjgwc'}",6,2021-09-30
+238,eth,nft,"{'pyryid', 'pyrs7q', 'pys6yh', 'pyrui8', 'py85gi', 'pyjgwc'}",6,2021-09-30
+239,https,eth,"{'pyryid', 'pyrs7q', 'pys6yh', 'py85gi', 'pyjgwc'}",5,2021-09-30
+240,crypto,world,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+241,world,bitcoin,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+242,discord,world,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+243,world,time,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+244,want,world,"{'pyrs7q', 'pytfbu', 'pyryid', 'pys6yh'}",4,2021-09-30
+245,https,btc,"{'pyuaer', 'py85gi', 'pyj8k8', 'pyqcn6'}",4,2021-09-30
+246,btc,eth,"{'pygzf0', 'py85gi', 'pypz3x', 'pynmu2'}",4,2021-09-30
+247,coin,btc,"{'pyumcr', 'pyqcn6', 'py85gi', 'pypz3x'}",4,2021-09-30
+248,crypto,btc,"{'pyumcr', 'py85gi', 'pynmu2'}",3,2021-09-30
+249,amp,btc,"{'pyj8k8', 'py85gi', 'pyqcn6'}",3,2021-09-30

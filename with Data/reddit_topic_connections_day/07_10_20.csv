@@ -1,0 +1,147 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,amp,{'j6ymbu'},1,2020-10-07
+1,crypto,money,{'j6rupb'},1,2020-10-07
+2,crypto,banks,{'j6rupb'},1,2020-10-07
+3,crypto,adoption,{'j6l9em'},1,2020-10-07
+4,laundering,crypto,{'j6rupb'},1,2020-10-07
+5,investment,bitcoin,"{'j6ohiy', 'j6onla', 'j6pzza'}",3,2020-10-07
+6,bitcoin,gold,"{'j6ohiy', 'j6pzza', 'j6lrx3'}",3,2020-10-07
+7,ethereum,bitcoin,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+8,bitcoin,price,"{'j71f68', 'j6qq2k'}",2,2020-10-07
+9,world,bitcoin,"{'j6u67f', 'j6pzza'}",2,2020-10-07
+10,cryptocurrency nan,cryptocurrency,"{'j6kuu5', 'j6y4ws'}",2,2020-10-07
+11,banks,cryptocurrency,{'j6kuu5'},1,2020-10-07
+12,adoption,cryptocurrency,{'j6o2qi'},1,2020-10-07
+13,ethereum,defi,"{'j6lflj', 'j6tl3p', 'j6vo06'}",3,2020-10-07
+14,defi,defi nan,"{'j6lvno', 'j6lvac', 'j6pi27'}",3,2020-10-07
+15,tron,defi,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+16,launches,defi,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+17,defi,plan,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+19,amp,bitcoin,{'j6lrx3'},1,2020-10-07
+20,amp,defi,{'j6lrx3'},1,2020-10-07
+21,amp,gold,{'j6lrx3'},1,2020-10-07
+22,service,amp,{'j6ymbu'},1,2020-10-07
+23,blockchain,bmw,"{'j6xhwd', 'j6td4l', 'j6pxxn'}",3,2020-10-07
+24,blockchain,app,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+25,blockchain,rewards,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+26,blockchain,korea,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+27,blockchain,korea nan,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+30,ethereum,october,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+31,ethereum,eth,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+32,tron,ethereum,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+33,coins,month,"{'j6vszh', 'j6tvcc'}",2,2020-10-07
+34,month nan,coins,"{'j6vszh', 'j6tvcc'}",2,2020-10-07
+35,time,bitcoin,{'j6se6q'},1,2020-10-07
+36,ethereum,time,{'j6toio'},1,2020-10-07
+37,time,bitcoin nan,{'j6se6q'},1,2020-10-07
+38,finance,time,{'j6toio'},1,2020-10-07
+39,money,banks,"{'j6uxnu', 'j6rupb'}",2,2020-10-07
+40,laundering,money,"{'j6uxnu', 'j6rupb'}",2,2020-10-07
+42,won,bitcoin,{'j6m65c'},1,2020-10-07
+43,won,bitcoin nan,{'j6m65c'},1,2020-10-07
+44,won,korea,{'j6tf7y'},1,2020-10-07
+45,use,app,"{'j6sp86', 'j6v6m5'}",2,2020-10-07
+46,use,defi,{'j6sp86'},1,2020-10-07
+47,use,eth,{'j6sp86'},1,2020-10-07
+48,use,uniswap,{'j6sp86'},1,2020-10-07
+49,pi,use,{'j6v6m5'},1,2020-10-07
+51,bitcoin price,price,"{'j71f68', 'j6qq2k'}",2,2020-10-07
+52,defi,price,{'j6vo06'},1,2020-10-07
+53,ethereum,price,{'j6vo06'},1,2020-10-07
+54,hit,price,{'j6vo06'},1,2020-10-07
+56,eth,october,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+57,trend,october,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+58,indicators,october,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+59,ta,october,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+61,world,investment,{'j6pzza'},1,2020-10-07
+62,world,gold,{'j6pzza'},1,2020-10-07
+63,world,beats,{'j6pzza'},1,2020-10-07
+64,world,beats gold,{'j6pzza'},1,2020-10-07
+65,bitcoin,bitcoin nan,"{'j6se6q', 'j6m65c'}",2,2020-10-07
+70,uniswap,eth,"{'j6sp86', 'j6zoz2'}",2,2020-10-07
+71,eth,fees,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+72,game,eth,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+73,metamask,token,"{'j6p705', 'j6ubpd'}",2,2020-10-07
+74,defi,token,{'j6p705'},1,2020-10-07
+75,service,token,{'j6p705'},1,2020-10-07
+76,service nan,token,{'j6p705'},1,2020-10-07
+78,uniswap,defi,{'j6sp86'},1,2020-10-07
+80,uniswap,app,{'j6sp86'},1,2020-10-07
+82,game,fees,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+83,fees,based game,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+84,fees nan,fees,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+85,multiplayer,fees,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+87,laundering,banks,"{'j6uxnu', 'j6rupb'}",2,2020-10-07
+90,cryptocurrency nan,banks,{'j6kuu5'},1,2020-10-07
+93,rewards,app,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+94,korea,app,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+95,app,korea nan,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+98,tron,plan,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+99,tron,ethereum nan,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+100,tron,justin,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+102,investment,gold,"{'j6ohiy', 'j6pzza'}",2,2020-10-07
+103,beats,investment,"{'j6ohiy', 'j6pzza'}",2,2020-10-07
+104,investment,beats gold,"{'j6ohiy', 'j6pzza'}",2,2020-10-07
+107,month nan,month,"{'j6vszh', 'j6tvcc'}",2,2020-10-07
+108,finance,ethereum,{'j6toio'},1,2020-10-07
+110,look,finance,{'j6lsy2'},1,2020-10-07
+112,adoption,bitcoin,{'j6lidg'},1,2020-10-07
+114,hit,adoption,{'j6lidg'},1,2020-10-07
+115,sound nan,sound,"{'j6r0zs', 'j6lm39'}",2,2020-10-07
+116,user,bitcoin,{'j6x8pw'},1,2020-10-07
+117,user,blockchain,{'j718fi'},1,2020-10-07
+118,game,user,{'j718fi'},1,2020-10-07
+119,look,defi,{'j6pi27'},1,2020-10-07
+121,look,defi nan,{'j6pi27'},1,2020-10-07
+123,launches,defi nan,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+124,launches,dex,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+125,launches,zilliqa,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+126,launches,dex zilswap,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+131,ethereum,plan,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+133,ethereum nan,plan,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+134,plan,justin,"{'j6lflj', 'j6tl3p'}",2,2020-10-07
+137,beats,gold,"{'j6ohiy', 'j6pzza'}",2,2020-10-07
+138,beats gold,gold,"{'j6ohiy', 'j6pzza'}",2,2020-10-07
+139,defi,gold,{'j6lrx3'},1,2020-10-07
+141,launches,contract,{'j6r622'},1,2020-10-07
+142,ripple,contract,{'j6kbi3'},1,2020-10-07
+143,contract,interdax,{'j6r622'},1,2020-10-07
+144,cardano,bitcoin,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+145,ethereum,cardano,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+146,cardano,polkadot,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+147,bitcoin ethereum,cardano,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+148,trader,cardano,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+149,bitcoin,polkadot,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+150,ethereum,polkadot,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+152,bitcoin ethereum,polkadot,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+153,trader,polkadot,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+156,game,based game,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+157,game,fees nan,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+158,multiplayer,game,"{'j6nume', 'j6nlt2'}",2,2020-10-07
+159,bitcoin ethereum,bitcoin,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+160,bitcoin ethereum,ethereum,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+163,trader,bitcoin ethereum,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+164,ethereum,trend,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+166,trend,eth,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+167,indicators,trend,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+168,trend,ta,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+171,metamask,defi,{'j6p705'},1,2020-10-07
+172,service,metamask,{'j6p705'},1,2020-10-07
+173,metamask,service nan,{'j6p705'},1,2020-10-07
+174,lending,line,"{'j6tllc', 'j71kig'}",2,2020-10-07
+175,line,introduces,"{'j6tllc', 'j71kig'}",2,2020-10-07
+176,crypto,line,{'j6tllc'},1,2020-10-07
+177,service,line,{'j71kig'},1,2020-10-07
+178,line,service nan,{'j71kig'},1,2020-10-07
+179,ethereum,indicators,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+181,indicators,eth,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+183,indicators,ta,"{'j6mrf3', 'j6mrd7'}",2,2020-10-07
+186,rewards,korea,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+187,rewards,korea nan,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+188,rewards,bmw,"{'j6pxxn', 'j6td4l'}",2,2020-10-07
+191,dex,defi nan,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+192,defi nan,zilliqa,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+193,defi nan,dex zilswap,"{'j6lvno', 'j6lvac'}",2,2020-10-07
+194,bitcoin price,bitcoin,"{'j71f68', 'j6qq2k'}",2,2020-10-07
+196,trader,bitcoin,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07
+197,trader,ethereum,"{'j6mrzd', 'j6mrqk'}",2,2020-10-07

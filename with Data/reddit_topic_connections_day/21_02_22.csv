@@ -1,0 +1,223 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,money,"{'sxguha', 'sxnmex', 'sxw3w0', 'sxnxqn', 'sxhuo7', 'sxfujp', 'sxielf', 'sxw286', 'sxocox'}",9,2022-02-21
+1,crypto,time,"{'sxguha', 'sxk1nn', 'sy6not', 'sxropr', 'sxfujp', 'sxr2vc', 'sxfeg2', 'sxkxcj'}",8,2022-02-21
+2,market,crypto,"{'sxr3xi', 'sxguha', 'sxoi6i', 'sy6not', 'sxropr', 'sxhuo7', 'sxfeg2'}",7,2022-02-21
+3,crypto,world,"{'sxoi6i', 'sy6not', 'sxvra6', 'sxfujp', 'sxfrcp', 'sxfeg2', 'sxocox'}",7,2022-02-21
+4,crypto,people,"{'sy7nzf', 'sxguha', 'sy6not', 'sxfujp', 'sxhrzn', 'sxfeg2'}",6,2022-02-21
+5,use,amp,"{'sy6not', 'sxk5kx', 'sxmwnx'}",3,2022-02-21
+6,use,blockchain,"{'sy6not', 'sxk5kx', 'sxmwnx'}",3,2022-02-21
+7,crypto,use,"{'sy6not', 'sxnxqn'}",2,2022-02-21
+8,com,use,"{'sy6not', 'sxnxqn'}",2,2022-02-21
+9,use,bitcoin,"{'sy6not', 'sxk5kx'}",2,2022-02-21
+10,com,https,"{'sxlzr2', 'sxu6g1', 'sxielf', 'sxjs7z', 'sxtwsd', 'sy7fcb'}",6,2022-02-21
+11,com,crypto,"{'sy6not', 'sxkxcj', 'sxielf', 'sxnxqn'}",4,2022-02-21
+12,com,amp,"{'sxlzr2', 'sxtwsd', 'sy6not', 'sxu6g1'}",4,2022-02-21
+13,com,think,"{'sy6not', 'sxtwsd', 'sxkxcj', 'sxu6g1'}",4,2022-02-21
+14,com,ll,"{'sxlzr2', 'sxtwsd', 'sxielf', 'sxu6g1'}",4,2022-02-21
+16,https,ll,"{'sxlzr2', 'sxnktr', 'sxu6g1', 'sxielf', 'sxtwsd'}",5,2022-02-21
+17,https,amp,"{'sxlzr2', 'sxnktr', 'sxu6g1', 'sxtwsd'}",4,2022-02-21
+18,https,bitcoin,"{'sxnktr', 'sxielf', 'sxhuo7'}",3,2022-02-21
+19,market,https,"{'sxnktr', 'sy7fcb', 'sxhuo7'}",3,2022-02-21
+22,amp,nft,"{'sxw2cm', 'sxkzpt', 'sxtwsd', 'sxu6g1'}",4,2022-02-21
+23,amp,blockchain,"{'sxw2cm', 'sy6not', 'sxk5kx', 'sxmwnx'}",4,2022-02-21
+24,amp,ll,"{'sxlzr2', 'sxnktr', 'sxu6g1', 'sxtwsd'}",4,2022-02-21
+25,market,cryptocurrency,"{'sy3feo', 'sxropr', 'sxnktr', 'sxw1ov'}",4,2022-02-21
+26,amp,cryptocurrency,"{'sxlzr2', 'sxkz8o', 'sxnktr'}",3,2022-02-21
+27,look,cryptocurrency,"{'sxlzr2', 'sxropr', 'sxnktr'}",3,2022-02-21
+28,crypto,cryptocurrency,"{'sxropr', 'sxw3w0'}",2,2022-02-21
+29,https,cryptocurrency,"{'sxlzr2', 'sxnktr'}",2,2022-02-21
+30,crypto,www,"{'sxhuo7', 'sxfujp'}",2,2022-02-21
+31,https,www,"{'sy7fcb', 'sxhuo7'}",2,2022-02-21
+32,www,https www,"{'sy7fcb', 'sxhuo7'}",2,2022-02-21
+33,market,www,"{'sy7fcb', 'sxhuo7'}",2,2022-02-21
+34,money,www,"{'sxhuo7', 'sxfujp'}",2,2022-02-21
+35,crypto,wallet,{'sxnxqn'},1,2022-02-21
+36,use,wallet,{'sxnxqn'},1,2022-02-21
+37,com,wallet,{'sxnxqn'},1,2022-02-21
+38,wallet,money,{'sxnxqn'},1,2022-02-21
+39,wallet,way,{'sxnxqn'},1,2022-02-21
+40,https,https www,"{'sy7fcb', 'sxhuo7'}",2,2022-02-21
+42,market,https www,"{'sy7fcb', 'sxhuo7'}",2,2022-02-21
+43,crypto,https www,{'sxhuo7'},1,2022-02-21
+44,com,https www,{'sy7fcb'},1,2022-02-21
+45,profit,crypto,{'sxvra6'},1,2022-02-21
+46,profit,use,{'sxmwnx'},1,2022-02-21
+47,profit,amp,{'sxmwnx'},1,2022-02-21
+48,trade,profit,{'sxvra6'},1,2022-02-21
+49,profit,smart,{'sxmwnx'},1,2022-02-21
+50,crypto,invest,"{'sxropr', 'sxoi6i'}",2,2022-02-21
+51,market,invest,"{'sxropr', 'sxoi6i'}",2,2022-02-21
+52,invest,risk,"{'sxropr', 'sxoi6i'}",2,2022-02-21
+53,invest,cryptocurrency,{'sxropr'},1,2022-02-21
+54,invest,time,{'sxropr'},1,2022-02-21
+55,market,reddit,"{'sy6not', 'sxnktr', 'sy7fcb'}",3,2022-02-21
+56,com,reddit,"{'sy6not', 'sy7fcb'}",2,2022-02-21
+57,https,reddit,"{'sxnktr', 'sy7fcb'}",2,2022-02-21
+58,amp,reddit,"{'sy6not', 'sxnktr'}",2,2022-02-21
+59,bitcoin,reddit,"{'sy6not', 'sxnktr'}",2,2022-02-21
+60,trade,crypto,"{'sy6not', 'sy7nzf', 'sxvra6'}",3,2022-02-21
+61,trade,people,"{'sy6not', 'sy7nzf'}",2,2022-02-21
+62,trade,way,"{'sy6not', 'sxvra6'}",2,2022-02-21
+63,trade,world,"{'sy6not', 'sxvra6'}",2,2022-02-21
+64,trade,future,"{'sy6not', 'sy7nzf'}",2,2022-02-21
+65,crypto,smart,{'sxk1nn'},1,2022-02-21
+66,use,smart,{'sxmwnx'},1,2022-02-21
+67,amp,smart,{'sxmwnx'},1,2022-02-21
+69,smart,time,{'sxk1nn'},1,2022-02-21
+70,crypto,information,"{'sy6not', 'sxkxcj'}",2,2022-02-21
+71,com,information,"{'sy6not', 'sxkxcj'}",2,2022-02-21
+72,information,time,"{'sy6not', 'sxkxcj'}",2,2022-02-21
+73,information,think,"{'sy6not', 'sxkxcj'}",2,2022-02-21
+74,information,ve,"{'sy6not', 'sxkxcj'}",2,2022-02-21
+76,market,time,"{'sxtuyc', 'sxguha', 'sy6not', 'sxropr', 'sxfeg2'}",5,2022-02-21
+77,people,time,"{'sy6not', 'sxfeg2', 'sxguha', 'sxfujp'}",4,2022-02-21
+78,ve,time,"{'sy6not', 'sxr2vc', 'sxkxcj', 'sxk1nn'}",4,2022-02-21
+79,advice,time,"{'sy6not', 'sxropr', 'sxfeg2', 'sxkxcj'}",4,2022-02-21
+80,market,bitcoin,"{'sxnktr', 'sxk5kx', 'sxguha', 'sy29ce', 'sy6not', 'sxhuo7'}",6,2022-02-21
+81,crypto,bitcoin,"{'sxguha', 'sxx0sz', 'sy6not', 'sxhuo7', 'sxielf'}",5,2022-02-21
+82,bitcoin,price,"{'sxnktr', 'sy29ce', 'sy6not', 'sy0ozs', 'sxielf'}",5,2022-02-21
+83,btc,bitcoin,"{'sxguha', 'sxx0sz', 'sy6not', 'sxm1o3', 'sxielf'}",5,2022-02-21
+84,advice,bitcoin,"{'sy6not', 'sxnktr', 'sxielf', 'sxhuo7'}",4,2022-02-21
+85,crypto,pump,"{'sy6not', 'sxielf'}",2,2022-02-21
+86,com,pump,"{'sy6not', 'sxielf'}",2,2022-02-21
+87,bitcoin,pump,"{'sy6not', 'sxielf'}",2,2022-02-21
+88,price,pump,"{'sy6not', 'sxielf'}",2,2022-02-21
+89,btc,pump,"{'sy6not', 'sxielf'}",2,2022-02-21
+90,crypto,don,"{'sy6not', 'sxguha', 'sxocox'}",3,2022-02-21
+91,don,way,"{'sy6not', 'sxguha', 'sxocox'}",3,2022-02-21
+92,want,don,"{'sy6not', 'sxguha', 'sxocox'}",3,2022-02-21
+93,tell,don,"{'sy6not', 'sxguha', 'sxocox'}",3,2022-02-21
+94,amp,don,"{'sy6not', 'sxz4zv'}",2,2022-02-21
+97,people,increase,"{'sy6not', 'sy7nzf', 'sxfeg2', 'sxguha'}",4,2022-02-21
+98,market,people,"{'sy6not', 'sxfeg2', 'sxguha'}",3,2022-02-21
+99,money,people,"{'sxjs7z', 'sxguha', 'sxfujp'}",3,2022-02-21
+100,crypto,longer,"{'sxfeg2', 'sxocox'}",2,2022-02-21
+101,longer,world,"{'sxfeg2', 'sxocox'}",2,2022-02-21
+102,want,longer,"{'sxfeg2', 'sxocox'}",2,2022-02-21
+103,right,longer,"{'sxfeg2', 'sxocox'}",2,2022-02-21
+104,longer,need,"{'sxfeg2', 'sxocox'}",2,2022-02-21
+108,market,advice,"{'sxnktr', 'sy6not', 'sxropr', 'sxhuo7', 'sxfeg2'}",5,2022-02-21
+109,market,tokens,"{'sxtuyc', 'sy6not', 'sxropr', 'sxfeg2', 'sxxjrj'}",5,2022-02-21
+111,com,money,"{'sxjs7z', 'sxielf', 'sxnxqn'}",3,2022-02-21
+112,https,money,"{'sxjs7z', 'sxielf', 'sxhuo7'}",3,2022-02-21
+113,money,bitcoin,"{'sxielf', 'sxguha', 'sxhuo7'}",3,2022-02-21
+115,tokens,think,"{'sy6not', 'sxu6g1', 'sxfeg2', 'sxxjrj', 'sxtwsd'}",5,2022-02-21
+116,crypto,think,"{'sxkxcj', 'sy6not', 'sxfeg2', 'sxhuo7'}",4,2022-02-21
+118,market,think,"{'sy6not', 'sxxjrj', 'sxfeg2', 'sxhuo7'}",4,2022-02-21
+119,thing,think,"{'sy6not', 'sxxjrj', 'sxtwsd', 'sxu6g1'}",4,2022-02-21
+120,crypto,way,"{'sxguha', 'sy6not', 'sxropr', 'sxvra6', 'sxnxqn', 'sxocox'}",6,2022-02-21
+121,want,way,"{'sy3aza', 'sy6not', 'sxguha', 'sxocox'}",4,2022-02-21
+122,need,way,"{'sy6not', 'sxropr', 'sxvra6', 'sxocox'}",4,2022-02-21
+123,time,way,"{'sy6not', 'sxropr', 'sxguha'}",3,2022-02-21
+126,crypto,price,"{'sy6not', 'sxielf', 'sxw3w0'}",3,2022-02-21
+127,market,price,"{'sy6not', 'sxnktr', 'sy29ce'}",3,2022-02-21
+128,worth,price,"{'sy6not', 'sxw1ze', 'sxielf'}",3,2022-02-21
+129,investment,price,"{'sy6not', 'sxnktr', 'sxw3w0'}",3,2022-02-21
+130,coins,crypto,"{'sxropr', 'sxw3w0', 'sxw286'}",3,2022-02-21
+131,coins,cryptocurrency,"{'sxropr', 'sxw3w0'}",2,2022-02-21
+132,coins,money,"{'sxw3w0', 'sxw286'}",2,2022-02-21
+133,assets,coins,"{'sxropr', 'sxw3w0'}",2,2022-02-21
+134,coins,risk,"{'sxropr', 'sxw3w0'}",2,2022-02-21
+136,market,world,"{'sy6not', 'sy3feo', 'sxfeg2', 'sxoi6i'}",4,2022-02-21
+137,world,need,"{'sy6not', 'sxvra6', 'sxfeg2', 'sxocox'}",4,2022-02-21
+138,blockchain,world,"{'sy6not', 'sxw2a3', 'sxfeg2', 'sy7x7o'}",4,2022-02-21
+139,world,time,"{'sy6not', 'sxfeg2', 'sxfujp'}",3,2022-02-21
+140,crypto,future,"{'sy6not', 'sy7nzf', 'sxlj9u', 'sxkxb3'}",4,2022-02-21
+141,blockchain,future,"{'sy6not', 'sy7nzf', 'sy7x7o', 'sxmwnx'}",4,2022-02-21
+142,amp,future,"{'sy6not', 'sxkz8o', 'sxmwnx'}",3,2022-02-21
+143,thing,future,"{'sy6not', 'sy7nzf', 'sxvdwe'}",3,2022-02-21
+144,future,projects,"{'sy6not', 'sxmwnx', 'sxvdwe'}",3,2022-02-21
+145,want,crypto,"{'sy6not', 'sxfeg2', 'sxguha', 'sxocox'}",4,2022-02-21
+147,want,time,"{'sy6not', 'sxfeg2', 'sxguha'}",3,2022-02-21
+149,want,people,"{'sy6not', 'sxfeg2', 'sxguha'}",3,2022-02-21
+150,crypto,right,"{'sy6not', 'sxropr', 'sxhuo7', 'sxhrzn', 'sxfeg2', 'sxocox'}",6,2022-02-21
+151,market,right,"{'sy6not', 'sxropr', 'sxfeg2', 'sxhuo7'}",4,2022-02-21
+152,right,need,"{'sy6not', 'sxropr', 'sxfeg2', 'sxocox'}",4,2022-02-21
+153,right,advice,"{'sy6not', 'sxropr', 'sxfeg2', 'sxhuo7'}",4,2022-02-21
+154,right,time,"{'sy6not', 'sxropr', 'sxfeg2'}",3,2022-02-21
+155,coin,crypto,"{'sxhrzn', 'sxw3w0'}",2,2022-02-21
+156,exchange,coin,"{'sxhrzn', 'sxw3w0'}",2,2022-02-21
+157,coin,platforms,"{'sxhrzn', 'sxw3w0'}",2,2022-02-21
+158,coin,cryptocurrency,{'sxw3w0'},1,2022-02-21
+159,coin,people,{'sxhrzn'},1,2022-02-21
+160,crypto,ve,"{'sxk1nn', 'sy6not', 'sxhuo7', 'sxr2vc', 'sxkxcj'}",5,2022-02-21
+162,ve,think,"{'sy6not', 'sxkxcj', 'sxhuo7'}",3,2022-02-21
+163,ve,advice,"{'sy6not', 'sxkxcj', 'sxhuo7'}",3,2022-02-21
+164,com,ve,"{'sy6not', 'sxkxcj'}",2,2022-02-21
+165,https,year,"{'sxlzr2', 'sxnktr', 'sxhuo7'}",3,2022-02-21
+166,bitcoin,year,"{'sxnktr', 'sxhuo7', 'sxm1o3'}",3,2022-02-21
+167,advice,year,"{'sxnktr', 'sxkxcj', 'sxhuo7'}",3,2022-02-21
+168,crypto,year,"{'sxkxcj', 'sxhuo7'}",2,2022-02-21
+169,com,year,"{'sxlzr2', 'sxkxcj'}",2,2022-02-21
+170,crypto,life,"{'sy6not', 'sxkzpt', 'sxfujp'}",3,2022-02-21
+171,amp,life,"{'sy6not', 'sxkzpt'}",2,2022-02-21
+172,life,time,"{'sy6not', 'sxfujp'}",2,2022-02-21
+173,people,life,"{'sy6not', 'sxfujp'}",2,2022-02-21
+174,life,world,"{'sy6not', 'sxfujp'}",2,2022-02-21
+176,crypto,btc,"{'sy6not', 'sxielf', 'sxguha', 'sxx0sz'}",4,2022-02-21
+177,btc,time,"{'sy6not', 'sxtuyc', 'sxguha'}",3,2022-02-21
+178,market,btc,"{'sy6not', 'sxtuyc', 'sxguha'}",3,2022-02-21
+179,news,btc,"{'sxielf', 'sxx0sz', 'sxk6i7'}",3,2022-02-21
+180,crypto,news,"{'sxx0sz', 'sxhrzn', 'sxielf', 'sxw1vl', 'sxikcw'}",5,2022-02-21
+181,com,news,"{'sxtwsd', 'sxielf', 'sxu6g1'}",3,2022-02-21
+182,https,news,"{'sxtwsd', 'sxielf', 'sxu6g1'}",3,2022-02-21
+183,news,think,"{'sxxjrj', 'sxtwsd', 'sxu6g1'}",3,2022-02-21
+185,thing,nft,"{'sy7nzf', 'sxvdwe', 'sxu6g1', 'sxfujp', 'sxtwsd'}",5,2022-02-21
+186,nfts,thing,"{'sy7nzf', 'sxvdwe', 'sxu6g1', 'sxfujp', 'sxtwsd'}",5,2022-02-21
+187,crypto,thing,"{'sy6not', 'sy7nzf', 'sxocox', 'sxfujp'}",4,2022-02-21
+189,thing,tokens,"{'sy6not', 'sxxjrj', 'sxtwsd', 'sxu6g1'}",4,2022-02-21
+190,use,point,"{'sy6not', 'sxk5kx'}",2,2022-02-21
+191,com,point,"{'sy6not', 'sxjs7z'}",2,2022-02-21
+192,amp,point,"{'sy6not', 'sxk5kx'}",2,2022-02-21
+193,bitcoin,point,"{'sy6not', 'sxk5kx'}",2,2022-02-21
+194,people,point,"{'sy6not', 'sxjs7z'}",2,2022-02-21
+195,crypto,lot,"{'sy6not', 'sxhrzn', 'sxvra6', 'sxhuo7'}",4,2022-02-21
+196,market,lot,"{'sy6not', 'sy3feo', 'sxhuo7'}",3,2022-02-21
+197,world,lot,"{'sy6not', 'sy3feo', 'sxvra6'}",3,2022-02-21
+198,right,lot,"{'sy6not', 'sxhrzn', 'sxhuo7'}",3,2022-02-21
+199,lot,day,"{'sy6not', 'sxhrzn', 'sxvra6'}",3,2022-02-21
+200,crypto,years,"{'sxguha', 'sxocox'}",2,2022-02-21
+201,years,don,"{'sxguha', 'sxocox'}",2,2022-02-21
+202,years,money,"{'sxguha', 'sxocox'}",2,2022-02-21
+203,years,way,"{'sxguha', 'sxocox'}",2,2022-02-21
+204,want,years,"{'sxguha', 'sxocox'}",2,2022-02-21
+205,crypto,banks,{'sxlj9u'},1,2022-02-21
+206,com,banks,{'sxjs7z'},1,2022-02-21
+207,https,banks,{'sxjs7z'},1,2022-02-21
+208,people,banks,{'sxjs7z'},1,2022-02-21
+209,money,banks,{'sxjs7z'},1,2022-02-21
+210,crypto,need,"{'sy6not', 'sxropr', 'sxvra6', 'sxfeg2', 'sxocox'}",5,2022-02-21
+211,market,need,"{'sy6not', 'sxxjrj', 'sxfeg2', 'sxropr'}",4,2022-02-21
+215,crypto,week,{'sxw1vl'},1,2022-02-21
+216,week,way,{'sy3aza'},1,2022-02-21
+217,want,week,{'sy3aza'},1,2022-02-21
+218,week,news,{'sxw1vl'},1,2022-02-21
+219,week,eth,{'sy3aza'},1,2022-02-21
+221,look,crypto,"{'sxropr', 'sxocox'}",2,2022-02-21
+222,look,https,"{'sxlzr2', 'sxnktr'}",2,2022-02-21
+223,look,amp,"{'sxlzr2', 'sxnktr'}",2,2022-02-21
+224,look,market,"{'sxropr', 'sxnktr'}",2,2022-02-21
+225,market,things,"{'sy6not', 'sxropr', 'sxfeg2', 'sxk5kx'}",4,2022-02-21
+226,crypto,things,"{'sy6not', 'sxropr', 'sxfeg2'}",3,2022-02-21
+227,things,time,"{'sy6not', 'sxropr', 'sxfeg2'}",3,2022-02-21
+228,things,right,"{'sy6not', 'sxropr', 'sxfeg2'}",3,2022-02-21
+229,things,need,"{'sy6not', 'sxropr', 'sxfeg2'}",3,2022-02-21
+230,crypto,hold,"{'sxw3w0', 'sxfeg2', 'sxielf', 'sxfujp'}",4,2022-02-21
+231,hold,time,"{'sxtuyc', 'sxfeg2', 'sxfujp'}",3,2022-02-21
+232,money,hold,"{'sxw3w0', 'sxielf', 'sxfujp'}",3,2022-02-21
+233,example,hold,"{'sxtuyc', 'sxfeg2', 'sxw3w0'}",3,2022-02-21
+234,list,hold,"{'sxtuyc', 'sxielf', 'sxfujp'}",3,2022-02-21
+235,time,projects,"{'sy6not', 'sxropr', 'sxtuyc'}",3,2022-02-21
+236,market,projects,"{'sy6not', 'sxropr', 'sxtuyc'}",3,2022-02-21
+238,right,projects,"{'sy6not', 'sxropr', 'sxvdwe'}",3,2022-02-21
+239,tokens,projects,"{'sy6not', 'sxropr', 'sxtuyc'}",3,2022-02-21
+240,crypto,prices,"{'sy6not', 'sxguha'}",2,2022-02-21
+241,prices,time,"{'sy6not', 'sxguha'}",2,2022-02-21
+242,prices,bitcoin,"{'sy6not', 'sxguha'}",2,2022-02-21
+243,prices,don,"{'sy6not', 'sxguha'}",2,2022-02-21
+244,people,prices,"{'sy6not', 'sxguha'}",2,2022-02-21
+245,amp,start,"{'sy6not', 'sxnktr'}",2,2022-02-21
+246,start,reddit,"{'sy6not', 'sxnktr'}",2,2022-02-21
+247,start,bitcoin,"{'sy6not', 'sxnktr'}",2,2022-02-21
+248,market,start,"{'sy6not', 'sxnktr'}",2,2022-02-21
+249,start,price,"{'sy6not', 'sxnktr'}",2,2022-02-21

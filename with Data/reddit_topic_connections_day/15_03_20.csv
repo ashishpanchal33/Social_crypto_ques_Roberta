@@ -1,0 +1,215 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'fiwpt3', 'fj4713', 'fj7z1t'}",3,2020-03-15
+1,crypto,help,"{'fj9t9y', 'fj6qnq', 'fiv55t'}",3,2020-03-15
+2,crypto,crash,"{'fivb3z', 'fj4713', 'fj0kc5'}",3,2020-03-15
+3,crypto,time,"{'fivb3z', 'fj039p'}",2,2020-03-15
+4,crypto,price,"{'fiv55t', 'fj4713'}",2,2020-03-15
+5,https,cryptocurrency,"{'fisf02', 'fiscja'}",2,2020-03-15
+6,com,cryptocurrency,"{'fisf02', 'fiscja'}",2,2020-03-15
+7,amp,cryptocurrency,"{'fixrvk', 'fiscja'}",2,2020-03-15
+8,market,cryptocurrency,"{'fiwo3u', 'fiwo6g'}",2,2020-03-15
+9,cryptocurrency nan,cryptocurrency,"{'fiutyq', 'fizs9n'}",2,2020-03-15
+10,bitcoin,price,"{'fivig6', 'fj8r1j', 'fiur73', 'fj8pc8', 'fj4713'}",5,2020-03-15
+11,bitcoin,crash,"{'fj8pc8', 'fj8r1j', 'fitzo3', 'fj4713'}",4,2020-03-15
+13,amp,bitcoin,"{'fixrvk', 'fixhj6', 'fixhwi'}",3,2020-03-15
+14,news,bitcoin,"{'fixrvk', 'fj8pc8', 'fj8r1j'}",3,2020-03-15
+15,com,https,"{'fj0z46', 'fiyfem', 'fiscja', 'fisf02', 'fixl7u'}",5,2020-03-15
+16,https,www,"{'fixt06', 'fj07we', 'fiscja'}",3,2020-03-15
+17,https,https www,"{'fixt06', 'fj07we', 'fiscja'}",3,2020-03-15
+18,https,comments,"{'fj0z46', 'fiscja', 'fiyfem'}",3,2020-03-15
+19,https,link,"{'fixt06', 'fisf02', 'fiyfem'}",3,2020-03-15
+21,com,comments,"{'fj0z46', 'fiscja', 'fiyfem'}",3,2020-03-15
+23,com,amp,"{'fj0z46', 'fiscja'}",2,2020-03-15
+24,com,click,"{'fj0z46', 'fiscja'}",2,2020-03-15
+27,https,amp,"{'fj0z46', 'fiscja'}",2,2020-03-15
+29,amp,comments,"{'fj0z46', 'fiscja'}",2,2020-03-15
+30,stock,market,"{'fiv55t', 'fitzo3', 'fjafdv'}",3,2020-03-15
+32,market,bitcoin,"{'fitzo3', 'fjafdv'}",2,2020-03-15
+33,market,stock market,"{'fitzo3', 'fjafdv'}",2,2020-03-15
+34,reason,market,"{'fitzo3', 'fisrjz'}",2,2020-03-15
+36,www,https www,"{'fixt06', 'fj07we', 'fiscja'}",3,2020-03-15
+37,profit,www,"{'fj07we', 'fiscja'}",2,2020-03-15
+38,cryptocurrency,www,{'fiscja'},1,2020-03-15
+39,com,www,{'fiscja'},1,2020-03-15
+42,profit,https www,"{'fj07we', 'fiscja'}",2,2020-03-15
+43,cryptocurrency,https www,{'fiscja'},1,2020-03-15
+44,com,https www,{'fiscja'},1,2020-03-15
+45,btc,crash,"{'fivb3z', 'fixtsp'}",2,2020-03-15
+46,plustoken,btc,"{'fixtsp', 'fj1l8m'}",2,2020-03-15
+47,crypto,btc,{'fivb3z'},1,2020-03-15
+48,btc,bitcoin,{'fisuuw'},1,2020-03-15
+49,https,btc,{'fizbdg'},1,2020-03-15
+50,profit,trade,"{'fiz1zw', 'fiscja'}",2,2020-03-15
+51,trade,platform,"{'fizmxy', 'fivzfk'}",2,2020-03-15
+52,trade,cryptocurrency,{'fiscja'},1,2020-03-15
+53,trade,https,{'fiscja'},1,2020-03-15
+54,com,trade,{'fiscja'},1,2020-03-15
+55,money,people,"{'fitzo3', 'fiyfem'}",2,2020-03-15
+56,people,time,"{'fitzo3', 'fiyfem'}",2,2020-03-15
+57,people,dump,"{'fitzo3', 'fiyfem'}",2,2020-03-15
+58,people,bitcoin,{'fitzo3'},1,2020-03-15
+59,https,people,{'fiyfem'},1,2020-03-15
+60,profit,https,"{'fj07we', 'fiscja'}",2,2020-03-15
+63,trade,profit,"{'fiz1zw', 'fiscja'}",2,2020-03-15
+64,profit,money,"{'fj039p', 'fiz1zw'}",2,2020-03-15
+68,comments,click,"{'fj0z46', 'fiscja'}",2,2020-03-15
+69,comments,rest,"{'fj0z46', 'fiscja'}",2,2020-03-15
+70,https,click,"{'fj0z46', 'fiscja'}",2,2020-03-15
+72,amp,click,"{'fj0z46', 'fiscja'}",2,2020-03-15
+74,click,rest,"{'fj0z46', 'fiscja'}",2,2020-03-15
+75,https,blockchain,"{'fivpj5', 'fizbdg'}",2,2020-03-15
+76,blockchain,help,"{'fivpj5', 'fj6qnq'}",2,2020-03-15
+77,blockchain,platform,"{'fivpj5', 'fivzfk'}",2,2020-03-15
+78,blockchain,industry,"{'fj6qnq', 'fjb7bi'}",2,2020-03-15
+79,crypto,blockchain,{'fj6qnq'},1,2020-03-15
+80,https,rest,"{'fj0z46', 'fiscja'}",2,2020-03-15
+81,com,rest,"{'fj0z46', 'fiscja'}",2,2020-03-15
+82,amp,rest,"{'fj0z46', 'fiscja'}",2,2020-03-15
+85,money,time,"{'fitzo3', 'fj039p', 'fiz1zw', 'fiyfem'}",4,2020-03-15
+86,https,money,"{'fixt06', 'fiyfem'}",2,2020-03-15
+89,money,way,"{'fiz1zw', 'fj0ouv'}",2,2020-03-15
+90,check,cryptocurrency,{'fiscja'},1,2020-03-15
+91,https,check,{'fiscja'},1,2020-03-15
+92,com,check,{'fiscja'},1,2020-03-15
+93,amp,check,{'fiscja'},1,2020-03-15
+94,check,www,{'fiscja'},1,2020-03-15
+95,https,use,"{'fivpj5', 'fisf02'}",2,2020-03-15
+96,use,cryptocurrency,{'fisf02'},1,2020-03-15
+97,use,bitcoin,{'fitzo3'},1,2020-03-15
+98,com,use,{'fisf02'},1,2020-03-15
+99,market,use,{'fitzo3'},1,2020-03-15
+100,https,reddit,"{'fiscja', 'fiyfem'}",2,2020-03-15
+101,com,reddit,"{'fiscja', 'fiyfem'}",2,2020-03-15
+102,comments,reddit,"{'fiscja', 'fiyfem'}",2,2020-03-15
+103,dump,reddit,"{'fiscja', 'fiyfem'}",2,2020-03-15
+104,reddit,thread,"{'fiscja', 'fiyfem'}",2,2020-03-15
+106,platform,way,"{'fivpj5', 'fj0ouv'}",2,2020-03-15
+107,dai,way,"{'fiz1zw', 'fj0ouv'}",2,2020-03-15
+108,https,way,{'fivpj5'},1,2020-03-15
+109,trade,way,{'fiz1zw'},1,2020-03-15
+112,time,bitcoin,"{'fitzo3', 'fivig6'}",2,2020-03-15
+114,profit,time,"{'fj039p', 'fiz1zw'}",2,2020-03-15
+115,bitcoin,think,"{'fixhj6', 'fixhwi'}",2,2020-03-15
+116,amp,think,"{'fixhj6', 'fixhwi'}",2,2020-03-15
+117,things,think,"{'fixhj6', 'fixhwi'}",2,2020-03-15
+118,learn,think,"{'fixhj6', 'fixhwi'}",2,2020-03-15
+119,ambiguity,think,"{'fixhj6', 'fixhwi'}",2,2020-03-15
+120,blockchain,project,{'fiy4im'},1,2020-03-15
+121,coin,project,{'fixsch'},1,2020-03-15
+122,avoid,project,{'fiy4im'},1,2020-03-15
+123,light,project,{'fiy4im'},1,2020-03-15
+124,dump,bitcoin,"{'fitzo3', 'fj7z1t'}",2,2020-03-15
+125,https,dump,"{'fiyfem', 'fiscja'}",2,2020-03-15
+126,com,dump,"{'fiyfem', 'fiscja'}",2,2020-03-15
+128,dump,comments,"{'fiscja', 'fiyfem'}",2,2020-03-15
+129,don,time,"{'fivb3z', 'fj83iq'}",2,2020-03-15
+130,ask,don,"{'fivb3z', 'fj83iq'}",2,2020-03-15
+131,crypto,don,{'fivb3z'},1,2020-03-15
+132,btc,don,{'fivb3z'},1,2020-03-15
+133,want,don,{'fivb3z'},1,2020-03-15
+134,coin,day,"{'fj0z46', 'fiz1zw'}",2,2020-03-15
+135,cryptocurrency,day,{'fiutyq'},1,2020-03-15
+136,https,day,{'fj0z46'},1,2020-03-15
+137,com,day,{'fj0z46'},1,2020-03-15
+138,amp,day,{'fj0z46'},1,2020-03-15
+139,crypto,value,{'fiv55t'},1,2020-03-15
+140,market,value,{'fiv55t'},1,2020-03-15
+141,btc,value,{'fj1l8m'},1,2020-03-15
+142,value,help,{'fiv55t'},1,2020-03-15
+143,price,value,{'fiv55t'},1,2020-03-15
+144,https,march,"{'fj0z46', 'fiscja'}",2,2020-03-15
+145,com,march,"{'fj0z46', 'fiscja'}",2,2020-03-15
+146,amp,march,"{'fj0z46', 'fiscja'}",2,2020-03-15
+147,comments,march,"{'fj0z46', 'fiscja'}",2,2020-03-15
+148,click,march,"{'fj0z46', 'fiscja'}",2,2020-03-15
+150,https,help,"{'fivpj5', 'fiyfem'}",2,2020-03-15
+152,word,help,"{'fivpj5', 'fj49ai'}",2,2020-03-15
+153,com,help,{'fiyfem'},1,2020-03-15
+154,digital,currency,"{'fj7u9m', 'fisf02'}",2,2020-03-15
+155,cryptocurrency,currency,{'fisf02'},1,2020-03-15
+156,https,currency,{'fisf02'},1,2020-03-15
+157,com,currency,{'fisf02'},1,2020-03-15
+158,use,currency,{'fisf02'},1,2020-03-15
+159,trading,ve,"{'fixl7u', 'fiz1zw'}",2,2020-03-15
+160,trading,bitcoin,{'fixhku'},1,2020-03-15
+161,trading,https,{'fixl7u'},1,2020-03-15
+162,com,trading,{'fixl7u'},1,2020-03-15
+163,trade,trading,{'fiz1zw'},1,2020-03-15
+164,trade,wallet,{'fizmxy'},1,2020-03-15
+165,wallet,help,{'fj49ai'},1,2020-03-15
+166,wallet,platform,{'fizmxy'},1,2020-03-15
+167,wallet,question,{'fizmxy'},1,2020-03-15
+168,hi,wallet,{'fj49ai'},1,2020-03-15
+170,coin,sell,"{'fiz1zw', 'fj2z6f'}",2,2020-03-15
+171,coin,https,{'fj0z46'},1,2020-03-15
+172,com,coin,{'fj0z46'},1,2020-03-15
+173,coin,amp,{'fj0z46'},1,2020-03-15
+174,https,thread,"{'fiscja', 'fiyfem'}",2,2020-03-15
+175,com,thread,"{'fiscja', 'fiyfem'}",2,2020-03-15
+176,comments,thread,"{'fiscja', 'fiyfem'}",2,2020-03-15
+177,thread,reddit,"{'fiscja', 'fiyfem'}",2,2020-03-15
+178,dump,thread,"{'fiscja', 'fiyfem'}",2,2020-03-15
+179,things,bitcoin,"{'fixhwi', 'fixhj6'}",2,2020-03-15
+180,things,amp,"{'fixhwi', 'fixhj6'}",2,2020-03-15
+182,learn,things,"{'fixhwi', 'fixhj6'}",2,2020-03-15
+183,ambiguity,things,"{'fixhj6', 'fixhwi'}",2,2020-03-15
+185,news,price,"{'fj8pc8', 'fj8r1j'}",2,2020-03-15
+186,news,crash,"{'fj8pc8', 'fj8r1j'}",2,2020-03-15
+187,bitcoin price,news,"{'fj8pc8', 'fj8r1j'}",2,2020-03-15
+188,crash nan,news,"{'fj8pc8', 'fj8r1j'}",2,2020-03-15
+189,exchange,leverage,"{'fj07we', 'fitzo3'}",2,2020-03-15
+190,exchange,bitcoin,{'fitzo3'},1,2020-03-15
+191,exchange,https,{'fj07we'},1,2020-03-15
+192,market,exchange,{'fitzo3'},1,2020-03-15
+193,exchange,www,{'fj07we'},1,2020-03-15
+195,crash,price,"{'fj8pc8', 'fj8r1j', 'fj4713'}",3,2020-03-15
+196,bitcoin price,price,"{'fj8pc8', 'fj8r1j', 'fj4713'}",3,2020-03-15
+199,start,bitcoin,{'fitzo3'},1,2020-03-15
+200,market,start,{'fitzo3'},1,2020-03-15
+201,people,start,{'fitzo3'},1,2020-03-15
+202,money,start,{'fitzo3'},1,2020-03-15
+203,use,start,{'fitzo3'},1,2020-03-15
+204,days,https,{'fixl7u'},1,2020-03-15
+205,com,days,{'fixl7u'},1,2020-03-15
+206,trading,days,{'fixl7u'},1,2020-03-15
+207,days,price,{'fixl7u'},1,2020-03-15
+208,post,days,{'fixdub'},1,2020-03-15
+209,post,https,{'fj0z46'},1,2020-03-15
+210,com,post,{'fj0z46'},1,2020-03-15
+211,post,amp,{'fj0z46'},1,2020-03-15
+212,post,comments,{'fj0z46'},1,2020-03-15
+213,post,click,{'fj0z46'},1,2020-03-15
+214,reddit com,https,"{'fiscja', 'fiyfem'}",2,2020-03-15
+215,com,reddit com,"{'fiscja', 'fiyfem'}",2,2020-03-15
+216,reddit com,comments,"{'fiscja', 'fiyfem'}",2,2020-03-15
+217,reddit com,reddit,"{'fiscja', 'fiyfem'}",2,2020-03-15
+218,reddit com,dump,"{'fiscja', 'fiyfem'}",2,2020-03-15
+219,want,crypto,"{'fivb3z', 'fj6qnq'}",2,2020-03-15
+220,want,right,"{'fj6qnq', 'fiydrz'}",2,2020-03-15
+221,ask,want,"{'fivb3z', 'fj6qnq'}",2,2020-03-15
+222,want,https,{'fj0z46'},1,2020-03-15
+223,com,want,{'fj0z46'},1,2020-03-15
+224,coins,crypto,"{'fivb3z', 'fj039p'}",2,2020-03-15
+225,coins,time,"{'fivb3z', 'fj039p'}",2,2020-03-15
+226,coins,btc,{'fivb3z'},1,2020-03-15
+227,profit,coins,{'fj039p'},1,2020-03-15
+228,coins,money,{'fj039p'},1,2020-03-15
+229,coronavirus,markets,{'fj6mpw'},1,2020-03-15
+230,fed,markets,{'fj8mjf'},1,2020-03-15
+231,markets,zero,{'fj8mjf'},1,2020-03-15
+232,launches,markets,{'fj8mjf'},1,2020-03-15
+233,markets,cuts,{'fj8mjf'},1,2020-03-15
+234,profit,ve,"{'fj039p', 'fiz1zw'}",2,2020-03-15
+235,money,ve,"{'fj039p', 'fiz1zw'}",2,2020-03-15
+236,ve,time,"{'fj039p', 'fiz1zw'}",2,2020-03-15
+238,crypto,ve,{'fj039p'},1,2020-03-15
+239,crypto,eth,{'fivb3z'},1,2020-03-15
+240,btc,eth,{'fivb3z'},1,2020-03-15
+241,check,eth,{'fj0pw6'},1,2020-03-15
+242,eth,time,{'fivb3z'},1,2020-03-15
+243,eth,don,{'fivb3z'},1,2020-03-15
+244,crypto,data,"{'fj6qnq', 'fj7z1t'}",2,2020-03-15
+245,users,data,"{'fivp13', 'fj6qnq'}",2,2020-03-15
+246,user,data,"{'fivp13', 'fj6qnq'}",2,2020-03-15
+247,dataset,data,"{'fivp13', 'fj6qnq'}",2,2020-03-15
+248,data,bitcoin,{'fj7z1t'},1,2020-03-15

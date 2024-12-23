@@ -1,0 +1,213 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'hmcwtw', 'hmd49l', 'hm8lsw', 'hm9a0k', 'hmfb9m'}",5,2020-07-06
+1,cryptocurrency,bitcoin,"{'hmfb9m', 'hmd49l', 'hm8lsw'}",3,2020-07-06
+2,amp,bitcoin,"{'hm3a2y', 'hmd49l', 'hm8lsw'}",3,2020-07-06
+3,account,bitcoin,"{'hmgnpd', 'hmd49l', 'hm8lsw'}",3,2020-07-06
+4,digital,bitcoin,"{'hm9a0k', 'hmcwtw', 'hmd49l'}",3,2020-07-06
+6,crypto,cryptocurrency,"{'hmd49l', 'hmd0hy', 'hmd0nu', 'hm8lsw', 'hmfb9m'}",5,2020-07-06
+7,com,crypto,"{'hm0x97', 'hm2ijz', 'hm6ua0', 'hm8lsw', 'hlzcgx'}",5,2020-07-06
+8,crypto,https,"{'hmd0hy', 'hm6ua0', 'hm8lsw', 'hmd0nu'}",4,2020-07-06
+9,crypto,news,"{'hm9a0k', 'hmfb9m', 'hmd0hy', 'hmd0nu'}",4,2020-07-06
+11,https,cryptocurrency,"{'hmd0hy', 'hmbm37', 'hm8lsw', 'hmd0nu'}",4,2020-07-06
+12,news,cryptocurrency,"{'hmfb9m', 'hmbm37', 'hmd0hy', 'hmd0nu'}",4,2020-07-06
+14,blockchain,cryptocurrency,"{'hm8lsw', 'hmd0hy', 'hmd0nu'}",3,2020-07-06
+16,crypto,amp,"{'hm6ua0', 'hmd49l', 'hm8lsw'}",3,2020-07-06
+17,https,amp,"{'hm3wsa', 'hm6ua0', 'hm8lsw'}",3,2020-07-06
+18,com,amp,"{'hm3wsa', 'hm6ua0', 'hm8lsw'}",3,2020-07-06
+19,amp,day,"{'hm3wsa', 'hmd49l', 'hm8lsw'}",3,2020-07-06
+20,com,https,"{'hmbm37', 'hm6ua0', 'hm8lsw', 'hm3wsa', 'hm5ae0'}",5,2020-07-06
+23,https,www,"{'hm3wsa', 'hm5ae0', 'hmbm37', 'hm8lsw'}",4,2020-07-06
+24,https,https www,"{'hm3wsa', 'hm5ae0', 'hmbm37', 'hm8lsw'}",4,2020-07-06
+27,com,www,"{'hm3wsa', 'hm5ae0', 'hmbm37', 'hm8lsw'}",4,2020-07-06
+28,com,https www,"{'hm3wsa', 'hm5ae0', 'hmbm37', 'hm8lsw'}",4,2020-07-06
+30,crypto,btc,"{'hm3svm', 'hmcwtw', 'hm8lsw'}",3,2020-07-06
+31,btc,bitcoin,"{'hmcwtw', 'hm8lsw'}",2,2020-07-06
+32,btc,don,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+33,btc,way,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+34,wallet,btc,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+35,https,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+36,com,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+37,www,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+38,reddit,https www,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+39,reddit com,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+42,www,https www,"{'hm3wsa', 'hm5ae0', 'hmbm37', 'hm8lsw'}",4,2020-07-06
+44,reddit com,www,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+45,coins,crypto,"{'hm2ijz', 'hmgurq'}",2,2020-07-06
+46,com,coins,"{'hm2ijz', 'hm3wsa'}",2,2020-07-06
+47,coins,cryptocurrency,{'hm2q9u'},1,2020-07-06
+48,coins,amp,{'hm3wsa'},1,2020-07-06
+49,coins,https,{'hm3wsa'},1,2020-07-06
+53,https www,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+54,reddit com,https www,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+55,ethereum,price,{'hm6unb'},1,2020-07-06
+56,ethereum,eth,{'hm6unb'},1,2020-07-06
+57,ethereum,defi,{'hmdxkn'},1,2020-07-06
+58,ethereum,usd,{'hm6unb'},1,2020-07-06
+59,ethereum,key,{'hm6unb'},1,2020-07-06
+60,comments,cryptocurrency,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+61,https,comments,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+62,com,comments,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+63,comments,reddit,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+64,comments,www,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+65,crypto,blockchain,"{'hm8lsw', 'hmd0hy', 'hmd0nu'}",3,2020-07-06
+67,https,blockchain,"{'hmd0hy', 'hm8lsw', 'hmd0nu'}",3,2020-07-06
+68,technology,blockchain,"{'hm2qm5', 'hmd0hy', 'hmd0nu'}",3,2020-07-06
+69,counterfeit,blockchain,"{'hm6prm', 'hm5227', 'hm5km6'}",3,2020-07-06
+70,project,time,"{'hm0gpw', 'hmd49l'}",2,2020-07-06
+71,time,bitcoin,{'hmd49l'},1,2020-07-06
+72,crypto,time,{'hmd49l'},1,2020-07-06
+73,cryptocurrency,time,{'hmd49l'},1,2020-07-06
+74,amp,time,{'hmd49l'},1,2020-07-06
+75,want,paypal,"{'hm2e6o', 'hmd49l'}",2,2020-07-06
+76,paypal,currency,"{'hm2e6o', 'hmd49l'}",2,2020-07-06
+77,paypal,bitcoin,{'hmd49l'},1,2020-07-06
+78,crypto,paypal,{'hmd49l'},1,2020-07-06
+79,paypal,cryptocurrency,{'hmd49l'},1,2020-07-06
+80,reddit com,https,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+81,com,reddit com,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+85,bitcoin,karma,{'hm8lsw'},1,2020-07-06
+86,crypto,karma,{'hm8lsw'},1,2020-07-06
+87,cryptocurrency,karma,{'hm8lsw'},1,2020-07-06
+88,amp,karma,{'hm8lsw'},1,2020-07-06
+89,https,karma,{'hm8lsw'},1,2020-07-06
+90,https,read,"{'hm5ae0', 'hm8lsw'}",2,2020-07-06
+91,com,read,"{'hm5ae0', 'hm8lsw'}",2,2020-07-06
+92,www,read,"{'hm5ae0', 'hm8lsw'}",2,2020-07-06
+93,read,https www,"{'hm5ae0', 'hm8lsw'}",2,2020-07-06
+94,investor,read,"{'hm5ae0', 'hm8lsw'}",2,2020-07-06
+95,https,www reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+96,com,www reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+97,www reddit,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+98,www reddit,www,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+99,www reddit,https www,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+100,blockchain,people,"{'hm8lsw', 'hm7u1i'}",2,2020-07-06
+101,people,bitcoin,{'hm8lsw'},1,2020-07-06
+102,crypto,people,{'hm8lsw'},1,2020-07-06
+103,people,cryptocurrency,{'hm8lsw'},1,2020-07-06
+104,amp,people,{'hm8lsw'},1,2020-07-06
+105,money,cryptocurrency,"{'hm2q9u', 'hmd49l', 'hm8lsw'}",3,2020-07-06
+106,money,bitcoin,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+107,crypto,money,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+108,money,amp,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+109,money,day,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+110,cryptocurrency,com cryptocurrency,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+111,https,com cryptocurrency,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+112,com,com cryptocurrency,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+113,com cryptocurrency,reddit,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+114,www,com cryptocurrency,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+115,cryptocurrency,day,"{'hm8lsw', 'hmbm37', 'hmd49l'}",3,2020-07-06
+117,https,day,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+118,com,day,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+119,day,reddit,"{'hm3wsa', 'hmbm37', 'hm8lsw'}",3,2020-07-06
+120,com,use,"{'hlxb10', 'hm6ua0'}",2,2020-07-06
+121,crypto,use,{'hm6ua0'},1,2020-07-06
+122,use,cryptocurrency,{'hmcy50'},1,2020-07-06
+123,use,amp,{'hm6ua0'},1,2020-07-06
+124,https,use,{'hm6ua0'},1,2020-07-06
+125,crypto,don,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+126,amp,don,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+127,https,don,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+128,com,don,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+130,lightning network,network,"{'hm2hjq', 'hmghzt'}",2,2020-07-06
+131,network,bitcoin,{'hmghzt'},1,2020-07-06
+132,bitcoin lightning,network,{'hmghzt'},1,2020-07-06
+133,trading,bitcoin,"{'hmfb9m', 'hm8qcf'}",2,2020-07-06
+134,trading,crypto,"{'hm3913', 'hmfb9m'}",2,2020-07-06
+135,trading,cryptocurrency,"{'hmfb9m', 'hmbm37'}",2,2020-07-06
+136,trading,https,"{'hm5ae0', 'hmbm37'}",2,2020-07-06
+137,com,trading,"{'hm5ae0', 'hmbm37'}",2,2020-07-06
+138,market,crypto,"{'hmfb9m', 'hm3svm', 'hmd49l'}",3,2020-07-06
+139,market,cryptocurrency,"{'hly8ya', 'hmfb9m', 'hmd49l'}",3,2020-07-06
+140,market,bitcoin,"{'hmfb9m', 'hmd49l'}",2,2020-07-06
+141,trading,market,"{'hmfb9m', 'hm5ae0'}",2,2020-07-06
+142,market,years,"{'hm3svm', 'hm5ae0'}",2,2020-07-06
+143,crypto,way,"{'hm2ijz', 'hm3svm', 'hm8lsw'}",3,2020-07-06
+144,wallet,way,"{'hm3svm', 'hm2e6o', 'hm8lsw'}",3,2020-07-06
+145,com,way,"{'hm2ijz', 'hm8lsw'}",2,2020-07-06
+147,don,way,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+148,bitcoin,price,"{'hmbw8h', 'hm74bv'}",2,2020-07-06
+149,price,usd,"{'hmbcyf', 'hm6unb'}",2,2020-07-06
+150,bitcoin price,price,"{'hmbw8h', 'hm74bv'}",2,2020-07-06
+151,btc,price,{'hm6dz9'},1,2020-07-06
+154,crypto,wallet,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+156,wallet,don,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+157,wallet,eth,"{'hm3svm', 'hm2e6o'}",2,2020-07-06
+158,volatility,year,"{'hm3svm', 'hm74bv'}",2,2020-07-06
+159,bitcoin,year,{'hm74bv'},1,2020-07-06
+160,crypto,year,{'hm3svm'},1,2020-07-06
+161,btc,year,{'hm3svm'},1,2020-07-06
+162,don,year,{'hm3svm'},1,2020-07-06
+163,token,time,{'hm0gpw'},1,2020-07-06
+164,project,token,{'hm0gpw'},1,2020-07-06
+165,try,token,{'hm0gpw'},1,2020-07-06
+166,days,token,{'hm0gpw'},1,2020-07-06
+167,update,token,{'hm0gpw'},1,2020-07-06
+169,stock,years,"{'hm3svm', 'hm5ae0'}",2,2020-07-06
+170,years,bitcoin,{'hmbw8h'},1,2020-07-06
+171,crypto,years,{'hm3svm'},1,2020-07-06
+172,https,years,{'hm5ae0'},1,2020-07-06
+173,bitcoin,bitcoin nan,"{'hm5vjz', 'hm6rvl'}",2,2020-07-06
+174,talk,bitcoin nan,{'hm5vjz'},1,2020-07-06
+175,eth,way,"{'hm3svm', 'hm2e6o'}",2,2020-07-06
+177,crypto,eth,{'hm3svm'},1,2020-07-06
+178,btc,eth,{'hm3svm'},1,2020-07-06
+180,post,bitcoin,"{'hm9a0k', 'hm8lsw'}",2,2020-07-06
+181,post,crypto,"{'hm9a0k', 'hm8lsw'}",2,2020-07-06
+182,post,cryptocurrency,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+183,post,https,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+184,com,post,"{'hmbm37', 'hm8lsw'}",2,2020-07-06
+185,cryptocurrency,need,{'hm2q9u'},1,2020-07-06
+186,coins,need,{'hm2q9u'},1,2020-07-06
+187,paypal,need,{'hm2e6o'},1,2020-07-06
+188,need,karma,{'hmg1jy'},1,2020-07-06
+189,money,need,{'hm2q9u'},1,2020-07-06
+190,want,bitcoin,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+191,want,crypto,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+192,want,cryptocurrency,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+193,want,amp,"{'hmd49l', 'hm8lsw'}",2,2020-07-06
+195,amp,project,"{'hm3wsa', 'hmd49l'}",2,2020-07-06
+197,project,day,"{'hm3wsa', 'hmd49l'}",2,2020-07-06
+198,project,scam,"{'hm3wsa', 'hmcp6o'}",2,2020-07-06
+199,community,project,"{'hm3wsa', 'hmcp6o'}",2,2020-07-06
+200,exchange,coinbase,"{'hm8lsw', 'hmcy50', 'hm7j6p'}",3,2020-07-06
+201,exchange,crypto,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+202,exchange,cryptocurrency,"{'hmcy50', 'hm8lsw'}",2,2020-07-06
+203,exchange,btc,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+204,exchange,don,"{'hm3svm', 'hm8lsw'}",2,2020-07-06
+205,https,ve,"{'hm3wsa', 'hm5ae0'}",2,2020-07-06
+206,com,ve,"{'hm3wsa', 'hm5ae0'}",2,2020-07-06
+207,ve,www,"{'hm3wsa', 'hm5ae0'}",2,2020-07-06
+208,ve,https www,"{'hm3wsa', 'hm5ae0'}",2,2020-07-06
+209,amp,ve,{'hm3wsa'},1,2020-07-06
+210,blockchain,help,"{'hm5km6', 'hm8lsw'}",2,2020-07-06
+211,bitcoin,help,{'hm8lsw'},1,2020-07-06
+212,crypto,help,{'hm8lsw'},1,2020-07-06
+213,cryptocurrency,help,{'hm8lsw'},1,2020-07-06
+214,amp,help,{'hm8lsw'},1,2020-07-06
+215,amp,scam,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+216,https,scam,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+217,com,scam,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+218,scam,reddit,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+219,scam,www,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+220,platform,way,"{'hm2e6o', 'hm6oln'}",2,2020-07-06
+221,paypal,platform,{'hm2e6o'},1,2020-07-06
+222,trading,platform,{'hm2e6o'},1,2020-07-06
+223,wallet,platform,{'hm2e6o'},1,2020-07-06
+224,platform,eth,{'hm2e6o'},1,2020-07-06
+227,https,news,"{'hmbm37', 'hmd0hy', 'hmd0nu'}",3,2020-07-06
+228,news,crypto news,"{'hm9a0k', 'hmd0hy', 'hmd0nu'}",3,2020-07-06
+229,news,bitcoin,"{'hm9a0k', 'hmfb9m'}",2,2020-07-06
+230,coin,cryptocurrency,"{'hm6y6c', 'hm8lsw'}",2,2020-07-06
+231,coin,amp,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+232,coin,https,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+233,com,coin,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+234,coin,reddit,"{'hm3wsa', 'hm8lsw'}",2,2020-07-06
+235,dollar,bitcoin,{'hm9a0k'},1,2020-07-06
+236,dollar,crypto,{'hm9a0k'},1,2020-07-06
+237,dollar,cryptocurrency,{'hm2q9u'},1,2020-07-06
+238,dollar,coins,{'hm2q9u'},1,2020-07-06
+239,dollar,money,{'hm2q9u'},1,2020-07-06
+240,yield,defi,"{'hlxb10', 'hm9jrj'}",2,2020-07-06
+241,com,defi,{'hlxb10'},1,2020-07-06
+243,use,defi,{'hlxb10'},1,2020-07-06
+244,defi,way,{'hm6oln'},1,2020-07-06

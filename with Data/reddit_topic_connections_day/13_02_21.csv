@@ -1,0 +1,214 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,https,"{'liutp0', 'liynxa', 'lja4t6', 'lj4mbh'}",4,2021-02-13
+1,com,https,"{'liutp0', 'lja4t6', 'lj4mbh'}",3,2021-02-13
+2,market,https,"{'liutp0', 'liynxa'}",2,2021-02-13
+3,https,lot,"{'liynxa', 'lj4mbh'}",2,2021-02-13
+4,https,start,"{'liy21l', 'lj4mbh'}",2,2021-02-13
+5,crypto,cryptocurrency,"{'liutp0', 'lixv36', 'livgf6'}",3,2021-02-13
+6,market,cryptocurrency,"{'liutp0', 'lixv36', 'livgf6'}",3,2021-02-13
+7,cryptocurrency,time,"{'lixv36', 'livgf6'}",2,2021-02-13
+8,cryptocurrency,bitcoin,"{'liutp0', 'lixv36'}",2,2021-02-13
+9,ve,cryptocurrency,"{'lixv36', 'livgf6'}",2,2021-02-13
+10,crypto,amp,"{'lja4t6', 'lj6lht'}",2,2021-02-13
+11,non,amp,"{'lj8vnn', 'lj6lht'}",2,2021-02-13
+12,amp,bitcoin,"{'litum1', 'lj6lht'}",2,2021-02-13
+13,amp,way,"{'litum1', 'lj6lht'}",2,2021-02-13
+14,dip,amp,"{'litum1', 'lj6lht'}",2,2021-02-13
+15,market,crypto,"{'liutp0', 'liynxa', 'lipqiv', 'lixv36', 'liy780', 'livgf6', 'lj6lht'}",7,2021-02-13
+16,crypto,time,"{'lj20fu', 'lixv36', 'livgf6', 'lj6ifl', 'lj6lht', 'lj2smi'}",6,2021-02-13
+17,crypto,don,"{'lj2gls', 'lixv36', 'ljaaxc', 'livgf6', 'lj6lht', 'lj2smi'}",6,2021-02-13
+18,com,crypto,"{'liutp0', 'lj6nxt', 'liu0v5', 'lja4t6', 'lj4mbh'}",5,2021-02-13
+19,crypto,bitcoin,"{'liutp0', 'lir760', 'lixv36', 'lisexc', 'lj6lht'}",5,2021-02-13
+22,com,use,"{'liu0v5', 'lj4mbh'}",2,2021-02-13
+23,com,cash,"{'liutp0', 'liu0v5'}",2,2021-02-13
+24,com,coin,"{'liu0v5', 'lj4mbh'}",2,2021-02-13
+25,crypto,use,"{'lipauj', 'lj2gls', 'liu0v5', 'lj4mbh'}",4,2021-02-13
+26,coin,use,"{'lipauj', 'liu0v5', 'lj4mbh'}",3,2021-02-13
+28,use,price,"{'lipauj', 'lj4mbh'}",2,2021-02-13
+29,use,lot,"{'lj2gls', 'lj4mbh'}",2,2021-02-13
+30,crypto,wallet,"{'lj20fu', 'liu0v5', 'lj2smi'}",3,2021-02-13
+31,binance,wallet,"{'liu0v5', 'lj9jyp', 'liy21l'}",3,2021-02-13
+32,wallet,time,"{'lj20fu', 'lj2smi'}",2,2021-02-13
+33,wallet,ve,"{'lj20fu', 'liy21l'}",2,2021-02-13
+34,wallet,start,"{'liy21l', 'lj2smi'}",2,2021-02-13
+35,crypto,people,"{'lisexc', 'lixv36'}",2,2021-02-13
+36,people,bitcoin,"{'lisexc', 'lixv36'}",2,2021-02-13
+37,people,moon,"{'lisexc', 'lixv36'}",2,2021-02-13
+38,people,lot,"{'lisexc', 'lixv36'}",2,2021-02-13
+39,hold,people,"{'lisexc', 'lixv36'}",2,2021-02-13
+40,https,check,{'lja4t6'},1,2021-02-13
+41,amp,check,{'lja4t6'},1,2021-02-13
+42,crypto,check,{'lja4t6'},1,2021-02-13
+43,com,check,{'lja4t6'},1,2021-02-13
+44,check,time,{'lj1y1s'},1,2021-02-13
+45,profit,buying,"{'litum1', 'lj2smi'}",2,2021-02-13
+46,profit,btc,"{'litum1', 'lj2smi'}",2,2021-02-13
+47,dip,profit,"{'litum1', 'lj2smi'}",2,2021-02-13
+48,profit,amp,{'litum1'},1,2021-02-13
+49,profit,crypto,{'lj2smi'},1,2021-02-13
+51,ve,time,"{'lj20fu', 'lj6lht', 'lixv36', 'livgf6'}",4,2021-02-13
+52,time,don,"{'lj6lht', 'lixv36', 'livgf6', 'lj2smi'}",4,2021-02-13
+53,market,time,"{'lixzm1', 'lj6lht', 'lixv36', 'livgf6'}",4,2021-02-13
+54,time,price,"{'lixv36', 'lj6lht', 'livgf6', 'lj1y1s'}",4,2021-02-13
+55,crypto,doge,"{'lj4mbh', 'lj6ifl'}",2,2021-02-13
+56,doge,eth,"{'lj4fkk', 'lj6ifl'}",2,2021-02-13
+57,coin,doge,"{'lj4mbh', 'lj6ifl'}",2,2021-02-13
+58,doge,future,"{'lj4mbh', 'lj6ifl'}",2,2021-02-13
+59,https,doge,{'lj4mbh'},1,2021-02-13
+60,crypto,buying,"{'lixv36', 'lj2smi', 'lj4mbh'}",3,2021-02-13
+61,dip,buying,"{'litum1', 'lixv36', 'lj2smi'}",3,2021-02-13
+63,buying,time,"{'lixv36', 'lj2smi'}",2,2021-02-13
+64,buying,bitcoin,"{'litum1', 'lixv36'}",2,2021-02-13
+66,non,crypto,"{'lj6lht', 'lipqiv'}",2,2021-02-13
+67,non,market,"{'lj6lht', 'lipqiv'}",2,2021-02-13
+68,non,time,{'lj6lht'},1,2021-02-13
+69,non,bitcoin,{'lj6lht'},1,2021-02-13
+71,market,bitcoin,"{'liutp0', 'lixv36', 'lj6lht', 'lizq7i'}",4,2021-02-13
+72,hold,bitcoin,"{'lj3b27', 'lisexc', 'lixv36', 'lj6lht'}",4,2021-02-13
+73,morgan,bitcoin,"{'lir760', 'lj2zoo', 'lj2z2k', 'lj5a2n'}",4,2021-02-13
+74,bitcoin,way,"{'litum1', 'lixv36', 'lj6lht'}",3,2021-02-13
+75,crypto,fall,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+76,fall,time,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+77,fall,way,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+78,years,fall,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+79,fall,think,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+80,crypto,ve,"{'lj20fu', 'lj6lht', 'lixv36', 'livgf6'}",4,2021-02-13
+82,ve,don,"{'lj6lht', 'lixv36', 'livgf6'}",3,2021-02-13
+83,market,ve,"{'lj6lht', 'lixv36', 'livgf6'}",3,2021-02-13
+84,ve,day,"{'liy21l', 'lixv36', 'livgf6'}",3,2021-02-13
+85,hit,amp,{'litum1'},1,2021-02-13
+86,profit,hit,{'litum1'},1,2021-02-13
+87,hit,buying,{'litum1'},1,2021-02-13
+88,hit,bitcoin,{'litum1'},1,2021-02-13
+89,hit,way,{'litum1'},1,2021-02-13
+90,money,fees,"{'lj1uha', 'lj2gls'}",2,2021-02-13
+91,money,sell,"{'lj2gls', 'liw8km'}",2,2021-02-13
+92,holdings,money,"{'lj1y1s', 'liw8km'}",2,2021-02-13
+93,money,coinbase,"{'lj2gls', 'lj1y1s'}",2,2021-02-13
+94,money,app,"{'lj1uha', 'lj2gls'}",2,2021-02-13
+96,don,time,"{'lj6lht', 'lixv36', 'livgf6', 'lj2smi'}",4,2021-02-13
+98,market,don,"{'lj6lht', 'lixv36', 'livgf6'}",3,2021-02-13
+99,don,price,"{'lixv36', 'lj6lht', 'livgf6'}",3,2021-02-13
+100,crypto,way,"{'lixv36', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+101,time,way,"{'lixv36', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+103,couple,way,"{'lixv36', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+104,dip,way,"{'litum1', 'lixv36', 'lj6lht'}",3,2021-02-13
+105,eth,time,"{'lj1y1s', 'lj2smi', 'lj6ifl'}",3,2021-02-13
+106,crypto,eth,"{'lj2smi', 'lj6ifl'}",2,2021-02-13
+108,btc,eth,"{'lj2smi', 'lj6ifl'}",2,2021-02-13
+109,feel,eth,"{'lj1y1s', 'lj2smi'}",2,2021-02-13
+110,crypto,cash,"{'liutp0', 'liu0v5'}",2,2021-02-13
+112,https,cash,{'liutp0'},1,2021-02-13
+113,cash,cryptocurrency,{'liutp0'},1,2021-02-13
+114,use,cash,{'liu0v5'},1,2021-02-13
+118,market,bull,"{'liynxa', 'lj6lht', 'lixv36', 'livgf6'}",4,2021-02-13
+120,ll,bitcoin,{'litwcy'},1,2021-02-13
+121,right,ll,{'litwcy'},1,2021-02-13
+122,ll,enjoy,{'ljbggz'},1,2021-02-13
+123,ll,future,{'ljbggz'},1,2021-02-13
+124,ll,think,{'litwcy'},1,2021-02-13
+126,cryptocurrency,day,"{'lixv36', 'livgf6'}",2,2021-02-13
+127,crypto,day,"{'lixv36', 'livgf6'}",2,2021-02-13
+128,day,time,"{'lixv36', 'livgf6'}",2,2021-02-13
+129,day,don,"{'lixv36', 'livgf6'}",2,2021-02-13
+130,hold,moon,"{'lip0g3', 'lisexc', 'lixv36'}",3,2021-02-13
+131,crypto,moon,"{'lisexc', 'lixv36'}",2,2021-02-13
+133,moon,bitcoin,"{'lisexc', 'lixv36'}",2,2021-02-13
+134,want,moon,"{'lip0g3', 'lisexc'}",2,2021-02-13
+135,crypto,years,"{'lj6nxt', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+136,years,time,"{'lioiti', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+138,years,way,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+139,years,btc,"{'lip0g3', 'lj6ifl'}",2,2021-02-13
+140,crypto,price,"{'lixv36', 'lipauj', 'livgf6', 'lj6lht', 'lj4mbh'}",5,2021-02-13
+142,ve,price,"{'lj6lht', 'lixv36', 'livgf6'}",3,2021-02-13
+144,market,price,"{'lixv36', 'lj6lht', 'livgf6'}",3,2021-02-13
+145,btc,time,"{'lixzm1', 'lj2smi', 'lj6ifl'}",3,2021-02-13
+146,btc,ada,"{'lip0g3', 'lj2smi', 'lj6ifl'}",3,2021-02-13
+147,btc,iota,"{'lip0g3', 'lj2smi', 'lj6ifl'}",3,2021-02-13
+148,crypto,btc,"{'lj2smi', 'lj6ifl'}",2,2021-02-13
+150,crypto,didn,"{'lj2gls', 'livgf6'}",2,2021-02-13
+151,didn,don,"{'lj2gls', 'livgf6'}",2,2021-02-13
+152,want,didn,"{'lj2gls', 'livgf6'}",2,2021-02-13
+153,bought,didn,"{'lj2gls', 'livgf6'}",2,2021-02-13
+154,wish,didn,"{'lj2gls', 'livgf6'}",2,2021-02-13
+155,want,crypto,"{'lj2gls', 'lisexc', 'livgf6', 'ljaaxc'}",4,2021-02-13
+156,want,don,"{'lj2gls', 'livgf6', 'ljaaxc'}",3,2021-02-13
+157,want,portfolio,"{'lip0g3', 'livgf6', 'ljaaxc'}",3,2021-02-13
+160,right,think,"{'litwcy', 'lj6ifl'}",2,2021-02-13
+161,right,ltc,"{'lj6wm9', 'lj6ifl'}",2,2021-02-13
+162,right,folks,"{'litwcy', 'lj6ifl'}",2,2021-02-13
+163,crypto,right,{'lj6ifl'},1,2021-02-13
+164,right,time,{'lj6ifl'},1,2021-02-13
+165,coins,crypto,"{'liutp0', 'lj2gls', 'lixv36', 'lj6ifl'}",4,2021-02-13
+166,coins,prices,"{'liutp0', 'lixv36', 'lj6ifl'}",3,2021-02-13
+167,coins,cryptocurrency,"{'liutp0', 'lixv36'}",2,2021-02-13
+168,coins,time,"{'lixv36', 'lj6ifl'}",2,2021-02-13
+169,coins,bitcoin,"{'liutp0', 'lixv36'}",2,2021-02-13
+170,days,enjoy,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+171,cardano,enjoy,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+172,days ago,enjoy,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+173,ago cardano,enjoy,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+174,wallpaper,enjoy,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+175,coin,crypto,"{'ljaaxc', 'lipauj', 'liu0v5', 'lj6ifl', 'lj4mbh'}",5,2021-02-13
+179,coin,price,"{'lipauj', 'lj4mbh'}",2,2021-02-13
+180,sell,need,"{'lip0g3', 'liw8km'}",2,2021-02-13
+181,need,thoughts,"{'lip0g3', 'liu0v5'}",2,2021-02-13
+182,crypto,need,{'liu0v5'},1,2021-02-13
+183,com,need,{'liu0v5'},1,2021-02-13
+184,use,need,{'liu0v5'},1,2021-02-13
+186,days,cardano,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+187,days,days ago,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+188,days,ago cardano,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+189,days,wallpaper,"{'livuyf', 'lj4dt0'}",2,2021-02-13
+190,crypto,lot,"{'liynxa', 'lj2gls', 'lixv36', 'lisexc', 'lj4mbh'}",5,2021-02-13
+194,lot,buying,"{'lixv36', 'lj4mbh'}",2,2021-02-13
+195,crypto,future,"{'lj6ifl', 'lj4mbh'}",2,2021-02-13
+197,coin,future,"{'lj6ifl', 'lj4mbh'}",2,2021-02-13
+198,project,future,"{'ljbggz', 'lj6ifl'}",2,2021-02-13
+199,gain,future,"{'ljbggz', 'lj4mbh'}",2,2021-02-13
+200,feel,time,"{'lj1y1s', 'lj2smi'}",2,2021-02-13
+202,btc,feel,"{'lip0g3', 'lj2smi'}",2,2021-02-13
+203,sell,feel,"{'lip0g3', 'lj2smi'}",2,2021-02-13
+204,hold,feel,"{'lip0g3', 'lj2smi'}",2,2021-02-13
+206,crypto,start,"{'lj2smi', 'lj4mbh'}",2,2021-02-13
+208,buying,start,"{'lj2smi', 'lj4mbh'}",2,2021-02-13
+209,com,start,{'lj4mbh'},1,2021-02-13
+210,users,crypto,"{'lipauj', 'ljbji9', 'lj3awp'}",3,2021-02-13
+211,users,use,{'lipauj'},1,2021-02-13
+212,users,price,{'lipauj'},1,2021-02-13
+213,users,coin,{'lipauj'},1,2021-02-13
+214,users,pay,{'lj3awp'},1,2021-02-13
+215,dogecoin,crypto,{'liu0v5'},1,2021-02-13
+216,com,dogecoin,{'liu0v5'},1,2021-02-13
+217,dogecoin,use,{'liu0v5'},1,2021-02-13
+218,dogecoin,wallet,{'liu0v5'},1,2021-02-13
+219,dogecoin,cash,{'liu0v5'},1,2021-02-13
+220,crypto,think,"{'lisexc', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+221,bitcoin,think,"{'litwcy', 'lisexc', 'lj6lht'}",3,2021-02-13
+222,couple,think,"{'lisexc', 'lj6lht', 'lj6ifl'}",3,2021-02-13
+223,time,think,"{'lj6lht', 'lj6ifl'}",2,2021-02-13
+225,world,cryptocurrency,"{'liutp0', 'lisnl6'}",2,2021-02-13
+226,https,world,{'liutp0'},1,2021-02-13
+227,crypto,world,{'liutp0'},1,2021-02-13
+228,com,world,{'liutp0'},1,2021-02-13
+229,world,bitcoin,{'liutp0'},1,2021-02-13
+230,thoughts,point,"{'litum1', 'liu0v5', 'lixv36'}",3,2021-02-13
+231,crypto,point,"{'liu0v5', 'lixv36'}",2,2021-02-13
+232,buying,point,"{'litum1', 'lixv36'}",2,2021-02-13
+233,bitcoin,point,"{'litum1', 'lixv36'}",2,2021-02-13
+234,point,way,"{'litum1', 'lixv36'}",2,2021-02-13
+235,crypto,token,"{'lipqiv', 'livgf6'}",2,2021-02-13
+236,market,token,"{'lipqiv', 'livgf6'}",2,2021-02-13
+237,cryptocurrency,token,{'livgf6'},1,2021-02-13
+238,amp,token,{'liov1c'},1,2021-02-13
+239,token,time,{'livgf6'},1,2021-02-13
+240,crypto,pay,"{'lj2gls', 'lj3awp'}",2,2021-02-13
+241,pay,attention,"{'lixzm1', 'lj2gls'}",2,2021-02-13
+242,pay attention,pay,"{'lixzm1', 'lj2gls'}",2,2021-02-13
+243,use,pay,{'lj2gls'},1,2021-02-13
+244,pay,time,{'lixzm1'},1,2021-02-13
+245,time,help,"{'lirgbl', 'livgf6'}",2,2021-02-13
+246,help nan,help,"{'lirgbl', 'litygs'}",2,2021-02-13
+247,cryptocurrency,help,{'livgf6'},1,2021-02-13
+248,crypto,help,{'livgf6'},1,2021-02-13
+249,ve,help,{'livgf6'},1,2021-02-13

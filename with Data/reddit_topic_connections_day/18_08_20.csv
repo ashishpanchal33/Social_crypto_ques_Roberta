@@ -1,0 +1,215 @@
+,token_1,token_2,connections,connections_strength,date
+0,bull,bitcoin,"{'icc30d', 'ic14w0', 'ibsg24', 'ibrav8'}",4,2020-08-18
+1,cash,bitcoin,"{'ic2n1g', 'ic81ol', 'ibvyw6', 'ibz1ru'}",4,2020-08-18
+2,amp,bitcoin,"{'icbpk3', 'ibs45x', 'icc30d'}",3,2020-08-18
+3,bitcoin,price,"{'ic14w0', 'icbajj', 'ic8ao3'}",3,2020-08-18
+4,market,bitcoin,"{'icc30d', 'ibvyop', 'ibrav8'}",3,2020-08-18
+6,crypto,amp,"{'iccqt5', 'icc30d'}",2,2020-08-18
+7,coin,amp,"{'icc30d', 'ibvyeu'}",2,2020-08-18
+8,amp,amp x200b,"{'icc30d', 'ibvyeu'}",2,2020-08-18
+9,amp,x200b,"{'icc30d', 'ibvyeu'}",2,2020-08-18
+10,cryptocurrency,price,{'ic4osk'},1,2020-08-18
+11,cryptocurrency,token,{'ic34jb'},1,2020-08-18
+12,coin,cryptocurrency,{'ic4osk'},1,2020-08-18
+13,create,cryptocurrency,{'ic34jb'},1,2020-08-18
+14,cryptocurrency,vs,{'ic67dc'},1,2020-08-18
+15,com,think,"{'ic9y3o', 'ic03hh', 'ic698e'}",3,2020-08-18
+16,com,https,"{'ic2jl0', 'ic698e'}",2,2020-08-18
+17,com,crypto,"{'ic6eps', 'ic03hh'}",2,2020-08-18
+18,com,time,"{'icaxmm', 'ic698e'}",2,2020-08-18
+19,com,price,"{'ic03hh', 'ic698e'}",2,2020-08-18
+21,https,www,"{'ic76qu', 'ic2jl0'}",2,2020-08-18
+22,https,https www,"{'ic76qu', 'ic2jl0'}",2,2020-08-18
+23,https,token,"{'ic76qu', 'ic698e'}",2,2020-08-18
+24,https,project,"{'ic2jl0', 'ic698e'}",2,2020-08-18
+25,community,reddit,{'ibs2xl'},1,2020-08-18
+26,questions,reddit,{'ibs2xl'},1,2020-08-18
+27,ama,reddit,{'ibs2xl'},1,2020-08-18
+28,want,crypto,"{'ic4mnu', 'ic03hh', 'ibwr2w', 'icam99', 'ic1rm8'}",5,2020-08-18
+29,market,crypto,"{'icc30d', 'ic8jov', 'ibrav8'}",3,2020-08-18
+30,crypto,money,"{'ibwr2w', 'ic03hh', 'ic4mnu'}",3,2020-08-18
+31,trading,crypto,"{'ic6eps', 'icam99', 'ibx7h4'}",3,2020-08-18
+32,crypto,don,"{'ibwr2w', 'ic03hh', 'ic1rm8'}",3,2020-08-18
+34,www,https www,"{'ic76qu', 'ic2jl0'}",2,2020-08-18
+35,com,www,{'ic2jl0'},1,2020-08-18
+36,www,read,{'ic76qu'},1,2020-08-18
+37,people,www,{'ic2jl0'},1,2020-08-18
+40,com,https www,{'ic2jl0'},1,2020-08-18
+41,https www,read,{'ic76qu'},1,2020-08-18
+42,people,https www,{'ic2jl0'},1,2020-08-18
+43,profit,crypto,"{'icam99', 'ic1rm8'}",2,2020-08-18
+44,want,profit,"{'icam99', 'ic1rm8'}",2,2020-08-18
+45,profit,experience,"{'icam99', 'ic1rm8'}",2,2020-08-18
+46,trade,profit,{'icam99'},1,2020-08-18
+47,profit,information,{'icam99'},1,2020-08-18
+48,trade,bitcoin,{'ibsik1'},1,2020-08-18
+49,trade,crypto,{'icam99'},1,2020-08-18
+50,profit,trade,{'icam99'},1,2020-08-18
+51,trade,information,{'icam99'},1,2020-08-18
+52,trade,time,{'ibqrqc'},1,2020-08-18
+53,crypto,information,"{'icam99', 'ic4mnu'}",2,2020-08-18
+54,trading,information,"{'ic9y3o', 'icam99'}",2,2020-08-18
+55,want,information,"{'icam99', 'ic4mnu'}",2,2020-08-18
+56,information,work,"{'ic9y3o', 'ic4mnu'}",2,2020-08-18
+57,information,doesn,"{'ic9y3o', 'ic4mnu'}",2,2020-08-18
+58,vitalik,ethereum,"{'ic03hh', 'ic9ryh'}",2,2020-08-18
+59,com,ethereum,{'ic03hh'},1,2020-08-18
+60,crypto,ethereum,{'ic03hh'},1,2020-08-18
+61,ethereum,price,{'ic03hh'},1,2020-08-18
+62,ethereum,thought,{'ic9ryh'},1,2020-08-18
+63,coinmarketcap,btc,"{'icc30d', 'ibr42e'}",2,2020-08-18
+64,btc,bitcoin,{'icc30d'},1,2020-08-18
+65,amp,btc,{'icc30d'},1,2020-08-18
+66,crypto,btc,{'icc30d'},1,2020-08-18
+67,btc,time,{'ibr42e'},1,2020-08-18
+68,money,longer,"{'ic81ol', 'ic4mnu'}",2,2020-08-18
+69,want,longer,"{'ic81ol', 'ic4mnu'}",2,2020-08-18
+70,longer,value,"{'ic81ol', 'ic4mnu'}",2,2020-08-18
+71,longer,bitcoin,{'ic81ol'},1,2020-08-18
+72,crypto,longer,{'ic4mnu'},1,2020-08-18
+73,price,way,"{'ibwiof', 'ic698e', 'ic7fdv'}",3,2020-08-18
+74,ve,way,"{'ic698e', 'ic7fdv'}",2,2020-08-18
+75,way,value,"{'ic698e', 'ic7fdv'}",2,2020-08-18
+76,point,way,"{'ibwiof', 'ic7fdv'}",2,2020-08-18
+77,com,way,{'ic698e'},1,2020-08-18
+78,want,time,"{'ibr42e', 'ic1rm8', 'ic4mnu'}",3,2020-08-18
+79,time,value,"{'ibr42e', 'ic698e', 'ic4mnu'}",3,2020-08-18
+81,crypto,time,"{'ic1rm8', 'ic4mnu'}",2,2020-08-18
+82,time,price,"{'ibr42e', 'ic698e'}",2,2020-08-18
+83,offers,read,"{'ic76qu', 'ibx6mc'}",2,2020-08-18
+84,https,read,{'ic76qu'},1,2020-08-18
+85,crypto,read,{'ic4mnu'},1,2020-08-18
+87,read,https www,{'ic76qu'},1,2020-08-18
+88,blockchain,bitcoin,"{'ic81ol', 'icbajj'}",2,2020-08-18
+89,blockchain,bank,"{'ic81ol', 'ibv3c3'}",2,2020-08-18
+90,dollar,blockchain,"{'ic81ol', 'ibskyt'}",2,2020-08-18
+91,blockchain,longer,{'ic81ol'},1,2020-08-18
+92,blockchain,price,{'icbajj'},1,2020-08-18
+95,coin,price,"{'ic03hh', 'ic4osk', 'ic7fdv'}",3,2020-08-18
+96,price,value,"{'ibr42e', 'ic698e', 'ic7fdv'}",3,2020-08-18
+97,times,price,"{'ic03hh', 'ibr42e', 'ic7fdv'}",3,2020-08-18
+100,market,ve,"{'icc30d', 'ic698e'}",2,2020-08-18
+101,market,bull,"{'icc30d', 'ibrav8'}",2,2020-08-18
+102,market,cap,"{'ibvyop', 'ibrav8'}",2,2020-08-18
+103,com,thought,{'ic698e'},1,2020-08-18
+104,https,thought,{'ic698e'},1,2020-08-18
+106,thought,way,{'ic698e'},1,2020-08-18
+107,thought,time,{'ic698e'},1,2020-08-18
+108,effect,bitcoin,"{'ic81ol', 'ibrav8'}",2,2020-08-18
+109,effect,crypto,{'ibrav8'},1,2020-08-18
+110,effect,longer,{'ic81ol'},1,2020-08-18
+111,effect,blockchain,{'ic81ol'},1,2020-08-18
+112,effect,market,{'ibrav8'},1,2020-08-18
+113,want,money,"{'ibwr2w', 'ic03hh', 'ic81ol', 'ic4mnu'}",4,2020-08-18
+116,money,people,"{'ic03hh', 'ic81ol'}",2,2020-08-18
+117,use,money,"{'ic03hh', 'ic81ol'}",2,2020-08-18
+119,price,think,"{'ic03hh', 'ic698e'}",2,2020-08-18
+120,use,think,"{'ic9y3o', 'ic03hh'}",2,2020-08-18
+121,token,think,"{'ic03hh', 'ic698e'}",2,2020-08-18
+122,tokens,think,"{'ic03hh', 'ic698e'}",2,2020-08-18
+124,com,trading,"{'ic9y3o', 'ic6eps'}",2,2020-08-18
+126,trading,bitcoin,{'ibvyw6'},1,2020-08-18
+127,profit,trading,{'icam99'},1,2020-08-18
+128,coin,people,"{'icc30d', 'ic2jl0', 'ic03hh', 'ic7fdv'}",4,2020-08-18
+129,people,bitcoin,"{'icc30d', 'ic81ol', 'ibvhv8'}",3,2020-08-18
+130,use,people,"{'icc30d', 'ic03hh', 'ic81ol'}",3,2020-08-18
+131,people,reach,"{'ic03hh', 'ic7fdv', 'ibvhv8'}",3,2020-08-18
+132,com,people,"{'ic2jl0', 'ic03hh'}",2,2020-08-18
+133,dev,amp,{'ibrchp'},1,2020-08-18
+134,com,dev,{'ic03hh'},1,2020-08-18
+135,crypto,dev,{'ic03hh'},1,2020-08-18
+136,dev,ethereum,{'ic03hh'},1,2020-08-18
+137,dev,price,{'ic03hh'},1,2020-08-18
+138,chrome,extension,"{'ic698e', 'ic8287'}",2,2020-08-18
+139,extension,chrome extension,"{'ic698e', 'ic8287'}",2,2020-08-18
+140,com,extension,{'ic698e'},1,2020-08-18
+141,extension,https,{'ic698e'},1,2020-08-18
+142,extension,way,{'ic698e'},1,2020-08-18
+143,chrome,chrome extension,"{'ic698e', 'ic8287'}",2,2020-08-18
+145,com,chrome,{'ic698e'},1,2020-08-18
+146,chrome,https,{'ic698e'},1,2020-08-18
+147,chrome,way,{'ic698e'},1,2020-08-18
+149,chrome extension,extension,"{'ic698e', 'ic8287'}",2,2020-08-18
+150,com,chrome extension,{'ic698e'},1,2020-08-18
+151,chrome extension,https,{'ic698e'},1,2020-08-18
+152,chrome extension,way,{'ic698e'},1,2020-08-18
+154,use,bitcoin,"{'icc30d', 'ic81ol'}",2,2020-08-18
+155,com,use,"{'ic9y3o', 'ic03hh'}",2,2020-08-18
+156,crypto,use,"{'icc30d', 'ic03hh'}",2,2020-08-18
+158,years,bitcoin,"{'icc30d', 'ic81ol'}",2,2020-08-18
+159,years,people,"{'icc30d', 'ic81ol'}",2,2020-08-18
+160,use,years,"{'icc30d', 'ic81ol'}",2,2020-08-18
+161,dollar,years,"{'ic81ol', 'ic8or0'}",2,2020-08-18
+162,list,years,"{'icc30d', 'ic81ol'}",2,2020-08-18
+163,defi,value,"{'ic81ol', 'ica958'}",2,2020-08-18
+164,dollar,defi,"{'ibubi4', 'ic81ol'}",2,2020-08-18
+165,defi,bitcoin,{'ic81ol'},1,2020-08-18
+166,com,defi,{'ic6eps'},1,2020-08-18
+167,crypto,defi,{'ic6eps'},1,2020-08-18
+168,token,new token,"{'ic76qu', 'ic34jb', 'ic698e'}",3,2020-08-18
+169,com,token,"{'ic03hh', 'ic698e'}",2,2020-08-18
+171,token,price,"{'ic03hh', 'ic698e'}",2,2020-08-18
+173,coins,amp,{'ibvyeu'},1,2020-08-18
+174,coins,price,{'ibtxhs'},1,2020-08-18
+175,coins,don,{'ibvyeu'},1,2020-08-18
+176,coin,coins,{'ibvyeu'},1,2020-08-18
+177,coins,right,{'ibvyeu'},1,2020-08-18
+179,want,don,"{'ibwr2w', 'ic03hh', 'ic1rm8'}",3,2020-08-18
+180,money,don,"{'ibwr2w', 'ic03hh'}",2,2020-08-18
+181,don,token,"{'ic76qu', 'ic03hh'}",2,2020-08-18
+182,coin,don,"{'ic03hh', 'ibvyeu'}",2,2020-08-18
+187,want,value,"{'ic81ol', 'ibr42e', 'ic4mnu'}",3,2020-08-18
+188,exchange,time,"{'ibqrqc', 'ibr42e'}",2,2020-08-18
+189,exchange,development,"{'ibqrqc', 'ic2jl0'}",2,2020-08-18
+190,com,exchange,{'ic2jl0'},1,2020-08-18
+191,exchange,https,{'ic2jl0'},1,2020-08-18
+192,exchange,www,{'ic2jl0'},1,2020-08-18
+196,com,coin,"{'ic2jl0', 'ic03hh'}",2,2020-08-18
+197,coin,crypto,"{'icc30d', 'ic03hh'}",2,2020-08-18
+198,world,bitcoin,"{'icaxmm', 'ic81ol'}",2,2020-08-18
+199,com,world,"{'ic2jl0', 'icaxmm'}",2,2020-08-18
+200,people,world,"{'ic2jl0', 'ic81ol'}",2,2020-08-18
+201,development,world,"{'ic2jl0', 'ic81ol'}",2,2020-08-18
+202,https,world,{'ic2jl0'},1,2020-08-18
+203,bitcoin,bitcoin nan,"{'ic2n1g', 'icanex', 'ibyg9h'}",3,2020-08-18
+204,cash,bitcoin nan,{'ic2n1g'},1,2020-08-18
+205,vitalik,bitcoin nan,{'icanex'},1,2020-08-18
+206,moon,bitcoin nan,{'ibyg9h'},1,2020-08-18
+207,company,bitcoin nan,{'ic2n1g'},1,2020-08-18
+208,crypto,ve,"{'ibwr2w', 'ic1rm8', 'icc30d'}",3,2020-08-18
+210,ve,time,"{'ic1rm8', 'ic698e'}",2,2020-08-18
+211,ve,price,"{'ic698e', 'ic7fdv'}",2,2020-08-18
+213,crypto,coinbase,"{'icc30d', 'icam99'}",2,2020-08-18
+214,coinbase,bitcoin,{'icc30d'},1,2020-08-18
+215,amp,coinbase,{'icc30d'},1,2020-08-18
+216,profit,coinbase,{'icam99'},1,2020-08-18
+217,trade,coinbase,{'icam99'},1,2020-08-18
+218,scam,bitcoin,{'ic3763'},1,2020-08-18
+219,scam,way,{'ibwiof'},1,2020-08-18
+220,scam,price,{'ibwiof'},1,2020-08-18
+221,scam,link,{'ic2uhc'},1,2020-08-18
+222,scam,mean,{'ibwiof'},1,2020-08-18
+223,com,link,{'ic03hh'},1,2020-08-18
+224,crypto,link,{'ic03hh'},1,2020-08-18
+225,ethereum,link,{'ic03hh'},1,2020-08-18
+226,link,price,{'ic03hh'},1,2020-08-18
+227,money,link,{'ic03hh'},1,2020-08-18
+228,chainlink,price,"{'ic03hh', 'ic8ns4'}",2,2020-08-18
+229,com,chainlink,{'ic03hh'},1,2020-08-18
+230,crypto,chainlink,{'ic03hh'},1,2020-08-18
+231,ethereum,chainlink,{'ic03hh'},1,2020-08-18
+232,money,chainlink,{'ic03hh'},1,2020-08-18
+233,money,network,"{'ic03hh', 'ic81ol'}",2,2020-08-18
+234,people,network,"{'ic03hh', 'ic81ol'}",2,2020-08-18
+235,use,network,"{'ic03hh', 'ic81ol'}",2,2020-08-18
+236,network,token,"{'ic76qu', 'ic03hh'}",2,2020-08-18
+237,network,don,"{'ic76qu', 'ic03hh'}",2,2020-08-18
+238,com,project,"{'ic2jl0', 'ic698e'}",2,2020-08-18
+240,project,com https,"{'ic2jl0', 'ic698e'}",2,2020-08-18
+241,project,www,{'ic2jl0'},1,2020-08-18
+242,project,https www,{'ic2jl0'},1,2020-08-18
+243,need,price,"{'ic03hh', 'ibr42e'}",2,2020-08-18
+244,want,need,"{'ic03hh', 'ibr42e'}",2,2020-08-18
+245,times,need,"{'ic03hh', 'ibr42e'}",2,2020-08-18
+246,com,need,{'ic03hh'},1,2020-08-18
+247,crypto,need,{'ic03hh'},1,2020-08-18

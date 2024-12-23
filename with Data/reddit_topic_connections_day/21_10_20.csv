@@ -1,0 +1,217 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'jfk556', 'jfkea6', 'jfmnwq', 'jfm09a', 'jf4q0s'}",5,2020-10-21
+1,news,bitcoin,"{'jfk556', 'jfkea6', 'jffgil', 'jfm09a', 'jfluxh'}",5,2020-10-21
+2,paypal,bitcoin,"{'jfk556', 'jfkea6', 'jfjj0l', 'jffgil', 'jfluxh'}",5,2020-10-21
+3,bitcoin,don,"{'jf6syw', 'jfdrgy', 'jfm09a', 'jfmnwq'}",4,2020-10-21
+4,money,bitcoin,"{'jfmkf8', 'jfkea6', 'jfdrgy', 'jfatnl'}",4,2020-10-21
+5,crypto,news,"{'jfih5d', 'jfk556', 'jfkea6', 'jfm34a', 'jfm09a', 'jf8bx4'}",6,2020-10-21
+6,crypto,paypal,"{'jfih5d', 'jfk556', 'jfkea6', 'jfm34a', 'jfh051', 'jfn8g4'}",6,2020-10-21
+8,want,crypto,"{'jfkea6', 'jfmnwq', 'jfhvnq', 'jfm34a', 'jfm09a'}",5,2020-10-21
+9,crypto,don,"{'jfhvnq', 'jfoqwp', 'jfm09a', 'jfmnwq'}",4,2020-10-21
+10,paypal,cryptocurrency,"{'jfih5d', 'jfkea6', 'jfcx4w', 'jfcgsd'}",4,2020-10-21
+11,cryptocurrency,buying,"{'jfkea6', 'jfcx4w', 'jfcgsd'}",3,2020-10-21
+12,buying selling,cryptocurrency,"{'jfkea6', 'jfcx4w', 'jfcgsd'}",3,2020-10-21
+13,crypto,cryptocurrency,"{'jfih5d', 'jfkea6'}",2,2020-10-21
+14,https,cryptocurrency,"{'jfi4sv', 'jfkea6'}",2,2020-10-21
+15,https,bitcoin,"{'jfdrgy', 'jfkea6', 'jfk556'}",3,2020-10-21
+16,crypto,https,"{'jfkea6', 'jfk556', 'jf8bx4'}",3,2020-10-21
+17,use,https,"{'jfi4sv', 'jfkea6', 'jfdrgy'}",3,2020-10-21
+18,https,ve,"{'jfkea6', 'jfdrgy', 'jf8bx4'}",3,2020-10-21
+19,https,work,"{'jfi4sv', 'jfdrgy', 'jf8bx4'}",3,2020-10-21
+20,amp,bitcoin,"{'jf40g1', 'jf9j6y', 'jfk556'}",3,2020-10-21
+21,https,amp,"{'jfk556', 'jfalm9'}",2,2020-10-21
+22,amp,amp x200b,"{'jfk556', 'jfalm9'}",2,2020-10-21
+23,amp,x200b,"{'jfk556', 'jfalm9'}",2,2020-10-21
+24,auto,amp,"{'jfk556', 'jfalm9'}",2,2020-10-21
+25,com,https,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+26,com,https www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+27,com,www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+28,com,ve,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+29,com,sell,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+30,bitcoin,reddit,"{'jfayjx', 'jfmnwq'}",2,2020-10-21
+31,people,reddit,"{'jfi4sv', 'jfmnwq'}",2,2020-10-21
+32,moon,reddit,"{'jfi4sv', 'jfmnwq'}",2,2020-10-21
+33,hours,reddit,"{'jfi4sv', 'jfmnwq'}",2,2020-10-21
+34,saw,reddit,"{'jfi4sv', 'jfmnwq'}",2,2020-10-21
+35,trade,people,"{'jfm34a', 'jfi4sv'}",2,2020-10-21
+36,trade,wallet,"{'jfm34a', 'jfb7rl'}",2,2020-10-21
+37,trade,provide,"{'jfm34a', 'jfi4sv'}",2,2020-10-21
+38,trade,crypto,{'jfm34a'},1,2020-10-21
+39,trade,cryptocurrency,{'jfi4sv'},1,2020-10-21
+40,defi,network,{'jf7czv'},1,2020-10-21
+41,platform,defi,{'jfnb7m'},1,2020-10-21
+42,defi,token,{'jf7czv'},1,2020-10-21
+43,defi,smart,{'jfnb7m'},1,2020-10-21
+44,defi,projects,{'jfnb7m'},1,2020-10-21
+45,don,bitcoin,"{'jf6syw', 'jfdrgy', 'jfm09a', 'jfmnwq'}",4,2020-10-21
+47,want,don,"{'jfhvnq', 'jfdrgy', 'jfm09a', 'jfmnwq'}",4,2020-10-21
+48,don,eth,"{'jfhvnq', 'jfjwen', 'jfmnwq'}",3,2020-10-21
+49,bull,don,"{'jfoqwp', 'jfdrgy', 'jfmnwq'}",3,2020-10-21
+50,https,https www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+52,www,https www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+53,ve,https www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+54,sell,https www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+55,https,www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+58,ve,www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+59,sell,www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+60,check,bitcoin,{'jfkea6'},1,2020-10-21
+61,crypto,check,{'jfkea6'},1,2020-10-21
+62,check,cryptocurrency,{'jfkea6'},1,2020-10-21
+63,https,check,{'jfkea6'},1,2020-10-21
+64,check,time,{'jfkea6'},1,2020-10-21
+65,people,read,"{'jfm34a', 'jfdrgy'}",2,2020-10-21
+66,sell,read,"{'jfm34a', 'jfdrgy'}",2,2020-10-21
+67,think,read,"{'jfm34a', 'jfdrgy'}",2,2020-10-21
+68,want,read,"{'jfm34a', 'jfdrgy'}",2,2020-10-21
+69,key,read,"{'jfm34a', 'jfdrgy'}",2,2020-10-21
+70,crypto,time,"{'jfitz8', 'jfk556', 'jfkea6', 'jfoqwp'}",4,2020-10-21
+71,account,time,"{'jffesw', 'jfkea6', 'jfom51', 'jfitz8'}",4,2020-10-21
+72,time,bitcoin,"{'jfk556', 'jfkea6'}",2,2020-10-21
+73,https,time,"{'jfkea6', 'jfk556'}",2,2020-10-21
+74,time,don,"{'jfjwen', 'jfoqwp'}",2,2020-10-21
+76,money,right,"{'jfkea6', 'jfdrgy', 'jfom51'}",3,2020-10-21
+77,money,community,"{'jfkea6', 'jfdrgy', 'jf4rk6'}",3,2020-10-21
+78,want,money,"{'jfhvnq', 'jfkea6', 'jfdrgy'}",3,2020-10-21
+79,money,coinbase,"{'jfhvnq', 'jfdrgy', 'jfom51'}",3,2020-10-21
+80,crypto,btc,"{'jfhvnq', 'jf45cs', 'jfitz8', 'jfmnwq'}",4,2020-10-21
+81,btc,bitcoin,"{'jf40g1', 'jf9fib', 'jfmnwq'}",3,2020-10-21
+82,btc,don,"{'jfhvnq', 'jfmnwq'}",2,2020-10-21
+83,btc,pump,"{'jfitz8', 'jfmnwq'}",2,2020-10-21
+84,people,btc,"{'jfitz8', 'jfmnwq'}",2,2020-10-21
+85,moons,moon,"{'jffesw', 'jfi4sv'}",2,2020-10-21
+86,post,moons,"{'jfgtof', 'jfi4sv'}",2,2020-10-21
+87,moons,posts,"{'jfgtof', 'jfi4sv'}",2,2020-10-21
+88,moons,answer,"{'jffesw', 'jfi4sv'}",2,2020-10-21
+89,moons,cryptocurrency,{'jfi4sv'},1,2020-10-21
+90,post,exchange,"{'jfm8kt', 'jfi4sv', 'jfdrgy'}",3,2020-10-21
+91,exchange,bitcoin,"{'jfg3ab', 'jfdrgy'}",2,2020-10-21
+92,exchange,https,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+93,exchange,use,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+94,exchange,people,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+95,https,use,"{'jfi4sv', 'jfkea6', 'jfdrgy'}",3,2020-10-21
+96,coins,use,"{'jfkea6', 'jfdrgy', 'jfn6v8'}",3,2020-10-21
+97,want,use,"{'jfkea6', 'jfdrgy', 'jfn6v8'}",3,2020-10-21
+98,use,value,"{'jfi4sv', 'jfkea6', 'jfn6v8'}",3,2020-10-21
+99,use,cash,"{'jfi4sv', 'jfkea6', 'jfdrgy'}",3,2020-10-21
+100,university,blockchain,"{'jfjawh', 'jfn3bs'}",2,2020-10-21
+101,blockchain,bitcoin,{'jfn3bs'},1,2020-10-21
+102,blockchain,ethereum,{'jfjawh'},1,2020-10-21
+103,blockchain,work,{'jfaxj6'},1,2020-10-21
+104,send,blockchain,{'jfjawh'},1,2020-10-21
+105,crypto,pump,"{'jfitz8', 'jfkea6', 'jfmnwq'}",3,2020-10-21
+106,bitcoin,pump,"{'jfkea6', 'jfmnwq'}",2,2020-10-21
+107,time,pump,"{'jfitz8', 'jfkea6'}",2,2020-10-21
+109,people,pump,"{'jfitz8', 'jfmnwq'}",2,2020-10-21
+110,crypto,people,"{'jfitz8', 'jfh051', 'jfm34a', 'jfmnwq'}",4,2020-10-21
+111,people,bitcoin,"{'jfcjkd', 'jfdrgy', 'jfmnwq'}",3,2020-10-21
+112,people,moon,"{'jfi4sv', 'jfcjkd', 'jfmnwq'}",3,2020-10-21
+113,community,people,"{'jfitz8', 'jfdrgy', 'jf4rk6'}",3,2020-10-21
+114,people,think,"{'jfm34a', 'jfh051', 'jfdrgy'}",3,2020-10-21
+115,ethereum,bitcoin,"{'jf906a', 'jfkea6', 'jfdrgy', 'jfbe01'}",4,2020-10-21
+116,ethereum,help,"{'jf906a', 'jfkea6', 'jfdrgy'}",3,2020-10-21
+117,https,ethereum,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+118,ethereum,money,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+119,use,ethereum,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+120,market,bitcoin,"{'jf4q0s', 'jfk556', 'jfdrgy', 'jfluxh'}",4,2020-10-21
+121,market,crypto,"{'jfoqwp', 'jfk556', 'jf4q0s'}",3,2020-10-21
+122,market,https,"{'jfk556', 'jfdrgy'}",2,2020-10-21
+123,market,don,"{'jfoqwp', 'jfdrgy'}",2,2020-10-21
+124,market,time,"{'jfoqwp', 'jfk556'}",2,2020-10-21
+125,trading,bitcoin,{'jfdrgy'},1,2020-10-21
+126,trading,crypto,{'jf2j1r'},1,2020-10-21
+127,trading,https,{'jfdrgy'},1,2020-10-21
+128,com,trading,{'jfdrgy'},1,2020-10-21
+129,trading,don,{'jfdrgy'},1,2020-10-21
+130,eth,don,"{'jfhvnq', 'jfjwen', 'jfmnwq'}",3,2020-10-21
+131,crypto,eth,"{'jfhvnq', 'jfmnwq'}",2,2020-10-21
+132,btc,eth,"{'jfhvnq', 'jfmnwq'}",2,2020-10-21
+133,need,eth,"{'jfjwen', 'jfkmmp'}",2,2020-10-21
+134,want,eth,"{'jfhvnq', 'jfmnwq'}",2,2020-10-21
+135,banks nan,banks,"{'jfmdv9', 'jfnwkk'}",2,2020-10-21
+136,banks,bitcoin,{'jfm09a'},1,2020-10-21
+137,crypto,banks,{'jfm09a'},1,2020-10-21
+138,banks,don,{'jfm09a'},1,2020-10-21
+139,want,banks,{'jfm09a'},1,2020-10-21
+141,moon,bitcoin,"{'jfcjkd', 'jfmnwq'}",2,2020-10-21
+144,moon,hours,"{'jfi4sv', 'jfmnwq'}",2,2020-10-21
+146,crypto,account,"{'jfitz8', 'jfkea6'}",2,2020-10-21
+147,account,money,"{'jfkea6', 'jfom51'}",2,2020-10-21
+148,account,pump,"{'jfitz8', 'jfkea6'}",2,2020-10-21
+149,account,right,"{'jfkea6', 'jfom51'}",2,2020-10-21
+150,network,cryptocurrency,"{'jfcx4w', 'jfcgsd'}",2,2020-10-21
+151,network,buying,"{'jfcx4w', 'jfcgsd'}",2,2020-10-21
+152,paypal,network,"{'jfcx4w', 'jfcgsd'}",2,2020-10-21
+153,network nan,network,"{'jfcx4w', 'jfcgsd'}",2,2020-10-21
+154,buying selling,network,"{'jfcx4w', 'jfcgsd'}",2,2020-10-21
+155,bitcoin,price,"{'jfkea6', 'jf7pe4', 'jfmnwq'}",3,2020-10-21
+156,crypto,price,"{'jfmnwq', 'jfkea6', 'jfoqwp'}",3,2020-10-21
+157,don,price,"{'jfoqwp', 'jfmnwq'}",2,2020-10-21
+158,time,price,"{'jfkea6', 'jfoqwp'}",2,2020-10-21
+159,btc,price,"{'jfk4ag', 'jfmnwq'}",2,2020-10-21
+160,paypal,buying,"{'jfdo8q', 'jfkea6', 'jfn6v8', 'jfcgsd', 'jfcx4w'}",5,2020-10-21
+161,buying selling,buying,"{'jfdo8q', 'jfkea6', 'jfcx4w', 'jfcgsd'}",4,2020-10-21
+163,platform,buying,"{'jfkea6', 'jfn6v8', 'jf8bx4'}",3,2020-10-21
+164,buying,companies,"{'jfmkf8', 'jfkea6', 'jf8bx4'}",3,2020-10-21
+165,coins,bitcoin,"{'jfkea6', 'jfdrgy', 'jf4q0s'}",3,2020-10-21
+167,want,coins,"{'jfkea6', 'jfdrgy', 'jfn6v8'}",3,2020-10-21
+168,coins,custodial,"{'jfkea6', 'jfdrgy', 'jfn6v8'}",3,2020-10-21
+169,coins,crypto,"{'jfkea6', 'jf4q0s'}",2,2020-10-21
+170,https,years,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+171,exchange,years,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+172,use,years,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+173,years,people,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+174,years,work,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+175,crypto,crypto nan,"{'jf6mo7', 'jflm54'}",2,2020-10-21
+176,talk,crypto nan,{'jf6mo7'},1,2020-10-21
+177,crypto,information,"{'jfm34a', 'jfkea6'}",2,2020-10-21
+178,want,information,"{'jfm34a', 'jfkea6'}",2,2020-10-21
+179,wallet,information,"{'jfm34a', 'jfkea6'}",2,2020-10-21
+180,information,news,"{'jfm34a', 'jfkea6'}",2,2020-10-21
+181,information,key,"{'jfm34a', 'jfkea6'}",2,2020-10-21
+182,right,money,"{'jfkea6', 'jfdrgy', 'jfom51'}",3,2020-10-21
+183,post,right,"{'jfih5d', 'jfdrgy', 'jfom51'}",3,2020-10-21
+184,right,bitcoin,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+185,crypto,right,"{'jfih5d', 'jfkea6'}",2,2020-10-21
+186,right,cryptocurrency,"{'jfih5d', 'jfkea6'}",2,2020-10-21
+187,community,money,"{'jfkea6', 'jfdrgy', 'jf4rk6'}",3,2020-10-21
+189,community,bitcoin,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+190,crypto,community,"{'jfitz8', 'jfkea6'}",2,2020-10-21
+191,https,community,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+193,ve,bitcoin,"{'jfkea6', 'jfdrgy'}",2,2020-10-21
+194,crypto,ve,"{'jfkea6', 'jf8bx4'}",2,2020-10-21
+197,need,don,"{'jfjwen', 'jfdrgy'}",2,2020-10-21
+199,need,fees,"{'jfjwen', 'jfdrgy'}",2,2020-10-21
+200,need,bitcoin,{'jfdrgy'},1,2020-10-21
+201,https,need,{'jfdrgy'},1,2020-10-21
+202,crypto,sell,"{'jfm34a', 'jf45cs', 'jf8bx4'}",3,2020-10-21
+203,https,sell,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+208,crypto,platform,"{'jfkea6', 'jf8bx4'}",2,2020-10-21
+209,https,platform,"{'jfkea6', 'jf8bx4'}",2,2020-10-21
+210,use,platform,"{'jfkea6', 'jfn6v8'}",2,2020-10-21
+211,ethereum,platform,"{'jfkea6', 'jfellq'}",2,2020-10-21
+213,crypto,think,"{'jfm34a', 'jfh051', 'jfoqwp'}",3,2020-10-21
+215,bitcoin,think,"{'jfmkf8', 'jfdrgy'}",2,2020-10-21
+216,don,think,"{'jfoqwp', 'jfdrgy'}",2,2020-10-21
+218,title,bitcoin,{'jfmkf8'},1,2020-10-21
+219,crypto,title,{'jfitz8'},1,2020-10-21
+220,title,time,{'jfitz8'},1,2020-10-21
+221,money,title,{'jfmkf8'},1,2020-10-21
+222,btc,title,{'jfitz8'},1,2020-10-21
+224,com,work,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+225,work,https www,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+226,www,work,"{'jfdrgy', 'jf8bx4'}",2,2020-10-21
+227,exchange,work,"{'jfi4sv', 'jfdrgy'}",2,2020-10-21
+228,bitcoin,bitcoin nan,"{'jf5hd5', 'jfg3ab', 'jfl2b2'}",3,2020-10-21
+229,exchange,bitcoin nan,{'jfg3ab'},1,2020-10-21
+230,world,bitcoin nan,{'jf5hd5'},1,2020-10-21
+231,things,bitcoin nan,{'jfl2b2'},1,2020-10-21
+232,company,bitcoin nan,{'jfg3ab'},1,2020-10-21
+233,digital,currency,"{'jfc4i5', 'jfkea6', 'jf82vy', 'jfb9ps'}",4,2020-10-21
+234,digital,bank,"{'jfc4i5', 'jf82vy', 'jfb9ps'}",3,2020-10-21
+235,digital,digital currency,"{'jfc4i5', 'jf82vy', 'jfb9ps'}",3,2020-10-21
+236,digital,central bank,"{'jfc4i5', 'jf82vy', 'jfb9ps'}",3,2020-10-21
+237,launches,digital,"{'jfc4i5', 'jf82vy', 'jfb9ps'}",3,2020-10-21
+238,don,fees,"{'jfjwen', 'jfdrgy'}",2,2020-10-21
+240,bitcoin,fees,{'jfdrgy'},1,2020-10-21
+241,https,fees,{'jfdrgy'},1,2020-10-21
+242,com,fees,{'jfdrgy'},1,2020-10-21

@@ -1,0 +1,219 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'kb8w7h', 'kb76ao', 'kb6fi9', 'kb4m9a'}",4,2020-12-11
+1,bitcoin,price,"{'kb494y', 'kbb2iw', 'kb3t9f', 'kaz29h'}",4,2020-12-11
+2,bitcoin,bitcoin nan,"{'kavpck', 'kazovz', 'kaxif4'}",3,2020-12-11
+3,bitcoin,gold,"{'kb1aj1', 'kb76ao', 'karw6y'}",3,2020-12-11
+4,buys,bitcoin,"{'kb75ez', 'kayzdo', 'kavpck'}",3,2020-12-11
+5,com,https,"{'kb2vus', 'kar729'}",2,2020-12-11
+6,https,amp,{'kar729'},1,2020-12-11
+7,https,cryptocurrency,{'kar729'},1,2020-12-11
+8,trade,https,{'kar729'},1,2020-12-11
+9,https,www,{'kar729'},1,2020-12-11
+11,amp,cryptocurrency,{'kar729'},1,2020-12-11
+12,com,amp,{'kar729'},1,2020-12-11
+13,trade,amp,{'kar729'},1,2020-12-11
+14,amp,www,{'kar729'},1,2020-12-11
+15,longer,cryptocurrency,"{'kar729', 'kav2b3'}",2,2020-12-11
+16,risk,cryptocurrency,"{'kazlp2', 'kbc6ww'}",2,2020-12-11
+17,cryptocurrency,bitcoin,{'kav2b3'},1,2020-12-11
+21,com,www,"{'kar729', 'kb6fi9'}",2,2020-12-11
+22,com,bitcoin,{'kb6fi9'},1,2020-12-11
+24,com,cryptocurrency,{'kar729'},1,2020-12-11
+27,trade,cryptocurrency,{'kar729'},1,2020-12-11
+28,com,trade,{'kar729'},1,2020-12-11
+29,trade,www,{'kar729'},1,2020-12-11
+31,www,bitcoin,{'kb6fi9'},1,2020-12-11
+34,cryptocurrency,www,{'kar729'},1,2020-12-11
+36,rules,crypto,"{'kbeexp', 'kbd39i', 'kbdei2'}",3,2020-12-11
+37,crypto,wallet,"{'kbeexp', 'kbd39i', 'kbdei2'}",3,2020-12-11
+38,crypto,platform,"{'kaxxtg', 'kase5t', 'kawnx1'}",3,2020-12-11
+39,crypto,report,"{'kbeexp', 'kb9k75', 'kb4m9a'}",3,2020-12-11
+40,https,check,{'kar729'},1,2020-12-11
+41,amp,check,{'kar729'},1,2020-12-11
+42,check,cryptocurrency,{'kar729'},1,2020-12-11
+43,com,check,{'kar729'},1,2020-12-11
+44,trade,check,{'kar729'},1,2020-12-11
+46,longer,bitcoin,{'kav2b3'},1,2020-12-11
+47,https,longer,{'kar729'},1,2020-12-11
+48,amp,longer,{'kar729'},1,2020-12-11
+49,com,longer,{'kar729'},1,2020-12-11
+50,crypto,time,"{'kbeexp', 'kbdtrg'}",2,2020-12-11
+51,trade,time,{'kbdtrg'},1,2020-12-11
+52,time,don,{'kbeexp'},1,2020-12-11
+53,money,time,{'kbeexp'},1,2020-12-11
+54,rules,time,{'kbeexp'},1,2020-12-11
+55,https,welcome,{'kar729'},1,2020-12-11
+56,amp,welcome,{'kar729'},1,2020-12-11
+57,cryptocurrency,welcome,{'kar729'},1,2020-12-11
+58,com,welcome,{'kar729'},1,2020-12-11
+59,trade,welcome,{'kar729'},1,2020-12-11
+60,eth,eth nan,"{'kayzdo', 'kb6y8f'}",2,2020-12-11
+61,eth,bitcoin,{'kayzdo'},1,2020-12-11
+62,crypto,eth,{'kayxgj'},1,2020-12-11
+63,right,eth,{'kayxgj'},1,2020-12-11
+64,eth,space,{'kb6y8f'},1,2020-12-11
+65,crypto,years,"{'kase5t', 'kb76ao'}",2,2020-12-11
+66,years,currency,"{'kase5t', 'kb76ao'}",2,2020-12-11
+67,years,transactions,"{'kase5t', 'kb76ao'}",2,2020-12-11
+68,years,work,"{'kase5t', 'kb76ao'}",2,2020-12-11
+69,years,provide,"{'kase5t', 'kb76ao'}",2,2020-12-11
+70,btc,price,"{'kaz29h', 'kb94a7'}",2,2020-12-11
+71,btc,bitcoin,{'kaz29h'},1,2020-12-11
+72,btc,correction,{'kaz29h'},1,2020-12-11
+73,current price,btc,{'kb94a7'},1,2020-12-11
+74,btc,price nan,{'kb94a7'},1,2020-12-11
+75,crypto,don,"{'kbeexp', 'kb2ybq'}",2,2020-12-11
+76,don,bitcoin,{'katyt4'},1,2020-12-11
+77,don,time,{'kbeexp'},1,2020-12-11
+78,don,welcome,{'kb0zdr'},1,2020-12-11
+79,don,price,{'kb0zdr'},1,2020-12-11
+81,price nan,price,"{'kb494y', 'kb3t9f', 'kb94a7'}",3,2020-12-11
+83,prediction,price,"{'kb4w1t', 'kb2a0m'}",2,2020-12-11
+84,price prediction,price,"{'kb4w1t', 'kb2a0m'}",2,2020-12-11
+85,money,cryptocurrency,{'kbb9ly'},1,2020-12-11
+86,crypto,money,{'kbeexp'},1,2020-12-11
+88,money,don,{'kbeexp'},1,2020-12-11
+89,rules,money,{'kbeexp'},1,2020-12-11
+90,market,crypto,{'kb709q'},1,2020-12-11
+91,market,project,{'kb3w6j'},1,2020-12-11
+92,asset,market,{'kb709q'},1,2020-12-11
+93,market,correction,{'kb709q'},1,2020-12-11
+94,market,crypto asset,{'kb709q'},1,2020-12-11
+96,rules,wallet,"{'kbeexp', 'kbd39i', 'kbdei2'}",3,2020-12-11
+97,rules,crypto wallet,"{'kbeexp', 'kbd39i', 'kbdei2'}",3,2020-12-11
+98,rules,rush,"{'kbd39i', 'kbdei2'}",2,2020-12-11
+99,rules,trump,"{'kbd39i', 'kbdei2'}",2,2020-12-11
+100,ethereum,bitcoin,"{'kb8w7h', 'kauqpd'}",2,2020-12-11
+101,ethereum,amp,{'kaxnnn'},1,2020-12-11
+102,crypto,ethereum,{'kb8w7h'},1,2020-12-11
+103,ethereum,december,{'kb2hs5'},1,2020-12-11
+104,ethereum,year,{'kauqpd'},1,2020-12-11
+105,crypto,use,"{'kbdtrg', 'kase5t'}",2,2020-12-11
+106,use,amp,{'kase5t'},1,2020-12-11
+107,trade,use,{'kbdtrg'},1,2020-12-11
+108,use,time,{'kbdtrg'},1,2020-12-11
+109,years,use,{'kase5t'},1,2020-12-11
+112,wallet,crypto wallet,"{'kbeexp', 'kbd39i', 'kbdei2'}",3,2020-12-11
+113,wallet,rush,"{'kbd39i', 'kbdei2'}",2,2020-12-11
+114,wallet,trump,"{'kbd39i', 'kbdei2'}",2,2020-12-11
+115,bitcoin,value,{'kb1aj1'},1,2020-12-11
+116,crypto,value,{'kbeexp'},1,2020-12-11
+117,time,value,{'kbeexp'},1,2020-12-11
+118,don,value,{'kbeexp'},1,2020-12-11
+119,money,value,{'kbeexp'},1,2020-12-11
+120,need,help,"{'karcyb', 'kb6fi9'}",2,2020-12-11
+121,need,bitcoin,{'kb6fi9'},1,2020-12-11
+122,com,need,{'kb6fi9'},1,2020-12-11
+123,www,need,{'kb6fi9'},1,2020-12-11
+124,crypto,need,{'kb6fi9'},1,2020-12-11
+125,https,december,{'kar729'},1,2020-12-11
+126,amp,december,{'kar729'},1,2020-12-11
+127,cryptocurrency,december,{'kar729'},1,2020-12-11
+128,com,december,{'kar729'},1,2020-12-11
+129,trade,december,{'kar729'},1,2020-12-11
+130,blockchain,start,"{'kawo4g', 'kawnlj'}",2,2020-12-11
+131,blockchain,level,"{'kawo4g', 'kawnlj'}",2,2020-12-11
+132,transaction,blockchain,"{'kb28no', 'kb5ssk'}",2,2020-12-11
+133,blockchain,idea,"{'kawo4g', 'kawnlj'}",2,2020-12-11
+134,jpmorgan,blockchain,"{'kb28no', 'kb5ssk'}",2,2020-12-11
+135,bitcoin,year,"{'kauqpd', 'kazovz'}",2,2020-12-11
+136,enforcement,year,"{'kbeexp', 'kat2q0'}",2,2020-12-11
+137,crypto,year,{'kbeexp'},1,2020-12-11
+138,time,year,{'kbeexp'},1,2020-12-11
+139,don,year,{'kbeexp'},1,2020-12-11
+140,crypto,currency,"{'kase5t', 'kb76ao'}",2,2020-12-11
+142,government,currency,"{'kase5t', 'kb4na8'}",2,2020-12-11
+143,transactions,currency,"{'kase5t', 'kb76ao'}",2,2020-12-11
+144,currency,work,"{'kase5t', 'kb76ao'}",2,2020-12-11
+145,xrp,bitcoin,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+146,xrp,cash,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+147,bitcoin cash,xrp,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+148,coinmarketcap,xrp,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+149,xrp,coinmarketcap nan,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+150,world,bitcoin,"{'kb8w7h', 'kav2b3'}",2,2020-12-11
+151,world,cryptocurrency,{'kav2b3'},1,2020-12-11
+152,crypto,world,{'kb8w7h'},1,2020-12-11
+153,longer,world,{'kav2b3'},1,2020-12-11
+154,ethereum,world,{'kb8w7h'},1,2020-12-11
+156,million bitcoin,bitcoin nan,"{'kazovz', 'kaxif4'}",2,2020-12-11
+157,invests,bitcoin nan,"{'kazovz', 'kaxif4'}",2,2020-12-11
+158,invests 100,bitcoin nan,"{'kazovz', 'kaxif4'}",2,2020-12-11
+159,massmutual invests,bitcoin nan,"{'kazovz', 'kaxif4'}",2,2020-12-11
+161,bitcoin,help,{'kb6fi9'},1,2020-12-11
+162,com,help,{'kb6fi9'},1,2020-12-11
+163,www,help,{'kb6fi9'},1,2020-12-11
+164,crypto,help,{'kb6fi9'},1,2020-12-11
+165,trading,exchange,"{'kazeij', 'kas9wk'}",2,2020-12-11
+166,trading,cryptocurrency,{'kazlp2'},1,2020-12-11
+167,trading,crypto,{'kawnx1'},1,2020-12-11
+168,trading,welcome,{'kb0zdr'},1,2020-12-11
+169,trading,don,{'kb0zdr'},1,2020-12-11
+170,crypto,right,"{'kb6fi9', 'kayxgj'}",2,2020-12-11
+171,right,bitcoin,{'kb6fi9'},1,2020-12-11
+172,com,right,{'kb6fi9'},1,2020-12-11
+173,right,www,{'kb6fi9'},1,2020-12-11
+175,crypto,bank,"{'kaxxtg', 'kawnx1'}",2,2020-12-11
+176,platform,bank,"{'kaxxtg', 'kawnx1'}",2,2020-12-11
+177,singapore,bank,"{'kaxxtg', 'kawnx1'}",2,2020-12-11
+178,bank,dbs,"{'kaxxtg', 'kawnx1'}",2,2020-12-11
+179,blockchain,bank,{'katv6a'},1,2020-12-11
+180,exchange,crypto,"{'kaxxtg', 'kb6t2o'}",2,2020-12-11
+182,exchange,crypto exchange,"{'kaxxtg', 'kb6t2o'}",2,2020-12-11
+183,exchange,ethereum,{'kazeij'},1,2020-12-11
+184,exchange,bank,{'kaxxtg'},1,2020-12-11
+185,crypto,digital,{'kazm1m'},1,2020-12-11
+186,digital,currency,{'kb4na8'},1,2020-12-11
+187,government,digital,{'kb4na8'},1,2020-12-11
+188,digital,investment,{'kazm1m'},1,2020-12-11
+189,assets,digital,{'kazm1m'},1,2020-12-11
+191,blockchain,project,{'kaupah'},1,2020-12-11
+192,project,iota,{'kb1pgu'},1,2020-12-11
+193,founder,project,{'kb1pgu'},1,2020-12-11
+194,project,announces,{'kb1pgu'},1,2020-12-11
+195,level,start,"{'kawo4g', 'kawnlj', 'kb0zdr'}",3,2020-12-11
+197,idea,start,"{'kawo4g', 'kawnlj'}",2,2020-12-11
+198,krona,start,"{'kb5a93', 'kb76n2'}",2,2020-12-11
+199,start,sweden,"{'kb5a93', 'kb76n2'}",2,2020-12-11
+201,government,bitcoin,{'kaz6kh'},1,2020-12-11
+202,amp,government,{'kase5t'},1,2020-12-11
+203,crypto,government,{'kase5t'},1,2020-12-11
+204,years,government,{'kase5t'},1,2020-12-11
+205,crypto,network,{'kbeexp'},1,2020-12-11
+206,network,time,{'kbeexp'},1,2020-12-11
+207,network,don,{'kbeexp'},1,2020-12-11
+208,money,network,{'kbeexp'},1,2020-12-11
+209,rules,network,{'kbeexp'},1,2020-12-11
+210,bitcoin,usd,{'kb76ao'},1,2020-12-11
+211,crypto,usd,{'kb76ao'},1,2020-12-11
+212,years,usd,{'kb76ao'},1,2020-12-11
+213,currency,usd,{'kb76ao'},1,2020-12-11
+214,usd,gold,{'kb76ao'},1,2020-12-11
+215,asset,crypto,"{'kb8w7h', 'kb709q'}",2,2020-12-11
+216,asset,crypto asset,"{'kb8w7h', 'kb709q'}",2,2020-12-11
+217,asset,bitcoin,{'kb8w7h'},1,2020-12-11
+218,market,asset,{'kb709q'},1,2020-12-11
+219,asset,ethereum,{'kb8w7h'},1,2020-12-11
+220,cash,bitcoin,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+222,bitcoin cash,cash,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+223,coinmarketcap,cash,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+224,cash,coinmarketcap nan,"{'kb0lnt', 'kb0ljh'}",2,2020-12-11
+226,bitcoin gold,gold,"{'kb76ao', 'karw6y'}",2,2020-12-11
+227,crypto,gold,{'kb76ao'},1,2020-12-11
+228,years,gold,{'kb76ao'},1,2020-12-11
+229,gold,value,{'kb1aj1'},1,2020-12-11
+230,investment,bitcoin,{'kb6rje'},1,2020-12-11
+231,crypto,investment,{'kazm1m'},1,2020-12-11
+233,assets,investment,{'kazm1m'},1,2020-12-11
+234,investment,investments,{'kazm1m'},1,2020-12-11
+237,singapore,platform,"{'kaxxtg', 'kawnx1'}",2,2020-12-11
+238,platform,dbs,"{'kaxxtg', 'kawnx1'}",2,2020-12-11
+239,amp,platform,{'kase5t'},1,2020-12-11
+240,users,cryptocurrency,{'kbb9ly'},1,2020-12-11
+241,users,money,{'kbb9ly'},1,2020-12-11
+242,binance,users,{'kbb9ly'},1,2020-12-11
+243,service,users,{'kb1bc9'},1,2020-12-11
+244,binance,cryptocurrency,{'kbb9ly'},1,2020-12-11
+245,binance,money,{'kbb9ly'},1,2020-12-11
+246,binance,xrp,{'kbbkiw'},1,2020-12-11
+247,users,binance,{'kbb9ly'},1,2020-12-11
+248,binance,assets,{'kbbkiw'},1,2020-12-11

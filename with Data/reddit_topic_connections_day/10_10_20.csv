@@ -1,0 +1,207 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,https,"{'j8rkim', 'j8f81x', 'j8q2yo', 'j8qk7f'}",4,2020-10-10
+1,com,crypto,"{'j8rkim', 'j8f81x', 'j8q2yo'}",3,2020-10-10
+2,market,crypto,"{'j8rkim', 'j8er16', 'j8jb5v'}",3,2020-10-10
+3,crypto,markets,"{'j8rkim', 'j8l8rs', 'j8t7gs'}",3,2020-10-10
+4,crypto,security,"{'j8rkim', 'j8foqa', 'j8j3ef'}",3,2020-10-10
+5,bitcoin,bitcoin nan,"{'j8krwt', 'j8j7ww', 'j8tvmm', 'j8nj9q', 'j8hlq2', 'j8ocmy', 'j8kzoa'}",7,2020-10-10
+6,trump,bitcoin,"{'j8irnr', 'j8q2yo', 'j8igwi'}",3,2020-10-10
+7,btc,bitcoin,"{'j8grum', 'j8g4d1'}",2,2020-10-10
+8,bitcoin,price,"{'j8u6q7', 'j8igwi'}",2,2020-10-10
+9,bitcoin,plan,"{'j8hw25', 'j8g4d1'}",2,2020-10-10
+10,trading,defi,"{'j8ryyp', 'j8juxo'}",2,2020-10-10
+11,platform,defi,"{'j8qk7f', 'j8juxo'}",2,2020-10-10
+12,crypto,defi,{'j8qk7f'},1,2020-10-10
+13,https,defi,{'j8qk7f'},1,2020-10-10
+14,trade,defi,{'j8ryyp'},1,2020-10-10
+16,com,https,"{'j8rkim', 'j8f81x', 'j8q2yo'}",3,2020-10-10
+17,https,https www,"{'j8f81x', 'j8q2yo', 'j8okm0'}",3,2020-10-10
+18,https,www,"{'j8f81x', 'j8q2yo', 'j8okm0'}",3,2020-10-10
+19,benefits,https,"{'j8rkim', 'j8qk7f', 'j8okm0'}",3,2020-10-10
+20,amp,time,"{'j8f81x', 'j8nmlx'}",2,2020-10-10
+21,amp,price,"{'j8f81x', 'j8igwi'}",2,2020-10-10
+22,crypto,amp,{'j8f81x'},1,2020-10-10
+23,amp,bitcoin,{'j8igwi'},1,2020-10-10
+24,https,amp,{'j8f81x'},1,2020-10-10
+27,com,https www,"{'j8f81x', 'j8q2yo'}",2,2020-10-10
+28,com,www,"{'j8f81x', 'j8q2yo'}",2,2020-10-10
+29,com,year,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+30,crypto,reddit,{'j8f81x'},1,2020-10-10
+31,https,reddit,{'j8f81x'},1,2020-10-10
+32,amp,reddit,{'j8f81x'},1,2020-10-10
+33,com,reddit,{'j8f81x'},1,2020-10-10
+34,reddit,https www,{'j8f81x'},1,2020-10-10
+35,trade,crypto,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+36,trading,trade,"{'j8l8rs', 'j8ryyp'}",2,2020-10-10
+37,want,trade,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+38,trade,tokens,"{'j8rkim', 'j8ryyp'}",2,2020-10-10
+39,trade,markets,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+41,www,https www,"{'j8f81x', 'j8q2yo', 'j8okm0'}",3,2020-10-10
+42,crypto,https www,"{'j8f81x', 'j8q2yo'}",2,2020-10-10
+44,time,https www,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+47,crypto,www,"{'j8f81x', 'j8q2yo'}",2,2020-10-10
+49,www,time,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+50,https,blockchain,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+51,market,blockchain,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+52,blockchain,world,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+53,user,blockchain,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+54,blockchain,offers,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+55,ethereum,fees,"{'j8rkim', 'j8iitf'}",2,2020-10-10
+56,game,ethereum,"{'j8rkim', 'j8iitf'}",2,2020-10-10
+57,crypto,ethereum,{'j8rkim'},1,2020-10-10
+58,https,ethereum,{'j8rkim'},1,2020-10-10
+59,com,ethereum,{'j8rkim'},1,2020-10-10
+60,people,time,"{'j8p10b', 'j8f81x'}",2,2020-10-10
+61,people,day,"{'j8p10b', 'j8f81x'}",2,2020-10-10
+62,people,projects,"{'j8f81x', 'j8rfs7'}",2,2020-10-10
+63,people,research,"{'j8f81x', 'j8rfs7'}",2,2020-10-10
+64,people,lot,"{'j8f81x', 'j8rfs7'}",2,2020-10-10
+66,market,https,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+68,market,world,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+69,user,market,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+70,digital,bank,"{'j8ebme', 'j8uoho'}",2,2020-10-10
+71,crypto,bank,{'j8qk7f'},1,2020-10-10
+72,bank,defi,{'j8qk7f'},1,2020-10-10
+73,https,bank,{'j8qk7f'},1,2020-10-10
+74,platform,bank,{'j8qk7f'},1,2020-10-10
+75,bull run,bull,"{'j8hw25', 'j8v5ko'}",2,2020-10-10
+76,bull,bitcoin,{'j8hw25'},1,2020-10-10
+77,bull,plan,{'j8hw25'},1,2020-10-10
+78,bull,possibility,{'j8v5ko'},1,2020-10-10
+80,btc,price,{'j8l7x4'},1,2020-10-10
+81,btc,eth,{'j8l7x4'},1,2020-10-10
+82,btc,project,{'j8grum'},1,2020-10-10
+83,btc,link,{'j8l7x4'},1,2020-10-10
+84,https,time,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+90,trade,trading,"{'j8l8rs', 'j8ryyp'}",2,2020-10-10
+91,trading,hear,"{'j8l8rs', 'j8ryyp'}",2,2020-10-10
+92,trading,crypto,{'j8l8rs'},1,2020-10-10
+93,trading,platform,{'j8juxo'},1,2020-10-10
+94,bitcoin,october,{'j8u6q7'},1,2020-10-10
+95,amp,october,{'j8nmlx'},1,2020-10-10
+96,time,october,{'j8nmlx'},1,2020-10-10
+97,price,october,{'j8u6q7'},1,2020-10-10
+99,https,price,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+101,price,https www,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+102,www,price,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+103,crypto,use,"{'j8rkim', 'j8mzjl'}",2,2020-10-10
+104,https,use,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+105,years,use,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+106,use,token,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+107,use,tokens,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+108,time,think,{'j8psee'},1,2020-10-10
+109,ve,think,{'j8psee'},1,2020-10-10
+110,think,value,{'j8psee'},1,2020-10-10
+111,think,way,{'j8psee'},1,2020-10-10
+112,asset,think,{'j8psee'},1,2020-10-10
+113,crypto,platform,"{'j8rkim', 'j8qk7f'}",2,2020-10-10
+115,https,platform,"{'j8rkim', 'j8qk7f'}",2,2020-10-10
+116,platform,world,"{'j8rkim', 'j8juxo'}",2,2020-10-10
+117,platform,chain,"{'j8rkim', 'j8qk7f'}",2,2020-10-10
+118,crypto,years,"{'j8rkim', 'j8h9r2'}",2,2020-10-10
+119,https,years,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+120,use,years,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+121,years,token,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+122,years,tokens,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+123,ve,defi,{'j8ryyp'},1,2020-10-10
+124,trade,ve,{'j8ryyp'},1,2020-10-10
+125,ve,time,{'j8psee'},1,2020-10-10
+126,trading,ve,{'j8ryyp'},1,2020-10-10
+129,chain,bitcoin nan,{'j8kzoa'},1,2020-10-10
+130,whales,bitcoin nan,{'j8kzoa'},1,2020-10-10
+131,better bitcoin,bitcoin nan,{'j8nj9q'},1,2020-10-10
+132,https,world,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+136,user,world,"{'j8rkim', 'j8okm0'}",2,2020-10-10
+137,want,crypto,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+138,trade,want,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+139,want,markets,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+140,want,thanks,"{'j8rkim', 'j8l8rs'}",2,2020-10-10
+141,want,https,{'j8rkim'},1,2020-10-10
+142,crypto,community,"{'j8f81x', 'j8n8px'}",2,2020-10-10
+143,https,community,"{'j8f81x', 'j8q6ow'}",2,2020-10-10
+144,community,hold,"{'j8f81x', 'j8q6ow'}",2,2020-10-10
+145,community,amp,{'j8f81x'},1,2020-10-10
+146,com,community,{'j8f81x'},1,2020-10-10
+147,https,token,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+150,tokens,token,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+151,network,token,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+153,day,time,"{'j8p10b', 'j8f81x'}",2,2020-10-10
+154,crypto,day,{'j8f81x'},1,2020-10-10
+155,https,day,{'j8f81x'},1,2020-10-10
+156,amp,day,{'j8f81x'},1,2020-10-10
+157,crypto,vs,{'j8l8rs'},1,2020-10-10
+158,vs,bitcoin,{'j8irnr'},1,2020-10-10
+159,trade,vs,{'j8l8rs'},1,2020-10-10
+160,trading,vs,{'j8l8rs'},1,2020-10-10
+161,want,vs,{'j8l8rs'},1,2020-10-10
+162,https,tokens,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+167,crypto,eth,{'j8rkim'},1,2020-10-10
+168,https,eth,{'j8rkim'},1,2020-10-10
+169,com,eth,{'j8rkim'},1,2020-10-10
+170,trade,eth,{'j8rkim'},1,2020-10-10
+171,blockchain,eth,{'j8rkim'},1,2020-10-10
+173,digital,currency,"{'j8ebme', 'j8hc2g'}",2,2020-10-10
+174,digital,digital currency,"{'j8ebme', 'j8hc2g'}",2,2020-10-10
+175,crypto,digital,{'j8rkim'},1,2020-10-10
+176,https,digital,{'j8rkim'},1,2020-10-10
+177,crypto,year,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+178,https,year,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+180,year,projects,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+181,year,moment,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+182,uniswap,defi,{'j8ryyp'},1,2020-10-10
+183,https,uniswap,{'j8okm0'},1,2020-10-10
+184,trade,uniswap,{'j8ryyp'},1,2020-10-10
+185,uniswap,https www,{'j8okm0'},1,2020-10-10
+186,uniswap,www,{'j8okm0'},1,2020-10-10
+187,value,way,"{'j8rkim', 'j8psee'}",2,2020-10-10
+188,asset,value,"{'j8rkim', 'j8psee'}",2,2020-10-10
+189,level,value,"{'j8rkim', 'j8psee'}",2,2020-10-10
+190,standard,value,"{'j8rkim', 'j8psee'}",2,2020-10-10
+191,super,value,"{'j8rkim', 'j8psee'}",2,2020-10-10
+192,way,value,"{'j8rkim', 'j8psee'}",2,2020-10-10
+193,asset,way,"{'j8rkim', 'j8psee'}",2,2020-10-10
+194,level,way,"{'j8rkim', 'j8psee'}",2,2020-10-10
+195,standard,way,"{'j8rkim', 'j8psee'}",2,2020-10-10
+196,super,way,"{'j8rkim', 'j8psee'}",2,2020-10-10
+197,moon nan,moon,"{'j8avv8', 'j8t8b9'}",2,2020-10-10
+198,crypto,moon,{'j8f81x'},1,2020-10-10
+199,https,moon,{'j8f81x'},1,2020-10-10
+200,amp,moon,{'j8f81x'},1,2020-10-10
+201,com,moon,{'j8f81x'},1,2020-10-10
+202,https,network,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+203,use,network,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+204,years,network,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+206,network,tokens,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+207,https,project,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+208,project,https www,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+209,project,www,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+210,project,time,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+211,project,price,"{'j8f81x', 'j8okm0'}",2,2020-10-10
+212,crypto,marketplace,{'j8rkim'},1,2020-10-10
+213,marketplace,bitcoin,{'j8px3s'},1,2020-10-10
+214,https,marketplace,{'j8rkim'},1,2020-10-10
+215,com,marketplace,{'j8rkim'},1,2020-10-10
+216,trade,marketplace,{'j8rkim'},1,2020-10-10
+217,users,https,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+218,users,use,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+219,users,years,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+220,users,token,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+221,users,tokens,"{'j8rkim', 'j8q6ow'}",2,2020-10-10
+222,link,price,"{'j8f81x', 'j8l7x4'}",2,2020-10-10
+223,crypto,link,{'j8f81x'},1,2020-10-10
+224,https,link,{'j8f81x'},1,2020-10-10
+225,amp,link,{'j8f81x'},1,2020-10-10
+226,com,link,{'j8f81x'},1,2020-10-10
+227,crypto,scam,"{'j8f81x', 'j8mzjl'}",2,2020-10-10
+228,promote,scam,"{'j8f81x', 'j8mzjl'}",2,2020-10-10
+229,https,scam,{'j8f81x'},1,2020-10-10
+230,amp,scam,{'j8f81x'},1,2020-10-10
+231,com,scam,{'j8f81x'},1,2020-10-10
+232,crypto,projects,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+233,https,projects,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+234,com,projects,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+236,projects,year,"{'j8rkim', 'j8f81x'}",2,2020-10-10
+238,game,fees,"{'j8rkim', 'j8iitf'}",2,2020-10-10
+239,crypto,fees,{'j8rkim'},1,2020-10-10
+240,https,fees,{'j8rkim'},1,2020-10-10
+241,com,fees,{'j8rkim'},1,2020-10-10

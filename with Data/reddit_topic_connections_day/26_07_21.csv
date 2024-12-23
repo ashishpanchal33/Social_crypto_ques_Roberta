@@ -1,0 +1,225 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,people,"{'os2cz8', 'os7aj9', 'os7f1e', 'os5wa1', 'orv0gs', 'os4w0l', 'ortd33', 'os3sbz', 'os6c1v', 'os54sp', 'oroaa1', 'os58xy', 'os95wh', 'os4z4e', 'os4a62', 'orymuy', 'oro9dv', 'os7gip', 'orz4ia'}",19,2021-07-26
+1,crypto,don,"{'os94ma', 'os5wa1', 'ortd33', 'os633e', 'os6c1v', 'os54sp', 'oroaa1', 'os7gip', 'orumn1', 'os7aj9', 'os7f1e', 'orv0gs', 'os1z2j', 'os58xy', 'os95wh', 'os8oog', 'os7qc9', 'os400z'}",18,2021-07-26
+2,crypto,money,"{'os4w0l', 'os5oqy', 'oroaa1', 'os3sbz', 'os6c1v', 'os6ca4', 'orv0gs', 'orzmtp', 'os2cz8', 'os7aj9', 'os1z2j', 'os58xy', 'os7qc9', 'orymuy'}",14,2021-07-26
+3,crypto,bitcoin,"{'os29dd', 'oruofg', 'os5oqy', 'oro9dv', 'ortd33', 'orumn1', 'orv0gs', 'orw61b', 'os7ftj', 'os0c0q', 'os8oog', 'orz4ia', 'os84kz', 'ortrc9'}",14,2021-07-26
+4,market,crypto,"{'os665t', 'ortkw2', 'os6c1v', 'os0vhy', 'ortrc9', 'os7f1e', 'os7aj9', 'os1z2j', 'os7qc9', 'orz4ia', 'orvxo7', 'orymuy'}",12,2021-07-26
+5,crypto,time,"{'os94ma', 'oroaa1', 'orumn1', 'orv0gs', 'os7aj9', 'os1z2j', 'os2rhm', 'os7qc9', 'os4a62', 'orymuy'}",10,2021-07-26
+6,people,time,"{'oroaa1', 'os4p99', 'orv0gs', 'os76mj', 'os7aj9', 'os2e93', 'os4a62', 'orymuy'}",8,2021-07-26
+7,time,don,"{'os94ma', 'oroaa1', 'os4p99', 'orv0gs', 'orumn1', 'os7aj9', 'os1z2j', 'os7qc9'}",8,2021-07-26
+8,market,time,"{'os8uqd', 'os7aj9', 'os1z2j', 'os7qc9', 'orok33', 'os703y', 'orymuy'}",7,2021-07-26
+9,money,time,"{'oroaa1', 'orv0gs', 'os7aj9', 'os1z2j', 'os7qc9', 'orymuy'}",6,2021-07-26
+11,people,don,"{'os5wa1', 'orvbwc', 'ortd33', 'oroaa1', 'os6c1v', 'os4p99', 'os54sp', 'os7gip', 'orv0gs', 'os7aj9', 'os7f1e', 'os22ty', 'os58xy', 'os95wh', 'os85wz'}",15,2021-07-26
+12,money,people,"{'os4w0l', 'oruz9u', 'orvbwc', 'oroaa1', 'os3sbz', 'os6c1v', 'orv0gs', 'os2cz8', 'os7aj9', 'os58xy', 'orymuy'}",11,2021-07-26
+13,ve,people,"{'oro9dv', 'os7gip', 'oroaa1', 'os4p99', 'os54sp', 'os2cz8', 'os76mj', 'os58xy', 'orymuy'}",9,2021-07-26
+15,crypto,wallet,"{'os633e', 'os4w0l', 'os58xy', 'os95wh'}",4,2021-07-26
+16,wallet,don,"{'os633e', 'os17m5', 'os58xy', 'os95wh'}",4,2021-07-26
+17,wallet,people,"{'os4w0l', 'os58xy', 'os95wh'}",3,2021-07-26
+18,want,wallet,"{'os4w0l', 'os17m5', 'os58xy'}",3,2021-07-26
+19,send,wallet,"{'os633e', 'os58xy', 'os95wh'}",3,2021-07-26
+20,crypto,check,"{'os58xy', 'os95wh'}",2,2021-07-26
+21,people,check,"{'os58xy', 'os95wh'}",2,2021-07-26
+22,wallet,check,"{'os58xy', 'os95wh'}",2,2021-07-26
+23,https,check,"{'orygt1', 'os58xy'}",2,2021-07-26
+24,check,cryptocurrency,"{'orygt1', 'os58xy'}",2,2021-07-26
+25,com,https,"{'oromlr', 'os4w0l', 'os4efl', 'os3zc8', 'orygt1', 'os85pt', 'oryrrt', 'os58xy', 'os62sh', 'orz4ia', 'oryrei'}",11,2021-07-26
+26,crypto,https,"{'os4w0l', 'orumn1', 'os0vhy', 'os60rx', 'os58xy', 'os4z4e', 'orz4ia', 'oryrei'}",8,2021-07-26
+27,https,amp,"{'os4w0l', 'os3zc8', 'orumn1', 'orygt1', 'orra6n', 'os58xy', 'orz4ia', 'oryrei'}",8,2021-07-26
+28,https,www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os85pt', 'os60rx', 'os58xy', 'orz4ia'}",8,2021-07-26
+29,https,https www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os85pt', 'os60rx', 'os58xy', 'orz4ia'}",8,2021-07-26
+30,non,future,"{'orzgsm', 'os7aj9'}",2,2021-07-26
+31,non,price,"{'os6c7h', 'os7aj9'}",2,2021-07-26
+32,non,crypto,{'os7aj9'},1,2021-07-26
+33,non,time,{'os7aj9'},1,2021-07-26
+34,non,people,{'os7aj9'},1,2021-07-26
+37,money,don,"{'orvbwc', 'oroaa1', 'os6c1v', 'orv0gs', 'os7aj9', 'os1z2j', 'os58xy', 'os7qc9'}",8,2021-07-26
+39,use,money,"{'orzmtp', 'os6ca4', 'orv0gs', 'os2cz8', 'os58xy', 'os7qc9'}",6,2021-07-26
+40,cryptocurrency,bitcoin,"{'orzjj4', 'orsmfo', 'orv0gs', 'orq760', 'os7ftj', 'orz4ia', 'os84kz'}",7,2021-07-26
+41,crypto,cryptocurrency,"{'orv0gs', 'os7ftj', 'os58xy', 'orz4ia', 'os84kz'}",5,2021-07-26
+42,com,cryptocurrency,"{'orv0gs', 'orygt1', 'os85pt', 'os58xy', 'orz4ia'}",5,2021-07-26
+43,amp,cryptocurrency,"{'orv0gs', 'orygt1', 'os7ftj', 'os58xy', 'orz4ia'}",5,2021-07-26
+44,https,cryptocurrency,"{'orz4ia', 'os58xy', 'orygt1', 'os85pt'}",4,2021-07-26
+46,com,amp,"{'os4w0l', 'os3zc8', 'orv0gs', 'orygt1', 'os58xy', 'orz4ia', 'oryrei'}",7,2021-07-26
+47,com,www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os85pt', 'os58xy', 'orz4ia'}",7,2021-07-26
+48,com,https www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os85pt', 'os58xy', 'orz4ia'}",7,2021-07-26
+49,com,crypto,"{'os4w0l', 'ory2e0', 'orv0gs', 'os58xy', 'orz4ia', 'oryrei'}",6,2021-07-26
+51,bitcoin,amazon,"{'os29dd', 'orrpal', 'orxnyt', 'os85wz', 'os0c0q', 'osag8f', 'orw29r', 'os8oog', 'os84kz', 'orpmf7'}",10,2021-07-26
+52,people,bitcoin,"{'oruz9u', 'oro9dv', 'ortd33', 'orv0gs', 'orz4ia', 'os85wz', 'os7wq3'}",7,2021-07-26
+54,bitcoin,price,"{'os23ju', 'os5oqy', 'ortd33', 'os7zi1', 'os599f', 'os703y', 'orpmf7'}",7,2021-07-26
+55,amp,amp x200b,"{'orvbwc', 'os3zc8', 'orumn1', 'orv0gs', 'orygt1', 'os7ftj', 'os58xy', 'os7r44', 'oryrei'}",9,2021-07-26
+56,amp,x200b,"{'orvbwc', 'os3zc8', 'orumn1', 'orv0gs', 'orygt1', 'os7ftj', 'os58xy', 'os7r44', 'oryrei'}",9,2021-07-26
+57,crypto,amp,"{'os4w0l', 'orumn1', 'orv0gs', 'os7ftj', 'os58xy', 'ornime', 'orz4ia', 'oryrei'}",8,2021-07-26
+60,moons,moon,"{'os7q2j', 'oryhf1', 'os7tzl', 'os6c7h', 'os388t', 'os630r'}",6,2021-07-26
+61,moons,sub,"{'os4p99', 'os69zr', 'orvbwc'}",3,2021-07-26
+62,moons,reddit,"{'os3zc8', 'os69zr', 'orvbwc'}",3,2021-07-26
+63,want,moons,"{'os3zc8', 'os4p99', 'orvbwc'}",3,2021-07-26
+64,moons,don,"{'os3zc8', 'os4p99', 'orvbwc'}",3,2021-07-26
+65,crypto,future,"{'orv0gs', 'os60rx', 'os7f1e', 'os7aj9', 'os58xy', 'os2rhm'}",6,2021-07-26
+66,people,future,"{'orv0gs', 'os7f1e', 'os7aj9', 'os58xy', 'os2e93'}",5,2021-07-26
+67,future,time,"{'os2e93', 'orv0gs', 'os2rhm', 'os7aj9'}",4,2021-07-26
+68,future,bitcoin,"{'orzgsm', 'orqkt6', 'orv0gs', 'os388t'}",4,2021-07-26
+69,future,don,"{'os7f1e', 'orv0gs', 'os58xy', 'os7aj9'}",4,2021-07-26
+70,crypto,use,"{'orzmtp', 'os6ca4', 'orv0gs', 'os2cz8', 'os58xy', 'os7qc9'}",6,2021-07-26
+72,use,don,"{'os7qc9', 'os7igv', 'os58xy', 'orv0gs'}",4,2021-07-26
+73,use,need,"{'os6ca4', 'os7igv', 'os58xy', 'orv0gs'}",4,2021-07-26
+74,use,people,"{'orv0gs', 'os58xy', 'os2cz8'}",3,2021-07-26
+75,crypto,think,"{'os94ma', 'os29dd', 'os4w0l', 'os5wa1', 'os7gip', 'orzmtp', 'os0vhy', 'orw52v', 'os1z2j', 'os8oog', 'os7qc9'}",11,2021-07-26
+76,don,think,"{'os94ma', 'os5wa1', 'orvbwc', 'os7gip', 'os1z2j', 'oryypr', 'os7r44', 'os8oog', 'os7qc9'}",9,2021-07-26
+77,people,think,"{'os5wa1', 'os4w0l', 'oruz9u', 'orvbwc', 'os7gip', 'os76mj', 'os2e93'}",7,2021-07-26
+78,time,think,"{'os94ma', 'os76mj', 'os1z2j', 'os2e93', 'os7qc9', 'os703y'}",6,2021-07-26
+79,money,think,"{'os4w0l', 'oruz9u', 'orvbwc', 'orzmtp', 'os1z2j', 'os7qc9'}",6,2021-07-26
+80,people,sub,"{'os5wa1', 'os4p99', 'orymuy', 'orvbwc'}",4,2021-07-26
+82,don,sub,"{'os5wa1', 'os4p99', 'orvbwc'}",3,2021-07-26
+83,ve,sub,"{'os8ajw', 'os4p99', 'orymuy'}",3,2021-07-26
+84,crypto,sub,"{'os5wa1', 'orymuy'}",2,2021-07-26
+86,www,https www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os85pt', 'os60rx', 'os58xy', 'orz4ia'}",8,2021-07-26
+88,amp,www,"{'os4w0l', 'os3zc8', 'orygt1', 'os58xy', 'orz4ia'}",5,2021-07-26
+89,www,reddit,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+90,https,reddit,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+91,com,reddit,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+92,amp,reddit,"{'os4w0l', 'orvbwc', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+94,reddit,https www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+95,want,don,"{'orvbwc', 'os3zc8', 'oroaa1', 'os6c1v', 'os4p99', 'os7aj9', 'os17m5', 'os58xy', 'os8oog'}",9,2021-07-26
+96,want,people,"{'os4w0l', 'orvbwc', 'oroaa1', 'os6c1v', 'os4p99', 'os7aj9', 'os58xy'}",7,2021-07-26
+97,want,crypto,"{'os4w0l', 'oroaa1', 'os6c1v', 'os7aj9', 'os58xy', 'os8oog'}",6,2021-07-26
+98,want,money,"{'os4w0l', 'orvbwc', 'oroaa1', 'os6c1v', 'os7aj9', 'os58xy'}",6,2021-07-26
+99,want,https,"{'os3zc8', 'os4w0l', 'oryrrt', 'os58xy'}",4,2021-07-26
+103,amp,https www,"{'os4w0l', 'os3zc8', 'orygt1', 'os58xy', 'orz4ia'}",5,2021-07-26
+104,https www,reddit,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+105,crypto,invest,"{'ortd33', 'os0vhy', 'os7aj9', 'os7f1e', 'os400z', 'orymuy'}",6,2021-07-26
+106,market,invest,"{'os0vhy', 'os7f1e', 'os2bvm', 'os7aj9', 'orymuy'}",5,2021-07-26
+107,invest,people,"{'ortd33', 'os7f1e', 'orymuy', 'os7aj9'}",4,2021-07-26
+108,invest,don,"{'ortd33', 'os400z', 'os7f1e', 'os7aj9'}",4,2021-07-26
+109,invest,price,"{'ortd33', 'os400z', 'os7aj9'}",3,2021-07-26
+110,want,comments,"{'os8oog', 'os4p99', 'os58xy'}",3,2021-07-26
+111,comments,don,"{'os8oog', 'os4p99', 'os58xy'}",3,2021-07-26
+112,crypto,comments,"{'os8oog', 'os58xy'}",2,2021-07-26
+113,people,comments,"{'os4p99', 'os58xy'}",2,2021-07-26
+114,ve,comments,"{'os4p99', 'os58xy'}",2,2021-07-26
+115,reddit com,https,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+116,com,reddit com,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+117,reddit com,www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+118,reddit com,reddit,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+119,reddit com,https www,"{'oromlr', 'os4w0l', 'os3zc8', 'orygt1', 'os58xy'}",5,2021-07-26
+120,exchange,price,"{'os703y', 'orwg9l', 'os6c7h'}",3,2021-07-26
+121,binance,exchange,"{'os4z4e', 'orv0gs', 'os703y'}",3,2021-07-26
+122,order,exchange,"{'orwg9l', 'orv0gs', 'os703y'}",3,2021-07-26
+123,exchange,crypto,"{'os4z4e', 'orv0gs'}",2,2021-07-26
+124,exchange,time,"{'orv0gs', 'os703y'}",2,2021-07-26
+129,don,time,"{'os94ma', 'oroaa1', 'os4p99', 'orv0gs', 'orumn1', 'os7aj9', 'os1z2j', 'os7qc9'}",8,2021-07-26
+130,share,crypto,"{'os7ftj', 'orv0gs'}",2,2021-07-26
+131,share,cryptocurrency,"{'os7ftj', 'orv0gs'}",2,2021-07-26
+132,com,share,"{'os62sh', 'orv0gs'}",2,2021-07-26
+133,share,bitcoin,"{'os7ftj', 'orv0gs'}",2,2021-07-26
+134,share,amp,"{'os7ftj', 'orv0gs'}",2,2021-07-26
+135,trade,crypto,"{'os5wa1', 'orv0gs', 'orz4ia', 'os3duq'}",4,2021-07-26
+136,trade,people,"{'os5wa1', 'orv0gs', 'orz4ia'}",3,2021-07-26
+137,trade,cryptocurrency,"{'orygt1', 'orv0gs', 'orz4ia'}",3,2021-07-26
+138,com,trade,"{'orygt1', 'orv0gs', 'orz4ia'}",3,2021-07-26
+139,trade,amp,"{'orygt1', 'orv0gs', 'orz4ia'}",3,2021-07-26
+140,crypto,lot,"{'os7gip', 'os6c1v', 'os2rhm', 'oro9dv'}",4,2021-07-26
+141,people,lot,"{'os7gip', 'os6c1v', 'oro9dv', 'os2e93'}",4,2021-07-26
+142,lot,don,"{'os3zc8', 'os6c1v', 'os7gip'}",3,2021-07-26
+143,ve,lot,"{'os7gip', 'os2rhm', 'oro9dv'}",3,2021-07-26
+144,lot,time,"{'os2rhm', 'os2e93'}",2,2021-07-26
+145,crypto,projects,"{'os633e', 'orv0gs', 'os60rx', 'os1z2j', 'os7ftj', 'os58xy', 'os4z4e'}",7,2021-07-26
+146,token,projects,"{'os633e', 'orv0gs', 'os7ftj', 'os58xy', 'os4z4e'}",5,2021-07-26
+147,don,projects,"{'os1z2j', 'os633e', 'orv0gs', 'os58xy'}",4,2021-07-26
+148,project,projects,"{'os2bvm', 'os7ftj', 'orv0gs', 'os60rx'}",4,2021-07-26
+149,simple,projects,"{'os1z2j', 'os7ftj', 'os58xy', 'orv0gs'}",4,2021-07-26
+150,crypto,information,"{'os7qc9', 'os58xy'}",2,2021-07-26
+151,https,information,"{'os58xy', 'os85pt'}",2,2021-07-26
+152,information,money,"{'os7qc9', 'os58xy'}",2,2021-07-26
+153,information,cryptocurrency,"{'os58xy', 'os85pt'}",2,2021-07-26
+154,com,information,"{'os58xy', 'os85pt'}",2,2021-07-26
+155,crypto,smart,"{'os7ftj', 'orv0gs', 'orymuy'}",3,2021-07-26
+156,people,smart,"{'orv0gs', 'os22ty', 'orymuy'}",3,2021-07-26
+157,smart,bull,"{'orv0gs', 'os22ty', 'orymuy'}",3,2021-07-26
+158,smart,time,"{'orv0gs', 'orymuy'}",2,2021-07-26
+159,money,smart,"{'orv0gs', 'orymuy'}",2,2021-07-26
+160,eth,don,"{'os3zc8', 'os6c1v', 'orv0gs', 'os1z2j', 'os17m5'}",5,2021-07-26
+161,people,eth,"{'os6c1v', 'orv0gs', 'oruz9u', 'os76mj'}",4,2021-07-26
+162,money,eth,"{'os1z2j', 'os6c1v', 'orv0gs', 'oruz9u'}",4,2021-07-26
+163,btc,eth,"{'os1z2j', 'osakdv', 'os6c1v', 'orv0gs'}",4,2021-07-26
+164,crypto,eth,"{'os1z2j', 'os6c1v', 'orv0gs'}",3,2021-07-26
+165,check,com cryptocurrency,"{'os58xy', 'orygt1'}",2,2021-07-26
+166,https,com cryptocurrency,"{'os58xy', 'orygt1'}",2,2021-07-26
+167,cryptocurrency,com cryptocurrency,"{'os58xy', 'orygt1'}",2,2021-07-26
+168,com,com cryptocurrency,"{'os58xy', 'orygt1'}",2,2021-07-26
+169,amp,com cryptocurrency,"{'os58xy', 'orygt1'}",2,2021-07-26
+170,profit,people,"{'os22ty', 'os7aj9'}",2,2021-07-26
+171,profit,don,"{'os22ty', 'os7aj9'}",2,2021-07-26
+172,profit,crypto,{'os7aj9'},1,2021-07-26
+173,profit,time,{'os7aj9'},1,2021-07-26
+174,non,profit,{'os7aj9'},1,2021-07-26
+175,crypto,pump,"{'os5wa1', 'orv0gs', 'os3duq', 'os8oog', 'oryrei'}",5,2021-07-26
+176,don,pump,"{'os5wa1', 'orv0gs', 'os22ty', 'os8oog'}",4,2021-07-26
+177,people,pump,"{'os5wa1', 'orv0gs', 'os22ty'}",3,2021-07-26
+178,trade,pump,"{'os5wa1', 'orv0gs', 'os3duq'}",3,2021-07-26
+179,time,pump,"{'os8uqd', 'orv0gs'}",2,2021-07-26
+180,june,bitcoin,"{'os7yi9', 'os703y', 'os7wq3'}",3,2021-07-26
+181,june,time,"{'os7yi9', 'os703y'}",2,2021-07-26
+182,june,weeks,"{'os703y', 'os7wq3'}",2,2021-07-26
+183,mid,june,"{'os7yi9', 'os703y'}",2,2021-07-26
+184,people,june,{'os7wq3'},1,2021-07-26
+185,crypto,longer,"{'os1z2j', 'orymuy'}",2,2021-07-26
+186,longer,time,"{'os1z2j', 'orymuy'}",2,2021-07-26
+187,money,longer,"{'os1z2j', 'orymuy'}",2,2021-07-26
+188,market,longer,"{'os1z2j', 'orymuy'}",2,2021-07-26
+189,years,longer,"{'os1z2j', 'orymuy'}",2,2021-07-26
+190,crypto,rest,"{'oroaa1', 'os7f1e'}",2,2021-07-26
+191,people,rest,"{'oroaa1', 'os7f1e'}",2,2021-07-26
+192,rest,don,"{'oroaa1', 'os7f1e'}",2,2021-07-26
+193,trading,rest,"{'oroaa1', 'os7f1e'}",2,2021-07-26
+194,rest,day,"{'oroaa1', 'os7f1e'}",2,2021-07-26
+197,market,price,"{'os8ajw', 'os7aj9', 'os1z2j', 'os599f', 'orra6n', 'os703y'}",6,2021-07-26
+198,market,btc,"{'os8ajw', 'os6c1v', 'os1z2j', 'orok33', 'orz4ia', 'os703y'}",6,2021-07-26
+199,market,crypto market,"{'os665t', 'ortkw2', 'os0vhy', 'os7qc9', 'orvxo7', 'ortrc9'}",6,2021-07-26
+200,quick,crypto,"{'os1z2j', 'os7gip', 'os7f1e'}",3,2021-07-26
+201,quick,don,"{'os1z2j', 'os7gip', 'os7f1e'}",3,2021-07-26
+202,quick,people,"{'os7gip', 'os7f1e'}",2,2021-07-26
+203,quick,think,"{'os1z2j', 'os7gip'}",2,2021-07-26
+204,market,quick,"{'os1z2j', 'os7f1e'}",2,2021-07-26
+205,discussion,future,"{'orzgsm', 'os85pt'}",2,2021-07-26
+206,discussion,value,"{'orvbwc', 'os85pt'}",2,2021-07-26
+207,discussion,people,{'orvbwc'},1,2021-07-26
+208,discussion,https,{'os85pt'},1,2021-07-26
+209,non,discussion,{'orzgsm'},1,2021-07-26
+210,crypto,point,"{'os1z2j', 'os6c1v'}",2,2021-07-26
+211,money,point,"{'os1z2j', 'os6c1v'}",2,2021-07-26
+212,don,point,"{'os1z2j', 'os6c1v'}",2,2021-07-26
+213,eth,point,"{'os1z2j', 'os6c1v'}",2,2021-07-26
+214,market,point,"{'os1z2j', 'os6c1v'}",2,2021-07-26
+215,crypto,fall,"{'ortd33', 'os58xy'}",2,2021-07-26
+216,people,fall,"{'ortd33', 'os58xy'}",2,2021-07-26
+217,fall,don,"{'ortd33', 'os58xy'}",2,2021-07-26
+218,wallet,fall,{'os58xy'},1,2021-07-26
+219,check,fall,{'os58xy'},1,2021-07-26
+220,crypto,transactions,"{'orv0gs', 'orz4ia'}",2,2021-07-26
+221,people,transactions,"{'orv0gs', 'orz4ia'}",2,2021-07-26
+222,transactions,cryptocurrency,"{'orv0gs', 'orz4ia'}",2,2021-07-26
+223,com,transactions,"{'orv0gs', 'orz4ia'}",2,2021-07-26
+224,transactions,bitcoin,"{'orv0gs', 'orz4ia'}",2,2021-07-26
+225,crypto,adoption,"{'os8oog', 'orzmtp', 'os6ca4'}",3,2021-07-26
+226,money,adoption,"{'orzmtp', 'os6ca4'}",2,2021-07-26
+227,use,adoption,"{'orzmtp', 'os6ca4'}",2,2021-07-26
+228,adoption,think,"{'os8oog', 'orzmtp'}",2,2021-07-26
+229,blockchain,adoption,"{'os8oog', 'os6ca4'}",2,2021-07-26
+230,sources,don,"{'os7r44', 'os95wh'}",2,2021-07-26
+231,sources,end,"{'os7r44', 'os95wh'}",2,2021-07-26
+232,accept,sources,"{'os7r44', 'os95wh'}",2,2021-07-26
+233,sources,crypto,{'os95wh'},1,2021-07-26
+234,sources,people,{'os95wh'},1,2021-07-26
+235,crypto,course,{'os7f1e'},1,2021-07-26
+236,people,course,{'os7f1e'},1,2021-07-26
+237,https,course,{'oryrrt'},1,2021-07-26
+238,com,course,{'oryrrt'},1,2021-07-26
+239,course,future,{'os7f1e'},1,2021-07-26
+240,send,don,"{'os3zc8', 'os633e', 'os58xy', 'os95wh'}",4,2021-07-26
+241,crypto,send,"{'os633e', 'os58xy', 'os95wh'}",3,2021-07-26
+242,wallet,send,"{'os633e', 'os58xy', 'os95wh'}",3,2021-07-26
+243,send,people,"{'os58xy', 'os95wh'}",2,2021-07-26
+244,send,check,"{'os58xy', 'os95wh'}",2,2021-07-26
+246,crypto,price,"{'os4w0l', 'os5oqy', 'ortd33', 'os7aj9', 'os1z2j', 'os400z'}",6,2021-07-26
+248,btc,price,"{'os23ju', 'os8ajw', 'os1z2j', 'os703y', 'orpmf7'}",5,2021-07-26
+249,time,price,"{'os1z2j', 'os7zi1', 'os703y', 'os7aj9'}",4,2021-07-26

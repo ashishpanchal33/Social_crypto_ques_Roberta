@@ -1,0 +1,208 @@
+,token_1,token_2,connections,connections_strength,date
+0,ethereum,bitcoin,"{'gytiyi', 'gz0k8m', 'gz8v1l', 'gypti1'}",4,2020-06-08
+1,bitcoin,fees,"{'gytiyi', 'gz0k8m', 'gz8v1l', 'gypti1'}",4,2020-06-08
+2,com,bitcoin,"{'gz1pc0', 'gyr9pl', 'gzag8z'}",3,2020-06-08
+3,transaction,bitcoin,"{'gz9v3m', 'gz0k8m', 'gz8v1l'}",3,2020-06-08
+4,cryptocurrency,bitcoin,"{'gyou95', 'gyxnz9'}",2,2020-06-08
+5,crypto,https,"{'gyo3r3', 'gyo6wg'}",2,2020-06-08
+6,crypto,future,"{'gz604n', 'gyqwht'}",2,2020-06-08
+7,crypto,bitcoin,{'gyqwht'},1,2020-06-08
+8,crypto,amp,{'gyqwht'},1,2020-06-08
+9,com,crypto,{'gyo3r3'},1,2020-06-08
+11,https,cryptocurrency,{'gz3bz4'},1,2020-06-08
+12,com,cryptocurrency,{'gz3bz4'},1,2020-06-08
+13,cryptocurrency,www,{'gz3bz4'},1,2020-06-08
+14,cryptocurrency,https www,{'gz3bz4'},1,2020-06-08
+15,com,https,"{'gz2ajz', 'gyo3r3', 'gzag8z', 'gyr9pl', 'gytecu', 'gyu7v5', 'gz8jtz', 'gz3bz4', 'gyyvjq'}",9,2020-06-08
+16,https,news,"{'gz2ajz', 'gyu7v5', 'gzag8z', 'gz3bz4'}",4,2020-06-08
+17,coins,https,"{'gz2qje', 'gz2ajz', 'gzag8z'}",3,2020-06-08
+18,post,https,"{'gz3bz4', 'gytecu', 'gyyvjq'}",3,2020-06-08
+19,https,account,"{'gz3bz4', 'gytecu', 'gzag8z'}",3,2020-06-08
+20,https,amp,"{'gyu7v5', 'gyyvjq'}",2,2020-06-08
+21,com,amp,"{'gyu7v5', 'gyyvjq'}",2,2020-06-08
+22,amp,app,"{'gyu7v5', 'gyyvjq'}",2,2020-06-08
+23,amp,bitcoin,{'gyqwht'},1,2020-06-08
+26,com,news,"{'gz2ajz', 'gyu7v5', 'gzag8z', 'gz3bz4'}",4,2020-06-08
+27,com,account,"{'gz3bz4', 'gytecu', 'gz1pc0', 'gzag8z'}",4,2020-06-08
+29,post,com,"{'gz3bz4', 'gytecu', 'gyyvjq'}",3,2020-06-08
+30,https,www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+31,com,www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+32,www,https www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+33,post,www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+34,account,www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+35,https,https www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+36,com,https www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+38,post,https www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+39,account,https www,"{'gz3bz4', 'gytecu'}",2,2020-06-08
+40,com,blockchain,"{'gz1pc0', 'gz8jtz'}",2,2020-06-08
+41,market,blockchain,"{'gz0sby', 'gz8jtz'}",2,2020-06-08
+42,blockchain,future,"{'gz0sby', 'gz8jtz'}",2,2020-06-08
+43,blockchain,bitcoin,{'gz1pc0'},1,2020-06-08
+44,https,blockchain,{'gz8jtz'},1,2020-06-08
+45,time,bitcoin,"{'gytofn', 'gzag8z'}",2,2020-06-08
+46,time,needs,"{'gytofn', 'gzag8z'}",2,2020-06-08
+47,new time,time,"{'gytofn', 'gyqy3a'}",2,2020-06-08
+48,crypto,time,{'gyqy3a'},1,2020-06-08
+49,https,time,{'gzag8z'},1,2020-06-08
+50,don,price,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+51,want,don,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+52,coin,don,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+53,worth,don,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+54,use,don,{'gz81fx'},1,2020-06-08
+56,ethereum,fees,"{'gytiyi', 'gz0k8m', 'gz8v1l', 'gypti1'}",4,2020-06-08
+57,transaction,ethereum,"{'gz0k8m', 'gz8v1l'}",2,2020-06-08
+58,yesterday,ethereum,"{'gytiyi', 'gypti1'}",2,2020-06-08
+59,ethereum,fees nan,"{'gz0k8m', 'gz8v1l'}",2,2020-06-08
+60,https,comments,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+61,com,comments,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+62,comments,click,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+63,comments,day,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+64,post,comments,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+65,https,read,"{'gyu7v5', 'gyo6wg'}",2,2020-06-08
+66,bitcoin,read,{'gyou95'},1,2020-06-08
+67,crypto,read,{'gyo6wg'},1,2020-06-08
+68,cryptocurrency,read,{'gyou95'},1,2020-06-08
+69,amp,read,{'gyu7v5'},1,2020-06-08
+70,exchange,bitcoin,"{'gzag8z', 'gyxnz9'}",2,2020-06-08
+71,exchange,coinbase,"{'gzag8z', 'gz8ime'}",2,2020-06-08
+72,exchange,account,"{'gzag8z', 'gz8ime'}",2,2020-06-08
+73,exchange,doesn,"{'gzag8z', 'gz8ime'}",2,2020-06-08
+74,exchange,cryptocurrency,{'gyxnz9'},1,2020-06-08
+75,btc,bitcoin,"{'gytyty', 'gywgfb'}",2,2020-06-08
+76,btc,break,"{'gywgfb', 'gz29a9'}",2,2020-06-08
+77,https,btc,{'gyu7v5'},1,2020-06-08
+78,amp,btc,{'gyu7v5'},1,2020-06-08
+79,com,btc,{'gyu7v5'},1,2020-06-08
+80,https,click,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+81,com,click,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+83,click,day,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+84,post,click,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+85,https,rest,{'gyyvjq'},1,2020-06-08
+86,amp,rest,{'gyyvjq'},1,2020-06-08
+87,com,rest,{'gyyvjq'},1,2020-06-08
+88,rest,time,{'gyshrr'},1,2020-06-08
+89,comments,rest,{'gyyvjq'},1,2020-06-08
+91,coins,coinbase,"{'gz284l', 'gzag8z'}",2,2020-06-08
+92,account,coinbase,"{'gz8ime', 'gzag8z'}",2,2020-06-08
+93,coinbase,address,"{'gz3zwa', 'gz8ime'}",2,2020-06-08
+94,doesn,coinbase,"{'gzag8z', 'gz8ime'}",2,2020-06-08
+95,discussion,cryptocurrency,{'gz3bz4'},1,2020-06-08
+96,discussion,https,{'gz3bz4'},1,2020-06-08
+97,discussion,amp,{'gz3k05'},1,2020-06-08
+98,com,discussion,{'gz3bz4'},1,2020-06-08
+99,discussion,www,{'gz3bz4'},1,2020-06-08
+100,crypto,think,{'gyo6wg'},1,2020-06-08
+101,https,think,{'gyo6wg'},1,2020-06-08
+102,time,think,{'gyshrr'},1,2020-06-08
+103,think,read,{'gyo6wg'},1,2020-06-08
+104,rest,think,{'gyshrr'},1,2020-06-08
+106,want,price,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+107,coin,price,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+108,worth,price,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+109,use,price,{'gz81fx'},1,2020-06-08
+110,https,day,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+111,com,day,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+114,post,day,"{'gz3bz4', 'gyyvjq'}",2,2020-06-08
+115,https,money,{'gytecu'},1,2020-06-08
+116,com,money,{'gytecu'},1,2020-06-08
+117,money,www,{'gytecu'},1,2020-06-08
+118,money,https www,{'gytecu'},1,2020-06-08
+119,post,money,{'gytecu'},1,2020-06-08
+120,wallet,bitcoin,{'gz9v3m'},1,2020-06-08
+121,wallet,read,{'gz8ime'},1,2020-06-08
+122,exchange,wallet,{'gz8ime'},1,2020-06-08
+123,wallet,coinbase,{'gz8ime'},1,2020-06-08
+124,use,wallet,{'gz8ime'},1,2020-06-08
+125,network,bitcoin,{'gypti1'},1,2020-06-08
+126,crypto,network,{'gyu9et'},1,2020-06-08
+127,ethereum,network,{'gypti1'},1,2020-06-08
+128,network,fees,{'gypti1'},1,2020-06-08
+129,network,june,{'gyu9et'},1,2020-06-08
+130,https,use,"{'gz2ajz', 'gyo3r3'}",2,2020-06-08
+131,com,use,"{'gz2ajz', 'gyo3r3'}",2,2020-06-08
+132,coin,use,"{'gz2ajz', 'gz81fx'}",2,2020-06-08
+133,use,lot,"{'gyo3r3', 'gz8ime'}",2,2020-06-08
+134,use,address,"{'gz2ajz', 'gz8ime'}",2,2020-06-08
+136,market,future,"{'gz0sby', 'gz8jtz'}",2,2020-06-08
+137,market,https,{'gz8jtz'},1,2020-06-08
+138,com,market,{'gz8jtz'},1,2020-06-08
+139,market,digital,{'gz8jtz'},1,2020-06-08
+142,transaction,fees,"{'gz0k8m', 'gz8v1l'}",2,2020-06-08
+143,transaction,fees nan,"{'gz0k8m', 'gz8v1l'}",2,2020-06-08
+144,transaction fees,transaction,"{'gz0k8m', 'gz8v1l'}",2,2020-06-08
+147,want,coin,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+148,want,worth,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+149,want,https,{'gyyvjq'},1,2020-06-08
+151,coins,monero,"{'gz284l', 'gz2ajz', 'gz3fri'}",3,2020-06-08
+152,com,coins,"{'gz2ajz', 'gzag8z'}",2,2020-06-08
+154,coins,news,"{'gz2ajz', 'gzag8z'}",2,2020-06-08
+158,account,news,"{'gz3bz4', 'gzag8z'}",2,2020-06-08
+159,news,tools,"{'gz3bz4', 'gzag8z'}",2,2020-06-08
+160,https,digital,"{'gyo3r3', 'gz8jtz'}",2,2020-06-08
+161,com,digital,"{'gyo3r3', 'gz8jtz'}",2,2020-06-08
+162,crypto,digital,{'gyo3r3'},1,2020-06-08
+163,blockchain,digital,{'gz8jtz'},1,2020-06-08
+164,use,digital,{'gyo3r3'},1,2020-06-08
+166,com,post,"{'gz3bz4', 'gytecu', 'gyyvjq'}",3,2020-06-08
+167,post,events,"{'gyv9ni', 'gz3bz4', 'gyyvjq'}",3,2020-06-08
+174,coin,coins,"{'gz2ajz', 'gz82g1'}",2,2020-06-08
+175,stay,read,{'gz8ime'},1,2020-06-08
+176,stay,exchange,{'gz8ime'},1,2020-06-08
+177,stay,btc,{'gz29a9'},1,2020-06-08
+178,stay,coinbase,{'gz8ime'},1,2020-06-08
+179,stay,wallet,{'gz8ime'},1,2020-06-08
+183,yesterday,fees,"{'gytiyi', 'gypti1'}",2,2020-06-08
+184,fees nan,fees,"{'gz0k8m', 'gz8v1l'}",2,2020-06-08
+185,blockchain,thanks,{'gyzjns'},1,2020-06-08
+186,don,thanks,{'gz82g1'},1,2020-06-08
+187,price,thanks,{'gz82g1'},1,2020-06-08
+188,want,thanks,{'gz82g1'},1,2020-06-08
+189,coins,thanks,{'gz82g1'},1,2020-06-08
+192,account,bitcoin,"{'gz1pc0', 'gzag8z'}",2,2020-06-08
+195,link,chain,"{'gyv9ni', 'gzag8z'}",2,2020-06-08
+196,chain,bitcoin,{'gzag8z'},1,2020-06-08
+197,https,chain,{'gzag8z'},1,2020-06-08
+198,com,chain,{'gzag8z'},1,2020-06-08
+199,blockchain,chain,{'gz0sby'},1,2020-06-08
+200,cryptocurrencies,read,{'gz8ime'},1,2020-06-08
+201,exchange,cryptocurrencies,{'gz8ime'},1,2020-06-08
+202,cryptocurrencies,coinbase,{'gz8ime'},1,2020-06-08
+203,cryptocurrencies,wallet,{'gz8ime'},1,2020-06-08
+204,cryptocurrencies,use,{'gz8ime'},1,2020-06-08
+208,future,bitcoin,{'gyqwht'},1,2020-06-08
+209,https,future,{'gz8jtz'},1,2020-06-08
+210,trading,ada,"{'gyumm6', 'gyuoja'}",2,2020-06-08
+211,trading,contract,"{'gyumm6', 'gyuoja'}",2,2020-06-08
+212,trading,usdt,"{'gyumm6', 'gyuoja'}",2,2020-06-08
+213,trading,ada usdt,"{'gyumm6', 'gyuoja'}",2,2020-06-08
+214,trading,bingbon,"{'gyumm6', 'gyuoja'}",2,2020-06-08
+215,binance,volume,"{'gz79zl', 'gyqy3a'}",2,2020-06-08
+216,binance,crypto,{'gyqy3a'},1,2020-06-08
+217,binance,time,{'gyqy3a'},1,2020-06-08
+218,trading,binance,{'gz79zl'},1,2020-06-08
+219,binance,bitmex,{'gyqy3a'},1,2020-06-08
+220,hello,help,"{'gzab9g', 'gz8ime'}",2,2020-06-08
+221,appreciate,help,"{'gzab9g', 'gz8ime'}",2,2020-06-08
+222,appreciate help,help,"{'gzab9g', 'gz8ime'}",2,2020-06-08
+223,help,read,{'gz8ime'},1,2020-06-08
+224,exchange,help,{'gz8ime'},1,2020-06-08
+226,crypto,lot,{'gyo3r3'},1,2020-06-08
+227,https,lot,{'gyo3r3'},1,2020-06-08
+228,com,lot,{'gyo3r3'},1,2020-06-08
+229,lot,read,{'gz8ime'},1,2020-06-08
+230,https,life,{'gytecu'},1,2020-06-08
+231,com,life,{'gytecu'},1,2020-06-08
+232,life,www,{'gytecu'},1,2020-06-08
+233,life,https www,{'gytecu'},1,2020-06-08
+234,life,don,{'gz81fx'},1,2020-06-08
+235,https,app,"{'gyu7v5', 'gyyvjq'}",2,2020-06-08
+237,com,app,"{'gyu7v5', 'gyyvjq'}",2,2020-06-08
+238,comments,app,{'gyyvjq'},1,2020-06-08
+239,app,read,{'gyu7v5'},1,2020-06-08
+240,com,june,"{'gz1pc0', 'gyyvjq'}",2,2020-06-08
+241,june 2020,june,"{'gz6gr0', 'gyyvjq'}",2,2020-06-08
+242,june,bitcoin,{'gz1pc0'},1,2020-06-08
+243,crypto,june,{'gyu9et'},1,2020-06-08
+244,https,june,{'gyyvjq'},1,2020-06-08
+248,coin,worth,"{'gz81fx', 'gz82g1'}",2,2020-06-08
+249,use,worth,{'gz81fx'},1,2020-06-08

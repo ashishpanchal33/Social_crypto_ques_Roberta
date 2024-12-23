@@ -1,0 +1,220 @@
+,token_1,token_2,connections,connections_strength,date
+0,bitcoin,price,"{'irp3o5', 'irphk2', 'iryzkb'}",3,2020-09-13
+1,bitcoin,time,"{'irp3o5', 'is1rw7', 'is9797'}",3,2020-09-13
+2,amp,bitcoin,"{'irp3o5', 'is5kbz'}",2,2020-09-13
+3,trade,bitcoin,"{'irp3o5', 'irx5x0'}",2,2020-09-13
+4,right,bitcoin,"{'irthrm', 'irx5x0'}",2,2020-09-13
+5,crypto,amp,"{'irx494', 'is9nvl', 'is1x8d', 'irpeyj'}",4,2020-09-13
+6,crypto,cryptocurrency,"{'irx494', 'is3sao', 'is1x8d', 'irpeyj'}",4,2020-09-13
+7,crypto,time,"{'irx494', 'is9nvl', 'irpa4f', 'irpeyj'}",4,2020-09-13
+8,com,crypto,"{'irx494', 'is1x8d', 'irpeyj'}",3,2020-09-13
+9,crypto,https,"{'irx494', 'is1x8d', 'irpeyj'}",3,2020-09-13
+10,com,https,"{'irpeyj', 'irx494', 'irsz9s', 'is1x8d', 'irnxzo', 'irphk2'}",6,2020-09-13
+11,com,amp,"{'irx494', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+12,com,cryptocurrency,"{'irx494', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+13,com,www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+14,com,https www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+17,amp,cryptocurrency,"{'irx494', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+18,https,amp,"{'irx494', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+19,amp,time,"{'irx494', 'irp3o5', 'is9nvl', 'irpeyj'}",4,2020-09-13
+23,https,cryptocurrency,"{'irx494', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+24,cryptocurrency,www,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+28,https,www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+29,https,https www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+32,www,https www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+33,www,reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+34,reddit com,www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+38,https www,reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+39,reddit com,https www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+40,com,check,"{'irx494', 'irnxzo', 'irpeyj'}",3,2020-09-13
+41,amp,check,"{'irx494', 'irnxzo', 'irpeyj'}",3,2020-09-13
+42,check,cryptocurrency,"{'irx494', 'irnxzo', 'irpeyj'}",3,2020-09-13
+43,https,check,"{'irx494', 'irnxzo', 'irpeyj'}",3,2020-09-13
+44,crypto,check,"{'irx494', 'irpeyj'}",2,2020-09-13
+45,com,comments,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+46,amp,comments,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+47,comments,cryptocurrency,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+48,https,comments,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+49,comments,www,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+50,isn,defi,"{'irxwhq', 'is1rw7'}",2,2020-09-13
+51,defi,bitcoin,{'is1rw7'},1,2020-09-13
+52,crypto,defi,{'is7tt7'},1,2020-09-13
+53,defi,cryptocurrency,{'is7s6r'},1,2020-09-13
+54,trade,defi,{'is7s6r'},1,2020-09-13
+55,trade,cryptocurrency,"{'is3sao', 'is7s6r', 'irnxzo'}",3,2020-09-13
+56,trade,years,"{'irp3o5', 'is7s6r', 'is7de1'}",3,2020-09-13
+57,trading,trade,"{'irp3o5', 'is3sao', 'irx5x0'}",3,2020-09-13
+59,trade,amp,"{'irp3o5', 'irnxzo'}",2,2020-09-13
+60,com,information,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+61,information,amp,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+62,information,cryptocurrency,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+63,https,information,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+64,information,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+65,com,reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+66,https,reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+68,reddit,https www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+69,reddit com,reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+70,amp,rest,"{'irp3o5', 'irnxzo'}",2,2020-09-13
+71,trade,rest,"{'irp3o5', 'irnxzo'}",2,2020-09-13
+72,rest,bitcoin,{'irp3o5'},1,2020-09-13
+73,com,rest,{'irnxzo'},1,2020-09-13
+74,cryptocurrency,rest,{'irnxzo'},1,2020-09-13
+75,com,discussion,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+76,discussion,amp,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+77,discussion,cryptocurrency,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+78,discussion,https,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+79,discussion,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+81,right,defi,{'irvic9'},1,2020-09-13
+82,trade,right,{'irx5x0'},1,2020-09-13
+83,right,read,{'irx5x0'},1,2020-09-13
+84,right,ve,{'irx5x0'},1,2020-09-13
+85,com,reddit com,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+86,reddit com,https,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+90,com,www reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+91,https,www reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+92,www reddit,www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+93,www reddit,https www,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+94,www reddit,reddit,"{'irphk2', 'is1x8d', 'irnxzo', 'irpeyj'}",4,2020-09-13
+95,https,blockchain,"{'irsz9s', 'is0qfn'}",2,2020-09-13
+96,blockchain,chain,"{'irsz9s', 'is0qfn'}",2,2020-09-13
+97,blockchain,ease,"{'irsz9s', 'is0qfn'}",2,2020-09-13
+98,com,blockchain,{'irsz9s'},1,2020-09-13
+99,blockchain,btc,{'is0qfn'},1,2020-09-13
+100,com,com cryptocurrency,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+101,amp,com cryptocurrency,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+102,cryptocurrency,com cryptocurrency,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+103,https,com cryptocurrency,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+104,www,com cryptocurrency,"{'is1x8d', 'irnxzo', 'irpeyj'}",3,2020-09-13
+105,com,search,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+106,search,amp,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+107,search,cryptocurrency,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+108,search,https,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+109,search,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+110,com,pump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+111,amp,pump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+112,cryptocurrency,pump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+113,https,pump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+114,www,pump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+115,com,dump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+116,amp,dump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+117,dump,cryptocurrency,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+118,https,dump,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+119,dump,www,"{'is1x8d', 'irnxzo'}",2,2020-09-13
+120,trade,profit,"{'irpdpe', 'irnxzo'}",2,2020-09-13
+121,com,profit,{'irnxzo'},1,2020-09-13
+122,profit,amp,{'irnxzo'},1,2020-09-13
+123,profit,cryptocurrency,{'irnxzo'},1,2020-09-13
+124,profit,https,{'irnxzo'},1,2020-09-13
+126,time,price,"{'irp3o5', 'irpa4f', 'irpeyj'}",3,2020-09-13
+127,price,year,"{'irp3o5', 'irphk2', 'irpeyj'}",3,2020-09-13
+128,crypto,price,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+129,com,price,"{'irphk2', 'irpeyj'}",2,2020-09-13
+130,com,amp restrict_sr,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+131,amp,amp restrict_sr,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+132,cryptocurrency,amp restrict_sr,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+133,https,amp restrict_sr,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+134,amp restrict_sr,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+135,com,cryptocurrency search,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+136,cryptocurrency search,amp,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+137,cryptocurrency search,cryptocurrency,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+138,cryptocurrency search,https,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+139,cryptocurrency search,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+140,com,discussions,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+141,discussions,amp,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+142,discussions,cryptocurrency,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+143,https,discussions,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+144,discussions,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+145,com,restrict_sr,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+146,restrict_sr,amp,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+147,restrict_sr,cryptocurrency,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+148,restrict_sr,https,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+149,restrict_sr,www,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+150,bought,bitcoin,{'is8rls'},1,2020-09-13
+151,bought,crypto,{'is6r0o'},1,2020-09-13
+152,bought,years,{'is6r0o'},1,2020-09-13
+153,coin,bought,{'is6r0o'},1,2020-09-13
+154,bought,btc,{'is6r0o'},1,2020-09-13
+155,september,coins,"{'is8iph', 'is8ie0'}",2,2020-09-13
+156,september,momentum,"{'is8iph', 'is8ie0'}",2,2020-09-13
+157,september,trend,"{'is8iph', 'is8ie0'}",2,2020-09-13
+158,september,indicators,"{'is8iph', 'is8ie0'}",2,2020-09-13
+159,september,according trend,"{'is8iph', 'is8ie0'}",2,2020-09-13
+160,com,sort,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+161,amp,sort,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+162,cryptocurrency,sort,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+163,https,sort,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+164,www,sort,"{'irnxzo', 'irpeyj'}",2,2020-09-13
+167,time,bitcoin,"{'irp3o5', 'is1rw7', 'is9797'}",3,2020-09-13
+169,market,time,"{'irp3o5', 'irpa4f', 'irtipw'}",3,2020-09-13
+170,trade,read,"{'irnxzo', 'irx5x0'}",2,2020-09-13
+171,bitcoin,read,{'irx5x0'},1,2020-09-13
+172,com,read,{'irnxzo'},1,2020-09-13
+173,amp,read,{'irnxzo'},1,2020-09-13
+174,cryptocurrency,read,{'irnxzo'},1,2020-09-13
+175,trading,ve,"{'irroeo', 'irx5x0'}",2,2020-09-13
+176,ve,bitcoin,{'irx5x0'},1,2020-09-13
+177,trade,ve,{'irx5x0'},1,2020-09-13
+179,ve,read,{'irx5x0'},1,2020-09-13
+180,ethereum,bitcoin,"{'irp3o5', 'iryzkb'}",2,2020-09-13
+181,ethereum,price,"{'irp3o5', 'iryzkb'}",2,2020-09-13
+182,ethereum,amp,{'irp3o5'},1,2020-09-13
+183,trade,ethereum,{'irp3o5'},1,2020-09-13
+184,ethereum,rest,{'irp3o5'},1,2020-09-13
+186,market,price,"{'irp3o5', 'irpa4f'}",2,2020-09-13
+187,market,bitcoin,{'irp3o5'},1,2020-09-13
+188,market,crypto,{'irpa4f'},1,2020-09-13
+189,market,amp,{'irp3o5'},1,2020-09-13
+190,today,price,"{'iryzkb', 'irpeyj'}",2,2020-09-13
+191,today,bitcoin,{'iryzkb'},1,2020-09-13
+192,crypto,today,{'irpeyj'},1,2020-09-13
+193,com,today,{'irpeyj'},1,2020-09-13
+194,amp,today,{'irpeyj'},1,2020-09-13
+196,years,bitcoin,"{'irp3o5', 'irtdau'}",2,2020-09-13
+197,years,time,"{'irp3o5', 'is7de1'}",2,2020-09-13
+198,binance,years,"{'is6r0o', 'is7de1'}",2,2020-09-13
+199,years,coinbase,"{'is6r0o', 'is7de1'}",2,2020-09-13
+200,money,value,"{'irx494', 'irx4nr'}",2,2020-09-13
+201,money,bitcoin,{'iryzkb'},1,2020-09-13
+202,crypto,money,{'irx494'},1,2020-09-13
+203,com,money,{'irx494'},1,2020-09-13
+204,money,amp,{'irx494'},1,2020-09-13
+205,crypto,feel,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+206,feel,price,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+207,feel,time,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+208,coin,feel,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+209,coins,feel,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+210,coin,crypto,"{'irpa4f', 'is6r0o', 'irpeyj'}",3,2020-09-13
+211,coin,price,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+212,coin,time,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+214,coin,coins,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+215,sources,bitcoin,{'is1rw7'},1,2020-09-13
+216,com,sources,{'irnxzo'},1,2020-09-13
+217,sources,amp,{'irnxzo'},1,2020-09-13
+218,sources,cryptocurrency,{'irnxzo'},1,2020-09-13
+219,sources,https,{'irnxzo'},1,2020-09-13
+220,don,time,"{'irpa4f', 'is7de1'}",2,2020-09-13
+221,gifs,don,"{'irpa4f', 'is9h10'}",2,2020-09-13
+222,crypto,don,{'irpa4f'},1,2020-09-13
+223,cryptocurrency,don,{'is9h10'},1,2020-09-13
+224,trade,don,{'is7de1'},1,2020-09-13
+225,people,cryptocurrency,"{'irx494', 'is7s6r', 'irpeyj'}",3,2020-09-13
+226,people,project,"{'irx494', 'is7s6r', 'irpeyj'}",3,2020-09-13
+227,crypto,people,"{'irx494', 'irpeyj'}",2,2020-09-13
+228,com,people,"{'irx494', 'irpeyj'}",2,2020-09-13
+229,amp,people,"{'irx494', 'irpeyj'}",2,2020-09-13
+230,wallet,btc,"{'is0qfn', 'is47ws'}",2,2020-09-13
+231,btc,bitcoin,{'iryzkb'},1,2020-09-13
+232,crypto,btc,{'is6r0o'},1,2020-09-13
+233,https,btc,{'is0qfn'},1,2020-09-13
+235,coins,crypto,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+236,coins,price,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+238,coins,time,"{'irpa4f', 'irpeyj'}",2,2020-09-13
+240,trade,trading,"{'irp3o5', 'is3sao', 'irx5x0'}",3,2020-09-13
+241,trading,bitcoin,"{'irp3o5', 'irx5x0'}",2,2020-09-13
+243,trading,assets,"{'irv2uq', 'irp3o5'}",2,2020-09-13
+244,trading,crypto,{'is3sao'},1,2020-09-13
+245,crypto,use,"{'irx494', 'is6r0o'}",2,2020-09-13
+246,use,sure,"{'irx494', 'irqmgj'}",2,2020-09-13
+247,finance,use,"{'irx494', 'irqmgj'}",2,2020-09-13
+248,use,account,"{'is6r0o', 'irqmgj'}",2,2020-09-13
+249,option,use,"{'is6r0o', 'irqmgj'}",2,2020-09-13

@@ -1,0 +1,222 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,blockchain,"{'eb1oln', 'eaykwx', 'eb269b', 'eb1it5', 'eavqdc'}",5,2019-12-15
+1,trading,crypto,"{'eb1ihd', 'eatmgn', 'eaw041', 'eas34p', 'eavqdc'}",5,2019-12-15
+2,crypto,mining,"{'eb1oln', 'eatmgn', 'eb6kte', 'eb1it5', 'eavqdc'}",5,2019-12-15
+3,crypto,time,"{'eauy50', 'eb3i8c', 'eatmgn', 'eavqdc'}",4,2019-12-15
+4,crypto,bitcoin,"{'eb269b', 'eatmgn', 'eavqdc'}",3,2019-12-15
+5,cryptocurrency,bitcoin,"{'eawedl', 'eaz0vs', 'eatmgn', 'eavqdc'}",4,2019-12-15
+6,com,bitcoin,"{'eb6bxx', 'eb5dgl', 'eavqdc', 'eb5ie4'}",4,2019-12-15
+7,ethereum,bitcoin,"{'eb269b', 'eb1s83', 'eau6hj', 'eavqdc'}",4,2019-12-15
+8,trading,bitcoin,"{'eb5ie4', 'eatmgn', 'eb5dgl', 'eavqdc'}",4,2019-12-15
+11,crypto,cryptocurrency,"{'eatmgn', 'eaxpsb', 'eavqdc'}",3,2019-12-15
+12,cryptocurrency,time,"{'eatmgn', 'eavqdc', 'eb0g2l'}",3,2019-12-15
+13,amp,cryptocurrency,"{'eawedl', 'eavqdc'}",2,2019-12-15
+14,information,cryptocurrency,"{'eatmgn', 'eavqdc'}",2,2019-12-15
+15,com,https,"{'eb5dgl', 'eaya1u', 'eaysr4', 'eas34p', 'eb2yct', 'eazb4p', 'eavqdc'}",7,2019-12-15
+17,trading,com,"{'eas34p', 'eb5ie4', 'eb5dgl', 'eavqdc'}",4,2019-12-15
+18,com,scam,"{'eas34p', 'eaysr4', 'eb5dgl', 'eb5ie4'}",4,2019-12-15
+19,com,amp,"{'eas34p', 'eb5dgl', 'eavqdc'}",3,2019-12-15
+21,https,amp,"{'eb5dgl', 'eb15k5', 'eas34p', 'eb169w', 'eavqdc'}",5,2019-12-15
+22,https,btc,"{'eas34p', 'eb2yct', 'eavqdc', 'eaykwx'}",4,2019-12-15
+23,binance,https,"{'eas34p', 'eb169w', 'eb14gf', 'eb15k5'}",4,2019-12-15
+24,https,amp x200b,"{'eas34p', 'eb169w', 'eb15k5', 'eb5dgl'}",4,2019-12-15
+26,amp,amp x200b,"{'eas34p', 'eb169w', 'eb15k5', 'eb5dgl'}",4,2019-12-15
+27,amp,x200b,"{'eas34p', 'eb169w', 'eb15k5', 'eb5dgl'}",4,2019-12-15
+28,amp,bitcoin,"{'eawedl', 'eb5dgl', 'eavqdc'}",3,2019-12-15
+31,https,blockchain,"{'eavqdc', 'eazb4p', 'eaykwx'}",3,2019-12-15
+32,blockchain,mining,"{'eb1it5', 'eb1oln', 'eavqdc'}",3,2019-12-15
+33,blockchain,bitcoin,"{'eb269b', 'eavqdc'}",2,2019-12-15
+34,com,blockchain,"{'eazb4p', 'eavqdc'}",2,2019-12-15
+35,https,www,"{'eavcbu', 'eavqdc'}",2,2019-12-15
+36,www,https www,"{'eavcbu', 'eavqdc'}",2,2019-12-15
+37,crypto,www,{'eavqdc'},1,2019-12-15
+38,www,bitcoin,{'eavqdc'},1,2019-12-15
+39,cryptocurrency,www,{'eavqdc'},1,2019-12-15
+40,https,https www,"{'eavcbu', 'eavqdc'}",2,2019-12-15
+42,crypto,https www,{'eavqdc'},1,2019-12-15
+43,bitcoin,https www,{'eavqdc'},1,2019-12-15
+44,cryptocurrency,https www,{'eavqdc'},1,2019-12-15
+47,ethereum,time,"{'eb2uyf', 'eb2vol', 'eavqdc'}",3,2019-12-15
+48,information,time,"{'eatmgn', 'eazb4p', 'eavqdc'}",3,2019-12-15
+49,market,time,"{'eatmgn', 'eb15r1', 'eb0g2l'}",3,2019-12-15
+52,ethereum,digital,"{'eb0sk7', 'easecr', 'eaxq7f'}",3,2019-12-15
+53,ethereum,support,"{'eb0sk7', 'eaxq7f', 'easecr'}",3,2019-12-15
+54,ethereum,fidelity,"{'eb0sk7', 'easecr', 'eaxq7f'}",3,2019-12-15
+55,crypto,read,{'eatmgn'},1,2019-12-15
+56,bitcoin,read,{'eatmgn'},1,2019-12-15
+57,cryptocurrency,read,{'eatmgn'},1,2019-12-15
+58,time,read,{'eatmgn'},1,2019-12-15
+59,information,read,{'eatmgn'},1,2019-12-15
+60,crypto,information,"{'eas34p', 'eatmgn', 'eavqdc'}",3,2019-12-15
+61,com,information,"{'eas34p', 'eazb4p', 'eavqdc'}",3,2019-12-15
+62,https,information,"{'eas34p', 'eazb4p', 'eavqdc'}",3,2019-12-15
+64,trading,information,"{'eas34p', 'eatmgn', 'eavqdc'}",3,2019-12-15
+65,crypto,year,{'eaykwx'},1,2019-12-15
+66,bitcoin,year,{'eb6bxx'},1,2019-12-15
+67,cryptocurrency,year,{'eaxyyc'},1,2019-12-15
+68,com,year,{'eb6bxx'},1,2019-12-15
+69,https,year,{'eaykwx'},1,2019-12-15
+70,trade,crypto,"{'eas34p', 'eawek1'}",2,2019-12-15
+71,trade,ve,"{'eas34p', 'eb3oav'}",2,2019-12-15
+72,trade,thanks,"{'eas34p', 'eb3oav'}",2,2019-12-15
+73,trade,withdraw,"{'eas34p', 'eb3oav'}",2,2019-12-15
+74,trade,appreciated thanks,"{'eas34p', 'eb3oav'}",2,2019-12-15
+75,crypto,people,"{'eb269b', 'eatmgn'}",2,2019-12-15
+76,people,bitcoin,"{'eb269b', 'eatmgn'}",2,2019-12-15
+77,coin,people,"{'eb269b', 'eatmgn'}",2,2019-12-15
+78,people,think,"{'eb269b', 'eatmgn'}",2,2019-12-15
+79,use,people,"{'eb269b', 'eatmgn'}",2,2019-12-15
+80,money,bitcoin,"{'eb269b', 'eb181z', 'eaxmfm'}",3,2019-12-15
+81,crypto,money,"{'eb6kte', 'eb269b'}",2,2019-12-15
+82,understand,money,"{'eb181z', 'eaxmfm'}",2,2019-12-15
+83,years,money,"{'eb6kte', 'eb363k'}",2,2019-12-15
+84,money,buying,"{'eb181z', 'eaxmfm'}",2,2019-12-15
+85,crypto,check,{'eaykwx'},1,2019-12-15
+86,com,check,{'eb21cr'},1,2019-12-15
+87,https,check,{'eaykwx'},1,2019-12-15
+88,blockchain,check,{'eaykwx'},1,2019-12-15
+89,check,year,{'eaykwx'},1,2019-12-15
+90,crypto,ve,"{'eas34p', 'eb4b60'}",2,2019-12-15
+92,ve,thanks,"{'eas34p', 'eb3oav'}",2,2019-12-15
+93,withdraw,ve,"{'eas34p', 'eb3oav'}",2,2019-12-15
+94,ve,appreciated thanks,"{'eas34p', 'eb3oav'}",2,2019-12-15
+95,profit,mining,"{'eaya1u', 'eatmgn'}",2,2019-12-15
+96,profit,coins,"{'eaya1u', 'eatmgn'}",2,2019-12-15
+97,profit,crypto,{'eatmgn'},1,2019-12-15
+98,profit,bitcoin,{'eatmgn'},1,2019-12-15
+99,profit,cryptocurrency,{'eatmgn'},1,2019-12-15
+100,bitcoin,price,{'eb1s83'},1,2019-12-15
+101,cryptocurrency,price,{'eazlh6'},1,2019-12-15
+102,ethereum,price,{'eb1s83'},1,2019-12-15
+103,don,price,{'eazlh6'},1,2019-12-15
+104,need,price,{'eazlh6'},1,2019-12-15
+107,com,trading,"{'eas34p', 'eb5ie4', 'eb5dgl', 'eavqdc'}",4,2019-12-15
+108,trading,https,"{'eas34p', 'eb5dgl', 'eavqdc'}",3,2019-12-15
+109,trading,amp,"{'eas34p', 'eb5dgl', 'eavqdc'}",3,2019-12-15
+110,crypto,don,{'eb3i8c'},1,2019-12-15
+111,cryptocurrency,don,{'eazlh6'},1,2019-12-15
+112,don,time,{'eb3i8c'},1,2019-12-15
+114,worth,don,{'eb3i8c'},1,2019-12-15
+116,market,cryptocurrency,"{'eatmgn', 'eb0g2l'}",2,2019-12-15
+117,coin,market,"{'eatmgn', 'eb15r1'}",2,2019-12-15
+118,market,crypto,{'eatmgn'},1,2019-12-15
+119,market,bitcoin,{'eatmgn'},1,2019-12-15
+120,crypto,worth,"{'eas34p', 'eb3i8c'}",2,2019-12-15
+121,com,worth,"{'eas34p', 'eb2yct'}",2,2019-12-15
+122,https,worth,"{'eas34p', 'eb2yct'}",2,2019-12-15
+123,btc,worth,"{'eas34p', 'eb2yct'}",2,2019-12-15
+124,today,worth,"{'eas34p', 'eb3i8c'}",2,2019-12-15
+125,crypto,project,"{'eas34p', 'eb1ihd', 'eatmgn'}",3,2019-12-15
+126,information,project,"{'eas34p', 'eatmgn', 'eazb4p'}",3,2019-12-15
+127,trading,project,"{'eas34p', 'eb1ihd', 'eatmgn'}",3,2019-12-15
+128,project,hand,"{'eas34p', 'eatmgn', 'eazb4p'}",3,2019-12-15
+129,com,project,"{'eas34p', 'eazb4p'}",2,2019-12-15
+130,investment,time,"{'eb2uyf', 'eb2vol'}",2,2019-12-15
+131,ethereum,investment,"{'eb2uyf', 'eb2vol'}",2,2019-12-15
+132,return,investment,"{'eb2uyf', 'eb2vol'}",2,2019-12-15
+133,return investment,investment,"{'eb2uyf', 'eb2vol'}",2,2019-12-15
+134,investment nan,investment,"{'eb2uyf', 'eb2vol'}",2,2019-12-15
+135,coin,crypto,"{'eb269b', 'eb4b60', 'eatmgn'}",3,2019-12-15
+136,coin,bitcoin,"{'eb269b', 'eatmgn'}",2,2019-12-15
+137,coin,time,"{'eatmgn', 'eb15r1'}",2,2019-12-15
+139,market,coin,"{'eatmgn', 'eb15r1'}",2,2019-12-15
+140,crypto,think,"{'eb269b', 'eatmgn'}",2,2019-12-15
+141,bitcoin,think,"{'eb269b', 'eatmgn'}",2,2019-12-15
+143,coin,think,"{'eb269b', 'eatmgn'}",2,2019-12-15
+144,use,think,"{'eb269b', 'eatmgn'}",2,2019-12-15
+145,coin,way,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+146,coins,way,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+147,work,way,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+148,business,way,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+149,way,past,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+151,crypto,btc,"{'eas34p', 'eavqdc', 'eaykwx'}",3,2019-12-15
+152,com,btc,"{'eas34p', 'eb2yct', 'eavqdc'}",3,2019-12-15
+153,hello,btc,"{'eas34p', 'eaykwx', 'eavqdc'}",3,2019-12-15
+154,btc,bitcoin,"{'eau6hj', 'eavqdc'}",2,2019-12-15
+155,crypto,use,"{'eb269b', 'eatmgn', 'eas34p'}",3,2019-12-15
+156,code,use,"{'eb269b', 'eatmgn', 'eas34p'}",3,2019-12-15
+157,use,bitcoin,"{'eb269b', 'eatmgn'}",2,2019-12-15
+158,com,use,"{'eas34p', 'eb21cr'}",2,2019-12-15
+159,information,use,"{'eas34p', 'eatmgn'}",2,2019-12-15
+161,mining,blockchain,"{'eb1it5', 'eb1oln', 'eavqdc'}",3,2019-12-15
+162,coins,mining,"{'eaya1u', 'eatmgn', 'eavqdc'}",3,2019-12-15
+163,mining,bitcoin,"{'eatmgn', 'eavqdc'}",2,2019-12-15
+164,mining,cryptocurrency,"{'eatmgn', 'eavqdc'}",2,2019-12-15
+165,coins,crypto,"{'eatmgn', 'eavqdc', 'eaykwx'}",3,2019-12-15
+166,coins,https,"{'eaya1u', 'eavqdc', 'eaykwx'}",3,2019-12-15
+168,coins,trades,"{'eaykwx', 'eatmgn', 'eavqdc'}",3,2019-12-15
+169,coins,bitcoin,"{'eatmgn', 'eavqdc'}",2,2019-12-15
+170,exchange,crypto,"{'eaykwx', 'eavqcg'}",2,2019-12-15
+171,exchange,https,"{'eaya1u', 'eaykwx'}",2,2019-12-15
+172,exchange,coins,"{'eaya1u', 'eaykwx'}",2,2019-12-15
+173,com,exchange,{'eaya1u'},1,2019-12-15
+174,exchange,blockchain,{'eaykwx'},1,2019-12-15
+175,crypto,address,{'eas34p'},1,2019-12-15
+176,com,address,{'eas34p'},1,2019-12-15
+177,https,address,{'eas34p'},1,2019-12-15
+178,amp,address,{'eas34p'},1,2019-12-15
+179,information,address,{'eas34p'},1,2019-12-15
+180,crypto,sell,"{'eb6kte', 'eatmgn'}",2,2019-12-15
+181,mining,sell,"{'eb6kte', 'eatmgn'}",2,2019-12-15
+182,sell,bitcoin,{'eatmgn'},1,2019-12-15
+183,sell,cryptocurrency,{'eatmgn'},1,2019-12-15
+184,sell,time,{'eatmgn'},1,2019-12-15
+185,crypto,currency,"{'eb269b', 'eas34p'}",2,2019-12-15
+186,use,currency,"{'eb269b', 'eas34p'}",2,2019-12-15
+187,code,currency,"{'eb269b', 'eas34p'}",2,2019-12-15
+188,currency,bitcoin,{'eb269b'},1,2019-12-15
+189,com,currency,{'eas34p'},1,2019-12-15
+190,lot,start,"{'eb2yct', 'eatmgn'}",2,2019-12-15
+191,website,start,"{'eb2yct', 'eatmgn'}",2,2019-12-15
+192,bot,start,"{'eb2yct', 'eatmgn'}",2,2019-12-15
+193,crypto,start,{'eatmgn'},1,2019-12-15
+194,start,bitcoin,{'eatmgn'},1,2019-12-15
+195,need,person,"{'eas34p', 'eazlh6', 'eatmgn'}",3,2019-12-15
+196,crypto,need,"{'eas34p', 'eatmgn'}",2,2019-12-15
+197,cryptocurrency,need,"{'eazlh6', 'eatmgn'}",2,2019-12-15
+198,information,need,"{'eas34p', 'eatmgn'}",2,2019-12-15
+199,trading,need,"{'eas34p', 'eatmgn'}",2,2019-12-15
+200,eth,bitcoin,"{'eau6hj', 'eavqdc'}",2,2019-12-15
+201,ethereum,eth,"{'eau6hj', 'eavqdc'}",2,2019-12-15
+202,btc,eth,"{'eau6hj', 'eavqdc'}",2,2019-12-15
+203,analysis,eth,"{'eau6hj', 'eavqdc'}",2,2019-12-15
+204,crypto,eth,{'eavqdc'},1,2019-12-15
+205,xrp,bitcoin,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+206,xrp,ethereum,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+207,ripple,xrp,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+208,xrp,ripple xrp,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+209,xrp,crypto,{'eavqdc'},1,2019-12-15
+210,assets,digital,"{'eb0sk7', 'easecr', 'eaxq7f', 'eaykwx'}",4,2019-12-15
+211,digital,digital assets,"{'eb0sk7', 'easecr', 'eaxq7f', 'eaykwx'}",4,2019-12-15
+213,digital,support,"{'eb0sk7', 'easecr', 'eaxq7f'}",3,2019-12-15
+214,digital,fidelity,"{'eb0sk7', 'easecr', 'eaxq7f'}",3,2019-12-15
+215,crypto,exchanges,"{'eb1ihd', 'eavqcg'}",2,2019-12-15
+216,https,exchanges,"{'eb169w', 'eb15k5'}",2,2019-12-15
+217,amp,exchanges,"{'eb169w', 'eb15k5'}",2,2019-12-15
+218,binance,exchanges,"{'eb169w', 'eb15k5'}",2,2019-12-15
+219,amp x200b,exchanges,"{'eb169w', 'eb15k5'}",2,2019-12-15
+220,crypto,today,"{'eas34p', 'eb3i8c'}",2,2019-12-15
+222,today,day,"{'eas34p', 'eb3i8c'}",2,2019-12-15
+223,withdraw,today,"{'eas34p', 'eb3i8c'}",2,2019-12-15
+224,com,today,{'eas34p'},1,2019-12-15
+225,coin,work,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+227,coins,work,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+228,want,work,"{'eatmgn', 'eb363k'}",2,2019-12-15
+229,business,work,"{'eat0j3', 'eatmgn'}",2,2019-12-15
+230,crypto,value,"{'eb269b', 'eatmgn'}",2,2019-12-15
+231,bitcoin,value,"{'eb269b', 'eatmgn'}",2,2019-12-15
+232,people,value,"{'eb269b', 'eatmgn'}",2,2019-12-15
+233,coin,value,"{'eb269b', 'eatmgn'}",2,2019-12-15
+234,think,value,"{'eb269b', 'eatmgn'}",2,2019-12-15
+235,ripple,bitcoin,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+236,ripple,ethereum,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+238,ripple,ripple xrp,"{'eb1s83', 'eavqdc'}",2,2019-12-15
+239,ripple,crypto,{'eavqdc'},1,2019-12-15
+241,binance,net,"{'eas34p', 'eb169w', 'eb14gf', 'eb15k5'}",4,2019-12-15
+242,binance,bittrex,"{'eb169w', 'eb14gf', 'eb15k5', 'eb0gs3'}",4,2019-12-15
+243,binance,net https,"{'eas34p', 'eb169w', 'eb14gf', 'eb15k5'}",4,2019-12-15
+244,binance,amp,"{'eas34p', 'eb169w', 'eb15k5'}",3,2019-12-15
+245,crypto,day,"{'eaw041', 'eb3i8c', 'eas34p'}",3,2019-12-15
+246,trading,day,"{'eaw041', 'eas34p'}",2,2019-12-15
+247,worth,day,"{'eas34p', 'eb3i8c'}",2,2019-12-15
+249,day,online,"{'eas34p', 'eb363k'}",2,2019-12-15

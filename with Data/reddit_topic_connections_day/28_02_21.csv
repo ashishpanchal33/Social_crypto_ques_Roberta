@@ -1,0 +1,197 @@
+,token_1,token_2,connections,connections_strength,date
+0,market,crypto,"{'lu2c49', 'lu11nm', 'lu50zs', 'lu3wyw', 'lu3ycl'}",5,2021-02-28
+1,crypto,people,"{'lu5414', 'lu3wyw', 'lu50zs'}",3,2021-02-28
+2,crypto,think,"{'lu5414', 'lu3wyw', 'lu50zs'}",3,2021-02-28
+3,crypto,years,"{'lu3ycl', 'lu3wyw', 'lu6e31'}",3,2021-02-28
+4,crypto,sell,"{'lu6e31', 'lu3wyw', 'lu2zo7'}",3,2021-02-28
+5,com,https,"{'lu0lxv', 'lu6zoc'}",2,2021-02-28
+6,https,smart,"{'lu0lxv', 'lu6zoc'}",2,2021-02-28
+7,https,cryptocurrency,{'lu0lxv'},1,2021-02-28
+8,invest,https,{'lu0lxv'},1,2021-02-28
+9,https,sub,{'lu0lxv'},1,2021-02-28
+10,cryptocurrency,sub,"{'lu5414', 'lu0lxv'}",2,2021-02-28
+11,check,cryptocurrency,"{'lu5414', 'lu0lxv'}",2,2021-02-28
+12,information,cryptocurrency,"{'lu2vsj', 'lu0lxv'}",2,2021-02-28
+13,helpful,cryptocurrency,"{'lu2vsj', 'lu5414'}",2,2021-02-28
+14,crypto,cryptocurrency,{'lu5414'},1,2021-02-28
+16,com,smart,"{'lu0lxv', 'lu6zoc'}",2,2021-02-28
+17,com,cryptocurrency,{'lu0lxv'},1,2021-02-28
+18,com,invest,{'lu0lxv'},1,2021-02-28
+19,com,sub,{'lu0lxv'},1,2021-02-28
+20,crypto,invest,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+21,profit,invest,"{'lu0lxv', 'lu6e31'}",2,2021-02-28
+22,invest,afford,"{'lu0lxv', 'lu6e31'}",2,2021-02-28
+23,invest,fall,"{'lu0lxv', 'lu6e31'}",2,2021-02-28
+24,invest,community,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+26,check,sub,"{'lu5414', 'lu0lxv'}",2,2021-02-28
+27,crypto,sub,{'lu5414'},1,2021-02-28
+31,people,think,"{'lu5414', 'lu3wyw', 'lu50zs'}",3,2021-02-28
+32,people,bitcoin,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+33,people,don,"{'lu5414', 'lu50zs'}",2,2021-02-28
+34,market,people,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+35,https,wallet,{'lu0lxv'},1,2021-02-28
+36,wallet,cryptocurrency,{'lu0lxv'},1,2021-02-28
+37,com,wallet,{'lu0lxv'},1,2021-02-28
+38,invest,wallet,{'lu0lxv'},1,2021-02-28
+39,wallet,sub,{'lu0lxv'},1,2021-02-28
+42,crypto,check,{'lu5414'},1,2021-02-28
+43,https,check,{'lu0lxv'},1,2021-02-28
+44,com,check,{'lu0lxv'},1,2021-02-28
+47,cryptocurrency,smart,{'lu0lxv'},1,2021-02-28
+48,invest,smart,{'lu0lxv'},1,2021-02-28
+49,smart,sub,{'lu0lxv'},1,2021-02-28
+51,https,information,{'lu0lxv'},1,2021-02-28
+52,com,information,{'lu0lxv'},1,2021-02-28
+53,invest,information,{'lu0lxv'},1,2021-02-28
+54,information,sub,{'lu0lxv'},1,2021-02-28
+55,moons,https,{'lu0lxv'},1,2021-02-28
+56,moons,cryptocurrency,{'lu0lxv'},1,2021-02-28
+57,com,moons,{'lu0lxv'},1,2021-02-28
+58,moons,invest,{'lu0lxv'},1,2021-02-28
+59,moons,sub,{'lu0lxv'},1,2021-02-28
+61,profit,afford,"{'lu0lxv', 'lu6e31'}",2,2021-02-28
+62,profit,fall,"{'lu0lxv', 'lu6e31'}",2,2021-02-28
+63,profit,rules,"{'lu4zor', 'lu0lxv'}",2,2021-02-28
+64,profit,crypto,{'lu6e31'},1,2021-02-28
+65,discussion,thread,"{'lu0lxv', 'lu4hum'}",2,2021-02-28
+66,discussion,daily discussion,"{'lu0lxv', 'lu4hum'}",2,2021-02-28
+67,discussion,discussion thread,"{'lu0lxv', 'lu4hum'}",2,2021-02-28
+68,discussion,crypto,{'lu11nm'},1,2021-02-28
+69,discussion,https,{'lu0lxv'},1,2021-02-28
+70,crypto,afford,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+73,afford lose,afford,"{'lu0lxv', 'lu3wyw'}",2,2021-02-28
+74,fall,afford,"{'lu0lxv', 'lu6e31'}",2,2021-02-28
+75,time,bitcoin,"{'lu5414', 'lu3ht8'}",2,2021-02-28
+76,post,time,"{'lu4zor', 'lu5414'}",2,2021-02-28
+77,time,day,"{'lu4zor', 'lu5414'}",2,2021-02-28
+78,dollars,time,"{'lu4zor', 'lu5414'}",2,2021-02-28
+79,time nan,time,"{'lu3kim', 'lu2rr7'}",2,2021-02-28
+80,crypto,bitcoin,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+82,bitcoin,time,"{'lu5414', 'lu3ht8'}",2,2021-02-28
+83,bitcoin,think,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+84,right,bitcoin,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+86,afford lose,amounts,"{'lu0lxv', 'lu3wyw'}",2,2021-02-28
+87,afford lose,crypto,{'lu3wyw'},1,2021-02-28
+88,afford lose,https,{'lu0lxv'},1,2021-02-28
+89,afford lose,cryptocurrency,{'lu0lxv'},1,2021-02-28
+93,crypto,fall,{'lu6e31'},1,2021-02-28
+94,https,fall,{'lu0lxv'},1,2021-02-28
+95,amounts,afford,"{'lu0lxv', 'lu3wyw'}",2,2021-02-28
+97,crypto,amounts,{'lu3wyw'},1,2021-02-28
+98,https,amounts,{'lu0lxv'},1,2021-02-28
+99,amounts,cryptocurrency,{'lu0lxv'},1,2021-02-28
+101,daily discussion,thread,"{'lu0lxv', 'lu4hum'}",2,2021-02-28
+102,discussion thread,thread,"{'lu0lxv', 'lu4hum'}",2,2021-02-28
+103,https,thread,{'lu0lxv'},1,2021-02-28
+104,cryptocurrency,thread,{'lu0lxv'},1,2021-02-28
+105,ve,eth,"{'lu50zs', 'lu6zoc'}",2,2021-02-28
+106,ve,end,"{'lu50zs', 'lu6zoc'}",2,2021-02-28
+107,blockchain,ve,"{'lu50zs', 'lu6zoc'}",2,2021-02-28
+108,ve,decentralization,"{'lu50zs', 'lu6zoc'}",2,2021-02-28
+109,crypto,ve,{'lu50zs'},1,2021-02-28
+110,crypto,don,"{'lu5414', 'lu50zs'}",2,2021-02-28
+112,post,don,"{'lu5414', 'lu50zs'}",2,2021-02-28
+113,don,think,"{'lu5414', 'lu50zs'}",2,2021-02-28
+114,don,thank,"{'lu5414', 'lu50zs'}",2,2021-02-28
+115,crypto,money,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+116,money,afford,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+117,years,money,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+118,money,sell,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+119,money,term,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+120,beginner,https,{'lu0lxv'},1,2021-02-28
+121,beginner,cryptocurrency,{'lu0lxv'},1,2021-02-28
+122,com,beginner,{'lu0lxv'},1,2021-02-28
+123,beginner,invest,{'lu0lxv'},1,2021-02-28
+124,beginner,sub,{'lu0lxv'},1,2021-02-28
+127,market,eth,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+128,market,btc,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+129,market,think,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+131,rules,https,{'lu0lxv'},1,2021-02-28
+132,rules,cryptocurrency,{'lu0lxv'},1,2021-02-28
+133,com,rules,{'lu0lxv'},1,2021-02-28
+134,rules,invest,{'lu0lxv'},1,2021-02-28
+135,post,crypto,"{'lu5414', 'lu50zs'}",2,2021-02-28
+136,post,people,"{'lu5414', 'lu50zs'}",2,2021-02-28
+139,post,think,"{'lu5414', 'lu50zs'}",2,2021-02-28
+140,crypto,eth,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+141,people,eth,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+144,btc,eth,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+145,crypto,btc,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+146,people,btc,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+149,btc,think,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+150,crypto,community,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+152,coin,community,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+153,coins,community,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+154,community,coinbase,"{'lu2h4t', 'lu50zs'}",2,2021-02-28
+160,crypto,day,"{'lu5414', 'lu3ycl'}",2,2021-02-28
+161,day,time,"{'lu4zor', 'lu5414'}",2,2021-02-28
+162,post,day,"{'lu4zor', 'lu5414'}",2,2021-02-28
+163,stop,day,"{'lu5414', 'lu3ycl'}",2,2021-02-28
+164,bought,day,"{'lu4zor', 'lu3ycl'}",2,2021-02-28
+166,years,afford,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+168,market,years,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+169,years,sell,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+171,sell,afford,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+174,sell,term,"{'lu3wyw', 'lu6e31'}",2,2021-02-28
+177,discussion thread,daily discussion,"{'lu0lxv', 'lu4hum'}",2,2021-02-28
+178,https,daily discussion,{'lu0lxv'},1,2021-02-28
+179,daily discussion,cryptocurrency,{'lu0lxv'},1,2021-02-28
+180,ethereum,end,"{'lu3ht8', 'lu6zoc'}",2,2021-02-28
+181,number,ethereum,"{'lu3ht8', 'lu6zoc'}",2,2021-02-28
+182,https,ethereum,{'lu6zoc'},1,2021-02-28
+183,com,ethereum,{'lu6zoc'},1,2021-02-28
+184,ethereum,smart,{'lu6zoc'},1,2021-02-28
+185,crypto,way,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+186,market,way,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+187,years,way,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+188,week,way,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+189,people,way,{'lu3wyw'},1,2021-02-28
+190,crypto,right,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+191,right,people,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+193,right,think,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+194,right,start,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+195,coin,crypto,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+196,coin,invest,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+197,coin,people,"{'lu50zs', 'lu2hgl'}",2,2021-02-28
+199,coin,coins,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+200,coins,crypto,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+201,coins,invest,"{'lu6e31', 'lu50zs'}",2,2021-02-28
+204,coins,edit,"{'lu3ht8', 'lu50zs'}",2,2021-02-28
+205,cash,dollars,"{'lu4zor', 'lu3wyw'}",2,2021-02-28
+206,crypto,cash,{'lu3wyw'},1,2021-02-28
+207,cash,people,{'lu3wyw'},1,2021-02-28
+208,profit,cash,{'lu4zor'},1,2021-02-28
+209,cash,afford,{'lu3wyw'},1,2021-02-28
+210,crypto,start,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+211,people,start,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+212,start,bitcoin,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+213,start,think,"{'lu5414', 'lu3wyw'}",2,2021-02-28
+216,edit,end,"{'lu3ht8', 'lu50zs'}",2,2021-02-28
+217,stellar,edit,"{'lu3ht8', 'lu50zs'}",2,2021-02-28
+218,crypto,edit,{'lu50zs'},1,2021-02-28
+219,invest,edit,{'lu50zs'},1,2021-02-28
+220,trading,bitcoin,"{'lu5414', 'lu4rv9'}",2,2021-02-28
+221,trading,crypto,{'lu5414'},1,2021-02-28
+222,trading,cryptocurrency,{'lu5414'},1,2021-02-28
+223,trading,sub,{'lu5414'},1,2021-02-28
+224,trading,people,{'lu5414'},1,2021-02-28
+226,eth,end,"{'lu50zs', 'lu6zoc'}",2,2021-02-28
+228,coins,end,"{'lu3ht8', 'lu50zs'}",2,2021-02-28
+230,crypto,week,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+231,market,week,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+232,years,week,"{'lu3wyw', 'lu3ycl'}",2,2021-02-28
+234,week,people,{'lu3wyw'},1,2021-02-28
+235,crypto,feel,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+236,people,feel,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+237,market,feel,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+238,feel,eth,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+239,btc,feel,"{'lu3wyw', 'lu50zs'}",2,2021-02-28
+240,dogecoin,time,{'lu3ht8'},1,2021-02-28
+241,dogecoin,bitcoin,{'lu3ht8'},1,2021-02-28
+242,dogecoin,ethereum,{'lu3ht8'},1,2021-02-28
+243,dogecoin,coins,{'lu3ht8'},1,2021-02-28
+244,dogecoin,edit,{'lu3ht8'},1,2021-02-28
+245,stop,crypto,"{'lu5414', 'lu3ycl'}",2,2021-02-28
+247,stop,cryptocurrency,{'lu5414'},1,2021-02-28
+248,stop,sub,{'lu5414'},1,2021-02-28
+249,stop,people,{'lu5414'},1,2021-02-28

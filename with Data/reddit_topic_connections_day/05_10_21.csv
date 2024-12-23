@@ -1,0 +1,230 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,people,"{'q1vsy9', 'q228da', 'q234du', 'q1vt6d', 'q25tdh', 'q1z1a5', 'q1u2ua', 'q25waw', 'q1znvu', 'q27l2o', 'q27wos', 'q1v4qx', 'q25uxv', 'q1sqm3', 'q1wsgd', 'q1wcyu', 'q1x304', 'q256vt', 'q1tgui', 'q22nog', 'q1x7i0', 'q252bx', 'q25ayu', 'q24wbe', 'q1wi9o', 'q24gkn', 'q22tm4'}",27,2021-10-05
+1,crypto,money,"{'q1vpvf', 'q1vsy9', 'q22o7x', 'q228da', 'q1z1a5', 'q1u2ua', 'q23aoz', 'q28okw', 'q25z9l', 'q1uy99', 'q232g9', 'q1utgl', 'q1waar', 'q1v4qx', 'q1wsgd', 'q26sjd', 'q23e74', 'q256vt', 'q1tgui', 'q22n8w', 'q1x7i0', 'q252bx', 'q25ayu', 'q23v5s'}",24,2021-10-05
+2,market,crypto,"{'q1vpvf', 'q1zj9f', 'q1su25', 'q228da', 'q1u3zo', 'q23scm', 'q224sv', 'q25waw', 'q27l2o', 'q25z9l', 'q1uy99', 'q23qb3', 'q1uobb', 'q1wsgd', 'q1wcyu', 'q26sjd', 'q1kxkw', 'q256vt', 'q22nog', 'q1x7i0', 'q252bx', 'q23v5s'}",22,2021-10-05
+3,crypto,ve,"{'q1vpvf', 'q233pt', 'q26mqb', 'q22o7x', 'q228da', 'q1sk2k', 'q23scm', 'q1znvu', 'q28okw', 'q25z9l', 'q1uy99', 'q245xp', 'q23qb3', 'q1sqm3', 'q1uobb', 'q1wsgd', 'q1ttud', 'q26sjd', 'q22nog', 'q1x7i0', 'q25ayu'}",21,2021-10-05
+4,crypto,time,"{'q1tgui', 'q224sv', 'q233pt', 'q1v4qx', 'q1xdit', 'q228da', 'q1sqm3', 'q1sk2k', 'q1wsgd', 'q20aig', 'q25z9l', 'q1vt6d', 'q252bx', 'q1uy99', 'q23e74', 'q23v5s', 'q1sp5j', 'q20r57'}",18,2021-10-05
+5,crypto,cryptocurrency,"{'q20y00', 'q260x9', 'q1waar', 'q1traf', 'q1tgui', 'q25uxv', 'q25198', 'q1x1ge', 'q28okw', 'q25yw0', 'q1uy99', 'q25ayu', 'q1wi9o', 'q23qb3', 'q22tm4'}",15,2021-10-05
+6,https,cryptocurrency,"{'q20y00', 'q260x9', 'q1wvd7', 'q1wwko', 'q24g88', 'q229vq', 'q1wi9o', 'q23qb3', 'q1tcgp', 'q20dy2'}",10,2021-10-05
+7,people,cryptocurrency,"{'q1tgui', 'q25uxv', 'q27229', 'q25ayu', 'q1y5q9', 'q1wi9o', 'q22tm4'}",7,2021-10-05
+8,money,cryptocurrency,"{'q1waar', 'q1tgui', 'q1wvd7', 'q28okw', 'q27229', 'q1uy99', 'q25ayu'}",7,2021-10-05
+9,bank,cryptocurrency,"{'q260x9', 'q1waar', 'q1xvnq', 'q1wxki', 'q1wvd7', 'q1wwko', 'q28okw'}",7,2021-10-05
+11,money,people,"{'q21353', 'q1vsy9', 'q228da', 'q22fa0', 'q1z1a5', 'q2611z', 'q2115l', 'q1u2ua', 'q1xxgv', 'q252vf', 'q1vmwu', 'q20e7j', 'q1v4qx', 'q1wsgd', 'q1rtiz', 'q256vt', 'q1tgui', 'q1uv2b', 'q1x7i0', 'q252bx', 'q21jgj', 'q27229', 'q25ayu'}",23,2021-10-05
+12,people,don,"{'q1upxu', 'q228da', 'q1z1a5', 'q1rylk', 'q1xxgv', 'q252vf', 'q1znvu', 'q23kdm', 'q1yjvo', 'q1t5ke', 'q1v4qx', 'q1sqm3', 'q1v2pb', 'q1rtiz', 'q1uv2b', 'q22nog', 'q252bx', 'q21jgj', 'q25ayu'}",19,2021-10-05
+13,people,time,"{'q1rtiz', 'q1uabi', 'q1tgui', 'q1tatz', 'q252vf', 'q1rptw', 'q1v4qx', 'q228da', 'q1sqm3', 'q252bx', 'q1wsgd', 'q20e7j', 'q1vt6d', 'q1t5ke', 'q27229', 'q1v2pb', 'q1yjvo'}",17,2021-10-05
+14,market,people,"{'q1rtiz', 'q256vt', 'q1xxgv', 'q252vf', 'q25waw', 'q1v2pb', 'q228da', 'q22bo0', 'q22nog', 'q1x7i0', 'q252bx', 'q1wsgd', 'q27l2o', 'q1wcyu', 'q22rdt', 'q22fa0', 'q1rylk'}",17,2021-10-05
+15,amp,amp x200b,"{'q1sqwr', 'q1rtiz', 'q1v4qx', 'q1tatz', 'q22o7x', 'q228da', 'q1uobb', 'q1wwko', 'q1t5ke', 'q1v2pb', 'q1yjvo', 'q20r57'}",12,2021-10-05
+16,amp,x200b,"{'q1sqwr', 'q1rtiz', 'q1v4qx', 'q1tatz', 'q22o7x', 'q228da', 'q1uobb', 'q1wwko', 'q1t5ke', 'q1v2pb', 'q1yjvo', 'q20r57'}",12,2021-10-05
+17,amp,time,"{'q1rtiz', 'q1yjvo', 'q1v4qx', 'q1tatz', 'q228da', 'q252bx', 'q1wwko', 'q1v2pb', 'q1t5ke', 'q20r57'}",10,2021-10-05
+18,https,amp,"{'q1tatz', 'q22o7x', 'q228da', 'q1uobb', 'q20dy2', 'q1wwko', 'q229vq', 'q1tcgp', 'q1t5ke', 'q26e5x'}",10,2021-10-05
+19,amp,don,"{'q1rtiz', 'q1yjvo', 'q1v4qx', 'q22o7x', 'q228da', 'q1uobb', 'q252bx', 'q1v2pb', 'q1t5ke', 'q20dy2'}",10,2021-10-05
+20,crypto,use,"{'q260x9', 'q1tgui', 'q222kj', 'q22n8w', 'q1u2ua', 'q228da', 'q1sk2k', 'q252bx', 'q1ttud', 'q27l2o', 'q25z9l', 'q1uy99', 'q23qb3', 'q1x304', 'q21zah'}",15,2021-10-05
+21,use,people,"{'q1tgui', 'q1u2ua', 'q228da', 'q252bx', 'q1rylk', 'q27l2o', 'q27229', 'q1v2pb', 'q1yjvo', 'q1x304'}",10,2021-10-05
+22,use,time,"{'q1tgui', 'q228da', 'q252bx', 'q1sk2k', 'q25z9l', 'q27229', 'q1uy99', 'q1v2pb', 'q1yjvo'}",9,2021-10-05
+23,use,money,"{'q1tgui', 'q22n8w', 'q1u2ua', 'q228da', 'q252bx', 'q25z9l', 'q27229', 'q1uy99'}",8,2021-10-05
+24,use,think,"{'q1tgui', 'q1yrgc', 'q1ttud', 'q27229', 'q23qb3', 'q1x304', 'q1yjvo', 'q1rylk'}",8,2021-10-05
+25,crypto,bitcoin,"{'q27wos', 'q260x9', 'q224sv', 'q22o7x', 'q1w33n', 'q1sqm3', 'q1wsgd', 'q1wcyu', 'q1uy99', 'q27s40', 'q20r57', 'q23scm'}",12,2021-10-05
+26,btc,bitcoin,"{'q260x9', 'q224sv', 'q22o7x', 'q20f8v', 'q1va7f', 'q1v64z', 'q1n1nw', 'q1v2pb', 'q237eh', 'q23kgi'}",10,2021-10-05
+27,bitcoin,time,"{'q224sv', 'q1upup', 'q1v2pb', 'q1sqm3', 'q1wsgd', 'q1uy99', 'q20r57', 'q237eh', 'q24i9q'}",9,2021-10-05
+28,market,bitcoin,"{'q237eh', 'q224sv', 'q1wsgd', 'q1wcyu', 'q1uy99', 'q1v2pb', 'q1t7bj', 'q23scm'}",8,2021-10-05
+29,ve,bitcoin,"{'q22o7x', 'q1sqm3', 'q1wsgd', 'q1uy99', 'q24i9q', 'q23scm'}",6,2021-10-05
+32,money,time,"{'q1rtiz', 'q22tza', 'q1tgui', 'q1v4qx', 'q252vf', 'q228da', 'q252bx', 'q1wsgd', 'q20e7j', 'q25z9l', 'q27229', 'q1uy99', 'q23e74', 'q23v5s', 'q24c00'}",15,2021-10-05
+33,time,way,"{'q1rtiz', 'q1tgui', 'q1tatz', 'q252vf', 'q228da', 'q20aig', 'q1wsgd', 'q1vt6d', 'q27229', 'q23e74', 'q1t5ke', 'q23v5s', 'q1v2pb', 'q1tmal', 'q20r57'}",15,2021-10-05
+34,post,time,"{'q22tza', 'q1tgui', 'q1v4qx', 'q1rptw', 'q228da', 'q1sqm3', 'q252bx', 'q1s91i', 'q27229', 'q1uy99', 'q1v2pb', 'q24c00', 'q20r57'}",13,2021-10-05
+37,money,right,"{'q1rtiz', 'q232g9', 'q22n8w', 'q1vsy9', 'q1uv2b', 'q22o7x', 'q228da', 'q1vmwu', 'q252bx', 'q21jgj', 'q25z9l', 'q27229', 'q1uy99', 'q22fa0', 'q1z1a5', 'q2611z'}",16,2021-10-05
+39,market,money,"{'q1rtiz', 'q1vpvf', 'q256vt', 'q1xxgv', 'q208vp', 'q252vf', 'q228da', 'q1x7i0', 'q252bx', 'q1wsgd', 'q25z9l', 'q26sjd', 'q1uy99', 'q23v5s', 'q22fa0'}",15,2021-10-05
+40,crypto,think,"{'q22zfa', 'q27wos', 'q256vt', 'q1tgui', 'q1v4qx', 'q25tdh', 'q22nog', 'q23aes', 'q1wcyu', 'q1ttud', 'q245xp', 'q23qb3', 'q24gkn', 'q20r57', 'q1x304', 'q1yoem'}",16,2021-10-05
+41,people,think,"{'q1rtiz', 'q27wos', 'q1upxu', 'q256vt', 'q2611z', 'q1tgui', 'q1v4qx', 'q22bo0', 'q25tdh', 'q22nog', 'q1wcyu', 'q1rylk', 'q27229', 'q24gkn', 'q1yjvo', 'q1x304'}",16,2021-10-05
+42,think,way,"{'q1rtiz', 'q27wos', 'q1tgui', 'q22bo0', 'q22nog', 'q27229', 'q245xp', 'q1tmal', 'q20r57'}",9,2021-10-05
+43,lot,think,"{'q1rtiz', 'q256vt', 'q2611z', 'q1v4qx', 'q23cq4', 'q245xp', 'q1yjvo', 'q1rylk', 'q1yoem'}",9,2021-10-05
+45,com,https,"{'q20y00', 'q1zj9f', 'q1uv2b', 'q1tatz', 'q22nog', 'q228da', 'q1uobb', 'q23cq4', 'q1wvd7', 'q1vmwu', 'q1tcgp', 'q229vq', 'q23qb3', 'q26e5x', 'q23v5s', 'q22svp', 'q20dy2'}",17,2021-10-05
+46,https,www,"{'q1zj9f', 'q260x9', 'q1uv2b', 'q25waw', 'q22nog', 'q228da', 'q1uobb', 'q1vmwu', 'q1wvd7', 'q1tcgp', 'q229vq', 'q22svp', 'q26e5x'}",13,2021-10-05
+47,https,https www,"{'q1zj9f', 'q260x9', 'q1uv2b', 'q25waw', 'q22nog', 'q228da', 'q1uobb', 'q1vmwu', 'q1wvd7', 'q1tcgp', 'q229vq', 'q22svp', 'q26e5x'}",13,2021-10-05
+48,crypto,https,"{'q20y00', 'q1zj9f', 'q260x9', 'q22o7x', 'q25waw', 'q22nog', 'q228da', 'q1uobb', 'q23qb3', 'q1wi9o', 'q23v5s', 'q25tdh'}",12,2021-10-05
+50,crypto,way,"{'q27wos', 'q1tgui', 'q22n8w', 'q22nog', 'q228da', 'q25s5o', 'q1wsgd', 'q20aig', 'q1vt6d', 'q23e74', 'q245xp', 'q23v5s', 'q20r57', 'q21zdy', 'q23scm'}",15,2021-10-05
+51,people,way,"{'q1rtiz', 'q21353', 'q27wos', 'q1tgui', 'q1uv2b', 'q1tatz', 'q252vf', 'q22bo0', 'q22nog', 'q228da', 'q1wsgd', 'q1vt6d', 'q27229', 'q1v2pb', 'q1t5ke'}",15,2021-10-05
+53,money,way,"{'q1rtiz', 'q21353', 'q1tgui', 'q208vp', 'q1uv2b', 'q22n8w', 'q252vf', 'q228da', 'q1wsgd', 'q27229', 'q23e74', 'q254mm', 'q23v5s'}",13,2021-10-05
+54,market,way,"{'q1rtiz', 'q208vp', 'q252vf', 'q22bo0', 'q22nog', 'q228da', 'q1wsgd', 'q23v5s', 'q1v2pb', 'q1tmal', 'q23scm'}",11,2021-10-05
+56,post,people,"{'q1tgui', 'q1uv2b', 'q1v4qx', 'q1v2pb', 'q1rptw', 'q228da', 'q1sqm3', 'q1vmwu', 'q252bx', 'q27229', 'q24gkn', 'q22fa0'}",12,2021-10-05
+57,post,money,"{'q22tza', 'q1tgui', 'q1uv2b', 'q1v4qx', 'q228da', 'q1vmwu', 'q252bx', 'q27229', 'q1uy99', 'q22fa0', 'q24c00'}",11,2021-10-05
+58,post,crypto,"{'q1tgui', 'q1v4qx', 'q228da', 'q1sqm3', 'q252bx', 'q1uy99', 'q24gkn', 'q20r57'}",8,2021-10-05
+59,post,amp,"{'q1sqwr', 'q235mb', 'q1v4qx', 'q228da', 'q252bx', 'q1v2pb', 'q20r57', 'q20dy2'}",8,2021-10-05
+60,crypto,banks,"{'q256vt', 'q1tgui', 'q22n8w', 'q1u2ua', 'q25z9l', 'q1vt6d'}",6,2021-10-05
+61,money,banks,"{'q256vt', 'q1tgui', 'q22n8w', 'q1u2ua', 'q25z9l'}",5,2021-10-05
+62,people,banks,"{'q256vt', 'q1tgui', 'q1u2ua', 'q1vt6d'}",4,2021-10-05
+63,use,banks,"{'q25z9l', 'q22n8w', 'q1tgui', 'q1u2ua'}",4,2021-10-05
+64,banks,time,"{'q25z9l', 'q1vt6d', 'q1tgui'}",3,2021-10-05
+66,com,www,"{'q1zj9f', 'q1uv2b', 'q22nog', 'q228da', 'q1uobb', 'q1vmwu', 'q1wvd7', 'q1tcgp', 'q229vq', 'q22svp', 'q26e5x'}",11,2021-10-05
+67,com,https www,"{'q1zj9f', 'q1uv2b', 'q22nog', 'q228da', 'q1uobb', 'q1vmwu', 'q1wvd7', 'q1tcgp', 'q229vq', 'q22svp', 'q26e5x'}",11,2021-10-05
+68,com,crypto,"{'q20y00', 'q1zj9f', 'q22nog', 'q228da', 'q1uobb', 'q252bx', 'q23qb3', 'q23v5s'}",8,2021-10-05
+69,com,amp,"{'q1tatz', 'q228da', 'q1uobb', 'q252bx', 'q229vq', 'q26e5x', 'q1tcgp', 'q20dy2'}",8,2021-10-05
+70,crypto,year,"{'q1tgui', 'q224sv', 'q1v4qx', 'q1su25', 'q1xdit', 'q228da', 'q1wsgd', 'q1ttud', 'q1u3zo', 'q26sjd', 'q1uy99', 'q23qb3', 'q1wi9o', 'q1kxkw', 'q1sp5j', 'q1yoem'}",16,2021-10-05
+71,time,year,"{'q1uneb', 'q22tza', 'q1tgui', 'q224sv', 'q1v4qx', 'q1xdit', 'q228da', 'q1wsgd', 'q1uy99', 'q1sp5j', 'q24i9q'}",11,2021-10-05
+72,market,year,"{'q224sv', 'q1su25', 'q228da', 'q1wsgd', 'q1u3zo', 'q26sjd', 'q1uy99', 'q23qb3', 'q1kxkw'}",9,2021-10-05
+73,year,past,"{'q21353', 'q224sv', 'q1su25', 'q228da', 'q1u3zo', 'q1uy99', 'q1wi9o', 'q1kxkw', 'q22lan'}",9,2021-10-05
+74,money,year,"{'q21353', 'q22tza', 'q1tgui', 'q1v4qx', 'q228da', 'q1wsgd', 'q26sjd', 'q1uy99'}",8,2021-10-05
+75,people,need,"{'q1upxu', 'q1tgui', 'q256vt', 'q1uv2b', 'q1tatz', 'q1vt6d', 'q27229', 'q24gkn'}",8,2021-10-05
+76,need,time,"{'q1uneb', 'q1tgui', 'q1tatz', 'q1wwko', 'q1s91i', 'q1vt6d', 'q27229'}",7,2021-10-05
+77,money,need,"{'q256vt', 'q1tgui', 'q208vp', 'q1uv2b', 'q28okw', 'q27229', 'q254mm'}",7,2021-10-05
+78,need,think,"{'q1uneb', 'q1upxu', 'q1tgui', 'q256vt', 'q1ttud', 'q27229', 'q24gkn'}",7,2021-10-05
+79,need,way,"{'q1tgui', 'q208vp', 'q1uv2b', 'q1tatz', 'q1vt6d', 'q27229', 'q254mm'}",7,2021-10-05
+80,money,today,"{'q1tgui', 'q1xxgv', 'q1waar', 'q1vmwu', 'q27229', 'q1uy99', 'q22fa0'}",7,2021-10-05
+81,people,today,"{'q1tgui', 'q1xxgv', 'q1vmwu', 'q27229', 'q24gkn', 'q22fa0'}",6,2021-10-05
+82,post,today,"{'q1tgui', 'q1vmwu', 'q27229', 'q1uy99', 'q24gkn', 'q22fa0'}",6,2021-10-05
+83,crypto,today,"{'q1tgui', 'q1waar', 'q1uy99', 'q24gkn', 'q23scm'}",5,2021-10-05
+84,today,cryptocurrency,"{'q1tgui', 'q1waar', 'q1wwko', 'q27229', 'q1uy99'}",5,2021-10-05
+85,business,crypto,"{'q1sqm3', 'q22tm4', 'q1tgui'}",3,2021-10-05
+86,business,cryptocurrency,"{'q1tgui', 'q22tm4', 'q1wvd7'}",3,2021-10-05
+87,business,people,"{'q1sqm3', 'q22tm4', 'q1tgui'}",3,2021-10-05
+88,business,time,"{'q1sqm3', 'q1tgui'}",2,2021-10-05
+89,business,money,"{'q1tgui', 'q1wvd7'}",2,2021-10-05
+90,crypto,thing,"{'q256vt', 'q1tgui', 'q260x9', 'q1u2ua', 'q228da', 'q1sk2k', 'q252bx', 'q25ayu', 'q24gkn'}",9,2021-10-05
+91,people,thing,"{'q256vt', 'q1tgui', 'q1u2ua', 'q1rptw', 'q228da', 'q252bx', 'q27229', 'q25ayu', 'q24gkn'}",9,2021-10-05
+92,use,thing,"{'q260x9', 'q1tgui', 'q1u2ua', 'q228da', 'q1sk2k', 'q252bx', 'q27229'}",7,2021-10-05
+93,money,thing,"{'q256vt', 'q1tgui', 'q1u2ua', 'q228da', 'q252bx', 'q27229', 'q25ayu'}",7,2021-10-05
+94,thing,time,"{'q1tgui', 'q1rptw', 'q228da', 'q252bx', 'q1sk2k', 'q27229'}",6,2021-10-05
+95,crypto,wallet,"{'q22zj3', 'q1xdit', 'q1ttud', 'q23qb3', 'q233qe'}",5,2021-10-05
+96,wallet,year,"{'q22tza', 'q1xdit', 'q1ttud', 'q23qb3', 'q24i9q'}",5,2021-10-05
+97,wallet,time,"{'q1s91i', 'q1xdit', 'q22tza', 'q24i9q'}",4,2021-10-05
+98,wallet,ve,"{'q1ttud', 'q22tza', 'q24i9q', 'q23qb3'}",4,2021-10-05
+99,exchange,wallet,"{'q1ttud', 'q24i9q', 'q23qb3'}",3,2021-10-05
+103,market,time,"{'q1rtiz', 'q224sv', 'q252vf', 'q228da', 'q252bx', 'q1wsgd', 'q25z9l', 'q1uy99', 'q1tmal', 'q1v2pb', 'q237eh', 'q23v5s'}",12,2021-10-05
+104,market,coins,"{'q1vpvf', 'q256vt', 'q1xxgv', 'q208vp', 'q1v2pb', 'q252vf', 'q25z9l', 'q26sjd', 'q1uy99', 'q23v5s', 'q22fa0', 'q237eh'}",12,2021-10-05
+105,crypto,network,"{'q1tgui', 'q1ttud', 'q1uy99', 'q23e74', 'q23qb3'}",5,2021-10-05
+106,network,cryptocurrency,"{'q1wwko', 'q1tgui', 'q1uy99', 'q23qb3'}",4,2021-10-05
+107,use,network,"{'q1ttud', 'q1tgui', 'q1uy99', 'q23qb3'}",4,2021-10-05
+108,network,time,"{'q1wwko', 'q1tgui', 'q1uy99', 'q23e74'}",4,2021-10-05
+109,network,year,"{'q1ttud', 'q1tgui', 'q1uy99', 'q23qb3'}",4,2021-10-05
+110,crypto,world,"{'q1zj9f', 'q256vt', 'q1tgui', 'q224sv', 'q1v4qx', 'q26mqb', 'q260x9', 'q22zj3', 'q234du', 'q245xp', 'q25tdh', 'q22tm4', 'q1yoem'}",13,2021-10-05
+111,people,world,"{'q256vt', 'q1tgui', 'q1uv2b', 'q1v4qx', 'q1tatz', 'q1vmwu', 'q234du', 'q25tdh', 'q20n0r', 'q22tm4'}",10,2021-10-05
+112,https,world,"{'q1zj9f', 'q260x9', 'q1uv2b', 'q1tatz', 'q1vmwu', 'q1wwko', 'q25tdh'}",7,2021-10-05
+113,world,time,"{'q22tza', 'q1tgui', 'q224sv', 'q1tatz', 'q1v4qx', 'q1wwko'}",6,2021-10-05
+114,money,world,"{'q256vt', 'q1tgui', 'q22tza', 'q1uv2b', 'q1v4qx', 'q1vmwu'}",6,2021-10-05
+116,crypto,don,"{'q232g9', 'q1utgl', 'q22n8w', 'q224sv', 'q1v4qx', 'q22o7x', 'q22nog', 'q228da', 'q1sqm3', 'q1uobb', 'q23aes', 'q1sk2k', 'q252bx', 'q1znvu', 'q28okw', 'q25ayu', 'q1z1a5'}",17,2021-10-05
+117,money,don,"{'q1rtiz', 'q232g9', 'q1utgl', 'q22n8w', 'q1xxgv', 'q1uv2b', 'q1v4qx', 'q22o7x', 'q252vf', 'q228da', 'q252bx', 'q21jgj', 'q28okw', 'q25ayu', 'q1z1a5'}",15,2021-10-05
+118,don,time,"{'q1rtiz', 'q1yjvo', 'q224sv', 'q1v4qx', 'q252vf', 'q228da', 'q1sqm3', 'q1sk2k', 'q252bx', 'q1s91i', 'q1v2pb', 'q1t5ke'}",12,2021-10-05
+119,right,don,"{'q1rtiz', 'q232g9', 'q22n8w', 'q224sv', 'q1uv2b', 'q22o7x', 'q228da', 'q252bx', 'q21jgj', 'q25kkb', 'q23kdm', 'q1z1a5'}",12,2021-10-05
+120,share,crypto,"{'q22zfa', 'q22n8w', 'q26mqb', 'q1wcyu', 'q24gkn'}",5,2021-10-05
+121,share,sec,"{'q1t5ke', 'q22n8w', 'q1unx0', 'q1wcyu'}",4,2021-10-05
+122,share,people,"{'q24gkn', 'q1t5ke', 'q1wcyu'}",3,2021-10-05
+123,share,think,"{'q22zfa', 'q24gkn', 'q1wcyu'}",3,2021-10-05
+124,share,amp,"{'q1tcgp', 'q1t5ke'}",2,2021-10-05
+125,crypto,reddit,"{'q1utgl', 'q233pt', 'q1v4qx', 'q1sqm3', 'q20aig', 'q1sk2k', 'q1znvu', 'q25ayu', 'q23qb3', 'q20r57'}",10,2021-10-05
+126,don,reddit,"{'q1utgl', 'q1v4qx', 'q1sqm3', 'q1sk2k', 'q1znvu', 'q25ayu', 'q25kkb', 'q20dy2'}",8,2021-10-05
+127,time,reddit,"{'q233pt', 'q1v4qx', 'q1sqm3', 'q20aig', 'q1sk2k', 'q20r57'}",6,2021-10-05
+128,ve,reddit,"{'q233pt', 'q1sqm3', 'q1sk2k', 'q1znvu', 'q25ayu', 'q23qb3'}",6,2021-10-05
+129,amp,reddit,"{'q1v4qx', 'q20dy2', 'q1tcgp', 'q20r57', 'q26e5x'}",5,2021-10-05
+130,crypto,didn,"{'q1vpvf', 'q1tgui', 'q1traf', 'q1v4qx', 'q22o7x', 'q20aig', 'q1uy99'}",7,2021-10-05
+131,money,didn,"{'q1vpvf', 'q1tgui', 'q208vp', 'q1v4qx', 'q22o7x', 'q1uy99'}",6,2021-10-05
+132,didn,time,"{'q20aig', 'q1tgui', 'q1uy99', 'q1v4qx'}",4,2021-10-05
+133,didn,investments,"{'q1vpvf', 'q1tgui', 'q1uy99', 'q20aig'}",4,2021-10-05
+134,ve,didn,"{'q1vpvf', 'q1uy99', 'q23cq4', 'q22o7x'}",4,2021-10-05
+135,crypto,data,"{'q25waw', 'q1vt6d', 'q1tgui', 'q1uy99'}",4,2021-10-05
+136,people,data,"{'q25waw', 'q1vt6d', 'q1tgui', 'q1tatz'}",4,2021-10-05
+137,data,time,"{'q1vt6d', 'q1tgui', 'q1uy99', 'q1tatz'}",4,2021-10-05
+138,data,way,"{'q1vt6d', 'q1tgui', 'q254mm', 'q1tatz'}",4,2021-10-05
+139,data,need,"{'q1vt6d', 'q1tgui', 'q254mm', 'q1tatz'}",4,2021-10-05
+140,amp,month,"{'q1sqwr', 'q228da', 'q1uobb', 'q1tcgp', 'q1t5ke'}",5,2021-10-05
+141,people,month,"{'q1t5ke', 'q228da', 'q27229', 'q23kdm'}",4,2021-10-05
+142,time,month,"{'q237eh', 'q228da', 'q27229', 'q1t5ke'}",4,2021-10-05
+143,https,month,"{'q1tcgp', 'q1t5ke', 'q228da', 'q1uobb'}",4,2021-10-05
+144,month,way,"{'q1sqwr', 'q1t5ke', 'q228da', 'q27229'}",4,2021-10-05
+146,www,https www,"{'q1zj9f', 'q260x9', 'q1uv2b', 'q25waw', 'q22nog', 'q228da', 'q1uobb', 'q1vmwu', 'q1wvd7', 'q1tcgp', 'q229vq', 'q22svp', 'q26e5x'}",13,2021-10-05
+148,crypto,www,"{'q1zj9f', 'q260x9', 'q25waw', 'q22nog', 'q228da', 'q1uobb'}",6,2021-10-05
+149,people,www,"{'q1uv2b', 'q25waw', 'q22nog', 'q228da', 'q1vmwu'}",5,2021-10-05
+153,crypto,https www,"{'q1zj9f', 'q260x9', 'q25waw', 'q22nog', 'q228da', 'q1uobb'}",6,2021-10-05
+154,people,https www,"{'q1uv2b', 'q25waw', 'q22nog', 'q228da', 'q1vmwu'}",5,2021-10-05
+155,crypto,investments,"{'q1vpvf', 'q1tgui', 'q228da', 'q252bx', 'q20aig', 'q1znvu', 'q1uy99', 'q25ayu', 'q24gkn'}",9,2021-10-05
+156,people,investments,"{'q1tgui', 'q228da', 'q252bx', 'q1znvu', 'q27229', 'q25ayu', 'q24gkn'}",7,2021-10-05
+157,money,investments,"{'q1vpvf', 'q1tgui', 'q228da', 'q252bx', 'q27229', 'q1uy99', 'q25ayu'}",7,2021-10-05
+158,investments,time,"{'q1tgui', 'q228da', 'q252bx', 'q20aig', 'q27229', 'q1uy99'}",6,2021-10-05
+159,post,investments,"{'q1tgui', 'q228da', 'q252bx', 'q27229', 'q1uy99', 'q24gkn'}",6,2021-10-05
+160,things,people,"{'q256vt', 'q1tgui', 'q1u2ua', 'q228da', 'q21jgj', 'q1znvu', 'q27229', 'q24wbe', 'q1v2pb', 'q1z1a5', 'q2611z'}",11,2021-10-05
+161,things,money,"{'q256vt', 'q1tgui', 'q1u2ua', 'q228da', 'q21jgj', 'q28okw', 'q27229', 'q1z1a5', 'q2611z'}",9,2021-10-05
+162,crypto,things,"{'q256vt', 'q1tgui', 'q1u2ua', 'q228da', 'q1znvu', 'q28okw', 'q24wbe', 'q1z1a5'}",8,2021-10-05
+163,things,don,"{'q228da', 'q21jgj', 'q1znvu', 'q28okw', 'q1v2pb', 'q1z1a5'}",6,2021-10-05
+164,use,things,"{'q1tgui', 'q1u2ua', 'q228da', 'q27229', 'q1v2pb'}",5,2021-10-05
+165,money,doesn,"{'q1rtiz', 'q256vt', 'q1tgui', 'q208vp', 'q252vf', 'q228da', 'q25z9l', 'q27229', 'q25ayu', 'q254mm'}",10,2021-10-05
+166,people,doesn,"{'q1rtiz', 'q256vt', 'q1tgui', 'q252vf', 'q1rptw', 'q228da', 'q27229', 'q25ayu'}",8,2021-10-05
+167,doesn,time,"{'q1rtiz', 'q1uneb', 'q1tgui', 'q252vf', 'q1rptw', 'q228da', 'q25z9l', 'q27229'}",8,2021-10-05
+168,doesn,way,"{'q1rtiz', 'q1tgui', 'q208vp', 'q252vf', 'q228da', 'q27229', 'q254mm'}",7,2021-10-05
+169,market,doesn,"{'q1rtiz', 'q256vt', 'q208vp', 'q252vf', 'q228da', 'q25z9l', 'q23qb3'}",7,2021-10-05
+170,people,comments,"{'q1upxu', 'q1rptw', 'q1x7i0', 'q27229', 'q1x304'}",5,2021-10-05
+171,comments,think,"{'q1upxu', 'q27229', 'q23qb3', 'q1x304', 'q26e5x'}",5,2021-10-05
+172,right,comments,"{'q1rptw', 'q25z9l', 'q27229', 'q23qb3', 'q1tcgp'}",5,2021-10-05
+173,want,comments,"{'q1upxu', 'q1x7i0', 'q25z9l', 'q27229', 'q20dy2'}",5,2021-10-05
+174,crypto,comments,"{'q1x304', 'q25z9l', 'q1x7i0', 'q23qb3'}",4,2021-10-05
+175,market,check,"{'q1t9ql', 'q228da', 'q1rylk', 'q1uy99'}",4,2021-10-05
+176,check,value,"{'q1sqwr', 'q228da', 'q1t9ql', 'q1uy99'}",4,2021-10-05
+177,crypto,check,"{'q27wos', 'q228da', 'q1uy99'}",3,2021-10-05
+178,people,check,"{'q27wos', 'q228da', 'q1rylk'}",3,2021-10-05
+179,use,check,"{'q228da', 'q1rylk', 'q1uy99'}",3,2021-10-05
+180,invest,money,"{'q1vpvf', 'q256vt', 'q1xxgv', 'q228da', 'q1vmwu', 'q25z9l', 'q27229', 'q1uy99'}",8,2021-10-05
+181,coins,invest,"{'q1vpvf', 'q256vt', 'q1xxgv', 'q1o1xv', 'q23aes', 'q25z9l', 'q1uy99', 'q1yjvo'}",8,2021-10-05
+182,coin,invest,"{'q1vpvf', 'q256vt', 'q1o1xv', 'q228da', 'q23aes', 'q25z9l', 'q1uy99', 'q1yjvo'}",8,2021-10-05
+183,crypto,invest,"{'q1vpvf', 'q256vt', 'q228da', 'q23aes', 'q25z9l', 'q25yw0', 'q1uy99'}",7,2021-10-05
+184,market,invest,"{'q1vpvf', 'q256vt', 'q1xxgv', 'q228da', 'q25z9l', 'q1uy99', 'q1tmal'}",7,2021-10-05
+185,moons,people,"{'q1upxu', 'q1x7i0', 'q1sqm3', 'q1t5ke', 'q1x304', 'q1yjvo'}",6,2021-10-05
+186,moons,don,"{'q1upxu', 'q1sqm3', 'q23aes', 'q1sk2k', 'q1t5ke', 'q1yjvo'}",6,2021-10-05
+187,moons,crypto,"{'q1x7i0', 'q1sqm3', 'q23aes', 'q1sk2k', 'q1x304'}",5,2021-10-05
+188,moons,time,"{'q1yjvo', 'q1sqm3', 'q1t5ke', 'q1sk2k'}",4,2021-10-05
+189,moons,think,"{'q1x304', 'q1yjvo', 'q1upxu', 'q23aes'}",4,2021-10-05
+190,crypto,china,"{'q224sv', 'q1traf', 'q22nog', 'q1sqm3', 'q1uobb', 'q1wcyu', 'q1ssv0'}",7,2021-10-05
+191,people,china,"{'q22nog', 'q1sqm3', 'q1wcyu', 'q1t5ke', 'q2611z'}",5,2021-10-05
+192,https,china,"{'q22nog', 'q1uobb', 'q23cq4', 'q229vq', 'q1t5ke'}",5,2021-10-05
+193,china,don,"{'q224sv', 'q22nog', 'q1sqm3', 'q1uobb', 'q1t5ke'}",5,2021-10-05
+194,china,bitcoin,"{'q1sqm3', 'q224sv', 'q229vq', 'q1wcyu'}",4,2021-10-05
+195,money,saw,"{'q24c00', 'q1tgui', 'q208vp', 'q252bx'}",4,2021-10-05
+196,market,saw,"{'q1t9ql', 'q208vp', 'q252bx', 'q1wcyu'}",4,2021-10-05
+197,crypto,saw,"{'q1tgui', 'q252bx', 'q1wcyu'}",3,2021-10-05
+198,people,saw,"{'q1tgui', 'q252bx', 'q1wcyu'}",3,2021-10-05
+199,saw,time,"{'q24c00', 'q1tgui', 'q252bx'}",3,2021-10-05
+200,crypto,end,"{'q1tgui', 'q224sv', 'q25waw', 'q228da', 'q1ttud', 'q25z9l', 'q24gkn', 'q1yoem'}",8,2021-10-05
+201,people,end,"{'q1tgui', 'q1uv2b', 'q25waw', 'q228da', 'q27229', 'q23kdm', 'q24gkn', 'q2611z'}",8,2021-10-05
+202,money,end,"{'q1tgui', 'q1uv2b', 'q228da', 'q25z9l', 'q27229', 'q254mm', 'q2611z'}",7,2021-10-05
+203,need,end,"{'q1tgui', 'q1uv2b', 'q1ttud', 'q27229', 'q254mm', 'q24gkn', 'q1tx8a'}",7,2021-10-05
+204,right,end,"{'q224sv', 'q1uv2b', 'q228da', 'q25z9l', 'q27229', 'q23kdm', 'q2611z'}",7,2021-10-05
+205,people,address,"{'q27l2o', 'q1uabi', 'q1tgui'}",3,2021-10-05
+206,crypto,address,"{'q27l2o', 'q1tgui'}",2,2021-10-05
+207,cryptocurrency,address,"{'q1tcgp', 'q1tgui'}",2,2021-10-05
+208,use,address,"{'q27l2o', 'q1tgui'}",2,2021-10-05
+209,time,address,"{'q1uabi', 'q1tgui'}",2,2021-10-05
+210,right,people,"{'q1rtiz', 'q1uabi', 'q1vsy9', 'q1uv2b', 'q1tatz', 'q1rptw', 'q25tdh', 'q228da', 'q1vmwu', 'q252bx', 'q21jgj', 'q27229', 'q23kdm', 'q22fa0', 'q1z1a5', 'q2611z'}",16,2021-10-05
+211,right,money,"{'q1rtiz', 'q232g9', 'q22n8w', 'q1vsy9', 'q1uv2b', 'q22o7x', 'q228da', 'q1vmwu', 'q252bx', 'q21jgj', 'q25z9l', 'q27229', 'q1uy99', 'q22fa0', 'q1z1a5', 'q2611z'}",16,2021-10-05
+212,crypto,right,"{'q232g9', 'q22n8w', 'q224sv', 'q1vsy9', 'q1sp5j', 'q22o7x', 'q228da', 'q252bx', 'q25z9l', 'q1uy99', 'q23qb3', 'q25tdh', 'q1z1a5'}",13,2021-10-05
+214,right,time,"{'q1rtiz', 'q1uabi', 'q224sv', 'q1tatz', 'q1rptw', 'q228da', 'q252bx', 'q25z9l', 'q27229', 'q1uy99', 'q1sp5j'}",11,2021-10-05
+215,crypto,support,"{'q1sqm3', 'q1vhp4', 'q1tgui', 'q1z1a5'}",4,2021-10-05
+216,people,support,"{'q1sqm3', 'q1uabi', 'q1tgui', 'q1z1a5'}",4,2021-10-05
+217,support,time,"{'q1uabi', 'q1tgui', 'q1sqm3'}",3,2021-10-05
+218,money,support,"{'q1z1a5', 'q1tgui'}",2,2021-10-05
+219,post,support,"{'q1tgui', 'q1sqm3'}",2,2021-10-05
+220,crypto,fees,"{'q1ttud', 'q228da', 'q23qb3'}",3,2021-10-05
+221,use,fees,"{'q1ttud', 'q228da', 'q23qb3'}",3,2021-10-05
+222,https,fees,"{'q1wwko', 'q228da', 'q23qb3'}",3,2021-10-05
+223,fees,year,"{'q1ttud', 'q228da', 'q23qb3'}",3,2021-10-05
+224,network,fees,"{'q1ttud', 'q1wwko', 'q23qb3'}",3,2021-10-05
+225,people,lot,"{'q1rtiz', 'q21353', 'q256vt', 'q1vozn', 'q25uxv', 'q1v4qx', 'q228da', 'q1wsgd', 'q1rylk', 'q21jgj', 'q25ayu', 'q1v2pb', 'q1yjvo', 'q20n0r', 'q2611z'}",15,2021-10-05
+226,crypto,lot,"{'q256vt', 'q22n8w', 'q25uxv', 'q1v4qx', 'q228da', 'q1sk2k', 'q1wsgd', 'q245xp', 'q25ayu', 'q23scm', 'q1yoem'}",11,2021-10-05
+227,money,lot,"{'q1rtiz', 'q21353', 'q256vt', 'q22n8w', 'q1v4qx', 'q228da', 'q1wsgd', 'q21jgj', 'q25ayu', 'q2611z'}",10,2021-10-05
+228,lot,don,"{'q1rtiz', 'q22n8w', 'q1v4qx', 'q228da', 'q1sk2k', 'q21jgj', 'q25ayu', 'q1v2pb', 'q1yjvo', 'q1rylk'}",10,2021-10-05
+229,ve,lot,"{'q228da', 'q23cq4', 'q1sk2k', 'q1wsgd', 'q21jgj', 'q245xp', 'q25ayu', 'q1yjvo', 'q20n0r', 'q23scm'}",10,2021-10-05
+230,crypto,moon,"{'q1x304', 'q24gkn', 'q24wbe'}",3,2021-10-05
+231,people,moon,"{'q1x304', 'q24gkn', 'q24wbe'}",3,2021-10-05
+232,moon,think,"{'q1x304', 'q24gkn'}",2,2021-10-05
+233,moon,need,"{'q1tcgp', 'q24gkn'}",2,2021-10-05
+234,moon,thing,"{'q1tcgp', 'q24gkn'}",2,2021-10-05
+235,people,sub,"{'q1upxu', 'q256vt', 'q1rptw', 'q27229', 'q1x304', 'q1yjvo'}",6,2021-10-05
+236,think,sub,"{'q1upxu', 'q256vt', 'q27229', 'q245xp', 'q1x304', 'q1yjvo'}",6,2021-10-05
+237,crypto,sub,"{'q1x304', 'q256vt', 'q245xp', 'q1x1ge'}",4,2021-10-05
+238,comments,sub,"{'q1rptw', 'q1upxu', 'q27229', 'q1x304'}",4,2021-10-05
+239,use,sub,"{'q1x304', 'q1yjvo', 'q27229'}",3,2021-10-05
+240,paid,end,"{'q1tgui', 'q1uv2b', 'q228da', 'q27229', 'q1tx8a'}",5,2021-10-05
+241,people,paid,"{'q228da', 'q1tgui', 'q1uv2b', 'q27229'}",4,2021-10-05
+242,money,paid,"{'q228da', 'q1tgui', 'q1uv2b', 'q27229'}",4,2021-10-05
+243,paid,way,"{'q228da', 'q1tgui', 'q1uv2b', 'q27229'}",4,2021-10-05
+244,post,paid,"{'q228da', 'q1tgui', 'q1uv2b', 'q27229'}",4,2021-10-05
+245,crypto,company,"{'q22nog', 'q256vt', 'q1tgui', 'q22upq'}",4,2021-10-05
+246,people,company,"{'q22nog', 'q256vt', 'q1tgui', 'q27229'}",4,2021-10-05
+247,company,think,"{'q22nog', 'q256vt', 'q1tgui', 'q27229'}",4,2021-10-05
+248,company,need,"{'q1wwko', 'q256vt', 'q1tgui', 'q27229'}",4,2021-10-05
+249,cryptocurrency,company,"{'q1wwko', 'q1tgui', 'q27229'}",3,2021-10-05

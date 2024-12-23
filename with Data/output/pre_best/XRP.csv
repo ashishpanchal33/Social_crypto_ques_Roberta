@@ -1,0 +1,2 @@
+,eval_metric,learning_rate,max_depth,min_child_weight,n_estimators,objective,predictor,random_state,reg_alpha,reg_lambda,tree_method,mse,mae,rmse,sym
+0,rmse,0.45,6,2,1000,reg:squarederror,gpu_predictor,123,0.05,0.1,gpu_hist,0.015904844037346447,0.11396613503735312,0.12611440852395275,XRP

@@ -1,0 +1,96 @@
+,token_1,token_2,connections,connections_strength,date
+0,btc,bitcoin,"{'jo98nz', 'jo89ri'}",2,2020-11-05
+1,bull,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+2,joe,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+3,watch,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+4,anchor,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+5,crypto,bitcoin,{'jo98nz'},1,2020-11-05
+6,crypto,btc,{'jo98nz'},1,2020-11-05
+9,ethereum,defi,{'jo8ios'},1,2020-11-05
+10,wallet,bitcoin,{'jo8hqj'},1,2020-11-05
+13,joe,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+14,watch,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+15,anchor,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+16,bull,anchor joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+19,watch,joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+20,anchor,joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+21,joe,anchor joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+25,watch,anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+26,watch,anchor joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+27,yikes,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+28,yikes,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+29,joe,yikes,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+30,watch,yikes,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+31,anchor,yikes,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+32,watch cnbc,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+33,watch cnbc,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+34,joe,watch cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+35,watch,watch cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+36,anchor,watch cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+37,slam bitcoin,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+38,slam bitcoin,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+39,joe,slam bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+40,watch,slam bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+41,anchor,slam bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+42,kernan slam,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+43,kernan slam,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+44,joe,kernan slam,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+45,watch,kernan slam,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+46,anchor,kernan slam,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+47,slam,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+48,slam,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+49,joe,slam,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+50,watch,slam,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+51,anchor,slam,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+52,novogratz,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+53,novogratz,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+54,joe,novogratz,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+55,watch,novogratz,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+56,anchor,novogratz,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+57,mike novogratz,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+58,mike novogratz,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+59,joe,mike novogratz,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+60,watch,mike novogratz,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+61,anchor,mike novogratz,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+62,mike,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+63,mike,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+64,joe,mike,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+65,watch,mike,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+66,anchor,mike,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+67,bull mike,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+68,bull mike,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+69,joe,bull mike,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+70,watch,bull mike,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+71,anchor,bull mike,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+72,kernan,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+73,kernan,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+74,joe,kernan,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+75,watch,kernan,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+76,anchor,kernan,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+77,joe kernan,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+78,joe kernan,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+79,joe kernan,joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+80,watch,joe kernan,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+81,joe kernan,anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+82,bitcoin,cnbc anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+83,bull,cnbc anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+84,joe,cnbc anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+85,watch,cnbc anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+86,anchor,cnbc anchor,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+87,cnbc,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+88,bull,cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+89,joe,cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+90,watch,cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+91,anchor,cnbc,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+92,bitcoin bull,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+93,bull,bitcoin bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+94,joe,bitcoin bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+95,watch,bitcoin bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+96,anchor,bitcoin bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+97,anchor joe,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+101,anchor,anchor joe,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+107,yikes watch,bitcoin,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+108,yikes watch,bull,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+109,joe,yikes watch,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+110,watch,yikes watch,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05
+111,anchor,yikes watch,"{'jo9dcr', 'jo8o9u'}",2,2020-11-05

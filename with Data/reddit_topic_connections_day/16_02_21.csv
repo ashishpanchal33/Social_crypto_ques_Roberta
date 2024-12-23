@@ -1,0 +1,219 @@
+,token_1,token_2,connections,connections_strength,date
+0,com,https,"{'lkttrh', 'lleyuc', 'lkssul'}",3,2021-02-16
+1,https,www,"{'lkttrh', 'llcvma', 'lkvc4l'}",3,2021-02-16
+2,https,https www,"{'lkttrh', 'llcvma', 'lkvc4l'}",3,2021-02-16
+3,https,news,"{'lkvrn6', 'lleyuc', 'lkvc4l'}",3,2021-02-16
+4,en,https,"{'lkttrh', 'lkssul', 'lkvc4l'}",3,2021-02-16
+5,crypto,reddit,"{'lkti1g', 'lktasf'}",2,2021-02-16
+6,money,reddit,"{'lkti1g', 'lktasf'}",2,2021-02-16
+7,don,reddit,"{'lkti1g', 'lktasf'}",2,2021-02-16
+8,people,reddit,{'lktasf'},1,2021-02-16
+9,reddit,sub,{'lkti1g'},1,2021-02-16
+10,crypto,time,"{'lkvyff', 'lkti1g', 'lksws1', 'lktv5e', 'lku0pt', 'lkssul', 'lku956', 'lkyvwi'}",8,2021-02-16
+11,crypto,don,"{'lkvyff', 'lkvo6a', 'lkti1g', 'lksws1', 'lku0pt', 'lkssul', 'lktasf'}",7,2021-02-16
+12,crypto,people,"{'lkvrn6', 'lku1ru', 'lku0pt', 'lkssul', 'lkyvwi', 'lktasf'}",6,2021-02-16
+13,crypto,ve,"{'llczpl', 'lktv5e', 'lku1ru', 'lku0pt', 'lkyvwi', 'lktasf'}",6,2021-02-16
+14,crypto,account,"{'lkvo6a', 'lkvzre', 'lksws1', 'lktv5e', 'lku0pt', 'lkyvwi'}",6,2021-02-16
+15,crypto,cryptocurrency,"{'lku956', 'lksws1'}",2,2021-02-16
+16,wallet,cryptocurrency,"{'lku956', 'lksws1'}",2,2021-02-16
+17,cryptocurrency,time,"{'lku956', 'lksws1'}",2,2021-02-16
+18,bank,cryptocurrency,"{'lku956', 'lksws1'}",2,2021-02-16
+19,use,cryptocurrency,{'lksws1'},1,2021-02-16
+20,crypto,amp,"{'lkvrn6', 'llczpl', 'lkvvnt'}",3,2021-02-16
+21,https,amp,"{'lkvrn6', 'lkttrh'}",2,2021-02-16
+22,amp,moment,"{'lkvrn6', 'llczpl'}",2,2021-02-16
+23,amp,milestone,"{'lkvrn6', 'lkvvnt'}",2,2021-02-16
+24,com,amp,{'lkttrh'},1,2021-02-16
+26,com,crypto,"{'lku0pt', 'lkssul'}",2,2021-02-16
+27,com,people,"{'lku0pt', 'lkssul'}",2,2021-02-16
+28,com,time,"{'lku0pt', 'lkssul'}",2,2021-02-16
+29,com,don,"{'lku0pt', 'lkssul'}",2,2021-02-16
+30,crypto,invest,"{'lku1ru', 'lksrcj'}",2,2021-02-16
+31,invest,people,{'lku1ru'},1,2021-02-16
+32,invest,afford,{'lku1ru'},1,2021-02-16
+33,afford lose,invest,{'lku1ru'},1,2021-02-16
+34,invest,ve,{'lku1ru'},1,2021-02-16
+36,www,https www,"{'lkttrh', 'llcvma', 'lkvc4l'}",3,2021-02-16
+37,en,www,"{'lkttrh', 'lkvc4l'}",2,2021-02-16
+38,amp,www,{'lkttrh'},1,2021-02-16
+39,com,www,{'lkttrh'},1,2021-02-16
+42,en,https www,"{'lkttrh', 'lkvc4l'}",2,2021-02-16
+43,amp,https www,{'lkttrh'},1,2021-02-16
+44,com,https www,{'lkttrh'},1,2021-02-16
+45,crypto,use,"{'lkvfeo', 'lkvzre', 'lksws1', 'llczpl', 'lkyvwi'}",5,2021-02-16
+46,want,use,"{'lksws1', 'lkyvwi', 'lkvzre'}",3,2021-02-16
+47,use,account,"{'lksws1', 'lkyvwi', 'lkvzre'}",3,2021-02-16
+48,use,time,"{'lksws1', 'lkyvwi'}",2,2021-02-16
+49,use,ve,"{'llczpl', 'lkyvwi'}",2,2021-02-16
+50,crypto,wallet,"{'lkvh23', 'lkssul', 'lku956', 'lksws1'}",4,2021-02-16
+51,wallet,time,"{'lkssul', 'lku956', 'lksws1'}",3,2021-02-16
+52,wallet,fees,"{'lkvh23', 'lkrbz7', 'lku956'}",3,2021-02-16
+53,transfer,wallet,"{'lkvh23', 'lkrbz7', 'lksws1'}",3,2021-02-16
+54,wallet,type,"{'lkvh23', 'lkssul', 'lksws1'}",3,2021-02-16
+56,ve,people,"{'lku1ru', 'lku0pt', 'lktasf', 'lkyvwi'}",4,2021-02-16
+57,years,people,"{'lku1ru', 'lkssul', 'lktasf', 'lkyvwi'}",4,2021-02-16
+58,people,time,"{'lku0pt', 'lkssul', 'lkyvwi'}",3,2021-02-16
+59,people,don,"{'lku0pt', 'lkssul', 'lktasf'}",3,2021-02-16
+60,veterans,sub,"{'lkti1g', 'lkvw77'}",2,2021-02-16
+61,sub,reddit,{'lkti1g'},1,2021-02-16
+62,crypto,sub,{'lkti1g'},1,2021-02-16
+63,moons,sub,{'lkti1g'},1,2021-02-16
+64,time,sub,{'lkti1g'},1,2021-02-16
+65,information,time,"{'llcvma', 'lksws1'}",2,2021-02-16
+66,https,information,{'llcvma'},1,2021-02-16
+67,crypto,information,{'lksws1'},1,2021-02-16
+68,information,cryptocurrency,{'lksws1'},1,2021-02-16
+69,information,www,{'llcvma'},1,2021-02-16
+70,trade,fees,"{'lktv5e', 'lkrbz7'}",2,2021-02-16
+71,binance,trade,"{'lktv5e', 'lkrbz7'}",2,2021-02-16
+72,trade,fee,"{'lktv5e', 'lkrbz7'}",2,2021-02-16
+73,trade,transfer,"{'lktv5e', 'lkrbz7'}",2,2021-02-16
+74,trade,withdrawal,"{'lktv5e', 'lkrbz7'}",2,2021-02-16
+75,moons,crypto,"{'lkvtf1', 'lkti1g'}",2,2021-02-16
+76,moons,reddit,{'lkti1g'},1,2021-02-16
+78,moons,time,{'lkti1g'},1,2021-02-16
+79,moons,doge,{'lkti1g'},1,2021-02-16
+80,non,ledger,"{'lkxd57', 'lkssul'}",2,2021-02-16
+81,non,https,{'lkssul'},1,2021-02-16
+82,non,crypto,{'lkssul'},1,2021-02-16
+83,com,non,{'lkssul'},1,2021-02-16
+84,non,wallet,{'lkssul'},1,2021-02-16
+86,time,don,"{'lkvyff', 'lkti1g', 'lksws1', 'lku0pt', 'lkssul'}",5,2021-02-16
+87,account,time,"{'lktv5e', 'lku0pt', 'lksws1', 'lkyvwi'}",4,2021-02-16
+90,crypto,afford,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+91,people,afford,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+92,afford lose,afford,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+93,ve,afford,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+94,years,afford,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+95,crypto,doge,"{'lkvyff', 'lkti1g'}",2,2021-02-16
+96,doge,time,"{'lkvyff', 'lkti1g'}",2,2021-02-16
+97,doge,don,"{'lkvyff', 'lkti1g'}",2,2021-02-16
+98,doge,reddit,{'lkti1g'},1,2021-02-16
+99,doge,sub,{'lkti1g'},1,2021-02-16
+100,afford lose,crypto,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+101,afford lose,people,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+103,afford lose,ve,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+104,afford lose,years,"{'lku1ru', 'lkyvwi'}",2,2021-02-16
+105,crypto,buying,"{'lkti1g', 'lkveus', 'lkvzre', 'lktv5e', 'lku956'}",5,2021-02-16
+106,buying,time,"{'lktv5e', 'lkti1g', 'lku956'}",3,2021-02-16
+107,money,buying,"{'lkti1g', 'lkveus', 'lkvzre'}",3,2021-02-16
+108,buying crypto,buying,"{'lktv5e', 'lku956', 'lkvzre'}",3,2021-02-16
+109,want,buying,"{'lktv5e', 'lkvzre'}",2,2021-02-16
+110,money,thread,"{'lkti1g', 'lkw75i'}",2,2021-02-16
+111,investors,thread,"{'lkti1g', 'lkw75i'}",2,2021-02-16
+112,thread,reddit,{'lkti1g'},1,2021-02-16
+113,crypto,thread,{'lkti1g'},1,2021-02-16
+114,thread,sub,{'lkti1g'},1,2021-02-16
+115,bitcoin,price,"{'lkuzfp', 'lkvw2s', 'll278z', 'll3isz', 'lkvw77', 'll32vq'}",6,2021-02-16
+116,btc,bitcoin,"{'llczvv', 'lleyuc', 'lkrbz7', 'lkvw77', 'll32vq', 'lktasf'}",6,2021-02-16
+117,crypto,bitcoin,"{'lkvvnt', 'lkveus', 'lktasf', 'lksws1'}",4,2021-02-16
+118,hit,bitcoin,"{'lkuzfp', 'lkvhrv', 'lkvw77', 'lkvw2s'}",4,2021-02-16
+119,bitcoin,time,"{'lkuf6x', 'll3lk2', 'lksws1'}",3,2021-02-16
+121,people,ve,"{'lku1ru', 'lku0pt', 'lktasf', 'lkyvwi'}",4,2021-02-16
+122,ve,way,"{'lktv5e', 'lkunnv', 'lktasf', 'lkyvwi'}",4,2021-02-16
+123,hold,ve,"{'lktv5e', 'lku1ru', 'lku0pt', 'lktasf'}",4,2021-02-16
+124,ve,time,"{'lktv5e', 'lku0pt', 'lkyvwi'}",3,2021-02-16
+126,hit,price,"{'lkuzfp', 'lkvw77', 'lkvw2s'}",3,2021-02-16
+127,ride,hit,"{'lkvw77', 'lkvw2s'}",2,2021-02-16
+128,hit,usd,"{'lkuzfp', 'lkvw77'}",2,2021-02-16
+129,hit,exchanges,"{'lkvw77', 'lkvw2s'}",2,2021-02-16
+130,crypto,money,"{'lkti1g', 'lkveus', 'lkvzre', 'lkti0o', 'lktasf'}",5,2021-02-16
+132,money,way,"{'lkti0o', 'lktasf', 'lkw75i'}",3,2021-02-16
+135,ethereum,eth,"{'lkttrh', 'lky4t6'}",2,2021-02-16
+136,https,ethereum,{'lkttrh'},1,2021-02-16
+137,ethereum,amp,{'lkttrh'},1,2021-02-16
+138,com,ethereum,{'lkttrh'},1,2021-02-16
+139,ethereum,www,{'lkttrh'},1,2021-02-16
+140,crypto,way,"{'lkti0o', 'lktv5e', 'lktasf', 'lkyvwi'}",4,2021-02-16
+143,exchanges,way,"{'lktv5e', 'lkunnv', 'lkyvwi'}",3,2021-02-16
+144,people,way,"{'lktasf', 'lkyvwi'}",2,2021-02-16
+145,crypto,eth,"{'lku1ru', 'lktasf', 'lku956'}",3,2021-02-16
+146,market,eth,"{'lkw75i', 'lky4t6', 'lktasf'}",3,2021-02-16
+147,btc,eth,"{'lkw75i', 'lku1ru', 'lktasf'}",3,2021-02-16
+148,people,eth,"{'lku1ru', 'lktasf'}",2,2021-02-16
+149,eth,time,"{'lky4t6', 'lku956'}",2,2021-02-16
+151,don,time,"{'lkvyff', 'lkti1g', 'lksws1', 'lku0pt', 'lkssul'}",5,2021-02-16
+153,account,don,"{'lkvo6a', 'lku0pt', 'lksws1'}",3,2021-02-16
+155,ll,bitcoin,"{'lksws1', 'lktasf', 'lkvw2s'}",3,2021-02-16
+156,crypto,ll,"{'lktasf', 'lksws1'}",2,2021-02-16
+157,ll,don,"{'lktasf', 'lksws1'}",2,2021-02-16
+158,right,ll,"{'lktasf', 'lksws1'}",2,2021-02-16
+159,sure,ll,"{'lksws1', 'lkvw2s'}",2,2021-02-16
+160,crypto,day,"{'lku0pt', 'lksxne'}",2,2021-02-16
+161,day,value,"{'lku0pt', 'lksxne'}",2,2021-02-16
+162,investment,day,"{'lku0pt', 'lksxne'}",2,2021-02-16
+163,ada,day,"{'lku0pt', 'lksxne'}",2,2021-02-16
+164,com,day,{'lku0pt'},1,2021-02-16
+165,market,crypto,"{'lkr65x', 'lksxne', 'lktasf', 'lksrcj'}",4,2021-02-16
+166,market,coins,"{'lkw75i', 'lksxne', 'lktasf', 'lks2vo'}",4,2021-02-16
+168,market,value,"{'lkr65x', 'lksxne', 'lky4t6'}",3,2021-02-16
+169,trading,market,"{'lktasf', 'lksxne', 'lkw75i'}",3,2021-02-16
+170,crypto,cash,"{'llczpl', 'lkyvwi'}",2,2021-02-16
+171,use,cash,"{'llczpl', 'lkyvwi'}",2,2021-02-16
+172,cash,ve,"{'llczpl', 'lkyvwi'}",2,2021-02-16
+173,cash,amp,{'llczpl'},1,2021-02-16
+174,cash,people,{'lkyvwi'},1,2021-02-16
+175,crypto,years,"{'lku1ru', 'lkr65x', 'lkssul', 'lkyvwi', 'lktasf'}",5,2021-02-16
+177,years,lot,"{'lku1ru', 'lkrbz7', 'lkssul', 'lkyvwi'}",4,2021-02-16
+178,years,ve,"{'lku1ru', 'lktasf', 'lkyvwi'}",3,2021-02-16
+179,years,btc,"{'lku1ru', 'lkrbz7', 'lktasf'}",3,2021-02-16
+180,moon,bitcoin,"{'lkvvnt', 'lkvw77'}",2,2021-02-16
+181,hodlers,moon,"{'lkvvnt', 'lkvw77'}",2,2021-02-16
+182,congratulations,moon,"{'lkvvnt', 'lkvw77'}",2,2021-02-16
+183,crypto,moon,{'lkvvnt'},1,2021-02-16
+184,amp,moon,{'lkvvnt'},1,2021-02-16
+185,knows,ve,"{'lkunnv', 'lkyvwi'}",2,2021-02-16
+186,knows,way,"{'lkunnv', 'lkyvwi'}",2,2021-02-16
+187,knows,exchanges,"{'lkunnv', 'lkyvwi'}",2,2021-02-16
+188,knows,idea,"{'lkunnv', 'lkyvwi'}",2,2021-02-16
+189,knows,crypto,{'lkyvwi'},1,2021-02-16
+190,crypto,moment,"{'lkvrn6', 'llczpl', 'lku1ru'}",3,2021-02-16
+192,people,moment,"{'lkvrn6', 'lku1ru'}",2,2021-02-16
+193,ve,moment,"{'llczpl', 'lku1ru'}",2,2021-02-16
+194,btc,moment,"{'lkvrn6', 'lku1ru'}",2,2021-02-16
+197,btc,price,"{'ll32vq', 'lkvw77', 'lkw75i'}",3,2021-02-16
+198,price,usd,"{'lkuzfp', 'lkvw77', 'lku956'}",3,2021-02-16
+199,bitcoin price,price,"{'ll278z', 'll32vq', 'll3isz'}",3,2021-02-16
+201,crypto,btc,"{'lkvtf1', 'lku1ru', 'lkvrn6', 'lktasf'}",4,2021-02-16
+202,people,btc,"{'lkvrn6', 'lku1ru', 'lktasf'}",3,2021-02-16
+205,crypto,need,"{'lkssul', 'lktasf', 'lkyvwi'}",3,2021-02-16
+206,people,need,"{'lkssul', 'lktasf', 'lkyvwi'}",3,2021-02-16
+207,years,need,"{'lkssul', 'lktasf', 'lkyvwi'}",3,2021-02-16
+208,need,time,"{'lkssul', 'lkyvwi'}",2,2021-02-16
+209,need,bitcoin,"{'lkuzfp', 'lktasf'}",2,2021-02-16
+210,want,crypto,"{'lkvzre', 'lksws1', 'lktv5e', 'lkvh23', 'lkyvwi'}",5,2021-02-16
+211,want,account,"{'lktv5e', 'lkvzre', 'lksws1', 'lkyvwi'}",4,2021-02-16
+213,want,time,"{'lktv5e', 'lksws1', 'lkyvwi'}",3,2021-02-16
+214,want,pay,"{'lktv5e', 'lkvh23', 'lkyvwi'}",3,2021-02-16
+215,https,set,"{'lkttrh', 'lkssul'}",2,2021-02-16
+216,com,set,"{'lkttrh', 'lkssul'}",2,2021-02-16
+217,en,set,"{'lkttrh', 'lkssul'}",2,2021-02-16
+218,crypto,set,{'lkssul'},1,2021-02-16
+219,amp,set,{'lkttrh'},1,2021-02-16
+220,crypto,right,"{'lktasf', 'lksws1'}",2,2021-02-16
+221,right,bitcoin,"{'lktasf', 'lksws1'}",2,2021-02-16
+222,right,don,"{'lktasf', 'lksws1'}",2,2021-02-16
+224,right,reddit,{'lktasf'},1,2021-02-16
+225,post,reddit,{'lkti1g'},1,2021-02-16
+226,post,crypto,{'lkti1g'},1,2021-02-16
+227,post,sub,{'lkti1g'},1,2021-02-16
+228,moons,post,{'lkti1g'},1,2021-02-16
+229,post,time,{'lkti1g'},1,2021-02-16
+230,coin,crypto,"{'lku1ru', 'lku0pt', 'lle7vd'}",3,2021-02-16
+231,coin,people,"{'lkrmpm', 'lku1ru', 'lku0pt'}",3,2021-02-16
+232,coin,time,"{'lku0pt', 'll0h6z'}",2,2021-02-16
+233,coin,ve,"{'lku1ru', 'lku0pt'}",2,2021-02-16
+234,coin,eth,"{'lku1ru', 'lkw75i'}",2,2021-02-16
+236,coins,btc,"{'lkw75i', 'lkrbz7', 'lktasf'}",3,2021-02-16
+237,coins,sell,"{'lkw75i', 'lkrbz7', 'lktasf'}",3,2021-02-16
+238,trading,coins,"{'lkw75i', 'lksxne', 'lktasf'}",3,2021-02-16
+239,coins,crypto,"{'lksxne', 'lktasf'}",2,2021-02-16
+241,crypto,lot,"{'lku1ru', 'lkssul', 'lkyvwi'}",3,2021-02-16
+242,people,lot,"{'lku1ru', 'lkssul', 'lkyvwi'}",3,2021-02-16
+243,wallet,lot,"{'lkrbz7', 'lkssul'}",2,2021-02-16
+244,lot,time,"{'lkssul', 'lkyvwi'}",2,2021-02-16
+245,days,crypto,{'lktv5e'},1,2021-02-16
+246,trade,days,{'lktv5e'},1,2021-02-16
+247,days,time,{'lktv5e'},1,2021-02-16
+248,days,buying,{'lktv5e'},1,2021-02-16
+249,days,ve,{'lktv5e'},1,2021-02-16

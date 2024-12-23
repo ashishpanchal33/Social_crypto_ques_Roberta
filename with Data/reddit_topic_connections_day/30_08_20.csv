@@ -1,0 +1,223 @@
+,token_1,token_2,connections,connections_strength,date
+0,bitcoin,bitcoin nan,"{'ijln28', 'ijn0im', 'ijk81y', 'ij9qia', 'ij63xa'}",5,2020-08-30
+1,ethereum,bitcoin,"{'ijezqe', 'ij9qt2'}",2,2020-08-30
+2,bitcoin,don,"{'ijgjbu', 'ijesdb'}",2,2020-08-30
+3,cash,bitcoin,"{'ijdygs', 'ij9qia'}",2,2020-08-30
+4,bitcoin,app,"{'ijdygs', 'ijjbuo'}",2,2020-08-30
+5,amp,cryptocurrency,"{'ijimrw', 'ijja84'}",2,2020-08-30
+6,com,amp,"{'ijmcmc', 'ijja84'}",2,2020-08-30
+7,crypto,amp,"{'ijmcmc', 'ijja84'}",2,2020-08-30
+8,amp,focus,"{'ijnd19', 'ijja84'}",2,2020-08-30
+9,https,amp,{'ijja84'},1,2020-08-30
+11,com,cryptocurrency,{'ijja84'},1,2020-08-30
+12,https,cryptocurrency,{'ijja84'},1,2020-08-30
+13,crypto,cryptocurrency,{'ijja84'},1,2020-08-30
+14,cryptocurrency,reddit,{'ijja84'},1,2020-08-30
+15,com,https,"{'ijjbuo', 'ijaw2i', 'ijja84'}",3,2020-08-30
+16,com,www,"{'ijjbuo', 'ijaw2i', 'ijja84'}",3,2020-08-30
+17,com,https www,"{'ijjbuo', 'ijaw2i', 'ijja84'}",3,2020-08-30
+19,com,crypto,"{'ijmcmc', 'ijja84'}",2,2020-08-30
+21,https,www,"{'ijjbuo', 'ijaw2i', 'ijja84'}",3,2020-08-30
+22,https,https www,"{'ijjbuo', 'ijaw2i', 'ijja84'}",3,2020-08-30
+23,https,project,"{'ijlijf', 'ijaw2i', 'ijja84'}",3,2020-08-30
+24,https,time,"{'ijlijf', 'ijja84'}",2,2020-08-30
+25,crypto,platform,"{'ijhdon', 'ijhf7c', 'ijhgk1', 'ijhb2h'}",4,2020-08-30
+26,new crypto,crypto,"{'ijhf7c', 'ijhgk1', 'ijja84', 'ijhdon'}",4,2020-08-30
+27,crypto,strategy,"{'ijhb2h', 'ijhf7c', 'ijhgk1', 'ijhdon'}",4,2020-08-30
+28,iconomi,crypto,"{'ijhdon', 'ijhf7c', 'ijhgk1', 'ijhb2h'}",4,2020-08-30
+29,crypto strategy,crypto,"{'ijhb2h', 'ijhf7c', 'ijhgk1', 'ijhdon'}",4,2020-08-30
+30,community,reddit,"{'ijk924', 'ijl9ex', 'ijja84'}",3,2020-08-30
+31,point,reddit,"{'ijk924', 'ijl9ex', 'ijja84'}",3,2020-08-30
+32,network,reddit,"{'ijk924', 'ijl9ex'}",2,2020-08-30
+33,sent,reddit,"{'ijk924', 'ijl9ex'}",2,2020-08-30
+34,omg,reddit,"{'ijk924', 'ijl9ex'}",2,2020-08-30
+37,www,https www,"{'ijjbuo', 'ijaw2i', 'ijja84'}",3,2020-08-30
+38,today,www,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+39,project,www,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+43,today,https www,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+44,project,https www,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+45,amp,check,{'ijja84'},1,2020-08-30
+46,check,cryptocurrency,{'ijja84'},1,2020-08-30
+47,com,check,{'ijja84'},1,2020-08-30
+48,https,check,{'ijja84'},1,2020-08-30
+49,crypto,check,{'ijja84'},1,2020-08-30
+50,discussion,day,"{'ij88zj', 'ijja84'}",2,2020-08-30
+51,discussion,amp,{'ijja84'},1,2020-08-30
+52,discussion,cryptocurrency,{'ijja84'},1,2020-08-30
+53,com,discussion,{'ijja84'},1,2020-08-30
+54,discussion,https,{'ijja84'},1,2020-08-30
+55,com,blockchain,{'ij5z2t'},1,2020-08-30
+56,blockchain,check,{'ijk6t4'},1,2020-08-30
+57,discussion,blockchain,{'ijdchv'},1,2020-08-30
+58,blockchain,think,{'ijdchv'},1,2020-08-30
+59,blockchain,digital,{'ij3gdg'},1,2020-08-30
+60,ethereum,attack,"{'ijbwko', 'ijiyls', 'ij386n', 'ijhxsg', 'ijezqe'}",5,2020-08-30
+61,ethereum,month,"{'ijbwko', 'ijiyls', 'ij386n', 'ijhxsg'}",4,2020-08-30
+62,ethereum,classic suffers,"{'ijbwko', 'ijezqe', 'ijiyls', 'ijhxsg'}",4,2020-08-30
+63,suffers,ethereum,"{'ijbwko', 'ijezqe', 'ijiyls', 'ijhxsg'}",4,2020-08-30
+64,ethereum,suffers 51,"{'ijbwko', 'ijezqe', 'ijiyls', 'ijhxsg'}",4,2020-08-30
+66,ethereum,time,"{'ijiyls', 'ijlijf'}",2,2020-08-30
+67,feel,time,"{'ijlijf', 'ijja84'}",2,2020-08-30
+68,project,time,"{'ijlijf', 'ijja84'}",2,2020-08-30
+69,time,year,"{'ijlijf', 'ijja84'}",2,2020-08-30
+70,market,https,"{'ijlijf', 'ijaw2i'}",2,2020-08-30
+71,market,project,"{'ijlijf', 'ijaw2i'}",2,2020-08-30
+72,com,market,{'ijaw2i'},1,2020-08-30
+73,market,crypto,{'ijgzof'},1,2020-08-30
+74,market,www,{'ijaw2i'},1,2020-08-30
+75,posts,price,"{'ijeemk', 'ijja84'}",2,2020-08-30
+76,amp,price,{'ijja84'},1,2020-08-30
+77,cryptocurrency,price,{'ijja84'},1,2020-08-30
+78,com,price,{'ijja84'},1,2020-08-30
+79,https,price,{'ijja84'},1,2020-08-30
+80,bitcoin,fees,{'ij9qt2'},1,2020-08-30
+81,crypto,fees,{'ijhgk1'},1,2020-08-30
+82,ethereum,fees,{'ij9qt2'},1,2020-08-30
+83,network,fees,{'ij9qt2'},1,2020-08-30
+84,users,fees,{'ij9qt2'},1,2020-08-30
+85,https,feel,"{'ijlijf', 'ijja84'}",2,2020-08-30
+87,project,feel,"{'ijlijf', 'ijja84'}",2,2020-08-30
+88,feel,year,"{'ijlijf', 'ijja84'}",2,2020-08-30
+89,week,feel,"{'ijlijf', 'ijja84'}",2,2020-08-30
+90,trading,crypto,"{'ijkv68', 'ijkt8d'}",2,2020-08-30
+91,trading,ethereum,{'ij36go'},1,2020-08-30
+92,trading,link,{'ij36go'},1,2020-08-30
+93,trading,token,{'ij36go'},1,2020-08-30
+94,trading,coinbase,{'ij36go'},1,2020-08-30
+95,don,bitcoin,"{'ijgjbu', 'ijesdb'}",2,2020-08-30
+96,amp,don,{'ijimrw'},1,2020-08-30
+97,cryptocurrency,don,{'ijimrw'},1,2020-08-30
+98,don,time,{'ijesdb'},1,2020-08-30
+99,use,don,{'ijimrw'},1,2020-08-30
+100,amp,people,{'ijja84'},1,2020-08-30
+101,people,cryptocurrency,{'ijja84'},1,2020-08-30
+102,com,people,{'ijja84'},1,2020-08-30
+103,https,people,{'ijja84'},1,2020-08-30
+104,crypto,people,{'ijja84'},1,2020-08-30
+105,hits,defi,"{'ij82sm', 'ijeczv'}",2,2020-08-30
+106,ethereum,defi,{'ijkw8o'},1,2020-08-30
+107,defi,exchanges,{'ijgs2e'},1,2020-08-30
+108,defi,ceo,{'ijkw8o'},1,2020-08-30
+109,users,defi,{'ij82sm'},1,2020-08-30
+110,pro,way,"{'ijhv31', 'ijlijf'}",2,2020-08-30
+111,https,way,{'ijlijf'},1,2020-08-30
+112,ethereum,way,{'ijlijf'},1,2020-08-30
+113,time,way,{'ijlijf'},1,2020-08-30
+114,market,way,{'ijlijf'},1,2020-08-30
+115,use,bitcoin,{'ijjbuo'},1,2020-08-30
+116,use,amp,{'ijimrw'},1,2020-08-30
+117,use,cryptocurrency,{'ijimrw'},1,2020-08-30
+118,com,use,{'ijjbuo'},1,2020-08-30
+119,https,use,{'ijjbuo'},1,2020-08-30
+120,want,bitcoin,{'ijdygs'},1,2020-08-30
+121,want,amp,{'ijimrw'},1,2020-08-30
+122,want,cryptocurrency,{'ijimrw'},1,2020-08-30
+123,want,crypto,{'ijdygs'},1,2020-08-30
+124,want,don,{'ijimrw'},1,2020-08-30
+125,wallet,bank,"{'ijbxfd', 'iji274'}",2,2020-08-30
+126,wallet,digital,"{'ijbxfd', 'iji274'}",2,2020-08-30
+127,user,wallet,"{'ijdhm4', 'ijn8mv'}",2,2020-08-30
+128,wallet,version,"{'ijdhm4', 'ijn8mv'}",2,2020-08-30
+129,digital yuan,wallet,"{'ijbxfd', 'iji274'}",2,2020-08-30
+131,coin,bitcoin nan,{'ijn0im'},1,2020-08-30
+132,cash,bitcoin nan,{'ij9qia'},1,2020-08-30
+133,company,bitcoin nan,{'ij9qia'},1,2020-08-30
+134,dan,bitcoin nan,{'ijln28'},1,2020-08-30
+135,amp,link,{'ijja84'},1,2020-08-30
+136,cryptocurrency,link,{'ijja84'},1,2020-08-30
+137,com,link,{'ijja84'},1,2020-08-30
+138,https,link,{'ijja84'},1,2020-08-30
+139,crypto,link,{'ijja84'},1,2020-08-30
+140,exchange,amp,{'ijimrw'},1,2020-08-30
+141,exchange,cryptocurrency,{'ijimrw'},1,2020-08-30
+142,exchange,https,{'ijlijf'},1,2020-08-30
+143,exchange,ethereum,{'ijlijf'},1,2020-08-30
+144,exchange,time,{'ijlijf'},1,2020-08-30
+145,crypto,token,{'ijjy74'},1,2020-08-30
+146,ethereum,token,{'ij36go'},1,2020-08-30
+147,token,price,{'ijeemk'},1,2020-08-30
+149,link,token,{'ij36go'},1,2020-08-30
+150,coin,bitcoin,{'ijn0im'},1,2020-08-30
+151,coin,amp,{'ijja84'},1,2020-08-30
+152,coin,cryptocurrency,{'ijja84'},1,2020-08-30
+153,com,coin,{'ijja84'},1,2020-08-30
+154,coin,https,{'ijja84'},1,2020-08-30
+155,binance,coinbase,"{'ij36go', 'ijhv31'}",2,2020-08-30
+156,ethereum,coinbase,{'ij36go'},1,2020-08-30
+158,coinbase,way,{'ijhv31'},1,2020-08-30
+159,use,coinbase,{'ijhv31'},1,2020-08-30
+160,amp,ve,{'ijimrw'},1,2020-08-30
+161,ve,cryptocurrency,{'ijimrw'},1,2020-08-30
+162,crypto,ve,{'ijmmdc'},1,2020-08-30
+163,ve,don,{'ijimrw'},1,2020-08-30
+164,use,ve,{'ijimrw'},1,2020-08-30
+165,network nan,network,"{'ijk924', 'ij9qt2', 'ijl9ex'}",3,2020-08-30
+167,community,network,"{'ijk924', 'ijl9ex'}",2,2020-08-30
+168,network,point,"{'ijk924', 'ijl9ex'}",2,2020-08-30
+169,sent,network,"{'ijk924', 'ijl9ex'}",2,2020-08-30
+171,amp,day,{'ijja84'},1,2020-08-30
+172,cryptocurrency,day,{'ijja84'},1,2020-08-30
+173,com,day,{'ijja84'},1,2020-08-30
+174,https,day,{'ijja84'},1,2020-08-30
+175,com,world,{'ijaw2i'},1,2020-08-30
+176,https,world,{'ijaw2i'},1,2020-08-30
+177,world,www,{'ijaw2i'},1,2020-08-30
+178,world,https www,{'ijaw2i'},1,2020-08-30
+179,market,world,{'ijaw2i'},1,2020-08-30
+180,coins,crypto,"{'ijkt8d', 'ijja84'}",2,2020-08-30
+181,coins,community,"{'ijkt8d', 'ijja84'}",2,2020-08-30
+182,coins,lot,"{'ijkt8d', 'ijja84'}",2,2020-08-30
+183,coins,learn,"{'ijkt8d', 'ijja84'}",2,2020-08-30
+184,coins,amp,{'ijja84'},1,2020-08-30
+185,crypto,scam,"{'ij9yfo', 'ijja84'}",2,2020-08-30
+186,amp,scam,{'ijja84'},1,2020-08-30
+187,cryptocurrency,scam,{'ijja84'},1,2020-08-30
+188,com,scam,{'ijja84'},1,2020-08-30
+189,https,scam,{'ijja84'},1,2020-08-30
+190,cryptocurrencies,bitcoin,{'ijdygs'},1,2020-08-30
+191,cryptocurrencies,crypto,{'ijdygs'},1,2020-08-30
+192,want,cryptocurrencies,{'ijdygs'},1,2020-08-30
+193,cryptocurrencies,cash,{'ijdygs'},1,2020-08-30
+194,cryptocurrencies,app,{'ijdygs'},1,2020-08-30
+195,guys,think,"{'ijdchv', 'ijkt8d'}",2,2020-08-30
+196,amp,think,{'ijimrw'},1,2020-08-30
+197,cryptocurrency,think,{'ijimrw'},1,2020-08-30
+198,crypto,think,{'ijkt8d'},1,2020-08-30
+199,discussion,think,{'ijdchv'},1,2020-08-30
+200,crypto,exchanges,{'ijmxlt'},1,2020-08-30
+202,days,exchanges,{'ijmxlt'},1,2020-08-30
+203,exchanges,gains,{'ijmxlt'},1,2020-08-30
+204,capital,exchanges,{'ijmxlt'},1,2020-08-30
+205,days,crypto,{'ijmxlt'},1,2020-08-30
+207,days,gains,{'ijmxlt'},1,2020-08-30
+208,capital,days,{'ijmxlt'},1,2020-08-30
+209,days,help,{'ijmxlt'},1,2020-08-30
+210,com,today,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+211,https,today,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+214,today,project,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+216,digital,bank,"{'ijbxfd', 'iji274'}",2,2020-08-30
+217,digital yuan,bank,"{'ijbxfd', 'iji274'}",2,2020-08-30
+218,yuan,bank,"{'ijbxfd', 'iji274'}",2,2020-08-30
+219,bank,chinese bank,"{'ijbxfd', 'iji274'}",2,2020-08-30
+220,ethereum,ceo,"{'ijkw8o', 'ijlijf'}",2,2020-08-30
+221,https,ceo,{'ijlijf'},1,2020-08-30
+222,ceo,time,{'ijlijf'},1,2020-08-30
+223,market,ceo,{'ijlijf'},1,2020-08-30
+224,ceo,feel,{'ijlijf'},1,2020-08-30
+226,com,project,"{'ijaw2i', 'ijja84'}",2,2020-08-30
+231,crypto,cash,{'ijdygs'},1,2020-08-30
+232,cash,way,{'ijhv31'},1,2020-08-30
+233,use,cash,{'ijhv31'},1,2020-08-30
+234,want,cash,{'ijdygs'},1,2020-08-30
+235,users,bitcoin,{'ij9qt2'},1,2020-08-30
+236,users,ethereum,{'ij9qt2'},1,2020-08-30
+239,users,network,{'ij9qt2'},1,2020-08-30
+240,ethereum,news,"{'ijezqe', 'ijlijf'}",2,2020-08-30
+241,news,bitcoin,{'ijezqe'},1,2020-08-30
+242,https,news,{'ijlijf'},1,2020-08-30
+243,news,time,{'ijlijf'},1,2020-08-30
+244,market,news,{'ijlijf'},1,2020-08-30
+246,community,point,"{'ijk924', 'ijl9ex', 'ijja84'}",3,2020-08-30
+247,com,community,"{'ijjbuo', 'ijja84'}",2,2020-08-30
+248,https,community,"{'ijjbuo', 'ijja84'}",2,2020-08-30
+249,crypto,community,"{'ijkt8d', 'ijja84'}",2,2020-08-30

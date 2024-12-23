@@ -1,0 +1,210 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,people,"{'fm2n6y', 'flyyah', 'flt56v', 'fm2uf6'}",4,2020-03-20
+1,crypto,bitcoin,"{'flt68f', 'flx193', 'fm1pmx'}",3,2020-03-20
+2,market,crypto,"{'flt68f', 'flx193', 'flyyah'}",3,2020-03-20
+3,crypto,price,"{'flt68f', 'flyyah', 'fm2uf6'}",3,2020-03-20
+4,crypto,lot,"{'flwg79', 'flyyah', 'fm2uf6'}",3,2020-03-20
+5,crypto,cryptocurrency,{'flyyah'},1,2020-03-20
+6,market,cryptocurrency,{'flyyah'},1,2020-03-20
+7,people,cryptocurrency,{'flyyah'},1,2020-03-20
+8,coronavirus,cryptocurrency,{'flyyah'},1,2020-03-20
+9,anti,cryptocurrency,{'flvy0a'},1,2020-03-20
+10,trading,bitcoin,"{'flw1jr', 'fm5ho2', 'flw7w1', 'fluj2k'}",4,2020-03-20
+12,market,bitcoin,"{'flt68f', 'flktc4', 'flx193'}",3,2020-03-20
+13,bitcoin,price,"{'flrc17', 'flt68f', 'flunxd'}",3,2020-03-20
+14,markets,bitcoin,"{'flx2lg', 'fm1pmx', 'flnrja'}",3,2020-03-20
+15,market,https,{'flvzun'},1,2020-03-20
+16,https,blockchain,{'flvzun'},1,2020-03-20
+17,https,btc,{'flwgll'},1,2020-03-20
+18,https,privacy,{'flwgll'},1,2020-03-20
+19,wallet,https,{'flwgll'},1,2020-03-20
+20,com,crypto,{'flsk0c'},1,2020-03-20
+21,com,bitcoin,{'fm34l1'},1,2020-03-20
+22,com,right,{'fm34l1'},1,2020-03-20
+25,market,crypto market,"{'flt68f', 'flx193'}",2,2020-03-20
+26,market,price,"{'flt68f', 'flyyah'}",2,2020-03-20
+27,xrp,market,"{'flx193', 'flktc4'}",2,2020-03-20
+28,trading,trade,"{'flw1jr', 'flwg79'}",2,2020-03-20
+29,trade,crypto,{'flwg79'},1,2020-03-20
+30,trade,bitcoin,{'flw1jr'},1,2020-03-20
+31,trade,lot,{'flwg79'},1,2020-03-20
+32,trade,time,{'flwg79'},1,2020-03-20
+33,crypto,blockchain,{'flp15k'},1,2020-03-20
+35,market,blockchain,{'flvzun'},1,2020-03-20
+36,blockchain,help,{'flywoy'},1,2020-03-20
+37,blockchain,time,{'flp15k'},1,2020-03-20
+39,people,coinbase,"{'flrwfv', 'fm2uf6', 'flrwf8'}",3,2020-03-20
+40,people,price,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+41,people,project,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+42,people,lot,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+43,btc,bitcoin,"{'flrc17', 'fluri4'}",2,2020-03-20
+44,wallet,btc,"{'flwgll', 'fluri4'}",2,2020-03-20
+45,crypto,btc,{'flt56v'},1,2020-03-20
+47,people,btc,{'flt56v'},1,2020-03-20
+48,crypto,money,{'fm2n6y'},1,2020-03-20
+49,money,people,{'fm2n6y'},1,2020-03-20
+50,exchange,money,{'fm2n6y'},1,2020-03-20
+51,gain,money,{'fm2n6y'},1,2020-03-20
+52,money,ve,{'fm2n6y'},1,2020-03-20
+53,coronavirus,coronavirus outbreak,"{'flr9yx', 'flrgrn', 'flunxd'}",3,2020-03-20
+54,coronavirus,outbreak,"{'flr9yx', 'flrgrn', 'flunxd'}",3,2020-03-20
+55,coronavirus,price,"{'flyyah', 'flunxd'}",2,2020-03-20
+56,coronavirus,currency,"{'flr9yx', 'flyyah'}",2,2020-03-20
+57,coronavirus,ceo,"{'flnvvy', 'fluf8p'}",2,2020-03-20
+58,crypto,crypto market,"{'flt68f', 'flx193'}",2,2020-03-20
+59,crypto market,bitcoin,"{'flt68f', 'flx193'}",2,2020-03-20
+61,crypto market,price,{'flt68f'},1,2020-03-20
+62,xrp,crypto market,{'flx193'},1,2020-03-20
+64,privacy,btc,{'flwgll'},1,2020-03-20
+65,coronavirus,privacy,{'flljzb'},1,2020-03-20
+66,anti,privacy,{'flljzb'},1,2020-03-20
+67,wallet,privacy,{'flwgll'},1,2020-03-20
+69,anti,coronavirus,{'flljzb'},1,2020-03-20
+71,anti,isn,{'flvy0a'},1,2020-03-20
+72,anti,government,{'flvy0a'},1,2020-03-20
+78,crypto,use,{'flwa86'},1,2020-03-20
+79,use,time,{'flywlt'},1,2020-03-20
+80,coin,use,{'flwa86'},1,2020-03-20
+81,wallet,use,{'flwa86'},1,2020-03-20
+82,use,worth,{'flwa86'},1,2020-03-20
+83,crypto,project,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+85,today,project,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+86,project,projects,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+87,project,btc,{'flt56v'},1,2020-03-20
+90,lot,price,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+91,lot,day,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+92,trading,lot,"{'flwg79', 'flyyah'}",2,2020-03-20
+93,crypto,day,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+94,people,day,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+95,day,price,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+97,coin,day,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+99,trading,crypto,"{'flwg79', 'flyyah', 'flra3z'}",3,2020-03-20
+100,trading,bank,"{'fluj2k', 'fm5ho2', 'flw7w1'}",3,2020-03-20
+101,trading,bitcoin trading,"{'fluj2k', 'fm5ho2', 'flw7w1'}",3,2020-03-20
+102,trading,italian bank,"{'fluj2k', 'fm5ho2', 'flw7w1'}",3,2020-03-20
+103,post,help,"{'fm2uf6', 'flywoy'}",2,2020-03-20
+104,crypto,help,{'fm2uf6'},1,2020-03-20
+106,people,help,{'fm2uf6'},1,2020-03-20
+107,price,help,{'fm2uf6'},1,2020-03-20
+108,search,crypto,"{'flww9h', 'fm2uf6'}",2,2020-03-20
+109,search,people,{'fm2uf6'},1,2020-03-20
+110,search,price,{'fm2uf6'},1,2020-03-20
+111,search,project,{'fm2uf6'},1,2020-03-20
+112,search,lot,{'fm2uf6'},1,2020-03-20
+113,crypto,time,"{'flwg79', 'flyyah', 'flp15k'}",3,2020-03-20
+114,lot,time,"{'flwg79', 'flyyah'}",2,2020-03-20
+115,trading,time,"{'flwg79', 'flyyah'}",2,2020-03-20
+116,markets,time,"{'flwg79', 'flyyah'}",2,2020-03-20
+117,time,good time,"{'flwg79', 'flyyah'}",2,2020-03-20
+118,world,value,"{'flosim', 'flt56v'}",2,2020-03-20
+119,crypto,world,{'flt56v'},1,2020-03-20
+120,blockchain,world,{'flosim'},1,2020-03-20
+121,people,world,{'flt56v'},1,2020-03-20
+122,world,btc,{'flt56v'},1,2020-03-20
+124,users,coinbase,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+125,earn,coinbase,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+126,videos,coinbase,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+127,coinbase,oxt,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+129,crypto,currency,{'flyyah'},1,2020-03-20
+130,cryptocurrency,currency,{'flyyah'},1,2020-03-20
+131,currency,bitcoin,{'flr6dv'},1,2020-03-20
+132,market,currency,{'flyyah'},1,2020-03-20
+133,coin,crypto,"{'flwa86', 'flyyah', 'fm2uf6'}",3,2020-03-20
+134,coin,people,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+135,coin,price,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+136,coin,lot,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+139,crypto,value,{'flt56v'},1,2020-03-20
+140,blockchain,value,{'flosim'},1,2020-03-20
+141,people,value,{'flt56v'},1,2020-03-20
+142,btc,value,{'flt56v'},1,2020-03-20
+143,crypto,markets,"{'flwg79', 'flyyah', 'fm1pmx'}",3,2020-03-20
+145,markets,lot,"{'flwg79', 'flyyah'}",2,2020-03-20
+146,trading,markets,"{'flwg79', 'flyyah'}",2,2020-03-20
+148,post,crypto,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+149,post,people,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+150,post,price,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+151,post,lot,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+152,post,day,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+153,network,bitcoin,"{'fluz0x', 'flr0f9', 'flm5xs'}",3,2020-03-20
+154,cash,network,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+155,tether,network,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+156,network nan,network,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+157,bitcoin cash,network,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+158,wallet,wallets,"{'flwa86', 'flp15k', 'flu3np', 'flm5xs'}",4,2020-03-20
+159,crypto,wallet,"{'flwa86', 'flp15k', 'flu3np'}",3,2020-03-20
+160,wallet,secure,"{'flwa86', 'flp15k', 'flwgll'}",3,2020-03-20
+161,wallet,bitcoin,"{'fluri4', 'flm5xs'}",2,2020-03-20
+163,bank,bitcoin,"{'fluj2k', 'fm5ho2', 'flw7w1'}",3,2020-03-20
+165,bitcoin trading,bank,"{'fluj2k', 'fm5ho2', 'flw7w1'}",3,2020-03-20
+166,italian bank,bank,"{'fluj2k', 'fm5ho2', 'flw7w1'}",3,2020-03-20
+167,lockdown,bank,"{'fm5ho2', 'flw7w1'}",2,2020-03-20
+168,crypto,need,{'flu3np'},1,2020-03-20
+169,wallet,need,{'flu3np'},1,2020-03-20
+170,need,portfolio,{'flu3np'},1,2020-03-20
+171,need,question,{'flu3np'},1,2020-03-20
+172,wallets,need,{'flu3np'},1,2020-03-20
+173,exchange,crypto,{'fm2n6y'},1,2020-03-20
+174,exchange,cryptocurrency,{'flsrt2'},1,2020-03-20
+175,exchange,https,{'flwgll'},1,2020-03-20
+176,exchange,people,{'fm2n6y'},1,2020-03-20
+177,exchange,btc,{'flwgll'},1,2020-03-20
+178,crypto,right,{'flyyah'},1,2020-03-20
+179,right,cryptocurrency,{'flyyah'},1,2020-03-20
+180,right,bitcoin,{'fm34l1'},1,2020-03-20
+182,market,right,{'flyyah'},1,2020-03-20
+183,crypto,today,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+184,people,today,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+186,today,projects,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+187,today,btc,{'flt56v'},1,2020-03-20
+188,crypto,projects,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+189,people,projects,"{'fm2uf6', 'flt56v'}",2,2020-03-20
+192,btc,projects,{'flt56v'},1,2020-03-20
+193,xrp,bitcoin,"{'flx193', 'flktc4'}",2,2020-03-20
+194,market,xrp,"{'flx193', 'flktc4'}",2,2020-03-20
+195,ripple,xrp,"{'flktc4', 'flpafx'}",2,2020-03-20
+196,xrp,rally,"{'flx193', 'flpafx'}",2,2020-03-20
+197,xrp,ripple xrp,"{'flktc4', 'flpafx'}",2,2020-03-20
+198,learn,community,"{'flyhgp', 'fm2uf6'}",2,2020-03-20
+199,crypto,community,{'fm2uf6'},1,2020-03-20
+200,community,bitcoin,{'flyhgp'},1,2020-03-20
+201,community,people,{'fm2uf6'},1,2020-03-20
+202,community,price,{'fm2uf6'},1,2020-03-20
+203,news nan,news,"{'flyvdv', 'flo89t'}",2,2020-03-20
+204,news,bitcoin,{'flo89t'},1,2020-03-20
+205,https,news,{'flvzun'},1,2020-03-20
+206,market,news,{'flvzun'},1,2020-03-20
+207,blockchain,news,{'flvzun'},1,2020-03-20
+208,days,crypto,{'flyyah'},1,2020-03-20
+209,days,cryptocurrency,{'flyyah'},1,2020-03-20
+210,market,days,{'flyyah'},1,2020-03-20
+211,days,people,{'flyyah'},1,2020-03-20
+212,days,coronavirus,{'flyyah'},1,2020-03-20
+213,gain,crypto,"{'fm2n6y', 'flt56v'}",2,2020-03-20
+214,gain,people,"{'fm2n6y', 'flt56v'}",2,2020-03-20
+215,gain,btc,{'flt56v'},1,2020-03-20
+217,gain,project,{'flt56v'},1,2020-03-20
+218,users,people,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+220,users,earn,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+221,users,videos,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+222,users,oxt,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+223,crypto,hold,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+224,people,hold,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+225,hold,price,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+226,hold,lot,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+227,hold,day,"{'flyyah', 'fm2uf6'}",2,2020-03-20
+228,cash,bitcoin,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+230,tether,cash,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+231,network nan,cash,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+232,bitcoin cash,cash,"{'fluz0x', 'flr0f9'}",2,2020-03-20
+233,earn,people,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+236,videos,earn,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+237,earn,oxt,"{'flrwfv', 'flrwf8'}",2,2020-03-20
+238,crypto,ve,"{'fm2n6y', 'flyyah'}",2,2020-03-20
+239,people,ve,"{'fm2n6y', 'flyyah'}",2,2020-03-20
+240,ve,cryptocurrency,{'flyyah'},1,2020-03-20
+241,market,ve,{'flyyah'},1,2020-03-20
+243,stock,crypto,{'fm2n6y'},1,2020-03-20
+244,stock,bitcoin,{'flktc4'},1,2020-03-20
+245,market,stock,{'flktc4'},1,2020-03-20
+246,stock,people,{'fm2n6y'},1,2020-03-20
+247,stock,money,{'fm2n6y'},1,2020-03-20

@@ -1,0 +1,216 @@
+,token_1,token_2,connections,connections_strength,date
+0,market,bitcoin,"{'el9vh8', 'eletwm', 'el9vmp'}",3,2020-01-07
+1,bitcoin,bitcoin nan,"{'eliiqo', 'el6qsw', 'elbmfw'}",3,2020-01-07
+2,crypto,bitcoin,"{'el4b96', 'elbx0y'}",2,2020-01-07
+3,cryptocurrency,bitcoin,"{'el9vh8', 'el9vmp'}",2,2020-01-07
+4,com,bitcoin,"{'el4i7w', 'eletwm'}",2,2020-01-07
+5,crypto,https,"{'elfh24', 'eldniw', 'elfrhe'}",3,2020-01-07
+6,com,crypto,"{'elfh24', 'eldniw', 'elfrhe'}",3,2020-01-07
+7,crypto,blockchain,"{'elfh24', 'el4b96', 'elfrhe'}",3,2020-01-07
+8,crypto,crypto nan,"{'el8oim', 'eljkkn', 'el8lwz'}",3,2020-01-07
+10,com,https,"{'elfrwd', 'elfrhe', 'eletwm', 'el2x6t', 'elfh24', 'el4cop', 'eldniw'}",7,2020-01-07
+11,https,www,"{'el6mj3', 'elfrwd', 'el2x6t', 'el4cop', 'eldniw'}",5,2020-01-07
+12,https,amp,"{'el4cop', 'el6mj3', 'elfrwd', 'el2x6t'}",4,2020-01-07
+13,https,blockchain,"{'elfh24', 'elfrwd', 'elfrhe', 'el4cop'}",4,2020-01-07
+14,https,https www,"{'el2x6t', 'el6mj3', 'elfrwd', 'eldniw'}",4,2020-01-07
+15,https,cryptocurrency,"{'el2x6t', 'el4cop', 'elfh24'}",3,2020-01-07
+16,com,cryptocurrency,"{'el2x6t', 'el4cop', 'elfh24'}",3,2020-01-07
+17,amp,cryptocurrency,"{'el2x6t', 'el4cop', 'ela0qf'}",3,2020-01-07
+18,blockchain,cryptocurrency,"{'el4cop', 'elfh24', 'el9vro'}",3,2020-01-07
+19,market,cryptocurrency,"{'el9vh8', 'el4cop', 'el9vmp'}",3,2020-01-07
+21,com,blockchain,"{'elfh24', 'elfrwd', 'elfrhe', 'el4cop'}",4,2020-01-07
+22,com,www,"{'el2x6t', 'eldniw', 'elfrwd', 'el4cop'}",4,2020-01-07
+26,amp,www,"{'el2x6t', 'el6mj3', 'elfrwd', 'el4cop'}",4,2020-01-07
+28,com,amp,"{'el4cop', 'elfrwd', 'el2x6t'}",3,2020-01-07
+29,amp,https www,"{'el2x6t', 'el6mj3', 'elfrwd'}",3,2020-01-07
+34,blockchain,company,"{'elfrhe', 'el4cop', 'elfrwd'}",3,2020-01-07
+35,don,bitcoin,"{'eliiqo', 'elbx0y'}",2,2020-01-07
+36,don,don buy,"{'eliiqo', 'elj7sa'}",2,2020-01-07
+37,crypto,don,{'elbx0y'},1,2020-01-07
+38,don,bitcoin nan,{'eliiqo'},1,2020-01-07
+42,www,https www,"{'el2x6t', 'el6mj3', 'elfrwd', 'eldniw'}",4,2020-01-07
+43,cryptocurrency,www,"{'el2x6t', 'el4cop'}",2,2020-01-07
+46,com,https www,"{'el2x6t', 'eldniw', 'elfrwd'}",3,2020-01-07
+48,https www,reddit,"{'el2x6t', 'elfrwd'}",2,2020-01-07
+49,use,blockchain,"{'el4cop', 'el7pcv'}",2,2020-01-07
+50,use,payment,"{'el4cop', 'elcloy'}",2,2020-01-07
+51,technology,use,"{'el4cop', 'el7pcv'}",2,2020-01-07
+52,use,reasons,"{'el4cop', 'elcloy'}",2,2020-01-07
+53,crypto,use,{'elcloy'},1,2020-01-07
+54,com,reddit,"{'el2x6t', 'el4i7w', 'elfrwd'}",3,2020-01-07
+55,https,reddit,"{'el2x6t', 'elfrwd'}",2,2020-01-07
+56,amp,reddit,"{'el2x6t', 'elfrwd'}",2,2020-01-07
+57,www,reddit,"{'el2x6t', 'elfrwd'}",2,2020-01-07
+58,reddit,https www,"{'el2x6t', 'elfrwd'}",2,2020-01-07
+59,post,crypto,{'el5t78'},1,2020-01-07
+60,post,https,{'elfrwd'},1,2020-01-07
+61,com,post,{'elfrwd'},1,2020-01-07
+62,post,amp,{'elfrwd'},1,2020-01-07
+63,post,blockchain,{'elfrwd'},1,2020-01-07
+64,amp,btc,"{'elg47t', 'elg49j'}",2,2020-01-07
+65,btc,gold,"{'elg47t', 'elg49j'}",2,2020-01-07
+66,btc,returns,"{'elg47t', 'elg49j'}",2,2020-01-07
+67,amp 500,btc,"{'elg47t', 'elg49j'}",2,2020-01-07
+68,btc,gold 2019,"{'elg47t', 'elg49j'}",2,2020-01-07
+69,twitter,bitcoin,{'elctz7'},1,2020-01-07
+70,xrp,twitter,{'el6or2'},1,2020-01-07
+71,money,bitcoin,{'eletwm'},1,2020-01-07
+72,crypto,money,{'elcyme'},1,2020-01-07
+73,https,money,{'eletwm'},1,2020-01-07
+74,com,money,{'eletwm'},1,2020-01-07
+75,information,money,{'eletwm'},1,2020-01-07
+76,https,read,"{'el2x6t', 'elfh24'}",2,2020-01-07
+77,cryptocurrency,read,"{'el2x6t', 'elfh24'}",2,2020-01-07
+78,com,read,"{'el2x6t', 'elfh24'}",2,2020-01-07
+79,crypto,read,{'elfh24'},1,2020-01-07
+80,amp,read,{'el2x6t'},1,2020-01-07
+81,users,https,{'elfrwd'},1,2020-01-07
+82,com,users,{'elfrwd'},1,2020-01-07
+83,users,amp,{'elfrwd'},1,2020-01-07
+84,users,blockchain,{'elfrwd'},1,2020-01-07
+85,users,www,{'elfrwd'},1,2020-01-07
+86,crypto,sub,{'el5t78'},1,2020-01-07
+87,https,sub,{'el2x6t'},1,2020-01-07
+88,cryptocurrency,sub,{'el2x6t'},1,2020-01-07
+89,com,sub,{'el2x6t'},1,2020-01-07
+90,amp,sub,{'el2x6t'},1,2020-01-07
+91,https,information,"{'el2x6t', 'eletwm'}",2,2020-01-07
+92,com,information,"{'el2x6t', 'eletwm'}",2,2020-01-07
+93,information,click,"{'el2x6t', 'eletwm'}",2,2020-01-07
+94,disclaimer,information,"{'el2x6t', 'eletwm'}",2,2020-01-07
+95,information,bitcoin,{'eletwm'},1,2020-01-07
+96,https,click,"{'el2x6t', 'eletwm'}",2,2020-01-07
+97,com,click,"{'el2x6t', 'eletwm'}",2,2020-01-07
+99,disclaimer,click,"{'el2x6t', 'eletwm'}",2,2020-01-07
+100,click,bitcoin,{'eletwm'},1,2020-01-07
+103,market,https,"{'el4cop', 'eletwm'}",2,2020-01-07
+104,com,market,"{'el4cop', 'eletwm'}",2,2020-01-07
+105,market,person,"{'el4cop', 'eletwm'}",2,2020-01-07
+106,blockchain,network,"{'elfrwd', 'el7pcv'}",2,2020-01-07
+107,series,network,"{'elfrwd', 'el7pcv'}",2,2020-01-07
+108,https,network,{'elfrwd'},1,2020-01-07
+109,com,network,{'elfrwd'},1,2020-01-07
+110,amp,network,{'elfrwd'},1,2020-01-07
+111,trading,cryptocurrency,{'eljcjc'},1,2020-01-07
+112,users,trading,{'elddl8'},1,2020-01-07
+113,trading,exchange,{'elddl8'},1,2020-01-07
+114,trading,platform,{'elddl8'},1,2020-01-07
+115,payments,way,"{'eljxh2', 'el4cop'}",2,2020-01-07
+116,way,balance,"{'eljxh2', 'el4cop'}",2,2020-01-07
+117,https,way,{'el4cop'},1,2020-01-07
+118,cryptocurrency,way,{'el4cop'},1,2020-01-07
+119,com,way,{'el4cop'},1,2020-01-07
+120,crypto,token,{'eldniw'},1,2020-01-07
+121,https,token,{'eldniw'},1,2020-01-07
+122,com,token,{'eldniw'},1,2020-01-07
+123,www,token,{'eldniw'},1,2020-01-07
+124,token,https www,{'eldniw'},1,2020-01-07
+125,want,crypto,{'el5t78'},1,2020-01-07
+126,post,want,{'el5t78'},1,2020-01-07
+127,want,sub,{'el5t78'},1,2020-01-07
+128,want,market,{'el5t78'},1,2020-01-07
+129,want,content,{'el5t78'},1,2020-01-07
+130,crypto,world,{'elfizb'},1,2020-01-07
+131,https,world,{'el4cop'},1,2020-01-07
+132,world,cryptocurrency,{'el4cop'},1,2020-01-07
+133,com,world,{'el4cop'},1,2020-01-07
+134,amp,world,{'el4cop'},1,2020-01-07
+135,google,https,"{'el4cop', 'elfrwd'}",2,2020-01-07
+136,com,google,"{'el4cop', 'elfrwd'}",2,2020-01-07
+137,google,amp,"{'el4cop', 'elfrwd'}",2,2020-01-07
+138,google,blockchain,"{'el4cop', 'elfrwd'}",2,2020-01-07
+139,google,www,"{'el4cop', 'elfrwd'}",2,2020-01-07
+140,crypto,today,{'elfh24'},1,2020-01-07
+141,https,today,{'elfh24'},1,2020-01-07
+142,today,cryptocurrency,{'elfh24'},1,2020-01-07
+143,com,today,{'elfh24'},1,2020-01-07
+144,blockchain,today,{'elfh24'},1,2020-01-07
+145,disclaimer,https,"{'el2x6t', 'eletwm'}",2,2020-01-07
+146,com,disclaimer,"{'el2x6t', 'eletwm'}",2,2020-01-07
+149,disclaimer,bitcoin,{'eletwm'},1,2020-01-07
+150,china,cryptocurrency,"{'el92oc', 'el80l7'}",2,2020-01-07
+151,government,china,"{'el92oc', 'el80l7'}",2,2020-01-07
+152,china,facebook,"{'el92oc', 'el80l7'}",2,2020-01-07
+153,libra,china,"{'el92oc', 'el80l7'}",2,2020-01-07
+154,china,keeps,"{'el92oc', 'el80l7'}",2,2020-01-07
+155,blockchain,app,"{'el7t0s', 'ele424'}",2,2020-01-07
+156,blockchain app,app,"{'el7t0s', 'ele424'}",2,2020-01-07
+157,coffee,app,"{'el7t0s', 'ele424'}",2,2020-01-07
+158,farmer,app,"{'el7t0s', 'ele424'}",2,2020-01-07
+159,ibm,app,"{'el7t0s', 'ele424'}",2,2020-01-07
+160,bitcoin,end,{'elcp56'},1,2020-01-07
+161,https,end,{'elfrwd'},1,2020-01-07
+162,com,end,{'elfrwd'},1,2020-01-07
+163,amp,end,{'elfrwd'},1,2020-01-07
+164,blockchain,end,{'elfrwd'},1,2020-01-07
+165,crypto,content,{'el5t78'},1,2020-01-07
+166,content,cryptocurrency,{'el9vro'},1,2020-01-07
+167,content,blockchain,{'el9vro'},1,2020-01-07
+168,post,content,{'el5t78'},1,2020-01-07
+169,content,sub,{'el5t78'},1,2020-01-07
+170,bitcoin,price,"{'el9zc7', 'el5psn'}",2,2020-01-07
+171,https,price,{'elfrwd'},1,2020-01-07
+172,com,price,{'elfrwd'},1,2020-01-07
+173,amp,price,{'elfrwd'},1,2020-01-07
+174,blockchain,price,{'elfrwd'},1,2020-01-07
+175,https,digital,"{'el4cop', 'elfrhe'}",2,2020-01-07
+176,com,digital,"{'el4cop', 'elfrhe'}",2,2020-01-07
+177,blockchain,digital,"{'el4cop', 'elfrhe'}",2,2020-01-07
+178,digital,company,"{'el4cop', 'elfrhe'}",2,2020-01-07
+179,business,digital,"{'el4cop', 'elfrhe'}",2,2020-01-07
+180,hi,research,"{'eletwm', 'el8jht'}",2,2020-01-07
+181,bitcoin,research,{'eletwm'},1,2020-01-07
+182,https,research,{'eletwm'},1,2020-01-07
+183,com,research,{'eletwm'},1,2020-01-07
+184,money,research,{'eletwm'},1,2020-01-07
+185,https,data,"{'elfrwd', 'eletwm'}",2,2020-01-07
+186,com,data,"{'elfrwd', 'eletwm'}",2,2020-01-07
+187,account,data,"{'elfrwd', 'eletwm'}",2,2020-01-07
+188,data,bitcoin,{'eletwm'},1,2020-01-07
+189,amp,data,{'elfrwd'},1,2020-01-07
+190,payments,https,"{'el6mj3', 'el4cop'}",2,2020-01-07
+191,payments,amp,"{'el6mj3', 'el4cop'}",2,2020-01-07
+192,payments,www,"{'el6mj3', 'el4cop'}",2,2020-01-07
+194,payments,payment,"{'el6mj3', 'el4cop'}",2,2020-01-07
+195,exchange,platform,"{'ela0qf', 'elddl8'}",2,2020-01-07
+196,exchange,crypto,{'elcyme'},1,2020-01-07
+197,exchange,cryptocurrency,{'ela0qf'},1,2020-01-07
+198,exchange,amp,{'ela0qf'},1,2020-01-07
+199,exchange,money,{'elcyme'},1,2020-01-07
+200,https,company,"{'elfrhe', 'el4cop', 'elfrwd'}",3,2020-01-07
+201,com,company,"{'elfrhe', 'el4cop', 'elfrwd'}",3,2020-01-07
+203,amp,company,"{'el4cop', 'elfrwd'}",2,2020-01-07
+204,company,www,"{'el4cop', 'elfrwd'}",2,2020-01-07
+205,crypto,launch,"{'el8oim', 'el8lwz'}",2,2020-01-07
+206,launch,crypto nan,"{'el8oim', 'el8lwz'}",2,2020-01-07
+207,launch,means,"{'el8oim', 'el8lwz'}",2,2020-01-07
+208,launch,latest satellite,"{'el8oim', 'el8lwz'}",2,2020-01-07
+209,launch means,launch,"{'el8oim', 'el8lwz'}",2,2020-01-07
+211,platform,cryptocurrency,{'ela0qf'},1,2020-01-07
+212,amp,platform,{'ela0qf'},1,2020-01-07
+213,users,platform,{'elddl8'},1,2020-01-07
+215,https,dump,"{'el2x6t', 'elfrhe'}",2,2020-01-07
+216,com,dump,"{'el2x6t', 'elfrhe'}",2,2020-01-07
+217,dump,pump,"{'el2x6t', 'elfrhe'}",2,2020-01-07
+218,groups,dump,"{'el2x6t', 'elfrhe'}",2,2020-01-07
+219,dump,pump dump,"{'el2x6t', 'elfrhe'}",2,2020-01-07
+222,bitcoin nan,don buy,{'eliiqo'},1,2020-01-07
+223,earn,bitcoin nan,{'elbmfw'},1,2020-01-07
+224,sites,bitcoin nan,{'elbmfw'},1,2020-01-07
+225,search,https,"{'el2x6t', 'el4cop'}",2,2020-01-07
+226,search,cryptocurrency,"{'el2x6t', 'el4cop'}",2,2020-01-07
+227,com,search,"{'el2x6t', 'el4cop'}",2,2020-01-07
+228,search,amp,"{'el2x6t', 'el4cop'}",2,2020-01-07
+229,search,www,"{'el2x6t', 'el4cop'}",2,2020-01-07
+231,bitcoin,don buy,{'eliiqo'},1,2020-01-07
+232,don buy,bitcoin nan,{'eliiqo'},1,2020-01-07
+233,https,month,{'elfrwd'},1,2020-01-07
+234,cryptocurrency,month,{'elc795'},1,2020-01-07
+235,com,month,{'elfrwd'},1,2020-01-07
+236,amp,month,{'elfrwd'},1,2020-01-07
+237,blockchain,month,{'elfrwd'},1,2020-01-07
+238,startup,https,"{'elfrhe', 'eletwm'}",2,2020-01-07
+239,com,startup,"{'elfrhe', 'eletwm'}",2,2020-01-07
+240,startup,person,"{'elfrhe', 'eletwm'}",2,2020-01-07
+241,startup,bitcoin,{'eletwm'},1,2020-01-07
+242,startup,crypto,{'elfrhe'},1,2020-01-07

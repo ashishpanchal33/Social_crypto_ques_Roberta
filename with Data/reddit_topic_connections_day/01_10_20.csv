@@ -1,0 +1,212 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'j3bb8x', 'j38ozw', 'j32o1s', 'j334qy', 'j3blie'}",5,2020-10-01
+1,exchange,crypto,"{'j3bb8x', 'j3bd18', 'j3c5ct', 'j3cygl', 'j3blie'}",5,2020-10-01
+2,crypto,money,"{'j3blie', 'j3bb8x', 'j32few', 'j3c5ct'}",4,2020-10-01
+3,crypto,community,"{'j381fa', 'j3bb8x', 'j3beqg'}",3,2020-10-01
+4,crypto,digital,"{'j3blie', 'j3bb8x', 'j2y6bg'}",3,2020-10-01
+6,bitcoin,price,"{'j3bb8x', 'j34u0g', 'j3g7jd', 'j3efqp'}",4,2020-10-01
+7,government,bitcoin,"{'j3blie', 'j3bb8x', 'j38ozw', 'j3eco1'}",4,2020-10-01
+8,trade,bitcoin,"{'j3blie', 'j3bb8x', 'j3ay7p'}",3,2020-10-01
+9,bitcoin,bitcoin nan,"{'j33s06', 'j37zwt', 'j3iq8r'}",3,2020-10-01
+10,ethereum,defi,"{'j35zfr', 'j39ss1'}",2,2020-10-01
+11,blockchain,defi,{'j35zfr'},1,2020-10-01
+12,finance,defi,{'j39ss1'},1,2020-10-01
+13,blockchain nan,defi,{'j35zfr'},1,2020-10-01
+14,defi,record,{'j35zfr'},1,2020-10-01
+15,cryptocurrency,bitcoin,"{'j3blie', 'j3ay7p'}",2,2020-10-01
+16,trade,cryptocurrency,"{'j3blie', 'j3ay7p'}",2,2020-10-01
+17,money,cryptocurrency,"{'j3blie', 'j3blh8'}",2,2020-10-01
+18,trading,cryptocurrency,"{'j3blh8', 'j3blie'}",2,2020-10-01
+19,world,cryptocurrency,"{'j3blie', 'j3bk9q'}",2,2020-10-01
+21,trade,crypto,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+23,trade,money,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+24,trade,bought,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+25,blockchain nan,blockchain,"{'j32ddd', 'j35zfr', 'j31gss', 'j354rp'}",4,2020-10-01
+26,blockchain,government,"{'j3blie', 'j32ddd', 'j354rp'}",3,2020-10-01
+27,exchange,blockchain,"{'j3blie', 'j31gss'}",2,2020-10-01
+28,blockchain,digital,"{'j3blie', 'j32ddd'}",2,2020-10-01
+29,stock,blockchain,"{'j3blie', 'j31gss'}",2,2020-10-01
+31,ethereum,bitcoin nan,{'j37zwt'},1,2020-10-01
+32,buying,bitcoin nan,{'j3iq8r'},1,2020-10-01
+33,bitcoin nan,fees,{'j37zwt'},1,2020-10-01
+34,ceo,bitcoin nan,{'j33s06'},1,2020-10-01
+36,trading,money,"{'j3blh8', 'j3bb8x', 'j3blie'}",3,2020-10-01
+37,exchange,money,"{'j3blie', 'j3bb8x', 'j3c5ct'}",3,2020-10-01
+38,money,bitmex,"{'j3hqxz', 'j3blh8', 'j3c5ct'}",3,2020-10-01
+39,laundering,money,"{'j3blh8', 'j3hqxz', 'j3c5ct'}",3,2020-10-01
+40,ve,bitcoin,"{'j3blie', 'j3ehk0'}",2,2020-10-01
+41,ve,year,"{'j3blie', 'j3ehk0'}",2,2020-10-01
+42,list,ve,"{'j3blie', 'j3ehk0'}",2,2020-10-01
+43,crypto,ve,{'j3blie'},1,2020-10-01
+44,ve,cryptocurrency,{'j3blie'},1,2020-10-01
+45,ethereum,bitcoin,"{'j3ehk0', 'j37zwt'}",2,2020-10-01
+47,ethereum,record,"{'j35zfr', 'j37zwt'}",2,2020-10-01
+48,ethereum,blockchain,{'j35zfr'},1,2020-10-01
+50,coins,bitcoin,{'j3ehk0'},1,2020-10-01
+51,coins,ve,{'j3ehk0'},1,2020-10-01
+52,coins,ethereum,{'j3ehk0'},1,2020-10-01
+53,market,coins,{'j3ehk0'},1,2020-10-01
+54,coin,coins,{'j3ehk0'},1,2020-10-01
+55,bought,crypto,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+56,bought,bitcoin,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+58,bought,money,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+59,bought,time,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+60,crypto,years,{'j3bb8x'},1,2020-10-01
+61,years,bitcoin,{'j3bb8x'},1,2020-10-01
+62,trade,years,{'j3bb8x'},1,2020-10-01
+63,years,money,{'j3bb8x'},1,2020-10-01
+64,years,ethereum,{'j356bi'},1,2020-10-01
+65,time,bitcoin,"{'j3blie', 'j3bb8x', 'j3g7jd'}",3,2020-10-01
+66,crypto,time,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+67,trade,time,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+68,money,time,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+70,market,bitcoin,"{'j3bb8x', 'j3ehk0', 'j3g7jd'}",3,2020-10-01
+71,market,time,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+72,market,btc,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+73,market,price,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+74,market,longer,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+75,bank,central bank,"{'j3bk9q', 'j3bb8x', 'j3e2nb'}",3,2020-10-01
+76,crypto,bank,"{'j3bb8x', 'j344bs'}",2,2020-10-01
+77,bank,world,"{'j3bk9q', 'j3bb8x'}",2,2020-10-01
+78,bank,transactions,"{'j3bk9q', 'j3bb8x'}",2,2020-10-01
+79,digital,bank,"{'j3bb8x', 'j3e2nb'}",2,2020-10-01
+81,trading,exchange,"{'j3blie', 'j3bb8x', 'j3fkgy'}",3,2020-10-01
+82,trading,platform,"{'j3blh8', 'j3bb8x', 'j3d2t0'}",3,2020-10-01
+83,trading,medium,"{'j3blie', 'j3bb8x', 'j3fkgy'}",3,2020-10-01
+84,trading,crypto,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+85,crypto,use,{'j3blie'},1,2020-10-01
+86,use,bitcoin,{'j3blie'},1,2020-10-01
+87,use,cryptocurrency,{'j3blie'},1,2020-10-01
+88,trade,use,{'j3blie'},1,2020-10-01
+89,use,blockchain,{'j3blie'},1,2020-10-01
+90,btc,price,"{'j3bb8x', 'j3g7jd', 'j305hq', 'j35izw'}",4,2020-10-01
+91,btc,bitcoin,"{'j3bb8x', 'j3g7jd', 'j321g3'}",3,2020-10-01
+92,btc,time,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+94,longer,btc,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+95,coin,bitcoin,"{'j3ehk0', 'j38ozw'}",2,2020-10-01
+96,coin,crypto,{'j38ozw'},1,2020-10-01
+97,coin,ve,{'j3ehk0'},1,2020-10-01
+98,coin,ethereum,{'j3ehk0'},1,2020-10-01
+103,exchange,investment,"{'j3blie', 'j3bb8x', 'j3d4jg'}",3,2020-10-01
+104,exchange,medium,"{'j3blie', 'j3bb8x', 'j3fkgy'}",3,2020-10-01
+107,bitcoin price,price,"{'j3g7jd', 'j34u0g', 'j3efqp'}",3,2020-10-01
+108,time,price,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+110,buying,bitcoin,"{'j2yzfh', 'j3iq8r'}",2,2020-10-01
+111,buying bitcoin,buying,"{'j2yzfh', 'j3iq8r'}",2,2020-10-01
+113,trade,don,"{'j3blie', 'j3jr9y'}",2,2020-10-01
+114,don,day,"{'j3blie', 'j3jr9y'}",2,2020-10-01
+115,crypto,don,{'j3blie'},1,2020-10-01
+116,don,bitcoin,{'j3blie'},1,2020-10-01
+117,cryptocurrency,don,{'j3blie'},1,2020-10-01
+118,longer,bitcoin,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+119,longer,time,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+122,longer,price,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+123,world,transactions,"{'j3blie', 'j3bb8x', 'j3bk9q'}",3,2020-10-01
+124,crypto,world,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+125,world,bitcoin,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+127,trade,world,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+128,crypto,crypto nan,"{'j38tm5', 'j344bs'}",2,2020-10-01
+129,bank,crypto nan,{'j344bs'},1,2020-10-01
+130,moons,work,"{'j35ieo', 'j364th'}",2,2020-10-01
+131,moons,moons nan,"{'j35ieo', 'j364th'}",2,2020-10-01
+132,article,moons,"{'j35ieo', 'j364th'}",2,2020-10-01
+133,moons,proof,"{'j35ieo', 'j364th'}",2,2020-10-01
+134,explaining proof,moons,"{'j35ieo', 'j364th'}",2,2020-10-01
+135,bitcoin,think,"{'j3g7jd', 'j3ehk0'}",2,2020-10-01
+136,market,think,"{'j3g7jd', 'j3ehk0'}",2,2020-10-01
+137,btc,think,"{'j3g7jd', 'j305hq'}",2,2020-10-01
+138,price,think,"{'j3g7jd', 'j305hq'}",2,2020-10-01
+139,btc price,think,"{'j305hq', 'j3g7jd'}",2,2020-10-01
+141,bitmex,platform,"{'j3blh8', 'j3d2t0', 'j3gi5z'}",3,2020-10-01
+142,platform,operating,"{'j3blh8', 'j3d2t0', 'j3gi5z'}",3,2020-10-01
+143,money,platform,"{'j3blh8', 'j3bb8x'}",2,2020-10-01
+144,charges,platform,"{'j3blh8', 'j3d2t0'}",2,2020-10-01
+145,want,internet,{'j3jymu'},1,2020-10-01
+146,want,change,{'j32s8g'},1,2020-10-01
+147,bitcoin,year,"{'j3blie', 'j3bb8x', 'j3ehk0'}",3,2020-10-01
+148,crypto,year,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+149,trade,year,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+150,money,year,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+152,crypto,mining,{'j3blie'},1,2020-10-01
+153,mining,bitcoin,{'j3blie'},1,2020-10-01
+154,mining,cryptocurrency,{'j3blie'},1,2020-10-01
+155,trade,mining,{'j3blie'},1,2020-10-01
+156,mining,blockchain,{'j3blie'},1,2020-10-01
+157,sale,token,"{'j3blie', 'j388jm'}",2,2020-10-01
+158,crypto,token,{'j3blie'},1,2020-10-01
+159,token,bitcoin,{'j3blie'},1,2020-10-01
+160,cryptocurrency,token,{'j3blie'},1,2020-10-01
+161,trade,token,{'j3blie'},1,2020-10-01
+162,internet,use,{'j3gfoj'},1,2020-10-01
+165,community,twitter,"{'j381fa', 'j3bb8x'}",2,2020-10-01
+166,community,crypto community,"{'j381fa', 'j3beqg'}",2,2020-10-01
+167,community,bitcoin,{'j3bb8x'},1,2020-10-01
+168,trade,community,{'j3bb8x'},1,2020-10-01
+170,moons nan,work,"{'j35ieo', 'j364th'}",2,2020-10-01
+171,article,work,"{'j35ieo', 'j364th'}",2,2020-10-01
+172,proof,work,"{'j35ieo', 'j364th'}",2,2020-10-01
+173,explaining proof,work,"{'j35ieo', 'j364th'}",2,2020-10-01
+174,trade,day,"{'j3blie', 'j3jr9y'}",2,2020-10-01
+175,day,don,"{'j3blie', 'j3jr9y'}",2,2020-10-01
+176,crypto,day,{'j3blie'},1,2020-10-01
+177,day,bitcoin,{'j3blie'},1,2020-10-01
+178,cryptocurrency,day,{'j3blie'},1,2020-10-01
+179,need,bitcoin,{'j3ehk0'},1,2020-10-01
+180,cryptocurrency,need,{'j33l9a'},1,2020-10-01
+181,ve,need,{'j3ehk0'},1,2020-10-01
+182,ethereum,need,{'j3ehk0'},1,2020-10-01
+183,coins,need,{'j3ehk0'},1,2020-10-01
+184,laws,money,"{'j3blie', 'j3hqxz'}",2,2020-10-01
+185,laws,authorities,"{'j3blie', 'j3hqxz'}",2,2020-10-01
+186,laws,crypto,{'j3blie'},1,2020-10-01
+187,laws,bitcoin,{'j3blie'},1,2020-10-01
+188,laws,cryptocurrency,{'j3blie'},1,2020-10-01
+189,trade,tokens,"{'j3blie', 'j3cg2q'}",2,2020-10-01
+190,crypto,tokens,{'j3blie'},1,2020-10-01
+191,tokens,bitcoin,{'j3blie'},1,2020-10-01
+192,cryptocurrency,tokens,{'j3blie'},1,2020-10-01
+193,blockchain,tokens,{'j3blie'},1,2020-10-01
+194,assets,crypto,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+195,assets,bitcoin,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+196,trade,assets,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+197,assets,money,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+198,bought,assets,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+199,crypto,link,{'j3blie'},1,2020-10-01
+200,link,bitcoin,{'j3blie'},1,2020-10-01
+201,cryptocurrency,link,{'j3blie'},1,2020-10-01
+202,trade,link,{'j3blie'},1,2020-10-01
+203,blockchain,link,{'j3blie'},1,2020-10-01
+204,bitcoin,fees,{'j37zwt'},1,2020-10-01
+205,trade,fees,{'j38hsd'},1,2020-10-01
+206,fees,bitcoin nan,{'j37zwt'},1,2020-10-01
+207,ethereum,fees,{'j37zwt'},1,2020-10-01
+208,video,fees,{'j38hsd'},1,2020-10-01
+209,transactions,world,"{'j3blie', 'j3bb8x', 'j3bk9q'}",3,2020-10-01
+210,crypto,transactions,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+211,transactions,bitcoin,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+212,transactions,cryptocurrency,"{'j3blie', 'j3bk9q'}",2,2020-10-01
+213,trade,transactions,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+214,bal,coinbase,"{'j3e679', 'j3ciaj', 'j3culr'}",3,2020-10-01
+215,pro,coinbase,"{'j3ciaj', 'j3culr'}",2,2020-10-01
+216,coinbase pro,coinbase,"{'j3ciaj', 'j3culr'}",2,2020-10-01
+217,pro nan,coinbase,"{'j3ciaj', 'j3culr'}",2,2020-10-01
+218,ren,coinbase,"{'j3e679', 'j3culr'}",2,2020-10-01
+219,future,bitcoin,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+220,future,time,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+221,market,future,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+222,btc,future,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+223,future,price,"{'j3bb8x', 'j3g7jd'}",2,2020-10-01
+224,government,digital,"{'j3blie', 'j3bb8x', 'j32ddd', 'j3eco1'}",4,2020-10-01
+226,digital,bitcoin,"{'j3blie', 'j3bb8x', 'j3eco1'}",3,2020-10-01
+227,digital,plan,"{'j3bb8x', 'j32ddd', 'j3eco1'}",3,2020-10-01
+228,business,digital,"{'j3blie', 'j32ddd', 'j3eco1'}",3,2020-10-01
+229,crypto,sell,"{'j3blie', 'j3bb8x', 'j33upl'}",3,2020-10-01
+230,sell,bitcoin,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+231,trade,sell,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+232,money,sell,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+233,bought,sell,"{'j3blie', 'j3bb8x'}",2,2020-10-01
+234,crypto,network,{'j3bb8x'},1,2020-10-01
+235,network,bitcoin,{'j3bb8x'},1,2020-10-01
+236,network,cryptocurrency,{'j33l9a'},1,2020-10-01
+237,trade,network,{'j3bb8x'},1,2020-10-01
+238,money,network,{'j3bb8x'},1,2020-10-01

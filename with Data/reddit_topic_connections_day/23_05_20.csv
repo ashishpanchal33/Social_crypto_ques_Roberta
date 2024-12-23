@@ -1,0 +1,221 @@
+,token_1,token_2,connections,connections_strength,date
+0,block,bitcoin,"{'gox12q', 'gp4s0z', 'gp037d'}",3,2020-05-23
+1,hash,bitcoin,"{'gp0t2i', 'gp4s0z', 'gp037d'}",3,2020-05-23
+2,bitcoin,q1,"{'gpag67', 'gpdbxp', 'gpan54'}",3,2020-05-23
+3,miner,bitcoin,"{'gpag67', 'gp0t2i', 'gpan54'}",3,2020-05-23
+4,crypto,bitcoin,"{'gox12q', 'gp2a9d'}",2,2020-05-23
+5,crypto,time,"{'gp8g1q', 'gp1057', 'gp2a9d'}",3,2020-05-23
+6,crypto,money,"{'gp1057', 'govnc4', 'gp2a9d'}",3,2020-05-23
+7,crypto,case,"{'gox12q', 'gp8g1q', 'govnc4'}",3,2020-05-23
+9,crypto,cryptocurrency,"{'govpvk', 'gozoet'}",2,2020-05-23
+11,post,cryptocurrency,"{'gp1lps', 'gp1l02'}",2,2020-05-23
+12,cryptocurrency,research,"{'gp228u', 'gozoet'}",2,2020-05-23
+13,things,cryptocurrency,"{'gp228u', 'gp8a4n'}",2,2020-05-23
+14,cryptocurrency,cryptocurrency post,"{'gp1lps', 'gp1l02'}",2,2020-05-23
+15,com,https,"{'gp69z0', 'goutsp', 'gp4ipj', 'gpbqeu', 'gp4cqe'}",5,2020-05-23
+16,https,www,"{'goutsp', 'gp4cqe', 'gp69z0', 'gpbqeu'}",4,2020-05-23
+17,https,amp,"{'gp1dul', 'gp69z0', 'gp4ipj'}",3,2020-05-23
+18,https,https www,"{'goutsp', 'gp4cqe', 'gpbqeu'}",3,2020-05-23
+19,https,blockchain,"{'goutsp', 'gp1dul', 'gp69z0'}",3,2020-05-23
+21,com,www,"{'goutsp', 'gp4cqe', 'gp69z0', 'gpbqeu'}",4,2020-05-23
+22,com,https www,"{'goutsp', 'gp4cqe', 'gpbqeu'}",3,2020-05-23
+23,want,com,"{'gp4ipj', 'gp8a4n', 'gpbqeu'}",3,2020-05-23
+24,com,bitcoin,"{'gp4cqe', 'gp0vsd'}",2,2020-05-23
+26,com,amp,"{'gp4ipj', 'gp69z0'}",2,2020-05-23
+27,amp,blockchain,"{'gp1dul', 'gp69z0'}",2,2020-05-23
+28,amp,money,"{'gp1057', 'gp69z0'}",2,2020-05-23
+29,amp,amp x200b,"{'gp1qbf', 'gp1dul'}",2,2020-05-23
+30,bitcoin,price,"{'gp4rwp', 'gp2a9d'}",2,2020-05-23
+31,fiat,price,"{'gp228u', 'gp2a9d'}",2,2020-05-23
+32,tether,price,"{'gp228u', 'gp2a9d'}",2,2020-05-23
+33,crypto,price,{'gp2a9d'},1,2020-05-23
+34,cryptocurrency,price,{'gp228u'},1,2020-05-23
+37,www,https www,"{'goutsp', 'gp4cqe', 'gpbqeu'}",3,2020-05-23
+38,blockchain,www,"{'goutsp', 'gp69z0'}",2,2020-05-23
+39,project,www,"{'goutsp', 'gp69z0'}",2,2020-05-23
+43,bitcoin,https www,{'gp4cqe'},1,2020-05-23
+44,https www,reddit,{'gp4cqe'},1,2020-05-23
+45,crypto,information,"{'gp1057', 'govnc4'}",2,2020-05-23
+46,com,information,"{'gp8a4n', 'gp0vsd'}",2,2020-05-23
+47,information,money,"{'gp1057', 'govnc4'}",2,2020-05-23
+48,send,information,"{'gp1057', 'govnc4'}",2,2020-05-23
+49,order,information,"{'gp1057', 'govnc4'}",2,2020-05-23
+50,crypto,reddit,"{'gp8g1q', 'gp8ju4'}",2,2020-05-23
+51,reddit,sub,"{'gp8g1q', 'gp4cqe'}",2,2020-05-23
+52,moon,reddit,"{'gp56c7', 'gp8g1q'}",2,2020-05-23
+53,community,reddit,"{'gp56c7', 'gp4cqe'}",2,2020-05-23
+54,subreddit,reddit,"{'gp8g1q', 'gp4cqe'}",2,2020-05-23
+56,com,blockchain,"{'goutsp', 'gp69z0'}",2,2020-05-23
+57,blockchain,amp,"{'gp1dul', 'gp69z0'}",2,2020-05-23
+59,blockchain,project,"{'goutsp', 'gp69z0'}",2,2020-05-23
+60,comments,bitcoin,{'gp8684'},1,2020-05-23
+61,https,comments,{'gp4ipj'},1,2020-05-23
+62,com,comments,{'gp4ipj'},1,2020-05-23
+63,amp,comments,{'gp4ipj'},1,2020-05-23
+64,want,comments,{'gp4ipj'},1,2020-05-23
+65,com,people,"{'gp8a4n', 'gpbqeu'}",2,2020-05-23
+66,want,people,"{'gp8a4n', 'gpbqeu'}",2,2020-05-23
+67,people,buying,"{'gp8a4n', 'govhcp'}",2,2020-05-23
+68,people,create,"{'gp8a4n', 'gp4396'}",2,2020-05-23
+69,people,bitcoin,{'govhcp'},1,2020-05-23
+71,money,time,"{'gp1057', 'gp2a9d'}",2,2020-05-23
+72,account,time,"{'gp1057', 'gpbqeu'}",2,2020-05-23
+73,binance,time,"{'gp8g1q', 'gpbqeu'}",2,2020-05-23
+74,fiat,time,"{'gp1057', 'gp2a9d'}",2,2020-05-23
+75,crypto,ve,{'govnc4'},1,2020-05-23
+76,https,ve,{'gpbqeu'},1,2020-05-23
+77,com,ve,{'gpbqeu'},1,2020-05-23
+78,ve,www,{'gpbqeu'},1,2020-05-23
+79,ve,https www,{'gpbqeu'},1,2020-05-23
+80,ethereum launchpad,ethereum,"{'gpbcn6', 'gpbcfg'}",2,2020-05-23
+81,launchpad,ethereum,"{'gpbcn6', 'gpbcfg'}",2,2020-05-23
+82,launchpad nan,ethereum,"{'gpbcn6', 'gpbcfg'}",2,2020-05-23
+83,crypto,ethereum,{'govpvk'},1,2020-05-23
+84,ethereum,cryptocurrency,{'govpvk'},1,2020-05-23
+85,profit,order,"{'govhcp', 'govnc4'}",2,2020-05-23
+86,profit,bitcoin,{'govhcp'},1,2020-05-23
+87,profit,crypto,{'govnc4'},1,2020-05-23
+88,profit,information,{'govnc4'},1,2020-05-23
+89,profit,people,{'govhcp'},1,2020-05-23
+90,crypto,way,"{'gpckb4', 'gp2a9d'}",2,2020-05-23
+91,money,way,"{'gp4396', 'gp2a9d'}",2,2020-05-23
+92,inflation,way,"{'gp4396', 'gp2a9d'}",2,2020-05-23
+93,reason,way,"{'gp4396', 'gp2a9d'}",2,2020-05-23
+94,bitcoin,way,{'gp2a9d'},1,2020-05-23
+96,money,amp,"{'gp1057', 'gp69z0'}",2,2020-05-23
+100,com,want,"{'gp4ipj', 'gp8a4n', 'gpbqeu'}",3,2020-05-23
+101,want,https,"{'gp4ipj', 'gpbqeu'}",2,2020-05-23
+103,want,cryptocurrency,{'gp8a4n'},1,2020-05-23
+104,want,amp,{'gp4ipj'},1,2020-05-23
+105,don,bitcoin,"{'gp2a9d', 'gp0vsd'}",2,2020-05-23
+106,crypto,don,{'gp2a9d'},1,2020-05-23
+107,com,don,{'gp0vsd'},1,2020-05-23
+108,don,price,{'gp2a9d'},1,2020-05-23
+109,information,don,{'gp0vsd'},1,2020-05-23
+110,exchange,crypto,"{'govnc4', 'gozzzl'}",2,2020-05-23
+111,exchange,information,{'govnc4'},1,2020-05-23
+112,exchange,ve,{'govnc4'},1,2020-05-23
+113,profit,exchange,{'govnc4'},1,2020-05-23
+114,exchange,money,{'govnc4'},1,2020-05-23
+115,crypto,day,"{'govpvk', 'govnc4'}",2,2020-05-23
+116,day,store,"{'govpvk', 'gp4ipj'}",2,2020-05-23
+117,day,bitcoin,{'gox4c3'},1,2020-05-23
+118,cryptocurrency,day,{'govpvk'},1,2020-05-23
+119,https,day,{'gp4ipj'},1,2020-05-23
+120,crypto,sub,"{'gp8g1q', 'gozoet'}",2,2020-05-23
+121,sub,reddit,"{'gp8g1q', 'gp4cqe'}",2,2020-05-23
+122,subreddit,sub,"{'gp8g1q', 'gp4cqe'}",2,2020-05-23
+123,bitcoin,sub,{'gp4cqe'},1,2020-05-23
+124,cryptocurrency,sub,{'gozoet'},1,2020-05-23
+125,crypto,use,{'gp62bk'},1,2020-05-23
+126,use,network,{'gp62bk'},1,2020-05-23
+127,use,currency,{'gp62bk'},1,2020-05-23
+128,code,use,{'gp62bk'},1,2020-05-23
+129,alternatives,use,{'gp4v6d'},1,2020-05-23
+131,crypto,account,{'gp1057'},1,2020-05-23
+132,https,account,{'gpbqeu'},1,2020-05-23
+133,com,account,{'gpbqeu'},1,2020-05-23
+134,account,amp,{'gp1057'},1,2020-05-23
+136,post,cryptocurrency post,"{'gp1lps', 'gp1l02'}",2,2020-05-23
+137,post,decentralized cryptocurrency,"{'gp1lps', 'gp1l02'}",2,2020-05-23
+138,post,era,"{'gp1lps', 'gp1l02'}",2,2020-05-23
+139,mochimo,post,"{'gp1lps', 'gp1l02'}",2,2020-05-23
+140,amp,coinbase,{'gpahzy'},1,2020-05-23
+141,coins,coinbase,{'gp5gdy'},1,2020-05-23
+142,sell,coinbase,{'gpahzy'},1,2020-05-23
+143,bank,coinbase,{'gpahzy'},1,2020-05-23
+144,transfer,coinbase,{'gpahzy'},1,2020-05-23
+145,network,stake,"{'gp7hn0', 'gp4396'}",2,2020-05-23
+146,network,rewards,"{'gp7hn0', 'gp4396'}",2,2020-05-23
+147,crypto,network,{'gp62bk'},1,2020-05-23
+148,people,network,{'gp4396'},1,2020-05-23
+149,ethereum,network,{'gp7hn0'},1,2020-05-23
+151,crypto,moon,{'gp8g1q'},1,2020-05-23
+152,cryptocurrency,moon,{'gp56c7'},1,2020-05-23
+153,moon,time,{'gp8g1q'},1,2020-05-23
+154,moon,sub,{'gp8g1q'},1,2020-05-23
+155,crypto,currency,{'gp62bk'},1,2020-05-23
+156,cryptocurrency,currency,{'gp228u'},1,2020-05-23
+157,currency,price,{'gp228u'},1,2020-05-23
+159,network,currency,{'gp62bk'},1,2020-05-23
+160,coins,crypto,"{'gp2a9d', 'gozoet'}",2,2020-05-23
+161,coins,bitcoin,{'gp2a9d'},1,2020-05-23
+162,coins,cryptocurrency,{'gozoet'},1,2020-05-23
+163,coins,price,{'gp2a9d'},1,2020-05-23
+164,coins,time,{'gp2a9d'},1,2020-05-23
+165,https,today,"{'goutsp', 'gp4ipj'}",2,2020-05-23
+166,com,today,"{'goutsp', 'gp4ipj'}",2,2020-05-23
+167,amp,today,{'gp4ipj'},1,2020-05-23
+168,today,www,{'goutsp'},1,2020-05-23
+169,today,https www,{'goutsp'},1,2020-05-23
+170,stablecoin,year,"{'gp1qbf', 'govnc4'}",2,2020-05-23
+171,bitcoin,year,{'gp63ay'},1,2020-05-23
+172,crypto,year,{'govnc4'},1,2020-05-23
+173,amp,year,{'gp1qbf'},1,2020-05-23
+174,information,year,{'govnc4'},1,2020-05-23
+175,https,project,"{'goutsp', 'gp69z0'}",2,2020-05-23
+176,com,project,"{'goutsp', 'gp69z0'}",2,2020-05-23
+179,project,project https,"{'goutsp', 'gp69z0'}",2,2020-05-23
+180,money,help,"{'gp69z0', 'gp4396'}",2,2020-05-23
+181,https,help,{'gp69z0'},1,2020-05-23
+182,com,help,{'gp69z0'},1,2020-05-23
+183,amp,help,{'gp69z0'},1,2020-05-23
+184,www,help,{'gp69z0'},1,2020-05-23
+185,transaction,digital,"{'gp228u', 'gp8684'}",2,2020-05-23
+186,xrp,digital,"{'gp228u', 'gp87lc'}",2,2020-05-23
+187,ripple,digital,"{'gp228u', 'gp87lc'}",2,2020-05-23
+188,digital,bitcoin,{'gp8684'},1,2020-05-23
+189,digital,cryptocurrency,{'gp228u'},1,2020-05-23
+191,times,block,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+192,block,fees,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+193,block,case,"{'gox12q', 'gp3pbn'}",2,2020-05-23
+194,block,power,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+195,times,bitcoin,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+197,times,fees,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+198,times,power,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+199,times,drop,"{'gp4s0z', 'gp037d'}",2,2020-05-23
+200,https,platform,{'gpbqeu'},1,2020-05-23
+201,com,platform,{'gpbqeu'},1,2020-05-23
+202,platform,www,{'gpbqeu'},1,2020-05-23
+203,platform,https www,{'gpbqeu'},1,2020-05-23
+204,people,platform,{'gpbqeu'},1,2020-05-23
+205,crypto,need,{'gp1057'},1,2020-05-23
+206,amp,need,{'gp1057'},1,2020-05-23
+207,information,need,{'gp1057'},1,2020-05-23
+208,need,time,{'gp1057'},1,2020-05-23
+209,money,need,{'gp1057'},1,2020-05-23
+211,buying,bitcoin,{'govhcp'},1,2020-05-23
+212,cryptocurrency,buying,{'gp8a4n'},1,2020-05-23
+213,com,buying,{'gp8a4n'},1,2020-05-23
+214,information,buying,{'gp8a4n'},1,2020-05-23
+216,community,rewards,"{'gp1qbf', 'gp56c7'}",2,2020-05-23
+217,community,bitcoin,{'gp4cqe'},1,2020-05-23
+218,community,cryptocurrency,{'gp56c7'},1,2020-05-23
+219,https,community,{'gp4cqe'},1,2020-05-23
+220,crypto,value,{'govpvk'},1,2020-05-23
+221,cryptocurrency,value,{'govpvk'},1,2020-05-23
+222,amp,value,{'gp1qbf'},1,2020-05-23
+223,ethereum,value,{'govpvk'},1,2020-05-23
+224,day,value,{'govpvk'},1,2020-05-23
+226,binance,crypto,{'gp8g1q'},1,2020-05-23
+227,binance,https,{'gpbqeu'},1,2020-05-23
+228,com,binance,{'gpbqeu'},1,2020-05-23
+229,binance,www,{'gpbqeu'},1,2020-05-23
+230,wallet,bitcoin,{'gp9ned'},1,2020-05-23
+231,https,wallet,{'goutsp'},1,2020-05-23
+232,com,wallet,{'goutsp'},1,2020-05-23
+233,wallet,www,{'goutsp'},1,2020-05-23
+234,wallet,https www,{'goutsp'},1,2020-05-23
+235,trading,bitcoin,{'goy017'},1,2020-05-23
+236,trading,https,{'gpbqeu'},1,2020-05-23
+237,com,trading,{'gpbqeu'},1,2020-05-23
+238,trading,www,{'gpbqeu'},1,2020-05-23
+239,trading,https www,{'gpbqeu'},1,2020-05-23
+241,fiat,transaction,"{'gp228u', 'gp1057'}",2,2020-05-23
+242,transaction,transactions,"{'gp228u', 'gp1057'}",2,2020-05-23
+243,send,transaction,"{'gp228u', 'gp1057'}",2,2020-05-23
+244,transaction,question,"{'gp228u', 'gp1057'}",2,2020-05-23
+245,ripple,xrp,"{'gp228u', 'gp87lc', 'govhcp'}",3,2020-05-23
+247,xrp,transactions,"{'gp228u', 'govhcp'}",2,2020-05-23
+248,xrp,brief,"{'gp228u', 'govhcp'}",2,2020-05-23
+249,xrp,bitcoin,{'govhcp'},1,2020-05-23

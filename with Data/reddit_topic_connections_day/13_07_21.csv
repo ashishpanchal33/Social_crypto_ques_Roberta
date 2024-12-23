@@ -1,0 +1,197 @@
+,token_1,token_2,connections,connections_strength,date
+0,com,https,"{'ojq8co', 'ojs3xv', 'ojmp5y', 'oj4o23'}",4,2021-07-13
+1,https,www,"{'ojq8co', 'ojs3xv', 'ojmp5y', 'oj4o23'}",4,2021-07-13
+2,https,https www,"{'ojs3xv', 'ojmp5y', 'oj4o23'}",3,2021-07-13
+3,https,reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+4,wallet,https,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+5,crypto,use,"{'oj4wcl', 'ojmp5y'}",2,2021-07-13
+6,use,people,"{'oj4wcl', 'ojmp5y'}",2,2021-07-13
+7,use,way,"{'oj4wcl', 'ojmp5y'}",2,2021-07-13
+8,view,use,"{'oj4wcl', 'ojmp5y'}",2,2021-07-13
+9,https,use,{'ojmp5y'},1,2021-07-13
+11,com,www,"{'ojq8co', 'ojs3xv', 'ojmp5y', 'oj4o23'}",4,2021-07-13
+12,com,https www,"{'ojs3xv', 'ojmp5y', 'oj4o23'}",3,2021-07-13
+13,com,reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+14,com,wallet,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+15,share,invest,{'ojma56'},1,2021-07-13
+16,invest,bitcoin,{'ojma56'},1,2021-07-13
+17,invest,time,{'ojma56'},1,2021-07-13
+18,invest,price,{'ojo8wo'},1,2021-07-13
+19,invest,buying,{'ojma56'},1,2021-07-13
+22,www,reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+23,reddit,https www,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+24,reddit com,reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+25,supply,wallet,"{'ojrrg9', 'ojq8co', 'ojs3xv'}",3,2021-07-13
+26,https,wallet,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+28,wallet,www,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+29,wallet,space,"{'ojrrg9', 'ojr3z0'}",2,2021-07-13
+30,share,month,"{'oj4wcl', 'ojma56'}",2,2021-07-13
+31,share,use,{'oj4wcl'},1,2021-07-13
+33,share,crypto,{'oj4wcl'},1,2021-07-13
+34,share,bitcoin,{'ojma56'},1,2021-07-13
+37,www,https www,"{'ojs3xv', 'ojmp5y', 'oj4o23'}",3,2021-07-13
+43,https www,reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+44,reddit com,https www,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+45,reddit com,https,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+46,com,reddit com,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+48,reddit com,www,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+50,crypto,way,"{'ojkp9l', 'oj4wcl', 'ojmp5y', 'oj3s0x'}",4,2021-07-13
+51,crypto,people,"{'oj4wcl', 'ojmp5y', 'oj3s0x'}",3,2021-07-13
+52,market,crypto,"{'ojh9en', 'ojmsa0', 'oj3s0x'}",3,2021-07-13
+53,crypto,coins,"{'oj4wcl', 'ojmsa0', 'oj3s0x'}",3,2021-07-13
+54,crypto,tech,"{'oj4wcl', 'oj3s0x', 'ojmsa0'}",3,2021-07-13
+55,trade,https,{'ojq8co'},1,2021-07-13
+56,com,trade,{'ojq8co'},1,2021-07-13
+57,trade,wallet,{'ojq8co'},1,2021-07-13
+58,trade,www,{'ojq8co'},1,2021-07-13
+59,trade,time,{'ojq8co'},1,2021-07-13
+60,https,www reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+61,com,www reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+62,www reddit,reddit,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+63,www reddit,www,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+64,www reddit,https www,"{'oj4o23', 'ojmp5y'}",2,2021-07-13
+65,btc,bitcoin,"{'ojbhml', 'ojgkni', 'oj5bf1'}",3,2021-07-13
+66,people,bitcoin,"{'ojivj0', 'oj3s0x'}",2,2021-07-13
+67,bitcoin,don,"{'ojivj0', 'oj3s0x'}",2,2021-07-13
+68,market,bitcoin,"{'ojgf2h', 'oj3s0x'}",2,2021-07-13
+69,bitcoin,time,"{'ojma56', 'ojh5o8'}",2,2021-07-13
+71,people,way,"{'oj4wcl', 'ojmp5y', 'oj3s0x'}",3,2021-07-13
+74,people,don,"{'ojivj0', 'oj3s0x'}",2,2021-07-13
+75,don,bitcoin,"{'ojivj0', 'oj3s0x'}",2,2021-07-13
+77,crypto,don,{'oj3s0x'},1,2021-07-13
+78,market,don,{'oj3s0x'},1,2021-07-13
+79,don,think,{'oj3s0x'},1,2021-07-13
+81,market,coins,"{'ojgf2h', 'oj3s0x', 'ojmsa0'}",3,2021-07-13
+83,market,think,"{'ojqelc', 'oj3s0x'}",2,2021-07-13
+84,market,thing,"{'ojs3xv', 'ojmsa0'}",2,2021-07-13
+85,crypto,money,{'ojkqok'},1,2021-07-13
+86,money,bitcoin,{'ojimat'},1,2021-07-13
+87,money,future,{'ojkqok'},1,2021-07-13
+88,money,currency,{'ojkqok'},1,2021-07-13
+89,money,digital,{'ojimat'},1,2021-07-13
+90,community,time,"{'ojq8co', 'ojmp5y', 'ojmsa0'}",3,2021-07-13
+91,time,token,"{'oji8dv', 'ojq8co', 'ojmsa0'}",3,2021-07-13
+92,https,time,"{'ojq8co', 'ojmp5y'}",2,2021-07-13
+93,com,time,"{'ojq8co', 'ojmp5y'}",2,2021-07-13
+94,www,time,"{'ojq8co', 'ojmp5y'}",2,2021-07-13
+95,crypto,think,"{'oj4wcl', 'oj3s0x'}",2,2021-07-13
+96,people,think,"{'oj4wcl', 'oj3s0x'}",2,2021-07-13
+98,think,way,"{'oj4wcl', 'oj3s0x'}",2,2021-07-13
+99,coins,think,"{'oj4wcl', 'oj3s0x'}",2,2021-07-13
+100,prediction,price,"{'ojec2t', 'ojdo6c', 'ojo8wo'}",3,2021-07-13
+101,price prediction,price,"{'ojec2t', 'ojdo6c', 'ojo8wo'}",3,2021-07-13
+102,prediction nan,price,"{'ojdo6c', 'ojo8wo'}",2,2021-07-13
+103,https,price,{'ojs3xv'},1,2021-07-13
+104,com,price,{'ojs3xv'},1,2021-07-13
+109,way,projects,"{'oj4wcl', 'ojp8hn'}",2,2021-07-13
+110,post,crypto,"{'ojmp5y', 'ojmsa0'}",2,2021-07-13
+111,post,time,"{'ojmp5y', 'ojmsa0'}",2,2021-07-13
+112,post,community,"{'ojmp5y', 'ojmsa0'}",2,2021-07-13
+113,post,https,{'ojmp5y'},1,2021-07-13
+114,post,use,{'ojmp5y'},1,2021-07-13
+115,trade,day,{'ojg0aa'},1,2021-07-13
+116,buying,day,{'ojnurj'},1,2021-07-13
+117,investors,day,{'ojnurj'},1,2021-07-13
+118,project,day,{'ojnurj'},1,2021-07-13
+119,week,day,{'ojnurj'},1,2021-07-13
+120,want,future,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+121,want,projects,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+122,want,coins,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+123,want,world,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+124,want,liquidity,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+125,crypto,future,"{'oj4wcl', 'ojkqok'}",2,2021-07-13
+127,future,projects,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+128,coins,future,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+129,world,future,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+130,https,hold,{'ojs3xv'},1,2021-07-13
+131,use,hold,{'oj4wcl'},1,2021-07-13
+132,com,hold,{'ojs3xv'},1,2021-07-13
+133,wallet,hold,{'ojs3xv'},1,2021-07-13
+134,share,hold,{'oj4wcl'},1,2021-07-13
+135,coins,projects,"{'oj4wcl', 'ojq8co', 'ojmsa0'}",3,2021-07-13
+136,projects,marketing,"{'oj4wcl', 'ojq8co', 'ojmsa0'}",3,2021-07-13
+137,crypto,projects,"{'oj4wcl', 'ojmsa0'}",2,2021-07-13
+138,time,projects,"{'ojq8co', 'ojmsa0'}",2,2021-07-13
+139,projects,way,"{'oj4wcl', 'ojp8hn'}",2,2021-07-13
+140,coins,crypto,"{'oj4wcl', 'ojmsa0', 'oj3s0x'}",3,2021-07-13
+143,coins,tech,"{'oj4wcl', 'oj3s0x', 'ojmsa0'}",3,2021-07-13
+144,coins,try,"{'oj4wcl', 'oj3s0x', 'ojmsa0'}",3,2021-07-13
+146,thing,projects,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+147,investors,thing,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+148,project,thing,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+149,right,thing,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+151,btc,btc nan,"{'ojg7de', 'ojgkni'}",2,2021-07-13
+152,wallet,btc,{'ojbhml'},1,2021-07-13
+153,btc,price,{'oj5bf1'},1,2021-07-13
+154,asset,btc,{'ojgkni'},1,2021-07-13
+155,worth,bitcoin,{'oj9z6x'},1,2021-07-13
+156,worth,polygon,{'ojbx74'},1,2021-07-13
+158,share,buying,{'ojma56'},1,2021-07-13
+159,buying,bitcoin,{'ojma56'},1,2021-07-13
+160,buying,time,{'ojma56'},1,2021-07-13
+164,world,projects,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+165,coins,world,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+166,world,liquidity,"{'oj4wcl', 'ojq8co'}",2,2021-07-13
+167,ethereum,eth,"{'ojokqz', 'oj9cjl', 'ojqjyd'}",3,2021-07-13
+168,chain,eth,"{'ojkp9l', 'oj9cjl'}",2,2021-07-13
+169,crypto,eth,{'ojkp9l'},1,2021-07-13
+170,eth,way,{'ojkp9l'},1,2021-07-13
+171,supply,eth,{'ojqjyd'},1,2021-07-13
+172,crypto,investment,{'ojr7a7'},1,2021-07-13
+173,investment,way,{'ojp8hn'},1,2021-07-13
+174,investment,projects,{'ojp8hn'},1,2021-07-13
+175,investment,thing,{'ojp8hn'},1,2021-07-13
+176,investors,investment,{'ojp8hn'},1,2021-07-13
+178,supply,https,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+179,com,supply,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+180,supply,www,"{'ojq8co', 'ojs3xv'}",2,2021-07-13
+181,supply,token,"{'ojrrg9', 'ojq8co'}",2,2021-07-13
+182,investors,project,"{'ojnurj', 'ojmsa0', 'ojp8hn'}",3,2021-07-13
+183,crypto,investors,"{'oj3s0x', 'ojmsa0'}",2,2021-07-13
+184,market,investors,"{'oj3s0x', 'ojmsa0'}",2,2021-07-13
+185,investors,way,"{'oj3s0x', 'ojp8hn'}",2,2021-07-13
+186,investors,projects,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+187,ll,think,"{'oj4wcl', 'ojqelc'}",2,2021-07-13
+188,use,ll,{'oj4wcl'},1,2021-07-13
+189,share,ll,{'oj4wcl'},1,2021-07-13
+190,crypto,ll,{'oj4wcl'},1,2021-07-13
+191,people,ll,{'oj4wcl'},1,2021-07-13
+192,crypto,news,{'ojh9en'},1,2021-07-13
+193,market,news,{'ojh9en'},1,2021-07-13
+194,news,price,{'ojdo6c'},1,2021-07-13
+195,ethereum,news,{'ojdo6c'},1,2021-07-13
+196,prediction,news,{'ojdo6c'},1,2021-07-13
+198,protocol,ethereum,"{'oj9cjl', 'ojfe6x'}",2,2021-07-13
+199,ethereum,polygon,"{'oj9cjl', 'ojfe6x'}",2,2021-07-13
+200,ethereum,mainnet,"{'oj9cjl', 'ojfe6x'}",2,2021-07-13
+201,xdai,ethereum,"{'oj9cjl', 'ojfe6x'}",2,2021-07-13
+203,future,space,{'ojblei'},1,2021-07-13
+204,supply,space,{'ojrrg9'},1,2021-07-13
+205,uses,space,{'ojrrg9'},1,2021-07-13
+206,token,space,{'ojrrg9'},1,2021-07-13
+207,project,investors,"{'ojnurj', 'ojmsa0', 'ojp8hn'}",3,2021-07-13
+208,project,projects,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+210,right,project,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+211,kind,project,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+214,tech,try,"{'oj4wcl', 'oj3s0x', 'ojmsa0'}",3,2021-07-13
+215,tech,people,"{'oj4wcl', 'oj3s0x'}",2,2021-07-13
+216,market,tech,"{'oj3s0x', 'ojmsa0'}",2,2021-07-13
+217,market,cap,"{'ojs3xv', 'ojgf2h'}",2,2021-07-13
+218,cap,market cap,"{'ojs3xv', 'ojgf2h'}",2,2021-07-13
+219,https,cap,{'ojs3xv'},1,2021-07-13
+220,com,cap,{'ojs3xv'},1,2021-07-13
+221,wallet,cap,{'ojs3xv'},1,2021-07-13
+222,uses,token,"{'ojrrg9', 'ojmsa0'}",2,2021-07-13
+223,look,uses,"{'ojrrg9', 'ojmsa0'}",2,2021-07-13
+224,wallet,uses,{'ojrrg9'},1,2021-07-13
+225,crypto,uses,{'ojmsa0'},1,2021-07-13
+226,market,uses,{'ojmsa0'},1,2021-07-13
+227,right,gpool,"{'ojqelc', 'ojmsa0', 'ojp8hn'}",3,2021-07-13
+228,market,right,"{'ojqelc', 'ojmsa0'}",2,2021-07-13
+229,right,projects,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+231,right,investors,"{'ojmsa0', 'ojp8hn'}",2,2021-07-13
+232,launch,guys,{'ojir0u'},1,2021-07-13
+234,https,community,"{'ojq8co', 'ojmp5y'}",2,2021-07-13
+235,com,community,"{'ojq8co', 'ojmp5y'}",2,2021-07-13
+236,community,www,"{'ojq8co', 'ojmp5y'}",2,2021-07-13
+237,crypto,community,"{'ojmp5y', 'ojmsa0'}",2,2021-07-13

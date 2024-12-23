@@ -1,0 +1,205 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'inbqfx', 'inap59'}",2,2020-09-05
+1,ve,bitcoin,"{'inaoo6', 'inasvu'}",2,2020-09-05
+2,bitcoin,way,"{'inaoo6', 'inasvu'}",2,2020-09-05
+3,world,bitcoin,"{'inaoo6', 'inasvu'}",2,2020-09-05
+4,isn,bitcoin,"{'in2ba4', 'inbqfx'}",2,2020-09-05
+5,com,https,"{'imwa0r', 'imz22c', 'in0q68'}",3,2020-09-05
+6,com,amp,"{'imwa0r', 'in0q68'}",2,2020-09-05
+7,com,market,"{'imwa0r', 'imz22c'}",2,2020-09-05
+8,com,day,"{'imwa0r', 'in0q68'}",2,2020-09-05
+9,com,app,"{'imwa0r', 'in0q68'}",2,2020-09-05
+10,crypto,amp,"{'ims3uw', 'imwa0r', 'inap59', 'imwcu6'}",4,2020-09-05
+11,amp,amp x200b,"{'imwa0r', 'imwcu6', 'inbse0', 'imz9p3'}",4,2020-09-05
+12,amp,x200b,"{'imwa0r', 'imwcu6', 'inbse0', 'imz9p3'}",4,2020-09-05
+13,exchange,amp,"{'in0q68', 'imz9p3', 'imwcu6'}",3,2020-09-05
+16,crypto,use,"{'imwa0r', 'in6pma', 'inbqfx', 'imu17q'}",4,2020-09-05
+17,crypto,day,"{'imwa0r', 'imvqub', 'imw8wn'}",3,2020-09-05
+18,crypto,app,"{'imwa0r', 'inbqfx', 'in246o'}",3,2020-09-05
+20,money,cryptocurrency,"{'in1blk', 'imrihs'}",2,2020-09-05
+21,cryptocurrency,don,"{'inbrgh', 'in1blk'}",2,2020-09-05
+22,cryptocurrency,buying,"{'in1blk', 'inbqfx'}",2,2020-09-05
+23,buying selling,cryptocurrency,"{'in1blk', 'inbqfx'}",2,2020-09-05
+24,selling cryptocurrency,cryptocurrency,"{'in1blk', 'inbqfx'}",2,2020-09-05
+26,https,amp,"{'imwa0r', 'in0q68'}",2,2020-09-05
+27,market,https,"{'imwa0r', 'imz22c'}",2,2020-09-05
+28,https,day,"{'imwa0r', 'in0q68'}",2,2020-09-05
+29,https,app,"{'imwa0r', 'in0q68'}",2,2020-09-05
+30,trade,amp,{'imz9p3'},1,2020-09-05
+31,trade,ethereum,{'in3gvs'},1,2020-09-05
+32,trade,use,{'imz9p3'},1,2020-09-05
+33,trade,exchange,{'imz9p3'},1,2020-09-05
+34,trade,need,{'imz9p3'},1,2020-09-05
+35,amp,price,"{'ims3uw', 'imwa0r'}",2,2020-09-05
+36,crypto,price,"{'ims3uw', 'imwa0r'}",2,2020-09-05
+37,btc,price,"{'imwa0r', 'in9sql'}",2,2020-09-05
+38,sell,price,"{'imwa0r', 'in9sql'}",2,2020-09-05
+39,government,price,"{'in9sql', 'in8qgz'}",2,2020-09-05
+40,com,blockchain,{'imz22c'},1,2020-09-05
+41,blockchain,amp,{'inbse0'},1,2020-09-05
+42,https,blockchain,{'imz22c'},1,2020-09-05
+43,blockchain,defi,{'inbse0'},1,2020-09-05
+44,blockchain,btc,{'inbse0'},1,2020-09-05
+45,amp,defi,"{'ims3uw', 'inbse0'}",2,2020-09-05
+46,crypto,defi,"{'ims3uw', 'imzn8u'}",2,2020-09-05
+47,defi,defi nan,"{'in739o', 'in8ho6'}",2,2020-09-05
+48,dapp,defi,"{'ims3uw', 'inbse0'}",2,2020-09-05
+49,defi,price,{'ims3uw'},1,2020-09-05
+51,finance,ethereum,{'imu2cz'},1,2020-09-05
+52,ethereum,vs,{'imrxv6'},1,2020-09-05
+53,looks,ethereum,{'in29t5'},1,2020-09-05
+54,chart,ethereum,{'in29t5'},1,2020-09-05
+55,amp,btc,"{'imwa0r', 'inbse0'}",2,2020-09-05
+57,btc,eth,"{'in9sql', 'inbse0'}",2,2020-09-05
+58,btc,amp x200b,"{'imwa0r', 'inbse0'}",2,2020-09-05
+59,btc,x200b,"{'imwa0r', 'inbse0'}",2,2020-09-05
+61,ve,way,"{'inaoo6', 'inasvu'}",2,2020-09-05
+62,ve,world,"{'inaoo6', 'inasvu'}",2,2020-09-05
+63,world nan,ve,"{'inaoo6', 'inasvu'}",2,2020-09-05
+64,ve,aside ve,"{'inaoo6', 'inasvu'}",2,2020-09-05
+65,time,bitcoin,{'in2zoh'},1,2020-09-05
+66,crypto,time,{'in246o'},1,2020-09-05
+67,defi,time,{'in8ffu'},1,2020-09-05
+68,exchange,time,{'in2zoh'},1,2020-09-05
+69,cryptocurrencies,time,{'in2zoh'},1,2020-09-05
+70,com,today,{'in0q68'},1,2020-09-05
+71,amp,today,{'in0q68'},1,2020-09-05
+72,today,cryptocurrency,{'imrihs'},1,2020-09-05
+73,https,today,{'in0q68'},1,2020-09-05
+74,money,today,{'imrihs'},1,2020-09-05
+77,market,sell,"{'imwa0r', 'imz22c'}",2,2020-09-05
+78,market,fear,"{'imwa0r', 'in69ac'}",2,2020-09-05
+79,sentiment,market,"{'imwa0r', 'in69ac'}",2,2020-09-05
+80,price,fees,{'in9sql'},1,2020-09-05
+81,btc,fees,{'in9sql'},1,2020-09-05
+82,coins,fees,{'in9sql'},1,2020-09-05
+83,eth,fees,{'in9sql'},1,2020-09-05
+84,days,fees,{'in9sql'},1,2020-09-05
+87,money,don,{'in1blk'},1,2020-09-05
+88,money,people,{'imrihs'},1,2020-09-05
+89,cryptocurrencies,money,{'imrihs'},1,2020-09-05
+91,ve,don,{'imt7il'},1,2020-09-05
+93,coins,don,{'imt7il'},1,2020-09-05
+94,worth,don,{'imt7il'},1,2020-09-05
+95,coins,price,{'in9sql'},1,2020-09-05
+96,coins,btc,{'in9sql'},1,2020-09-05
+97,coins,ve,{'imt7il'},1,2020-09-05
+100,trading,crypto,"{'ims3uw', 'inbqfx'}",2,2020-09-05
+101,trading,bitcoin,{'inbqfx'},1,2020-09-05
+102,trading,amp,{'ims3uw'},1,2020-09-05
+103,trading,cryptocurrency,{'inbqfx'},1,2020-09-05
+104,trading,price,{'ims3uw'},1,2020-09-05
+105,people,cryptocurrency,{'imrihs'},1,2020-09-05
+106,today,people,{'imrihs'},1,2020-09-05
+108,trading,people,{'in6l8m'},1,2020-09-05
+109,people,worth,{'in6l8m'},1,2020-09-05
+110,worth,question,"{'imt7il', 'in6l8m'}",2,2020-09-05
+111,reading,worth,"{'imt7il', 'in6l8m'}",2,2020-09-05
+112,ve,worth,{'imt7il'},1,2020-09-05
+114,coins,worth,{'imt7il'},1,2020-09-05
+116,use,amp,"{'imwa0r', 'imz9p3'}",2,2020-09-05
+117,use,need,"{'imz9p3', 'imu17q'}",2,2020-09-05
+118,use,app,"{'imwa0r', 'inbqfx'}",2,2020-09-05
+119,use,buying,"{'imwa0r', 'inbqfx'}",2,2020-09-05
+120,com,coin,{'in0q68'},1,2020-09-05
+121,coin,amp,{'in0q68'},1,2020-09-05
+122,coin,https,{'in0q68'},1,2020-09-05
+123,coin,ve,{'imt7il'},1,2020-09-05
+124,coin,today,{'in0q68'},1,2020-09-05
+126,cost,eth,"{'in75i6', 'in9sql'}",2,2020-09-05
+127,amp,eth,{'inbse0'},1,2020-09-05
+128,eth,price,{'in9sql'},1,2020-09-05
+129,blockchain,eth,{'inbse0'},1,2020-09-05
+131,exchange,need,"{'in2zoh', 'imz9p3'}",2,2020-09-05
+132,exchange,amp x200b,"{'imwcu6', 'imz9p3'}",2,2020-09-05
+133,exchange,x200b,"{'imwcu6', 'imz9p3'}",2,2020-09-05
+134,exchange,bitcoin,{'in2zoh'},1,2020-09-05
+137,world,way,"{'inaoo6', 'inasvu'}",2,2020-09-05
+138,world nan,way,"{'inaoo6', 'inasvu'}",2,2020-09-05
+139,way,aside ve,"{'inaoo6', 'inasvu'}",2,2020-09-05
+142,amp,day,"{'imwa0r', 'in0q68'}",2,2020-09-05
+144,day,app,"{'imwa0r', 'in0q68'}",2,2020-09-05
+145,days,price,{'in9sql'},1,2020-09-05
+146,days,btc,{'in9sql'},1,2020-09-05
+148,days,coins,{'in9sql'},1,2020-09-05
+149,days,eth,{'in9sql'},1,2020-09-05
+150,com,returns,{'imx3v3'},1,2020-09-05
+151,defi,returns,{'in4vcw'},1,2020-09-05
+152,finance,returns,{'imx3v3'},1,2020-09-05
+153,returns,offers,{'imx3v3'},1,2020-09-05
+155,cost,price,{'in9sql'},1,2020-09-05
+156,btc,cost,{'in9sql'},1,2020-09-05
+157,cost,fees,{'in9sql'},1,2020-09-05
+158,coins,cost,{'in9sql'},1,2020-09-05
+162,world nan,world,"{'inaoo6', 'inasvu'}",2,2020-09-05
+163,world,aside ve,"{'inaoo6', 'inasvu'}",2,2020-09-05
+164,cryptocurrencies,bitcoin,{'in2zoh'},1,2020-09-05
+165,cryptocurrencies,cryptocurrency,{'imrihs'},1,2020-09-05
+167,cryptocurrencies,today,{'imrihs'},1,2020-09-05
+169,amp,token,"{'ims3uw', 'in0q68'}",2,2020-09-05
+170,com,token,{'in0q68'},1,2020-09-05
+171,crypto,token,{'ims3uw'},1,2020-09-05
+172,https,token,{'in0q68'},1,2020-09-05
+173,token,price,{'ims3uw'},1,2020-09-05
+174,post,community,"{'in0q68', 'in8kpf'}",2,2020-09-05
+175,com,post,{'in0q68'},1,2020-09-05
+176,post,amp,{'in0q68'},1,2020-09-05
+177,post,https,{'in0q68'},1,2020-09-05
+178,post,today,{'in0q68'},1,2020-09-05
+179,start,bitcoin,{'inbqfx'},1,2020-09-05
+180,crypto,start,{'inbqfx'},1,2020-09-05
+181,cryptocurrency,start,{'inbqfx'},1,2020-09-05
+182,market,start,{'inah8u'},1,2020-09-05
+183,trading,start,{'inbqfx'},1,2020-09-05
+184,com,project,{'imz22c'},1,2020-09-05
+185,https,project,{'imz22c'},1,2020-09-05
+186,blockchain,project,{'imz22c'},1,2020-09-05
+187,market,project,{'imz22c'},1,2020-09-05
+188,users,project,{'imz22c'},1,2020-09-05
+189,com,users,{'imz22c'},1,2020-09-05
+190,users,amp,{'ims3uw'},1,2020-09-05
+191,users,crypto,{'ims3uw'},1,2020-09-05
+192,users,https,{'imz22c'},1,2020-09-05
+193,users,price,{'ims3uw'},1,2020-09-05
+195,com,community,{'in0q68'},1,2020-09-05
+196,community,amp,{'in0q68'},1,2020-09-05
+197,https,community,{'in0q68'},1,2020-09-05
+198,community,today,{'in0q68'},1,2020-09-05
+199,digital,china,"{'in4iew', 'in4hrq'}",2,2020-09-05
+200,dollar,digital,"{'in4iew', 'in4hrq'}",2,2020-09-05
+201,digital,treasury,"{'in4iew', 'in4hrq'}",2,2020-09-05
+202,holdings,digital,"{'in4iew', 'in4hrq'}",2,2020-09-05
+203,digital yuan,digital,"{'in4iew', 'in4hrq'}",2,2020-09-05
+206,need,bitcoin,{'in2zoh'},1,2020-09-05
+207,amp,need,{'imz9p3'},1,2020-09-05
+208,crypto,need,{'imu17q'},1,2020-09-05
+209,amp,data,"{'ims3uw', 'imz9p3'}",2,2020-09-05
+210,data,chain,"{'imybnt', 'inbi06'}",2,2020-09-05
+211,data,bitcoin,{'inbi06'},1,2020-09-05
+212,crypto,data,{'ims3uw'},1,2020-09-05
+213,trade,data,{'imz9p3'},1,2020-09-05
+216,amp,app,"{'imwa0r', 'in0q68'}",2,2020-09-05
+219,blockchain,source,{'in70nu'},1,2020-09-05
+220,code,source,{'in70nu'},1,2020-09-05
+221,addresses,source,{'in70nu'},1,2020-09-05
+222,source,nodes,{'in70nu'},1,2020-09-05
+223,source,good nan,{'in0d6l'},1,2020-09-05
+224,video,bitcoin,{'in8qgz'},1,2020-09-05
+225,video,price,{'in8qgz'},1,2020-09-05
+226,coin,video,{'in9coj'},1,2020-09-05
+227,banks,video,{'in8qgz'},1,2020-09-05
+228,fiat,video,{'in8qgz'},1,2020-09-05
+230,chain,bitcoin,{'inbi06'},1,2020-09-05
+231,block,chain,{'imybnt'},1,2020-09-05
+232,nodes,chain,{'imybnt'},1,2020-09-05
+233,asset,bitcoin,{'inasvu'},1,2020-09-05
+234,asset,price,{'in9sql'},1,2020-09-05
+235,asset,btc,{'in9sql'},1,2020-09-05
+236,asset,ve,{'inasvu'},1,2020-09-05
+237,asset,fees,{'in9sql'},1,2020-09-05
+238,com,finance,{'imx3v3'},1,2020-09-05
+239,finance,defi,{'in8ho6'},1,2020-09-05
+242,finance,hours,{'in3lrl'},1,2020-09-05
+243,crypto,buying,"{'imwa0r', 'inbqfx'}",2,2020-09-05
+246,buying,app,"{'imwa0r', 'inbqfx'}",2,2020-09-05
+247,sell,buying,"{'imwa0r', 'in1blk'}",2,2020-09-05

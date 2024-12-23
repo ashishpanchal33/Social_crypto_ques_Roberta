@@ -1,0 +1,220 @@
+,token_1,token_2,connections,connections_strength,date
+0,news,cryptocurrency,"{'bel5sk', 'belzhd', 'bels8d', 'beo1yn'}",4,2019-04-18
+1,crypto,cryptocurrency,"{'belzhd', 'behwj1', 'beo1yn'}",3,2019-04-18
+2,https,cryptocurrency,"{'bel5sk', 'belzhd'}",2,2019-04-18
+3,com,cryptocurrency,"{'bel5sk', 'belzhd'}",2,2019-04-18
+4,cryptocurrency,reddit,"{'bel5sk', 'beo1yn'}",2,2019-04-18
+5,crypto,https,"{'beph3u', 'belzhd', 'benapg', 'bemutt', 'berg5y'}",5,2019-04-18
+6,crypto,bitcoin,"{'beow5u', 'bejmmi', 'bemutt', 'befs7h'}",4,2019-04-18
+7,com,crypto,"{'belzhd', 'benapg', 'bemutt', 'berg5y'}",4,2019-04-18
+8,crypto,time,"{'beqcks', 'bejmmi', 'berxxd', 'bemutt'}",4,2019-04-18
+9,crypto,money,"{'beph3u', 'beilwt', 'beil3d', 'beo1yn'}",4,2019-04-18
+10,com,https,"{'beo4ei', 'belzhd', 'bel5sk', 'beoyp2', 'beini9', 'benapg', 'beo02u', 'begvdn', 'bel9ns', 'beo7ti', 'bemutt', 'bendyq', 'berg5y'}",13,2019-04-18
+11,https,www,"{'bel5sk', 'beini9', 'benapg', 'beo02u', 'begvdn', 'beo7ti', 'beo4zn', 'bemutt', 'bendyq', 'berg5y'}",10,2019-04-18
+12,https,https www,"{'bel5sk', 'beini9', 'benapg', 'beo02u', 'begvdn', 'beo7ti', 'beo4zn', 'bemutt', 'bendyq', 'berg5y'}",10,2019-04-18
+13,https,amp,"{'beo4ei', 'beini9', 'beo02u', 'bel9ns', 'bell71', 'bemutt', 'bendyq', 'begvdn'}",8,2019-04-18
+16,amp,bitcoin,"{'bej941', 'beltnd', 'beow5u', 'bemutt'}",4,2019-04-18
+17,btc,bitcoin,"{'belk0q', 'bejmmi', 'befs7h', 'beg7hr'}",4,2019-04-18
+18,news,bitcoin,"{'bels8d', 'beltnd', 'beji9t', 'bej941'}",4,2019-04-18
+19,trading,bitcoin,"{'belk0q', 'beji9t', 'bei0yp'}",3,2019-04-18
+21,com,www,"{'bel5sk', 'beini9', 'benapg', 'beo02u', 'begvdn', 'beo7ti', 'bejhp2', 'bemutt', 'beg388', 'bendyq', 'berg5y'}",11,2019-04-18
+22,com,https www,"{'bel5sk', 'beini9', 'benapg', 'beo02u', 'begvdn', 'beo7ti', 'bemutt', 'bendyq', 'berg5y'}",9,2019-04-18
+23,com,amp,"{'beo4ei', 'beini9', 'beo02u', 'bel9ns', 'bemutt', 'bendyq', 'begvdn'}",7,2019-04-18
+24,com,blockchain,"{'beoyp2', 'beini9', 'beo7ti', 'bejhp2', 'bemutt', 'bendyq'}",6,2019-04-18
+27,www,https www,"{'bel5sk', 'beini9', 'benapg', 'beo02u', 'begvdn', 'beo7ti', 'beo4zn', 'bemutt', 'bendyq', 'berg5y'}",10,2019-04-18
+28,blockchain,www,"{'beini9', 'beo7ti', 'bejhp2', 'bemutt', 'bendyq'}",5,2019-04-18
+29,amp,www,"{'beini9', 'beo02u', 'bemutt', 'bendyq', 'begvdn'}",5,2019-04-18
+33,amp,https www,"{'beini9', 'beo02u', 'bemutt', 'bendyq', 'begvdn'}",5,2019-04-18
+34,blockchain,https www,"{'beo7ti', 'beini9', 'bendyq', 'bemutt'}",4,2019-04-18
+35,trade,https,"{'beph3u', 'berhl0'}",2,2019-04-18
+36,trade,bitcoin,"{'bej941', 'beltnd'}",2,2019-04-18
+37,trade,april,"{'bej941', 'beltnd'}",2,2019-04-18
+38,trade,amp,"{'bej941', 'beltnd'}",2,2019-04-18
+39,trade,april 2019,"{'bej941', 'beltnd'}",2,2019-04-18
+40,https,comments,"{'beo4ei', 'bel9ns', 'bel5sk', 'beo02u'}",4,2019-04-18
+41,com,comments,"{'beo4ei', 'bel9ns', 'bel5sk', 'beo02u'}",4,2019-04-18
+42,comments,reddit,"{'beo4ei', 'bel5sk', 'beo02u'}",3,2019-04-18
+43,reddit com,comments,"{'beo4ei', 'bel5sk', 'beo02u'}",3,2019-04-18
+44,amp,comments,"{'beo4ei', 'bel9ns', 'beo02u'}",3,2019-04-18
+45,check,reddit,"{'beqcks', 'bendyq'}",2,2019-04-18
+46,check,info,"{'beqcks', 'bendyq'}",2,2019-04-18
+47,crypto,check,{'beqcks'},1,2019-04-18
+48,https,check,{'bendyq'},1,2019-04-18
+49,com,check,{'bendyq'},1,2019-04-18
+50,https,rest,"{'bel9ns', 'berg5y'}",2,2019-04-18
+51,com,rest,"{'bel9ns', 'berg5y'}",2,2019-04-18
+52,rest,app,"{'bel9ns', 'berg5y'}",2,2019-04-18
+53,rest,events,"{'bel9ns', 'berg5y'}",2,2019-04-18
+54,crypto,rest,{'berg5y'},1,2019-04-18
+55,https,reddit,"{'beo4ei', 'bel5sk', 'beo02u', 'bell71', 'bendyq'}",5,2019-04-18
+56,com,reddit,"{'beo4ei', 'bendyq', 'bel5sk', 'beo02u'}",4,2019-04-18
+57,reddit com,reddit,"{'beo4ei', 'bel5sk', 'bendyq', 'beo02u'}",4,2019-04-18
+58,amp,reddit,"{'beo4ei', 'bell71', 'bendyq', 'beo02u'}",4,2019-04-18
+59,www,reddit,"{'bel5sk', 'bendyq', 'beo02u'}",3,2019-04-18
+60,com,read,"{'beini9', 'bejhp2'}",2,2019-04-18
+61,www,read,"{'beini9', 'bejhp2'}",2,2019-04-18
+62,blockchain,read,"{'beini9', 'bejhp2'}",2,2019-04-18
+63,exchange,read,"{'beini9', 'bejhp2'}",2,2019-04-18
+64,https,read,{'beini9'},1,2019-04-18
+65,amp,april,"{'bej941', 'beltnd', 'bel9ns'}",3,2019-04-18
+66,april,bitcoin,"{'bej941', 'beltnd'}",2,2019-04-18
+67,com,april,"{'bel9ns', 'bejhp2'}",2,2019-04-18
+69,april 2019,april,"{'bej941', 'beltnd'}",2,2019-04-18
+70,reddit com,https,"{'beo4ei', 'bel5sk', 'bendyq', 'beo02u'}",4,2019-04-18
+71,com,reddit com,"{'beo4ei', 'bel5sk', 'bendyq', 'beo02u'}",4,2019-04-18
+73,reddit com,www,"{'bel5sk', 'bendyq', 'beo02u'}",3,2019-04-18
+74,reddit com,https www,"{'bel5sk', 'bendyq', 'beo02u'}",3,2019-04-18
+75,crypto,people,"{'beph3u', 'bemutt'}",2,2019-04-18
+76,https,people,"{'beph3u', 'bemutt'}",2,2019-04-18
+77,binance,people,"{'beph3u', 'belesq'}",2,2019-04-18
+78,people,millions,"{'beph3u', 'bemutt'}",2,2019-04-18
+79,people,bitcoin,{'bemutt'},1,2019-04-18
+81,https,blockchain,"{'beoyp2', 'beini9', 'beo7ti', 'bemutt', 'bendyq'}",5,2019-04-18
+84,blockchain,amp,"{'bejg90', 'bendyq', 'bemutt', 'beini9'}",4,2019-04-18
+85,rules,sub,"{'bemqgk', 'beo1yn'}",2,2019-04-18
+86,rules,cryptocurrency,{'beo1yn'},1,2019-04-18
+87,rules,crypto,{'beo1yn'},1,2019-04-18
+88,rules,reddit,{'beo1yn'},1,2019-04-18
+89,rules,money,{'beo1yn'},1,2019-04-18
+92,amp,network,"{'beo4ei', 'bep65v', 'bep1h1', 'beo02u', 'bel9ns', 'bell71', 'beqv82'}",7,2019-04-18
+93,amp,amp x200b,"{'beo4ei', 'beini9', 'beo02u', 'beraim', 'beow5u', 'begvdn'}",6,2019-04-18
+94,amp,x200b,"{'beo4ei', 'beini9', 'beo02u', 'beraim', 'beow5u', 'begvdn'}",6,2019-04-18
+95,cryptocurrency,sub,"{'bel5sk', 'beo1yn'}",2,2019-04-18
+96,sub,reddit,"{'bel5sk', 'beo1yn'}",2,2019-04-18
+98,news,sub,"{'bel5sk', 'beo1yn'}",2,2019-04-18
+99,crypto,sub,{'beo1yn'},1,2019-04-18
+101,time,token,"{'benrvv', 'bejhp2', 'bejav4', 'bendhp'}",4,2019-04-18
+102,https,time,"{'bell71', 'benrvv', 'bemutt'}",3,2019-04-18
+103,amp,time,"{'bell71', 'bemutt', 'bendhp'}",3,2019-04-18
+104,exchange,time,"{'benrvv', 'bejhp2', 'berxxd'}",3,2019-04-18
+106,money,start,"{'beilwt', 'beil3d'}",2,2019-04-18
+107,money,feel,"{'beilwt', 'beil3d'}",2,2019-04-18
+108,fiat,money,"{'beilwt', 'beil3d'}",2,2019-04-18
+109,money,plan,"{'beilwt', 'beil3d'}",2,2019-04-18
+110,https,www reddit,"{'bel5sk', 'beo02u'}",2,2019-04-18
+111,com,www reddit,"{'bel5sk', 'beo02u'}",2,2019-04-18
+112,www reddit,www,"{'bel5sk', 'beo02u'}",2,2019-04-18
+113,www reddit,https www,"{'bel5sk', 'beo02u'}",2,2019-04-18
+114,www reddit,comments,"{'bel5sk', 'beo02u'}",2,2019-04-18
+115,sources,crypto,"{'beqcks', 'beo1yn'}",2,2019-04-18
+116,sources,reddit,"{'beqcks', 'beo1yn'}",2,2019-04-18
+117,sources,news,"{'beqcks', 'beo1yn'}",2,2019-04-18
+118,sources,info,"{'beqcks', 'beo1yn'}",2,2019-04-18
+119,sources,crypto news,"{'beqcks', 'beo1yn'}",2,2019-04-18
+120,binance,today,"{'bejfqz', 'bei3ya', 'behep2'}",3,2019-04-18
+121,binance,chain,"{'bela2s', 'benrvv', 'beoner'}",3,2019-04-18
+122,binance,dex,"{'bejfqz', 'benrvv', 'behep2'}",3,2019-04-18
+123,binance,binance chain,"{'bela2s', 'benrvv', 'beoner'}",3,2019-04-18
+124,binance,https,"{'beph3u', 'benrvv'}",2,2019-04-18
+125,april 2019,bitcoin,"{'bej941', 'beltnd'}",2,2019-04-18
+128,amp,april 2019,"{'bej941', 'beltnd'}",2,2019-04-18
+129,april 2019,price,"{'bej941', 'beltnd'}",2,2019-04-18
+130,market,crypto,"{'beph3u', 'bejpun'}",2,2019-04-18
+131,market,token,"{'beph3u', 'bejhp2'}",2,2019-04-18
+132,market,exchanges,"{'beph3u', 'bejhp2'}",2,2019-04-18
+133,market,list,"{'beph3u', 'bejhp2'}",2,2019-04-18
+134,market,ico,"{'beph3u', 'bejhp2'}",2,2019-04-18
+135,crypto,need,{'beow5u'},1,2019-04-18
+136,need,bitcoin,{'beow5u'},1,2019-04-18
+137,people,need,{'belesq'},1,2019-04-18
+138,amp,need,{'beow5u'},1,2019-04-18
+139,binance,need,{'belesq'},1,2019-04-18
+140,crypto,don,"{'beow5u', 'beo1yn'}",2,2019-04-18
+141,https,don,"{'beo7ti', 'bell71'}",2,2019-04-18
+142,don,reddit,"{'bell71', 'beo1yn'}",2,2019-04-18
+143,amp,don,"{'bell71', 'beow5u'}",2,2019-04-18
+144,don,think,"{'beow5u', 'beo1yn'}",2,2019-04-18
+146,crypto,btc,"{'beol04', 'bejmmi', 'befs7h'}",3,2019-04-18
+147,https,btc,{'beo7ti'},1,2019-04-18
+148,com,btc,{'beo7ti'},1,2019-04-18
+149,btc,www,{'beo7ti'},1,2019-04-18
+150,crypto,way,"{'belzhd', 'beqcks', 'beol04'}",3,2019-04-18
+151,cryptocurrency,way,"{'beobjh', 'belzhd'}",2,2019-04-18
+152,https,way,"{'belzhd', 'bell71'}",2,2019-04-18
+153,way,reddit,"{'beqcks', 'bell71'}",2,2019-04-18
+154,time,way,"{'beqcks', 'bell71'}",2,2019-04-18
+155,crypto,start,"{'beilwt', 'beil3d'}",2,2019-04-18
+157,feel,start,"{'beilwt', 'beil3d'}",2,2019-04-18
+158,fiat,start,"{'beilwt', 'beil3d'}",2,2019-04-18
+159,start,plan,"{'beilwt', 'beil3d'}",2,2019-04-18
+160,exchange,crypto,"{'belzhd', 'bercep', 'ber8sm', 'berxxd'}",4,2019-04-18
+161,exchange,https,"{'belzhd', 'benrvv', 'beini9'}",3,2019-04-18
+162,com,exchange,"{'belzhd', 'beini9', 'bejhp2'}",3,2019-04-18
+164,trading,exchange,"{'belzhd', 'bercep', 'ber8sm'}",3,2019-04-18
+165,coin,crypto,"{'benii4', 'belzhd', 'beqcks', 'beraim'}",4,2019-04-18
+166,coin,https,"{'belzhd', 'bel9ns'}",2,2019-04-18
+167,com,coin,"{'belzhd', 'bel9ns'}",2,2019-04-18
+168,coin,amp,"{'bel9ns', 'beraim'}",2,2019-04-18
+169,coin,way,"{'belzhd', 'beqcks'}",2,2019-04-18
+170,crypto,year,{'berg5y'},1,2019-04-18
+171,https,year,{'berg5y'},1,2019-04-18
+172,bitcoin,year,{'bei0yp'},1,2019-04-18
+173,com,year,{'berg5y'},1,2019-04-18
+174,www,year,{'berg5y'},1,2019-04-18
+175,https,today,"{'bel9ns', 'beo7ti', 'berhl0'}",3,2019-04-18
+177,com,today,"{'bel9ns', 'beo7ti'}",2,2019-04-18
+178,blockchain,today,"{'beo7ti', 'bejfqz'}",2,2019-04-18
+179,today,launch,"{'bejfqz', 'behep2'}",2,2019-04-18
+180,crypto,think,"{'beow5u', 'beo1yn'}",2,2019-04-18
+182,investors,think,"{'benrvv', 'beo1yn'}",2,2019-04-18
+183,smart,think,"{'benrvv', 'beo1yn'}",2,2019-04-18
+184,ask,think,"{'beow5u', 'beo1yn'}",2,2019-04-18
+185,trading,crypto,"{'belzhd', 'bercep', 'ber8sm', 'bejpun'}",4,2019-04-18
+188,trading,news,"{'belzhd', 'beji9t'}",2,2019-04-18
+189,trading,issues,"{'bercep', 'ber8sm'}",2,2019-04-18
+190,post,https,"{'beo4ei', 'bel9ns', 'bemutt', 'beo02u'}",4,2019-04-18
+191,com,post,"{'beo4ei', 'bel9ns', 'bemutt', 'beo02u'}",4,2019-04-18
+192,post,amp,"{'beo4ei', 'bel9ns', 'bemutt', 'beo02u'}",4,2019-04-18
+193,post,comments,"{'beo4ei', 'bel9ns', 'beo02u'}",3,2019-04-18
+194,post,network,"{'beo4ei', 'bel9ns', 'beo02u'}",3,2019-04-18
+195,https,community,"{'beo4ei', 'bendyq', 'beph3u', 'beo02u'}",4,2019-04-18
+196,com,community,"{'beo4ei', 'bendyq', 'beo02u'}",3,2019-04-18
+197,community,reddit,"{'beo4ei', 'bendyq', 'beo02u'}",3,2019-04-18
+198,reddit com,community,"{'beo4ei', 'bendyq', 'beo02u'}",3,2019-04-18
+199,community,amp,"{'beo4ei', 'bendyq', 'beo02u'}",3,2019-04-18
+200,crypto,use,{'bejmmi'},1,2019-04-18
+201,https,use,{'beped9'},1,2019-04-18
+202,use,bitcoin,{'bejmmi'},1,2019-04-18
+203,use,time,{'bejmmi'},1,2019-04-18
+204,use,btc,{'bejmmi'},1,2019-04-18
+205,want,https,"{'belzhd', 'bell71', 'bel9ns'}",3,2019-04-18
+206,want,crypto,"{'belzhd', 'bejmmi'}",2,2019-04-18
+207,com,want,"{'belzhd', 'bel9ns'}",2,2019-04-18
+208,want,amp,"{'bel9ns', 'bell71'}",2,2019-04-18
+209,want,time,"{'bell71', 'bejmmi'}",2,2019-04-18
+210,https,project,"{'beo4ei', 'beo02u', 'bell71', 'benrvv', 'begvdn'}",5,2019-04-18
+211,amp,project,"{'beo4ei', 'bell71', 'beo02u', 'begvdn'}",4,2019-04-18
+212,com,project,"{'beo4ei', 'beo02u', 'begvdn'}",3,2019-04-18
+213,project,reddit,"{'beo4ei', 'bell71', 'beo02u'}",3,2019-04-18
+214,project,amp x200b,"{'beo4ei', 'beo02u', 'begvdn'}",3,2019-04-18
+215,bitcoin,price,"{'bels8d', 'beltnd', 'bej941'}",3,2019-04-18
+216,news,price,"{'bels8d', 'beltnd', 'bej941'}",3,2019-04-18
+217,trade,price,"{'bej941', 'beltnd'}",2,2019-04-18
+218,april,price,"{'bej941', 'beltnd'}",2,2019-04-18
+219,amp,price,"{'bej941', 'beltnd'}",2,2019-04-18
+220,crypto,wallet,{'bekqe0'},1,2019-04-18
+221,binance,wallet,{'beoner'},1,2019-04-18
+222,wallet,chain,{'beoner'},1,2019-04-18
+223,wallet,binance chain,{'beoner'},1,2019-04-18
+224,crypto,world,"{'behwj1', 'berg5y'}",2,2019-04-18
+225,platform,world,"{'behwj1', 'berg5y'}",2,2019-04-18
+226,world,media,"{'behwj1', 'berg5y'}",2,2019-04-18
+227,social media,world,"{'behwj1', 'berg5y'}",2,2019-04-18
+228,world,cryptocurrency,{'behwj1'},1,2019-04-18
+229,crypto,satoshi,{'beraim'},1,2019-04-18
+230,amp,satoshi,{'beraim'},1,2019-04-18
+231,coin,satoshi,{'beraim'},1,2019-04-18
+232,satoshi,amp x200b,{'beraim'},1,2019-04-18
+233,satoshi,x200b,{'beraim'},1,2019-04-18
+234,https,platform,"{'bell71', 'benrvv', 'bendyq', 'berg5y'}",4,2019-04-18
+235,crypto,platform,"{'behwj1', 'bem7ze', 'berg5y'}",3,2019-04-18
+236,com,platform,"{'bejhp2', 'bendyq', 'berg5y'}",3,2019-04-18
+237,platform,www,"{'bejhp2', 'bendyq', 'berg5y'}",3,2019-04-18
+238,blockchain,platform,"{'beru04', 'bejhp2', 'bendyq'}",3,2019-04-18
+240,amp x200b,x200b,"{'beo4ei', 'beini9', 'beo02u', 'beraim', 'beow5u', 'begvdn'}",6,2019-04-18
+241,https,x200b,"{'beo4ei', 'beini9', 'beo02u', 'begvdn'}",4,2019-04-18
+242,com,x200b,"{'beo4ei', 'beini9', 'beo02u', 'begvdn'}",4,2019-04-18
+243,www,x200b,"{'beini9', 'beo02u', 'begvdn'}",3,2019-04-18
+246,https,amp x200b,"{'beo4ei', 'beini9', 'beo02u', 'begvdn'}",4,2019-04-18
+247,com,amp x200b,"{'beo4ei', 'beini9', 'beo02u', 'begvdn'}",4,2019-04-18
+248,amp x200b,www,"{'beini9', 'beo02u', 'begvdn'}",3,2019-04-18

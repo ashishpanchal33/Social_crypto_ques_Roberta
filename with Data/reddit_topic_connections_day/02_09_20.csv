@@ -1,0 +1,206 @@
+,token_1,token_2,connections,connections_strength,date
+0,crypto,bitcoin,"{'ili3bc', 'il1lrt', 'ikwtuc', 'il2jci'}",4,2020-09-02
+1,ethereum,bitcoin,"{'il3k80', 'ilg4he', 'il455w', 'ikwicv'}",4,2020-09-02
+2,market,bitcoin,"{'ilg4he', 'ikwtuc', 'il2l45', 'ikwfov'}",4,2020-09-02
+3,bitcoin,bitcoin nan,"{'ilbaw4', 'ilimeb', 'il2ycy'}",3,2020-09-02
+4,bitcoin,price,"{'ilbk7c', 'ilbk0j'}",2,2020-09-02
+5,com,https,"{'il6clb', 'ilekqy'}",2,2020-09-02
+6,com,coin,"{'il6clb', 'ilekqy'}",2,2020-09-02
+7,com,crypto,{'ilekqy'},1,2020-09-02
+8,com,amp,{'il6clb'},1,2020-09-02
+9,trade,com,{'ilekqy'},1,2020-09-02
+10,crypto,space,"{'ile4sq', 'ikytqx', 'ikx91t', 'ili0z7', 'ilhzii'}",5,2020-09-02
+12,exchange,crypto,"{'ilh6xf', 'il4nv3', 'il5dii', 'ilekqy'}",4,2020-09-02
+13,crypto,wallet,"{'ilerq4', 'ilh6xf', 'ile4sq'}",3,2020-09-02
+14,capital,crypto,"{'ile4sq', 'ilhzii', 'ili0z7'}",3,2020-09-02
+15,crypto,amp,"{'ili3bc', 'ile4sq'}",2,2020-09-02
+16,wallet,amp,"{'il6clb', 'ile4sq'}",2,2020-09-02
+17,amp,exchanges,"{'ili3bc', 'il6clb'}",2,2020-09-02
+18,amp,hardware,"{'il6clb', 'ile4sq'}",2,2020-09-02
+19,amp,hardware wallet,"{'il6clb', 'ile4sq'}",2,2020-09-02
+20,trading,cryptocurrency,{'il59t7'},1,2020-09-02
+21,coinbase,cryptocurrency,{'il6pxg'},1,2020-09-02
+22,exchanges,cryptocurrency,{'il59t7'},1,2020-09-02
+23,cryptocurrency,korean,{'il59t7'},1,2020-09-02
+24,south,cryptocurrency,{'il59t7'},1,2020-09-02
+26,coin,https,"{'il6clb', 'ilekqy'}",2,2020-09-02
+27,crypto,https,{'ilekqy'},1,2020-09-02
+28,https,amp,{'il6clb'},1,2020-09-02
+29,trade,https,{'ilekqy'},1,2020-09-02
+30,trade,crypto,"{'ile4sq', 'ilekqy'}",2,2020-09-02
+31,trade,btc,"{'ikxgeu', 'ilekqy'}",2,2020-09-02
+32,trade,don,"{'ikxgeu', 'ile4sq'}",2,2020-09-02
+33,trade,times,"{'ikxgeu', 'ile4sq'}",2,2020-09-02
+34,com,trade,{'ilekqy'},1,2020-09-02
+36,eth,price,"{'il2fz4', 'ilaoz1'}",2,2020-09-02
+37,bitcoin price,price,"{'ilbk7c', 'ilbk0j'}",2,2020-09-02
+38,range,price,"{'ilbk7c', 'ilbk0j'}",2,2020-09-02
+39,bound,price,"{'ilbk7c', 'ilbk0j'}",2,2020-09-02
+41,ethereum,time,"{'ikytqx', 'il9lcy'}",2,2020-09-02
+42,ethereum,fees,"{'ikytqx', 'il9lcy'}",2,2020-09-02
+43,trading,ethereum,"{'il3k80', 'il8gkd'}",2,2020-09-02
+44,crypto,ethereum,{'ikytqx'},1,2020-09-02
+45,blockchain,cost,{'ikwbr5'},1,2020-09-02
+46,blockchain,news,{'ilezvd'},1,2020-09-02
+47,blockchain,work,{'ilezvd'},1,2020-09-02
+48,blockchain,million nan,{'ikwbr5'},1,2020-09-02
+49,crypto,longer,{'ikytqx'},1,2020-09-02
+50,ethereum,longer,{'ikytqx'},1,2020-09-02
+51,longer,time,{'ikytqx'},1,2020-09-02
+52,longer,fees,{'ikytqx'},1,2020-09-02
+53,longer,defi,{'ikytqx'},1,2020-09-02
+55,com,btc,{'ilekqy'},1,2020-09-02
+56,crypto,btc,{'ilekqy'},1,2020-09-02
+57,https,btc,{'ilekqy'},1,2020-09-02
+58,btc,time,{'ikxgeu'},1,2020-09-02
+59,effect,network,"{'il6clb', 'ikx91t'}",2,2020-09-02
+60,effect,token,"{'il6clb', 'ikx91t'}",2,2020-09-02
+61,effect,store,"{'il6clb', 'ikx91t'}",2,2020-09-02
+62,effect,play,"{'il6clb', 'ikx91t'}",2,2020-09-02
+63,effect,feedback,"{'il6clb', 'ikx91t'}",2,2020-09-02
+65,market,crypto,"{'ikwtuc', 'ilbsbz'}",2,2020-09-02
+66,market,cap,"{'ikwtuc', 'il2l45'}",2,2020-09-02
+67,market,record,"{'ilg4he', 'ikwfov'}",2,2020-09-02
+68,market,crypto market,"{'ikwtuc', 'ilbsbz'}",2,2020-09-02
+69,time,fees,"{'ikxgeu', 'ikytqx', 'il9lcy'}",3,2020-09-02
+70,months,time,"{'ikxgeu', 'ikytqx', 'ikx91t'}",3,2020-09-02
+71,crypto,time,"{'ikytqx', 'ikx91t'}",2,2020-09-02
+73,money,time,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+74,com,today,{'il6clb'},1,2020-09-02
+75,crypto,today,{'ilbsbz'},1,2020-09-02
+76,amp,today,{'il6clb'},1,2020-09-02
+77,https,today,{'il6clb'},1,2020-09-02
+78,effect,today,{'il6clb'},1,2020-09-02
+79,right,bitcoin,{'il2l45'},1,2020-09-02
+80,crypto,right,{'ile4sq'},1,2020-09-02
+81,right,amp,{'ile4sq'},1,2020-09-02
+82,trade,right,{'ile4sq'},1,2020-09-02
+83,right,ethereum,{'il8gkd'},1,2020-09-02
+84,trade,month,{'ikxgeu'},1,2020-09-02
+85,btc,month,{'ikxgeu'},1,2020-09-02
+86,time,month,{'ikxgeu'},1,2020-09-02
+87,money,month,{'ikxgeu'},1,2020-09-02
+88,month,fees,{'ikxgeu'},1,2020-09-02
+90,money,ve,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+91,money,months,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+92,money,thanks,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+93,understand,money,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+96,months,fees,"{'ikxgeu', 'ikytqx'}",2,2020-09-02
+97,crypto,fees,{'ikytqx'},1,2020-09-02
+98,trade,fees,{'ikxgeu'},1,2020-09-02
+99,welcome nan,welcome,"{'ikxqvj', 'ikwnu9'}",2,2020-09-02
+100,crypto,welcome,{'ikx91t'},1,2020-09-02
+101,effect,welcome,{'ikx91t'},1,2020-09-02
+102,time,welcome,{'ikx91t'},1,2020-09-02
+103,money,welcome,{'ikx91t'},1,2020-09-02
+104,defi,time,"{'ikytqx', 'ikxp4y'}",2,2020-09-02
+105,defi,uniswap,"{'ikzny3', 'il24or'}",2,2020-09-02
+106,defi,bitcoin,{'ilimeb'},1,2020-09-02
+107,crypto,defi,{'ikytqx'},1,2020-09-02
+108,ethereum,defi,{'ikytqx'},1,2020-09-02
+110,times,don,"{'ikxgeu', 'ile4sq'}",2,2020-09-02
+111,crypto,don,{'ile4sq'},1,2020-09-02
+112,amp,don,{'ile4sq'},1,2020-09-02
+113,btc,don,{'ikxgeu'},1,2020-09-02
+114,trading,bitcoin,"{'il3k80', 'il2jci'}",2,2020-09-02
+115,trading,crypto,"{'il2jci', 'il8iwz'}",2,2020-09-02
+117,trading,ve,"{'ikxgeu', 'il8gkd'}",2,2020-09-02
+118,trading,day,"{'ikxgeu', 'il8gkd'}",2,2020-09-02
+119,crypto,people,"{'ilh6xf', 'ikx91t'}",2,2020-09-02
+120,people,investment,"{'ilh6xf', 'ikx91t'}",2,2020-09-02
+121,people,store,"{'ilh6xf', 'ikx91t'}",2,2020-09-02
+122,effect,people,{'ikx91t'},1,2020-09-02
+123,people,time,{'ikx91t'},1,2020-09-02
+124,litecoin,premium,"{'il8pfv', 'il40nh'}",2,2020-09-02
+125,litecoin,bitcoin,{'il8pfv'},1,2020-09-02
+126,litecoin,price,{'il40nh'},1,2020-09-02
+127,litecoin,ethereum,{'il8gkd'},1,2020-09-02
+128,litecoin,right,{'il8gkd'},1,2020-09-02
+131,exchange,coin,"{'ilg8qu', 'ilekqy'}",2,2020-09-02
+132,coin,exchanges,"{'ilg8qu', 'il6clb'}",2,2020-09-02
+133,coin,app,"{'ilg8qu', 'il6clb'}",2,2020-09-02
+134,crypto,coinbase,"{'ilhzii', 'ili0z7'}",2,2020-09-02
+135,capital,coinbase,"{'ilhzii', 'ili0z7'}",2,2020-09-02
+136,coinbase,space,"{'ilhzii', 'ili0z7'}",2,2020-09-02
+137,momentum,coinbase,"{'ilhzii', 'ili0z7'}",2,2020-09-02
+138,joins,coinbase,"{'ilhzii', 'ili0z7'}",2,2020-09-02
+139,want,launch,"{'il6clb', 'il20s9'}",2,2020-09-02
+140,com,want,{'il6clb'},1,2020-09-02
+141,want,amp,{'il6clb'},1,2020-09-02
+142,want,https,{'il6clb'},1,2020-09-02
+143,effect,want,{'il6clb'},1,2020-09-02
+145,defi,bitcoin nan,{'ilimeb'},1,2020-09-02
+146,internet,bitcoin nan,{'ilbaw4'},1,2020-09-02
+147,bitcoin nan,usd,{'il2ycy'},1,2020-09-02
+149,eth,eth price,"{'il2fz4', 'ilaoz1'}",2,2020-09-02
+150,ethereum,eth,{'il2fz4'},1,2020-09-02
+151,eth,fees,{'ikxhpi'},1,2020-09-02
+152,break,eth,{'il2fz4'},1,2020-09-02
+153,network,value,"{'ikwfov', 'il1kns', 'ikx91t'}",3,2020-09-02
+154,network,bitcoin,"{'il1kns', 'ikwfov'}",2,2020-09-02
+156,network,token,"{'il6clb', 'ikx91t'}",2,2020-09-02
+157,network,privacy,"{'ikwga4', 'ildg9r'}",2,2020-09-02
+159,coin,exchange,"{'ilg8qu', 'ilekqy'}",2,2020-09-02
+160,exchange,exchanges,"{'ilh6xf', 'ilg8qu'}",2,2020-09-02
+161,exchange,app,"{'ilh6xf', 'ilg8qu'}",2,2020-09-02
+162,exchange,korean,"{'il5dii', 'il6yns'}",2,2020-09-02
+164,wallet,hardware,"{'ilerq4', 'il6clb', 'ile4sq'}",3,2020-09-02
+165,wallet,hardware wallet,"{'ilerq4', 'il6clb', 'ile4sq'}",3,2020-09-02
+167,wallet,exchanges,"{'ilh6xf', 'il6clb'}",2,2020-09-02
+168,btc,link,{'ilij91'},1,2020-09-02
+169,link,chainlink,{'ilij91'},1,2020-09-02
+170,ask,link,{'ilesib'},1,2020-09-02
+171,btc,chainlink,{'ilij91'},1,2020-09-02
+172,chainlink,link,{'ilij91'},1,2020-09-02
+173,protocol,chainlink,{'il4ps1'},1,2020-09-02
+174,ve,time,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+177,ve,day,"{'ikxgeu', 'il8gkd'}",2,2020-09-02
+178,ve,months,"{'ikxgeu', 'ikx91t'}",2,2020-09-02
+179,coins,ethereum,{'il8gkd'},1,2020-09-02
+180,coins,right,{'il8gkd'},1,2020-09-02
+181,coins,don,{'ikxucp'},1,2020-09-02
+182,trading,coins,{'il8gkd'},1,2020-09-02
+183,coins,people,{'ikxucp'},1,2020-09-02
+186,platforms,day,"{'ikxgeu', 'il6clb'}",2,2020-09-02
+187,orchid,day,"{'il6clb', 'il8gkd'}",2,2020-09-02
+188,com,day,{'il6clb'},1,2020-09-02
+191,token,store,"{'il6clb', 'ikx91t'}",2,2020-09-02
+192,play,token,"{'il6clb', 'ikx91t'}",2,2020-09-02
+193,feedback,token,"{'il6clb', 'ikx91t'}",2,2020-09-02
+194,days,time,"{'il9lcy', 'ikx91t'}",2,2020-09-02
+195,days,crypto,{'ikx91t'},1,2020-09-02
+196,days,ethereum,{'il9lcy'},1,2020-09-02
+197,effect,days,{'ikx91t'},1,2020-09-02
+198,days,money,{'ikx91t'},1,2020-09-02
+199,exchanges,app,"{'ilh6xf', 'ilg8qu', 'il6clb'}",3,2020-09-02
+200,crypto,exchanges,"{'ili3bc', 'ilh6xf'}",2,2020-09-02
+204,cost,bitcoin,{'il6m4t'},1,2020-09-02
+206,money,cost,{'il5kua'},1,2020-09-02
+207,internet,cost,{'il5kua'},1,2020-09-02
+208,cents,cost,{'il5kua'},1,2020-09-02
+209,internet,bitcoin,{'ilbaw4'},1,2020-09-02
+210,internet,money,{'il5kua'},1,2020-09-02
+213,cents,internet,{'il5kua'},1,2020-09-02
+214,com,post,{'il6clb'},1,2020-09-02
+215,post,amp,{'il6clb'},1,2020-09-02
+216,post,https,{'il6clb'},1,2020-09-02
+217,effect,post,{'il6clb'},1,2020-09-02
+218,post,today,{'il6clb'},1,2020-09-02
+219,company,start,{'il47fv'},1,2020-09-02
+220,coinmarketcap,start,{'il47fv'},1,2020-09-02
+221,cents,ethereum,{'il8gkd'},1,2020-09-02
+222,cents,right,{'il8gkd'},1,2020-09-02
+223,cents,money,{'il5kua'},1,2020-09-02
+224,trading,cents,{'il8gkd'},1,2020-09-02
+225,cents,litecoin,{'il8gkd'},1,2020-09-02
+229,wallet,app,"{'ilh6xf', 'il6clb'}",2,2020-09-02
+230,store,app,"{'ilh6xf', 'il6clb'}",2,2020-09-02
+231,com,news,{'il6clb'},1,2020-09-02
+232,amp,news,{'il6clb'},1,2020-09-02
+233,https,news,{'il6clb'},1,2020-09-02
+235,effect,news,{'il6clb'},1,2020-09-02
+236,bitcoin,year,"{'ikwicv', 'ikwtuc'}",2,2020-09-02
+237,year nan,year,"{'ikwicv', 'ikwtuc'}",2,2020-09-02
+238,crypto,year,{'ikwtuc'},1,2020-09-02
+239,ethereum,year,{'ikwicv'},1,2020-09-02
+240,market,year,{'ikwtuc'},1,2020-09-02
